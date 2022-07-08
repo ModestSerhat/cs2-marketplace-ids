@@ -1,4 +1,4 @@
-# Buff163 IDs
+# buff163 IDs
 
 Most CS:GO in-game items' goods IDs along with their names on the website Buff163, including the recent Antwerp 2022 and Recoil Case items can be found here.
 
