@@ -17707,6 +17707,7 @@
 871974;StatTrak™ AK-47 | Leet Museo (Battle-Scarred)
 871975;★ StatTrak™ Huntsman Knife | Black Laminate (Minimal Wear)
 871976;★ Shadow Daggers | Bright Water (Minimal Wear)
+871977;★ StatTrak™ Butterfly Knife | Autotronic (Field-Tested)
 871978;★ Huntsman Knife | Bright Water (Field-Tested)
 871979;★ Bowie Knife | Lore (Minimal Wear)
 871980;★ Bowie Knife | Freehand (Well-Worn)
@@ -17867,6 +17868,7 @@
 872182;★ StatTrak™ Falchion Knife | Black Laminate (Battle-Scarred)
 872184;★ Huntsman Knife | Bright Water (Battle-Scarred)
 872185;★ StatTrak™ Huntsman Knife | Bright Water (Well-Worn)
+872186;★ StatTrak™ Shadow Daggers | Lore (Factory New)
 872187;★ Huntsman Knife | Freehand (Battle-Scarred)
 872188;★ StatTrak™ Bowie Knife | Autotronic (Factory New)
 872463;★ StatTrak™ Falchion Knife | Bright Water (Minimal Wear)
@@ -17880,15 +17882,21 @@
 872575;★ StatTrak™ Bowie Knife | Freehand (Battle-Scarred)
 872576;★ StatTrak™ Butterfly Knife | Autotronic (Factory New)
 872577;★ StatTrak™ Shadow Daggers | Black Laminate (Factory New)
+872835;★ StatTrak™ Butterfly Knife | Freehand (Battle-Scarred)
 872836;★ StatTrak™ Huntsman Knife | Freehand (Battle-Scarred)
 872837;★ StatTrak™ Bowie Knife | Bright Water (Well-Worn)
+872838;★ StatTrak™ Shadow Daggers | Freehand (Well-Worn)
 873071;★ StatTrak™ Butterfly Knife | Freehand (Well-Worn)
+873072;★ StatTrak™ Falchion Knife | Gamma Doppler (Minimal Wear)
+873073;★ StatTrak™ Huntsman Knife | Autotronic (Well-Worn)
 873110;★ StatTrak™ Butterfly Knife | Autotronic (Well-Worn)
 873111;★ StatTrak™ Falchion Knife | Bright Water (Well-Worn)
 873610;★ StatTrak™ Huntsman Knife | Autotronic (Factory New)
+873616;★ StatTrak™ Bowie Knife | Freehand (Well-Worn)
 873650;StatTrak™ Music Kit | bbno$, u mad!
 873691;Souvenir AWP | Safari Mesh (Factory New)
 874483;★ StatTrak™ Shadow Daggers | Urban Masked (Factory New)
+875254;★ StatTrak™ Shadow Daggers | Autotronic (Well-Worn)
 875338;★ StatTrak™ Shadow Daggers | Bright Water (Well-Worn)
 875359;★ StatTrak™ Shadow Daggers | Bright Water (Battle-Scarred)
 875361;★ StatTrak™ Falchion Knife | Autotronic (Well-Worn)
@@ -18555,6 +18563,7 @@
 880199;Sticker | Mr. Chompy (Foil)
 880762;★ StatTrak™ Falchion Knife | Black Laminate (Factory New)
 882379;★ StatTrak™ Butterfly Knife | Lore (Factory New)
+883616;★ StatTrak™ Bowie Knife | Bright Water (Battle-Scarred)
 883678;★ StatTrak™ Paracord Knife | Night Stripe (Factory New)
 884110;★ StatTrak™ Huntsman Knife | Black Laminate (Factory New)
 886606;Dreams & Nightmares Case
@@ -19541,3 +19550,69 @@
 900665;StatTrak™ USP-S | Printstream (Factory New)
 900666;StatTrak™ P250 | Visions (Well-Worn)
 900677;StatTrak™ USP-S | Printstream (Battle-Scarred)
+903800;10 Year Birthday Sticker Capsule
+903802;Sticker | Beaky Decade
+903803;Sticker | Endless Cycle
+903804;Sticker | Rush More
+903805;Sticker | Press Start
+903806;Sticker | Baby Cerberus
+903807;Sticker | In The Fire (Foil)
+903808;Sticker | Zeusception (Holo)
+903810;Sticker | Baby Fire Serpent
+903811;Sticker | Romanov's Fire (Foil)
+903812;Sticker | Dragon's Keep
+903813;Sticker | Arms Race
+903814;Sticker | Dragon Tale
+903815;Sticker | Baby Lore
+903816;Sticker | Not For Resale
+903817;Sticker | This Is Fine (H)
+903818;Sticker | B-Day
+903819;Sticker | Zeused
+903820;Sticker | Save Me
+903821;Sticker | Noble Steed
+903822;Sticker | C-S On The Go
+903824;Sticker | Shifty Tactics
+903825;Sticker | Chicken Whisperer
+903826;Sticker | Go Boom (Glitter)
+903827;Sticker | Ace Clutch Co. (Holo)
+903828;Sticker | GO
+903829;Sticker | Vertigo's Hero (Holo)
+903830;Sticker | Laser Beam
+903831;Sticker | Baby Medusa
+903832;Sticker | Green's Problem
+903833;Sticker | Good Versus Evil
+903835;Sticker | Leaving The Station (Holo)
+903836;Sticker | Choose Wisely
+903838;Sticker | Kawaii CT (Holo)
+903839;Sticker | Booth
+903840;Sticker | Dreams And Mimics
+903841;Sticker | Kawaii T (Holo)
+903842;Sticker | Get Smoked (Holo)
+903843;Sticker | Blue Gem (Glitter)
+903844;Sticker | Call Your Flashes
+903846;Sticker | Clicking Heads
+903847;Sticker | Free Range
+903848;Sticker | Monster
+903849;Sticker | TV On Mirage
+903850;Sticker | Defuse It (Holo)
+903851;Sticker | Agent Select
+903852;Sticker | Exo Jumper
+903853;Sticker | Overpass Diorama (Foil)
+903854;Sticker | Conspiracy Club (Holo)
+903855;Sticker | Pain Train (Holo)
+903856;Sticker | Baby Howl
+903857;Sticker | Cursed Penmanship
+903858;Sticker | Good Sports
+903859;Sticker | Magic Rush Ball (Lenticular)
+903860;Sticker | Showdown (Foil)
+903861;Sticker | Approaching Site (Foil)
+903862;Sticker | Cbbl (Holo)
+903863;Sticker | Global TV (Lenticular)
+903866;Sticker | Freeze (Lenticular)
+903868;Sticker | Co Co Co
+903869;Sticker | DJ Safecracker (Lenticular)
+903871;Sticker | Pure Malt (Foil)
+903872;Sticker | Dust FA (Foil)
+903873;Sticker | Skin Lover (Lenticular)
+903874;Sticker | TV Installation (Lenticular)
+903877;Sticker | Ten Years (Foil)
