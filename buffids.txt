@@ -19616,3 +19616,19 @@
 903873;Sticker | Skin Lover (Lenticular)
 903874;Sticker | TV Installation (Lenticular)
 903877;Sticker | Ten Years (Foil)
+904200;Music Kit | Meechy Darko, Gothic Luxury
+904201;StatTrak™ Music Kit | Knock2, dashstar*
+904202;Music Kit | Knock2, dashstar*
+904203;Music Kit | Juelz, Shooters
+904204;Music Kit | Sullivan King, Lock Me Up
+904205;StatTrak™ Music Kit | 3kliksphilip, Heading for the Source
+904206;Initiators Music Kit Box
+904208;StatTrak™ Music Kit | Meechy Darko, Gothic Luxury
+904209;Music Kit | 3kliksphilip, Heading for the Source
+904210;Music Kit | Humanity's Last Breath, Void
+904212;StatTrak™ Music Kit | Sullivan King, Lock Me Up
+904213;StatTrak™ Music Kit | Humanity's Last Breath, Void
+904214;StatTrak™ Music Kit | Juelz, Shooters
+904215;StatTrak™ Initiators Music Kit Box
+905911;StatTrak™ Music Kit | Perfect World, 花脸 Hua Lian (Painted Face)
+905912;Music Kit | Perfect World, 花脸 Hua Lian (Painted Face)
