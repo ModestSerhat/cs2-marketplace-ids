@@ -20220,3 +20220,10 @@
 911845;Sticker | vexite (Gold) | Rio 2022
 911848;Sticker | saffee (Gold) | Rio 2022
 911861;Sticker | bLitz (Gold) | Rio 2022
+912894;Rio 2022 Inferno Souvenir Package
+912895;Rio 2022 Vertigo Souvenir Package
+912898;Rio 2022 Nuke Souvenir Package
+912912;Rio 2022 Mirage Souvenir Package
+912915;Rio 2022 Overpass Souvenir Package
+912923;Rio 2022 Dust II Souvenir Package
+913065;Rio 2022 Ancient Souvenir Package
