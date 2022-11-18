@@ -20227,3 +20227,24 @@
 912915;Rio 2022 Overpass Souvenir Package
 912923;Rio 2022 Dust II Souvenir Package
 913065;Rio 2022 Ancient Souvenir Package
+914070;Sticker | n0rb3r7 (Glitter, Champion) | Rio 2022
+914071;Sticker | qikert (Champion) | Rio 2022
+914072;Sticker | fame (Champion) | Rio 2022
+914073;Sticker | n0rb3r7 (Champion) | Rio 2022
+914075;Sticker | FL1T (Glitter, Champion) | Rio 2022
+914079;Sticker | qikert (Gold, Champion) | Rio 2022
+914082;Sticker | fame (Glitter, Champion) | Rio 2022
+914083;Sticker | FL1T (Champion) | Rio 2022
+914084;Sticker | Jame (Holo, Champion) | Rio 2022
+914085;Rio 2022 Champions Autograph Capsule
+914109;Sticker | Jame (Champion) | Rio 2022
+914110;Sticker | Jame (Glitter, Champion) | Rio 2022
+914111;Sticker | qikert (Glitter, Champion) | Rio 2022
+914112;Sticker | qikert (Holo, Champion) | Rio 2022
+914113;Sticker | n0rb3r7 (Gold, Champion) | Rio 2022
+914114;Sticker | fame (Holo, Champion) | Rio 2022
+914115;Sticker | fame (Gold, Champion) | Rio 2022
+914116;Sticker | n0rb3r7 (Holo, Champion) | Rio 2022
+914117;Sticker | FL1T (Holo, Champion) | Rio 2022
+914119;Sticker | FL1T (Gold, Champion) | Rio 2022
+914120;Sticker | Jame (Gold, Champion) | Rio 2022
