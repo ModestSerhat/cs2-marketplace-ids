@@ -455,6 +455,7 @@
 34277;CZ75-Auto | Army Sheen (Field-Tested)
 34278;CZ75-Auto | Army Sheen (Minimal Wear)
 34279;CZ75-Auto | Chalice (Factory New)
+34280;CZ75-Auto | Chalice (Minimal Wear)
 34281;CZ75-Auto | Crimson Web (Battle-Scarred)
 34282;CZ75-Auto | Crimson Web (Factory New)
 34283;CZ75-Auto | Crimson Web (Field-Tested)
@@ -1870,6 +1871,7 @@
 35704;MP9 | Storm (Well-Worn)
 35705;Militia Pin
 35706;Mirage Pin
+35707;Music Kit | AWOLNATION, I Am
 35708;Music Kit | Austin Wintory, Desert Fire
 35709;Music Kit | Beartooth, Disgusting
 35710;Music Kit | Damjan Mravunac, The Talos Principle
@@ -1883,10 +1885,14 @@
 35718;Music Kit | Kelly Bailey, Hazardous Environments
 35719;Music Kit | Ki:Theory, MOLOTOV
 35720;Music Kit | Lennie Moore, Java Havana Funkaloo
+35721;Music Kit | Mateo Messina, For No Mankind
 35722;Music Kit | Matt Lange, IsoRhythm
 35723;Music Kit | Michael Bross, Invasion!
 35724;Music Kit | Midnight Riders, All I Want for Christmas
+35725;Music Kit | Mord Fustang, Diamonds
+35726;Music Kit | New Beat Fund, Sponge Fingerz
 35727;Music Kit | Noisia, Sharpened
+35728;Music Kit | Proxy, Battlepack
 35729;Music Kit | Robert Allaire, Insurgency
 35730;Music Kit | Sasha, LNOE
 35731;Music Kit | Sean Murray, A*D*8
@@ -5225,6 +5231,7 @@
 39083;StatTrak™ Music Kit | Austin Wintory, Desert Fire
 39084;StatTrak™ Music Kit | Beartooth, Aggressive
 39085;StatTrak™ Music Kit | Beartooth, Disgusting
+39086;StatTrak™ Music Kit | Blitz Kids, The Good Youth
 39087;StatTrak™ Music Kit | Damjan Mravunac, The Talos Principle
 39088;StatTrak™ Music Kit | Daniel Sadowski, Crimson Assault
 39089;StatTrak™ Music Kit | Daniel Sadowski, The 8-Bit Kit
@@ -5232,6 +5239,7 @@
 39091;StatTrak™ Music Kit | Darude, Moments CSGO
 39092;StatTrak™ Music Kit | Dren, Death's Head Demolition
 39093;StatTrak™ Music Kit | Feed Me, High Noon
+39094;StatTrak™ Music Kit | Hundredth, FREE
 39095;StatTrak™ Music Kit | Ian Hultquist, Lion's Mouth
 39096;StatTrak™ Music Kit | Kelly Bailey, Hazardous Environments
 39097;StatTrak™ Music Kit | Ki:Theory, MOLOTOV
@@ -5241,13 +5249,16 @@
 39101;StatTrak™ Music Kit | Michael Bross, Invasion!
 39102;StatTrak™ Music Kit | Midnight Riders, All I Want for Christmas
 39103;StatTrak™ Music Kit | Mord Fustang, Diamonds
+39104;StatTrak™ Music Kit | Neck Deep, Life's Not Out To Get You
 39105;StatTrak™ Music Kit | New Beat Fund, Sponge Fingerz
+39106;StatTrak™ Music Kit | Noisia, Sharpened
 39107;StatTrak™ Music Kit | Proxy, Battlepack
 39108;StatTrak™ Music Kit | Roam, Backbone
 39109;StatTrak™ Music Kit | Robert Allaire, Insurgency
 39110;StatTrak™ Music Kit | Sasha, LNOE
 39111;StatTrak™ Music Kit | Sean Murray, A*D*8
 39112;StatTrak™ Music Kit | Skog, II-Headshot
+39113;StatTrak™ Music Kit | Skog, III-Arena
 39114;StatTrak™ Music Kit | Skog, Metal
 39115;StatTrak™ Music Kit | Troels Folmann, Uber Blasto Phone
 39116;StatTrak™ Music Kit | Twin Atlantic, GLA
@@ -6449,6 +6460,7 @@
 40321;Sticker | Hiko | MLG Columbus 2016
 40322;Sticker | Hippocamp
 40323;Sticker | Hippocamp (Holo)
+40324;Sticker | Ho Ho Ho
 40325;Sticker | Hobbit (Foil) | Atlanta 2017
 40326;Sticker | Hobbit (Foil) | Boston 2018
 40327;Sticker | Hobbit (Foil) | Krakow 2017
@@ -6727,6 +6739,7 @@
 40606;Sticker | NiKo | MLG Columbus 2016
 40607;Sticker | Nice Shot
 40608;Sticker | Nifty (Foil) | Boston 2018
+40609;Sticker | Nifty (Gold) | Boston 2018
 40610;Sticker | Nifty | Boston 2018
 40611;Sticker | Ninja Defuse
 40612;Sticker | Ninjas in Pyjamas  | Katowice 2015
@@ -8956,6 +8969,7 @@
 42845;★ Gut Knife | Rust Coat (Battle-Scarred)
 42846;★ Gut Knife | Rust Coat (Well-Worn)
 42847;★ Gut Knife | Safari Mesh (Battle-Scarred)
+42848;★ Gut Knife | Safari Mesh (Factory New)
 42849;★ Gut Knife | Safari Mesh (Field-Tested)
 42850;★ Gut Knife | Safari Mesh (Minimal Wear)
 42851;★ Gut Knife | Safari Mesh (Well-Worn)
@@ -9488,10 +9502,13 @@
 43382;★ StatTrak™ Bowie Knife | Ultraviolet (Minimal Wear)
 43383;★ StatTrak™ Bowie Knife | Ultraviolet (Well-Worn)
 43384;★ StatTrak™ Bowie Knife | Urban Masked (Battle-Scarred)
+43385;★ StatTrak™ Bowie Knife | Urban Masked (Factory New)
 43386;★ StatTrak™ Bowie Knife | Urban Masked (Field-Tested)
 43387;★ StatTrak™ Bowie Knife | Urban Masked (Minimal Wear)
+43388;★ StatTrak™ Bowie Knife | Urban Masked (Well-Worn) 
 43389;★ StatTrak™ Butterfly Knife
 43390;★ StatTrak™ Butterfly Knife | Blue Steel (Battle-Scarred)
+43391;★ StatTrak™ Butterfly Knife | Blue Steel (Factory New)
 43392;★ StatTrak™ Butterfly Knife | Blue Steel (Field-Tested)
 43393;★ StatTrak™ Butterfly Knife | Blue Steel (Minimal Wear)
 43394;★ StatTrak™ Butterfly Knife | Blue Steel (Well-Worn)
@@ -9649,6 +9666,7 @@
 43550;★ StatTrak™ Flip Knife | Safari Mesh (Battle-Scarred)
 43551;★ StatTrak™ Flip Knife | Safari Mesh (Field-Tested)
 43552;★ StatTrak™ Flip Knife | Safari Mesh (Minimal Wear)
+43553;★ StatTrak™ Flip Knife | Safari Mesh (Well-Worn)
 43554;★ StatTrak™ Flip Knife | Scorched (Battle-Scarred)
 43555;★ StatTrak™ Flip Knife | Scorched (Field-Tested)
 43556;★ StatTrak™ Flip Knife | Scorched (Minimal Wear)
@@ -9668,6 +9686,7 @@
 43571;★ StatTrak™ Flip Knife | Urban Masked (Battle-Scarred)
 43572;★ StatTrak™ Flip Knife | Urban Masked (Field-Tested)
 43573;★ StatTrak™ Flip Knife | Urban Masked (Minimal Wear)
+43574;★ StatTrak™ Flip Knife | Urban Masked (Well-Worn)
 43575;★ StatTrak™ Gut Knife
 43576;★ StatTrak™ Gut Knife | Autotronic (Battle-Scarred)
 43577;★ StatTrak™ Gut Knife | Autotronic (Factory New)
@@ -9706,6 +9725,7 @@
 43610;★ StatTrak™ Gut Knife | Forest DDPAT (Battle-Scarred)
 43611;★ StatTrak™ Gut Knife | Forest DDPAT (Field-Tested)
 43612;★ StatTrak™ Gut Knife | Forest DDPAT (Minimal Wear)
+43613;★ StatTrak™ Gut Knife | Forest DDPAT (Well-Worn
 43614;★ StatTrak™ Gut Knife | Freehand (Factory New)
 43615;★ StatTrak™ Gut Knife | Freehand (Field-Tested)
 43616;★ StatTrak™ Gut Knife | Freehand (Minimal Wear)
@@ -9757,7 +9777,9 @@
 43665;★ StatTrak™ Huntsman Knife | Damascus Steel (Field-Tested)
 43666;★ StatTrak™ Huntsman Knife | Damascus Steel (Minimal Wear)
 43667;★ StatTrak™ Huntsman Knife | Doppler (Factory New)
+43668;★ StatTrak™ Huntsman Knife | Doppler (Minimal Wear)
 43669;★ StatTrak™ Huntsman Knife | Fade (Factory New)
+43670;★ StatTrak™ Huntsman Knife | Fade (Minimal Wear)
 43671;★ StatTrak™ Huntsman Knife | Forest DDPAT (Battle-Scarred)
 43672;★ StatTrak™ Huntsman Knife | Forest DDPAT (Field-Tested)
 43674;★ StatTrak™ Huntsman Knife | Marble Fade (Factory New)
@@ -9782,8 +9804,10 @@
 43694;★ StatTrak™ Huntsman Knife | Tiger Tooth (Factory New)
 43695;★ StatTrak™ Huntsman Knife | Ultraviolet (Field-Tested)
 43696;★ StatTrak™ Huntsman Knife | Ultraviolet (Well-Worn)
+43697;★ StatTrak™ Huntsman Knife | Urban Masked (Battle-Scarred)
 43698;★ StatTrak™ Huntsman Knife | Urban Masked (Field-Tested)
 43699;★ StatTrak™ Huntsman Knife | Urban Masked (Minimal Wear)
+43700;★ StatTrak™ Huntsman Knife | Urban Masked (Well-Worn)
 43701;★ StatTrak™ Karambit
 43702;★ StatTrak™ Karambit | Autotronic (Battle-Scarred)
 43703;★ StatTrak™ Karambit | Autotronic (Field-Tested)
@@ -9836,6 +9860,8 @@
 43751;★ StatTrak™ Karambit | Safari Mesh (Battle-Scarred)
 43752;★ StatTrak™ Karambit | Safari Mesh (Field-Tested)
 43753;★ StatTrak™ Karambit | Safari Mesh (Minimal Wear)
+43754;★ StatTrak™ Karambit | Safari Mesh (Well-Worn)
+43755;★ StatTrak™ Karambit | Scorched (Battle-Scarred)
 43756;★ StatTrak™ Karambit | Scorched (Field-Tested)
 43757;★ StatTrak™ Karambit | Scorched (Minimal Wear)
 43758;★ StatTrak™ Karambit | Slaughter (Factory New)
@@ -9849,6 +9875,7 @@
 43767;★ StatTrak™ Karambit | Ultraviolet (Battle-Scarred)
 43768;★ StatTrak™ Karambit | Ultraviolet (Field-Tested)
 43769;★ StatTrak™ Karambit | Ultraviolet (Minimal Wear)
+43770;★ StatTrak™ Karambit | Ultraviolet (Well-Worn)
 43771;★ StatTrak™ Karambit | Urban Masked (Battle-Scarred)
 43772;★ StatTrak™ Karambit | Urban Masked (Field-Tested)
 43773;★ StatTrak™ Karambit | Urban Masked (Minimal Wear)
@@ -9872,6 +9899,7 @@
 43791;★ StatTrak™ M9 Bayonet | Bright Water (Minimal Wear)
 43792;★ StatTrak™ M9 Bayonet | Bright Water (Well-Worn)
 43793;★ StatTrak™ M9 Bayonet | Case Hardened (Field-Tested)
+43794;★ StatTrak™ M9 Bayonet | Case Hardened (Minimal Wear)
 43795;★ StatTrak™ M9 Bayonet | Case Hardened (Well-Worn)
 43796;★ StatTrak™ M9 Bayonet | Crimson Web (Field-Tested)
 43797;★ StatTrak™ M9 Bayonet | Crimson Web (Well-Worn)
@@ -9898,6 +9926,7 @@
 43819;★ StatTrak™ M9 Bayonet | Marble Fade (Minimal Wear)
 43820;★ StatTrak™ M9 Bayonet | Night (Battle-Scarred)
 43821;★ StatTrak™ M9 Bayonet | Night (Field-Tested)
+43822;★ StatTrak™ M9 Bayonet | Night (Minimal Wear)
 43823;★ StatTrak™ M9 Bayonet | Night (Well-Worn)
 43824;★ StatTrak™ M9 Bayonet | Rust Coat (Battle-Scarred)
 43825;★ StatTrak™ M9 Bayonet | Safari Mesh (Battle-Scarred)
@@ -9910,6 +9939,7 @@
 43832;★ StatTrak™ M9 Bayonet | Slaughter (Factory New)
 43833;★ StatTrak™ M9 Bayonet | Slaughter (Field-Tested)
 43834;★ StatTrak™ M9 Bayonet | Slaughter (Minimal Wear)
+43835;★ StatTrak™ M9 Bayonet | Stained (Factory New)
 43836;★ StatTrak™ M9 Bayonet | Stained (Field-Tested)
 43837;★ StatTrak™ M9 Bayonet | Stained (Minimal Wear)
 43838;★ StatTrak™ M9 Bayonet | Stained (Well-Worn)
@@ -9970,6 +10000,7 @@
 43896;★ StatTrak™ Shadow Daggers | Urban Masked (Battle-Scarred)
 43897;★ StatTrak™ Shadow Daggers | Urban Masked (Field-Tested)
 43898;★ StatTrak™ Shadow Daggers | Urban Masked (Minimal Wear)
+43899;★ StatTrak™ Shadow Daggers | Urban Masked (Well-Worn)
 43908;Souvenir M249 | Gator Mesh (Well-Worn)
 43909;Souvenir MAG-7 | Bulldozer (Factory New)
 43910;Souvenir PP-Bizon | Irradiated Alert (Factory New)
@@ -10040,6 +10071,7 @@
 43976;★ StatTrak™ Gut Knife | Boreal Forest (Battle-Scarred)
 43977;★ StatTrak™ Gut Knife | Bright Water (Field-Tested)
 43978;★ StatTrak™ Gut Knife | Gamma Doppler (Minimal Wear)
+43979;★ StatTrak™ Gut Knife | Safari Mesh (Battle-Scarred)
 43980;★ StatTrak™ Gut Knife | Urban Masked (Battle-Scarred)
 43981;★ StatTrak™ Huntsman Knife | Rust Coat (Well-Worn)
 43982;★ StatTrak™ Huntsman Knife | Ultraviolet (Minimal Wear)
@@ -10086,6 +10118,7 @@
 44060;AWP | Dragon Lore (Factory New)
 44061;StatTrak™ AWP | Oni Taiji (Well-Worn)
 44066;★ Huntsman Knife | Rust Coat (Well-Worn)
+44070;★ StatTrak™ Gut Knife | Urban Masked (Well-Worn)
 44071;★ StatTrak™ Shadow Daggers | Safari Mesh (Well-Worn)
 44156;★ StatTrak™ Falchion Knife | Marble Fade (Minimal Wear)
 44157;★ StatTrak™ Gut Knife | Lore (Well-Worn)
@@ -10109,6 +10142,7 @@
 44521;★ StatTrak™ Falchion Knife | Ultraviolet (Battle-Scarred)
 44522;★ StatTrak™ Karambit | Bright Water (Well-Worn)
 44536;★ StatTrak™ Bowie Knife | Forest DDPAT (Well-Worn)
+44537;★ StatTrak™ Huntsman Knife | Night (Well-Worn)
 44542;★ StatTrak™ Butterfly Knife | Scorched (Battle-Scarred)
 44543;★ StatTrak™ Falchion Knife | Tiger Tooth (Minimal Wear)
 44549;★ StatTrak™ Falchion Knife | Damascus Steel (Battle-Scarred)
@@ -10136,12 +10170,14 @@
 45124;★ StatTrak™ Butterfly Knife | Tiger Tooth (Minimal Wear)
 45125;★ StatTrak™ Flip Knife | Rust Coat (Well-Worn)
 45132;★ StatTrak™ Bayonet | Scorched (Well-Worn)
+45133;★ StatTrak™ M9 Bayonet | Case Hardened (Factory New)
 45158;MP9 | Bulldozer (Factory New)
 45191;★ StatTrak™ Gut Knife | Rust Coat (Well-Worn)
 45195;★ StatTrak™ Bowie Knife | Safari Mesh (Battle-Scarred)
 45197;★ Butterfly Knife | Night (Factory New)
 45224;★ M9 Bayonet | Boreal Forest (Factory New)
 45225;★ Shadow Daggers | Boreal Forest (Factory New)
+45229;★ StatTrak™ Huntsman Knife | Tiger Tooth (Minimal Wear)
 45237;Clutch Case
 45240;Sticker | Friendly Fire (Holo)
 45245;AUG | Stymphalian (Factory New)
@@ -10445,6 +10481,7 @@
 45656;★ Driver Gloves | Imperial Plaid (Well-Worn)
 45657;★ Driver Gloves | Lunar Weave (Factory New)
 45658;★ Driver Gloves | Overtake (Battle-Scarred)
+45666;★ StatTrak™ Bowie Knife | Damascus Steel (Battle-Scarred)
 45670;★ StatTrak™ M9 Bayonet | Crimson Web (Battle-Scarred)
 422384;StatTrak™ AWP | Mortis (Well-Worn)
 422813;★ Hand Wraps | Cobalt Skulls (Minimal Wear)
@@ -10487,6 +10524,7 @@
 755720;★ Gut Knife | Night (Factory New)
 755721;★ StatTrak™ Butterfly Knife | Ultraviolet (Well-Worn)
 755737;★ StatTrak™ Flip Knife | Black Laminate (Factory New)
+755739;★ Flip Knife | Urban Masked (Factory New)
 755750;★ StatTrak™ Karambit | Case Hardened (Factory New)
 755857;★ StatTrak™ Huntsman Knife | Stained (Factory New)
 755859;★ Hand Wraps | Slaughter (Factory New)
@@ -10529,7 +10567,9 @@
 756405;★ StatTrak™ Karambit | Damascus Steel (Battle-Scarred)
 756409;★ Karambit | Urban Masked (Factory New)
 756412;★ Karambit | Safari Mesh (Factory New)
+756413;★ StatTrak™ Gut Knife | Bright Water (Well-Worn)
 756414;★ StatTrak™ Shadow Daggers | Rust Coat (Well-Worn)
+756420;★ StatTrak™ Flip Knife | Autotronic (Well-Worn)
 756444;★ Driver Gloves | Imperial Plaid (Factory New)
 756450;★ StatTrak™ Gut Knife | Damascus Steel (Well-Worn)
 756679;Souvenir MP7 | Army Recon (Factory New)
@@ -10547,6 +10587,7 @@
 757222;★ Gut Knife | Boreal Forest (Factory New)
 757223;Souvenir AWP | Pink DDPAT (Factory New)
 757228;★ Hydra Gloves | Case Hardened (Factory New)
+757234;★ StatTrak™ Bayonet | Fade (Minimal Wear)
 757262;★ Moto Gloves | Cool Mint (Factory New)
 757285;★ StatTrak™ Flip Knife | Lore (Well-Worn)
 757294;★ Driver Gloves | King Snake (Factory New)
@@ -10559,15 +10600,20 @@
 757544;★ StatTrak™ Shadow Daggers | Damascus Steel (Battle-Scarred)
 757569;★ StatTrak™ M9 Bayonet | Rust Coat (Well-Worn)
 757592;★ StatTrak™ Huntsman Knife | Forest DDPAT (Factory New)
+757596;★ StatTrak™ M9 Bayonet | Blue Steel (Factory New)
 757598;★ StatTrak™ Falchion Knife | Urban Masked (Factory New)
 757599;★ StatTrak™ Falchion Knife | Forest DDPAT (Factory New)
 757600;★ StatTrak™ Gut Knife | Scorched (Factory New)
 757601;★ StatTrak™ Butterfly Knife | Night (Factory New)
 757603;★ StatTrak™ Shadow Daggers | Safari Mesh (Factory New)
+757604;★ StatTrak™ Flip Knife | Ultraviolet (Factory New)
+757607;★ StatTrak™ Karambit | Ultraviolet (Factory New)
 757609;★ StatTrak™ Flip Knife | Safari Mesh (Factory New)
 757610;★ StatTrak™ Flip Knife | Forest DDPAT (Factory New)
 757613;★ StatTrak™ Shadow Daggers | Forest DDPAT (Factory New)
+757615;★ StatTrak™ Gut Knife | Forest DDPAT (Factory New)
 757617;★ StatTrak™ Gut Knife | Crimson Web (Factory New)
+757618;★ StatTrak™ Huntsman Knife | Urban Masked (Factory New)
 757620;★ StatTrak™ Shadow Daggers | Boreal Forest (Factory New)
 757697;★ Sport Gloves | Amphibious (Factory New)
 757724;★ Driver Gloves | Racing Green (Factory New)
@@ -11026,6 +11072,7 @@
 760275;★ StatTrak™ Talon Knife | Safari Mesh (Battle-Scarred)
 760276;★ StatTrak™ Ursus Knife | Safari Mesh (Battle-Scarred)
 760293;★ StatTrak™ Navaja Knife | Stained (Minimal Wear)
+760294;★ StatTrak™ Stiletto Knife | Night Stripe (Battle-Scarred)
 760295;★ StatTrak™ Talon Knife | Stained (Well-Worn)
 760296;★ StatTrak™ Ursus Knife | Case Hardened (Battle-Scarred)
 760297;★ StatTrak™ Ursus Knife | Scorched (Well-Worn)
@@ -11732,6 +11779,7 @@
 761942;★ Stiletto Knife | Forest DDPAT (Factory New)
 761943;★ Ursus Knife | Forest DDPAT (Factory New)
 761944;★ Ursus Knife | Night Stripe (Factory New)
+761952;★ StatTrak™ Ursus Knife | Safari Mesh (Factory New)
 761965;Souvenir P90 | Facility Negative (Battle-Scarred)
 761966;Souvenir Tec-9 | Remote Control (Battle-Scarred)
 761967;Souvenir Tec-9 | Remote Control (Well-Worn)
@@ -11917,6 +11965,7 @@
 762252;SG 553 | Integrale (Battle-Scarred)
 762253;USP-S | Check Engine (Well-Worn)
 762258;Dual Berettas | Twin Turbo (Factory New)
+762264;★ StatTrak™ Ursus Knife | Fade (Minimal Wear)
 762269;★ Ursus Knife | Fade (Minimal Wear)
 762275;Dual Berettas | Twin Turbo (Minimal Wear)
 762285;★ StatTrak™ Ursus Knife | Urban Masked (Minimal Wear)
@@ -12164,7 +12213,9 @@
 767513;★ StatTrak™ Talon Knife | Boreal Forest (Factory New)
 767514;★ StatTrak™ Stiletto Knife | Fade (Minimal Wear)
 767569;★ Navaja Knife | Crimson Web (Factory New)
+767570;★ StatTrak™ Gut Knife | Safari Mesh (Factory New)
 767923;★ Sport Gloves | Bronze Morph (Factory New)
+767924;★ StatTrak™ Ursus Knife | Boreal Forest (Well-Worn)
 768004;★ StatTrak™ Stiletto Knife | Safari Mesh (Minimal Wear)
 768026;★ StatTrak™ Ursus Knife | Night Stripe (Factory New)
 768116;★ StatTrak™ Navaja Knife | Night Stripe (Factory New)
@@ -12878,6 +12929,7 @@
 769656;★ Ursus Knife | Ultraviolet (Well-Worn)
 769659;★ StatTrak™ Stiletto Knife | Damascus Steel (Factory New)
 769773;StatTrak™ Music Kit | The Verkkars, EZ4ENCE
+769774;Music Kit | The Verkkars, EZ4ENCE
 769775;Sticker | Scavenger
 769776;Sticker | Bite Me
 769781;Sticker | Lurker
@@ -12934,6 +12986,7 @@
 770032;★ Navaja Knife | Doppler (Minimal Wear)
 770033;★ StatTrak™ Navaja Knife | Marble Fade (Minimal Wear)
 770038;★ Ursus Knife | Ultraviolet (Factory New)
+770039;★ Bowie Knife | Urban Masked (Factory New)
 770046;★ StatTrak™ Ursus Knife | Damascus Steel (Battle-Scarred)
 770100;★ StatTrak™ Ursus Knife | Rust Coat (Well-Worn)
 770104;★ Talon Knife | Boreal Forest (Factory New)
@@ -12969,7 +13022,9 @@
 770876;Sticker | Big Clucks (Foil)
 771032;★ StatTrak™ Ursus Knife | Marble Fade (Minimal Wear)
 771074;★ StatTrak™ Stiletto Knife | Stained (Battle-Scarred)
+771076;★ StatTrak™ Navaja Knife | Damascus Steel (Battle-Scarred)
 771442;★ StatTrak™ Ursus Knife | Urban Masked (Factory New)
+771443;★ StatTrak™ Stiletto Knife | Marble Fade (Minimal Wear)
 771461;★ StatTrak™ Navaja Knife | Damascus Steel (Well-Worn)
 771948;Sticker | EliGE | Berlin 2019
 771949;Sticker | olofmeister | Berlin 2019
@@ -13733,6 +13788,7 @@
 773887;★ StatTrak™ Classic Knife | Boreal Forest (Well-Worn)
 773888;★ StatTrak™ Classic Knife | Scorched (Minimal Wear)
 773889;★ StatTrak™ Classic Knife | Blue Steel (Battle-Scarred)
+773892;★ StatTrak™ Flip Knife | Urban Masked (Factory New)
 773894;★ StatTrak™ Classic Knife | Fade (Minimal Wear)
 773896;★ StatTrak™ Classic Knife | Scorched (Well-Worn)
 773897;★ StatTrak™ Classic Knife | Stained (Field-Tested)
@@ -14814,6 +14870,7 @@
 776212;Tec-9 | Rust Leaf (Battle-Scarred)
 776216;StatTrak™ Nova | Plume (Well-Worn)
 776229;MAG-7 | Cinquedea (Field-Tested)
+776233;Negev | Mjölnir (Battle-Scarred)
 776240;P90 | Astral Jörmungandr (Battle-Scarred)
 776260;MAG-7 | Cinquedea (Well-Worn)
 776261;★ Survival Knife
@@ -14926,6 +14983,7 @@
 776781;★ StatTrak™ Survival Knife | Forest DDPAT (Battle-Scarred)
 776784;★ StatTrak™ Survival Knife | Case Hardened (Battle-Scarred)
 776785;★ Paracord Knife | Urban Masked (Field-Tested)
+776786;★ Skeleton Knife | Blue Steel (Minimal Wear)
 776787;★ Paracord Knife | Slaughter (Field-Tested)
 776788;StatTrak™ PP-Bizon | Embargo (Factory New)
 776789;★ Skeleton Knife | Urban Masked (Minimal Wear)
@@ -15165,6 +15223,7 @@
 777154;★ StatTrak™ Skeleton Knife | Night Stripe (Battle-Scarred)
 777155;★ StatTrak™ Survival Knife | Boreal Forest (Battle-Scarred)
 777156;★ StatTrak™ Skeleton Knife | Safari Mesh (Well-Worn)
+777157;★ StatTrak™ Survival Knife | Safari Mesh (Well-Worn)
 777158;★ StatTrak™ Paracord Knife | Case Hardened (Battle-Scarred)
 777159;★ Paracord Knife | Safari Mesh (Well-Worn)
 777160;★ StatTrak™ Survival Knife | Scorched (Well-Worn)
@@ -15252,6 +15311,7 @@
 777399;★ StatTrak™ Classic Knife | Blue Steel (Factory New)
 777400;★ StatTrak™ Skeleton Knife | Stained (Battle-Scarred)
 777403;★ StatTrak™ Paracord Knife | Safari Mesh (Well-Worn)
+777404;★ StatTrak™ Survival Knife | Forest DDPAT (Factory New)
 777410;StatTrak™ Music Kit | Scarlxrd: King, Scar
 777411;Music Kit | Scarlxrd: King, Scar
 777533;★ Skeleton Knife | Safari Mesh (Factory New)
@@ -15268,6 +15328,7 @@
 777564;★ StatTrak™ Survival Knife | Scorched (Battle-Scarred)
 777569;★ Skeleton Knife | Forest DDPAT (Factory New)
 777575;★ Survival Knife | Safari Mesh (Factory New)
+777581;★ StatTrak™ Survival Knife | Boreal Forest (Well-Worn)
 777586;★ StatTrak™ Skeleton Knife | Crimson Web (Minimal Wear)
 777590;★ StatTrak™ Survival Knife | Urban Masked (Battle-Scarred)
 777594;★ StatTrak™ Survival Knife | Safari Mesh (Minimal Wear)
@@ -15282,6 +15343,7 @@
 778320;★ StatTrak™ Nomad Knife | Urban Masked (Factory New)
 778321;★ Nomad Knife | Stained (Factory New)
 778354;★ StatTrak™ Paracord Knife | Fade (Minimal Wear)
+778373;★ Survival Knife | Forest DDPAT (Factory New)
 778377;★ StatTrak™ Paracord Knife | Crimson Web (Well-Worn)
 778392;★ StatTrak™ Survival Knife | Blue Steel (Factory New)
 778427;★ StatTrak™ Paracord Knife | Urban Masked (Battle-Scarred)
@@ -15536,6 +15598,7 @@
 779429;StatTrak™ AK-47 | Phantom Disruptor (Well-Worn)
 779435;★ StatTrak™ Paracord Knife | Slaughter (Field-Tested)
 779439;StatTrak™ M4A1-S | Player Two (Well-Worn)
+779484;Music Kit | Dren, Gunman Taco Truck
 779485;Music Kit | Tim Huling, Neo Noir
 779486;StatTrak™ Music Kit | Dren, Gunman Taco Truck
 779487;StatTrak™ Music Kit | Tim Huling, Neo Noir
@@ -15543,10 +15606,15 @@
 779489;StatTrak™ Music Kit | Sam Marshall, Bodacious
 779490;StatTrak™ Music Kit | Daniel Sadowski, Eye of the Dragon
 779491;StatTrak™ Music Kit | Matt Levine, Drifter
+779492;Music Kit | Matt Levine, Drifter
 779493;Music Kit | Sam Marshall, Bodacious
+779494;Music Kit | Tree Adams and Ben Bromfield, M.U.D.D. FORCE
 779495;Music Kit | Austin Wintory, Bachram
 779496;StatTrak™ Masterminds Music Kit Box
 779497;Masterminds Music Kit Box
+779517;Music Kit | Daniel Sadowski, Eye of the Dragon
+779518;StatTrak™ Music Kit | Austin Wintory, Bachram
+779976;★ StatTrak™ M9 Bayonet | Night (Factory New)
 780250;Sticker | Space Marine
 780251;Warhammer 40,000 Sticker Capsule
 780252;Sticker | Heresy (Holo)
@@ -16772,6 +16840,7 @@
 853153;Sticker | Poorly Drawn FBI (Holo)
 853154;Sticker | Poorly Drawn Leet Crew
 853155;Sticker | Poorly Drawn Balkan
+853156;Music Kit | Neck Deep, The Lowlife Pack
 853157;Sticker | Poorly Drawn Number K (Holo)
 853158;Sticker | Poorly Drawn Leet Crew (Holo)
 853159;Sticker | Poorly Drawn Ava (Holo)
@@ -16788,6 +16857,7 @@
 853180;Sticker | Poorly Drawn IDF (Holo)
 853182;Sticker | Poorly Drawn SAS
 853183;Sticker | Poorly Drawn Terrorist (Holo)
+853197;★ StatTrak™ Survival Knife | Boreal Forest (Factory New)
 854757;★ StatTrak™ Navaja Knife | Scorched (Factory New)
 856906;★ StatTrak™ Paracord Knife | Safari Mesh (Factory New)
 857515;Snakebite Case
@@ -16965,6 +17035,7 @@
 866674;★ StatTrak™ Karambit | Forest DDPAT (Factory New)
 867523;StatTrak™ Music Kit | Laura Shigihara: Work Hard, Play Hard
 867524;StatTrak™ Music Kit | Freaky DNA, Vici
+867525;StatTrak™ Music Kit | Jesse Harlin, Astro Bellum
 867526;StatTrak™ Music Kit | Austin Wintory, Mocha Petal
 867527;StatTrak™ Music Kit | Chipzel, ~Yellow Magic~
 867528;StatTrak™ Music Kit | Sarah Schachner, KOLIBRI
@@ -16973,6 +17044,7 @@
 867531;Music Kit | Laura Shigihara: Work Hard, Play Hard
 867532;Music Kit | Freaky DNA, Vici
 867533;Music Kit | Austin Wintory, Mocha Petal
+867534;Music Kit | Jesse Harlin, Astro Bellum
 867535;StatTrak™ Tacticians Music Kit Box
 867537;Tacticians Music Kit Box
 869088;★ StatTrak™ Skeleton Knife | Safari Mesh (Factory New)
@@ -17894,6 +17966,7 @@
 873610;★ StatTrak™ Huntsman Knife | Autotronic (Factory New)
 873616;★ StatTrak™ Bowie Knife | Freehand (Well-Worn)
 873650;StatTrak™ Music Kit | bbno$, u mad!
+873651;Music Kit | bbno$, u mad!
 873691;Souvenir AWP | Safari Mesh (Factory New)
 874483;★ StatTrak™ Shadow Daggers | Urban Masked (Factory New)
 875254;★ StatTrak™ Shadow Daggers | Autotronic (Well-Worn)
@@ -18543,6 +18616,7 @@
 879017;Sticker | nexa (Gold) | Stockholm 2021
 879018;Sticker | cadiaN (Gold) | Stockholm 2021
 879021;Sticker | KSCERATO (Gold) | Stockholm 2021
+879031;Music Kit | The Verkkars & n0thing, Flashbang Dance
 880155;Sticker | Forty Two
 880156;Sticker | No Pats
 880157;Battlefield 2042 Sticker Capsule
@@ -19378,6 +19452,7 @@
 896657;Sticker | broky (Gold, Champion) | Antwerp 2022
 896658;Sticker | karrigan (Gold, Champion) | Antwerp 2022
 899446;★ StatTrak™ Shadow Daggers | Scorched (Factory New)
+899448;★ StatTrak™ Karambit | Scorched (Factory New)
 899460;Souvenir FAMAS | Cyanospatter (Factory New)
 900464;Recoil Case
 900466;M249 | Downtown (Factory New)
@@ -19666,7 +19741,7 @@
 911095;Sticker | refrezh | Rio 2022
 911096;Sticker | Team Liquid | Rio 2022
 911097;Sticker | Team Liquid (Glitter) | Rio 2022
-911098;Sticker | EliGe (Glitter) | Rio 2022
+911098;Sticker | EliGE (Glitter) | Rio 2022
 911099;Sticker | Brollan (Gold) | Rio 2022
 911100;Sticker | sdy | Rio 2022
 911101;Sticker | S1ren | Rio 2022
@@ -19694,7 +19769,7 @@
 911132;Sticker | Team Spirit (Holo) | Rio 2022
 911133;Sticker | oSee | Rio 2022
 911134;Sticker | slaxz- (Glitter) | Rio 2022
-911135;Sticker | EliGe | Rio 2022
+911135;Sticker | EliGE | Rio 2022
 911136;Sticker | SunPayus | Rio 2022
 911137;Sticker | hampus (Glitter) | Rio 2022
 911138;Sticker | w0nderful (Holo) | Rio 2022
@@ -19944,7 +20019,7 @@
 911490;Sticker | JDC | Rio 2022
 911491;Sticker | SunPayus (Glitter) | Rio 2022
 911497;Sticker | xertioN (Glitter) | Rio 2022
-911498;Sticker | EliGe (Holo) | Rio 2022
+911498;Sticker | EliGE (Holo) | Rio 2022
 911499;Sticker | Perfecto (Holo) | Rio 2022
 911500;Sticker | Brehze (Glitter) | Rio 2022
 911501;Sticker | aliStair (Glitter) | Rio 2022
@@ -19988,7 +20063,7 @@
 911545;Sticker | n0rb3r7 | Rio 2022
 911546;Sticker | maden (Holo) | Rio 2022
 911547;Sticker | maden (Gold) | Rio 2022
-911548;Sticker | autimatic (Holo) | Rio 202
+911548;Sticker | autimatic (Holo) | Rio 2022
 911549;Sticker | FL1T (Glitter) | Rio 2022
 911550;Sticker | Jame (Gold) | Rio 2022
 911551;Sticker | broky (Gold) | Rio 2022
@@ -20146,7 +20221,7 @@
 911748;Sticker | INS (Holo) | Rio 2022
 911749;Sticker | max (Holo) | Rio 2022
 911750;Sticker | sdy (Gold) | Rio 2022
-911751;Sticker | EliGe (Gold) | Rio 2022
+911751;Sticker | EliGE (Gold) | Rio 2022
 911752;Sticker | n0rb3r7 (Gold) | Rio 2022
 911756;Sticker | VINI (Gold) | Rio 2022
 911757;Sticker | yuurih (Holo) | Rio 2022
