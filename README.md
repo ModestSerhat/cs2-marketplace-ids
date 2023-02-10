@@ -4,6 +4,6 @@ Most CS:GO in-game items' goods IDs along with their names on the website [buff1
 
 ## Contact
 
-If there is a missing item in the txt file or another type of problem, you can contact me at:
-[@mdstsrht on Twitter](https://twitter.com/mdstsrht)
+If there is a missing item in the txt file or another type of problem, you can contact me at:<br>
+[@mdstsrht on Twitter](https://twitter.com/mdstsrht)<br>
 [@mdstsrht on mastodon.social](https://mastodon.social/@mdstsrht)
