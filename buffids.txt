@@ -20510,3 +20510,7 @@
 921607;StatTrak™ AWP | Doodle Lore (Well-Worn)
 921608;StatTrak™ R8 Revolver | Banana Cannon (Factory New)
 921609;StatTrak™ AK-47 | Head Shot (Well-Worn)
+921610;StatTrak™ AWP | Doodle Lore (Battle-Scarred)
+921611;StatTrak™ UMP-45 | Wild Child (Well-Worn)
+921613;StatTrak™ AK-47 | Head Shot (Battle-Scarred)
+921614;StatTrak™ AWP | Doodle Lore (Factory New)
