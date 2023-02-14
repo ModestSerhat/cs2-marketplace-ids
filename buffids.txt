@@ -20514,3 +20514,4 @@
 921611;StatTrak™ UMP-45 | Wild Child (Well-Worn)
 921613;StatTrak™ AK-47 | Head Shot (Battle-Scarred)
 921614;StatTrak™ AWP | Doodle Lore (Factory New)
+921836;StatTrak™ M4A4 | Temukau (Well-Worn)
