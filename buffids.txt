@@ -2989,6 +2989,7 @@
 36828;Sealed Graffiti | Double (Jungle Green)
 36829;Sealed Graffiti | Double (Monarch Blue)
 36830;Sealed Graffiti | Double (Monster Purple)
+36831;Sealed Graffiti | Double (Princess Pink)
 36832;Sealed Graffiti | Double (SWAT Blue)
 36833;Sealed Graffiti | Double (Shark White)
 36834;Sealed Graffiti | Double (Tiger Orange)
@@ -16548,6 +16549,7 @@
 836048;Sealed Graffiti | Recoil M4A1-S (Shark White)
 836049;AWP | Silk Tiger (Well-Worn)
 836050;StatTrak™ M4A1-S | Printstream (Battle-Scarred)
+836051;Sealed Graffiti | Recoil MP9 (Desert Amber)
 836052;Sealed Graffiti | Recoil MP9 (Tiger Orange)
 836053;Sealed Graffiti | Recoil M4A1-S (Brick Red)
 836055;★ Sport Gloves | Slingshot (Well-Worn)
@@ -16608,6 +16610,7 @@
 836119;Sealed Graffiti | Recoil P90 (Brick Red)
 836121;Sealed Graffiti | Recoil AK-47 (Wire Blue)
 836122;★ Driver Gloves | Black Tie (Well-Worn)
+836123;Sealed Graffiti | Recoil MAC-10 (Jungle Green)
 836124;Sealed Graffiti | Recoil MAC-10 (Dust Brown)
 836125;★ Specialist Gloves | Lt. Commander (Well-Worn)
 836126;Sealed Graffiti | Recoil CZ-75 (SWAT Blue)
@@ -20515,7 +20518,7 @@
 921384;StatTrak™ Music Kit | Denzel Curry, ULTIMATE
 921385;Espionage Sticker Capsule
 921386;Sticker | Batter Up
-921387;Sticker | Sting Like A Butterly
+921387;Sticker | Sting Like A Butterfly
 921388;Sticker | Run T, Run
 921389;Sticker | Knife's Edge
 921391;Sticker | Peek Me (Foil)
@@ -20711,3 +20714,4 @@
 922125;AWP | Duality (Well-Worn)
 922127;StatTrak™ AWP | Duality (Well-Worn)
 922805;Souvenir Five-SeveN | Silver Quartz (Well-Worn)
+924837;★ StatTrak™ Ursus Knife | Ultraviolet (Factory New)
