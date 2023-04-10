@@ -2045,6 +2045,7 @@
 35877;Office Pin
 35878;Operation Bloodhound Access Pass
 35879;Operation Bravo Case
+35880;Operation Bravo Pass
 35881;Operation Breakout All Access Pass
 35883;Operation Breakout Weapon Case
 35884;Operation Hydra Access Pass
@@ -19013,6 +19014,8 @@
 891269;★ StatTrak™ Nomad Knife | Night Stripe (Factory New)
 893444;★ StatTrak™ Survival Knife | Night Stripe (Factory New)
 894071;Sticker | Cloud9 (Glitter) | Antwerp 2022
+894073;Antwerp 2022 Viewer Pass + 3 Souvenir Tokens
+894076;Antwerp 2022 Viewer Pass
 894078;Sticker | Boombl4 | Antwerp 2022
 894079;Sticker | Imperial Esports | Antwerp 2022
 894080;Sticker | G2 Esports | Antwerp 2022
@@ -20581,7 +20584,6 @@
 921462;Glock-18 | Umbral Rabbit (Field-Tested)
 921463;M4A1-S | Emphorosaur-S (Battle-Scarred)
 921464;Glock-18 | Umbral Rabbit (Well-Worn)
-921466;Revolution Case Key
 921469;P2000 | Wicked Sick (Minimal Wear)
 921471;Glock-18 | Umbral Rabbit (Battle-Scarred)
 921472;SCAR-20 | Fragments (Battle-Scarred)
