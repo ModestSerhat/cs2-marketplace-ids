@@ -1,10 +1,6 @@
 # buff163 IDs
 
-<<<<<<< HEAD
 Most CS:GO in-game items' goods IDs along with their names on the website [buff163](https://buff.163.com), including the recent Anubis Collection, Revolution Case, Espionage Sticker Capsule and Rio 2022 items can be found here.
-=======
-Most CS:GO/CS2 in-game items' goods IDs along with their names on the website [buff163](https://buff.163.com), including the recent Revolution Case, Espionage Sticker Capsule and Rio 2022 items can be found here.
->>>>>>> 257162c1a075b0a135ded50211051fedbc644e54
 
 Some known missing items that is seen to exist/don't exist which aren't registered on buff163 are also listed here.
 
