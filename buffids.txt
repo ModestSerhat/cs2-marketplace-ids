@@ -21501,3 +21501,5 @@
 929138;Souvenir AWP | Black Nile (Well-Worn)
 929139;Souvenir Tec-9 | Mummy's Rot (Factory New)
 929141;Souvenir P90 | ScaraB Rush (Factory New)
+929200;Souvenir P250 | Apep's Curse (Factory New)
+929206;Souvenir M4A4 | Eye of Horus (Battle-Scarred)
