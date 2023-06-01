@@ -21503,3 +21503,24 @@
 929141;Souvenir P90 | ScaraB Rush (Factory New)
 929200;Souvenir P250 | Apep's Curse (Factory New)
 929206;Souvenir M4A4 | Eye of Horus (Battle-Scarred)
+930479;Sticker | apEX (Champion) | Paris 2023
+930480;Sticker | Magisk (Champion) | Paris 2023
+930482;Sticker | ZywOo (Glitter, Champion) | Paris 2023
+930483;Sticker | Spinx (Champion) | Paris 2023
+930484;Sticker | dupreeh (Champion) | Paris 2023
+930485;Sticker | Spinx (Glitter, Champion) | Paris 2023
+930487;Paris 2023 Champions Autograph Capsule
+930502;Sticker | ZywOo (Champion) | Paris 2023
+930504;Sticker | Magisk (Holo, Champion) | Paris 2023
+930505;Sticker | apEX (Glitter, Champion) | Paris 2023
+930506;Sticker | dupreeh (Glitter, Champion) | Paris 2023
+930507;Sticker | Spinx (Holo, Champion) | Paris 2023
+930508;Sticker | dupreeh (Holo, Champion) | Paris 2023
+930509;Sticker | ZywOo (Holo, Champion) | Paris 2023
+930510;Sticker | Magisk (Glitter, Champion) | Paris 2023
+930511;Sticker | ZywOo (Gold, Champion) | Paris 2023
+930512;Sticker | Spinx (Gold, Champion) | Paris 2023
+930513;Sticker | apEX (Holo, Champion) | Paris 2023
+930514;Sticker | Magisk (Gold, Champion) | Paris 2023
+930516;Sticker | apEX (Gold, Champion) | Paris 2023
+930518;Sticker | dupreeh (Gold, Champion) | Paris 2023
