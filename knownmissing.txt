@@ -1,10 +1,5 @@
 IDs of items known to be missing on buff:
 Souvenir AWP | Pit Viper (Battle-Scarred) (1 exist, on a VAC banned account)
-Souvenir Desert Eagle | Mudder (Factory New) (1 exist, on an account with a private inventory)
-Souvenir M4A1-S | Nitro (Factory New) (1 exist, on an account with a private inventory)
-Souvenir AUG | Condemned (Factory New) (1 exist, on an account with a private inventory)
-Souvenir MP9 | Orange Peel (Factory New) (1 exist, on an account with a private inventory)
-Souvenir USP-S | Forest Leaves (Factory New) (2 exist, both on an account with a private inventory)
 Souvenir R8 Revolver | Bone Mask (Factory New) (0 exist, can be possibly unboxed from a Dreamhack 2013/Katowice 2014 Souvenir Package)
 Souvenir R8 Revolver | Bone Mask (Well-Worn) (0 exist, can be possibly unboxed from a Dreamhack 2013/Katowice 2014 Souvenir Package)
 Souvenir R8 Revolver | Bone Mask (Battle-Scarred) (0 exist, can be possibly unboxed from a Dreamhack 2013/Katowice 2014 Souvenir Package)

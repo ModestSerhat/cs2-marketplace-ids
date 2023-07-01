@@ -21524,3 +21524,8 @@
 930514;Sticker | Magisk (Gold, Champion) | Paris 2023
 930516;Sticker | apEX (Gold, Champion) | Paris 2023
 930518;Sticker | dupreeh (Gold, Champion) | Paris 2023
+930470;Souvenir Desert Eagle | Mudder (Factory New)
+930471;Souvenir USP-S | Forest Leaves (Factory New)
+930473;Souvenir M4A1-S | Nitro (Factory New)
+930474;Souvenir MP9 | Orange Peel (Factory New)
+930475;Souvenir AUG | Condemned (Factory New)
