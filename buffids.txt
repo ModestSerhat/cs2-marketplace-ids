@@ -19931,7 +19931,6 @@
 911095;Sticker | refrezh | Rio 2022
 911096;Sticker | Team Liquid | Rio 2022
 911097;Sticker | Team Liquid (Glitter) | Rio 2022
-911098;Sticker | EliGE (Glitter) | Rio 2022
 911099;Sticker | Brollan (Gold) | Rio 2022
 911100;Sticker | sdy | Rio 2022
 911101;Sticker | S1ren | Rio 2022
@@ -19959,7 +19958,6 @@
 911132;Sticker | Team Spirit (Holo) | Rio 2022
 911133;Sticker | oSee | Rio 2022
 911134;Sticker | slaxz- (Glitter) | Rio 2022
-911135;Sticker | EliGE | Rio 2022
 911136;Sticker | SunPayus | Rio 2022
 911137;Sticker | hampus (Glitter) | Rio 2022
 911138;Sticker | w0nderful (Holo) | Rio 2022
@@ -20209,7 +20207,6 @@
 911490;Sticker | JDC | Rio 2022
 911491;Sticker | SunPayus (Glitter) | Rio 2022
 911497;Sticker | xertioN (Glitter) | Rio 2022
-911498;Sticker | EliGE (Holo) | Rio 2022
 911499;Sticker | Perfecto (Holo) | Rio 2022
 911500;Sticker | Brehze (Glitter) | Rio 2022
 911501;Sticker | aliStair (Glitter) | Rio 2022
@@ -20411,7 +20408,6 @@
 911748;Sticker | INS (Holo) | Rio 2022
 911749;Sticker | max (Holo) | Rio 2022
 911750;Sticker | sdy (Gold) | Rio 2022
-911751;Sticker | EliGE (Gold) | Rio 2022
 911752;Sticker | n0rb3r7 (Gold) | Rio 2022
 911756;Sticker | VINI (Gold) | Rio 2022
 911757;Sticker | yuurih (Holo) | Rio 2022
@@ -20460,10 +20456,14 @@
 911813;Sticker | FASHR (Gold) | Rio 2022
 911814;Sticker | Techno4K (Holo) | Rio 2022
 911815;Sticker | fame (Holo) | Rio 2022
+911817;Sticker | EliGE | Rio 2022
+911818;Sticker | EliGE (Glitter) | Rio 2022
 911819;Sticker | chelo (Gold) | Rio 2022
 911820;Sticker | autimatic (Gold) | Rio 2022
+911823;Sticker | EliGE (Holo) | Rio 2022
 911824;Sticker | aliStair (Gold) | Rio 2022
 911825;Sticker | FL1T (Gold) | Rio 2022
+911826;Sticker | EliGE (Gold) | Rio 2022
 911827;Sticker | TACO (Gold) | Rio 2022
 911828;Sticker | degster (Gold) | Rio 2022
 911829;Sticker | interz (Gold) | Rio 2022
@@ -20521,7 +20521,6 @@
 921384;StatTrak™ Music Kit | Denzel Curry, ULTIMATE
 921385;Espionage Sticker Capsule
 921386;Sticker | Batter Up
-921387;Sticker | Sting Like A Butterfly
 921388;Sticker | Run T, Run
 921389;Sticker | Knife's Edge
 921391;Sticker | Peek Me (Foil)
@@ -20713,6 +20712,7 @@
 921877;AWP | Duality (Minimal Wear)
 921878;StatTrak™ AWP | Duality (Battle-Scarred)
 922116;StatTrak™ AWP | Duality (Factory New)
+922120;Sticker | Sting Like A Butterfly
 922125;AWP | Duality (Well-Worn)
 922127;StatTrak™ AWP | Duality (Well-Worn)
 922805;Souvenir Five-SeveN | Silver Quartz (Well-Worn)
@@ -20880,7 +20880,6 @@
 928053;Sticker | kRaSnaL | Paris 2023
 928054;Sticker | Bad News Eagles (Glitter) | Paris 2023
 928055;Sticker | Thomas (Glitter) | Paris 2023
-928057;Sticker | CRUC1AL | Paris 2023
 928058;Sticker | npl | Paris 2023
 928060;Sticker | rigoN (Glitter) | Paris 2023
 928061;Sticker | s1mple | Paris 2023
@@ -20912,7 +20911,6 @@
 928089;Sticker | NEKiZ | Paris 2023
 928090;Sticker | m0NESY | Paris 2023
 928091;Sticker | jabbi | Paris 2023
-928092;Sticker | CRUC1AL (Glitter) | Paris 2023
 928093;Sticker | forZe eSports | Paris 2023
 928094;Sticker | NEOFRAG (Holo) | Paris 2023
 928095;Sticker | biguzera | Paris 2023
@@ -21010,7 +21008,6 @@
 928212;Sticker | skullz (Glitter) | Paris 2023
 928213;Sticker | SENER1 (Glitter) | Paris 2023
 928214;Sticker | KRIMZ | Paris 2023
-928215;Sticker | Volt | Paris 2023
 928216;Sticker | Spinx (Glitter) | Paris 2023
 928217;Sticker | TeSeS | Paris 2023
 928218;Sticker | Fnatic (Gold) | Paris 2023
@@ -21043,7 +21040,6 @@
 928248;Sticker | Liazz | Paris 2023
 928250;Sticker | ANNIHILATION (Glitter) | Paris 2023
 928251;Sticker | Thomas | Paris 2023
-928252;Sticker | Volt (Gold) | Paris 2023
 928254;Sticker | Kylar (Holo) | Paris 2023
 928255;Sticker | Complexity Gaming (Gold) | Paris 2023
 928257;Sticker | iM | Paris 2023
@@ -21151,7 +21147,6 @@
 928377;Sticker | npl (Holo) | Paris 2023
 928379;Sticker | acoR (Glitter) | Paris 2023
 928380;Sticker | headtr1ck (Glitter) | Paris 2023
-928381;Sticker | Volt (Glitter) | Paris 2023
 928382;Sticker | arT (Holo) | Paris 2023
 928383;Sticker | Grayhound Gaming (Gold) | Paris 2023
 928384;Sticker | Apeks (Holo) | Paris 2023
@@ -21189,7 +21184,6 @@
 928423;Sticker | Brollan (Glitter) | Paris 2023
 928424;Sticker | Bart4k (Glitter) | Paris 2023
 928425;Sticker | saffee (Glitter) | Paris 2023
-928426;Sticker | Volt (Holo) | Paris 2023
 928427;Sticker | Krad (Glitter) | Paris 2023
 928429;Sticker | JDC (Glitter) | Paris 2023
 928430;Sticker | SunPayus (Holo) | Paris 2023
@@ -21401,6 +21395,18 @@
 928662;Sticker | Lucaozy (Gold) | Paris 2023
 928666;Sticker | sk0R (Gold) | Paris 2023
 928667;Sticker | floppy (Gold) | Paris 2023
+928683;Sticker | volt | Paris 2023
+928684;Sticker | nawwk | Paris 2023
+928690;Sticker | CRUC1AL | Paris 2023
+928692;Sticker | CRUC1AL (Glitter) | Paris 2023
+928694;Sticker | nawwk (Glitter) | Paris 2023
+928695;Sticker | volt (Gold) | Paris 2023
+928696;Sticker | volt (Glitter) | Paris 2023
+928697;Sticker | CRUC1AL (Holo) | Paris 2023
+928698;Sticker | volt (Holo) | Paris 2023
+928699;Sticker | nawwk (Holo) | Paris 2023
+928700;Sticker | nawwk (Gold) | Paris 2023
+928701;Sticker | CRUC1AL (Gold) | Paris 2023
 929006;Paris 2023 Mirage Souvenir Package
 929009;Souvenir AUG | Snake Pit (Factory New)
 929010;Paris 2023 Anubis Souvenir Package
