@@ -11288,7 +11288,6 @@
 760505;Sticker | Kjaerbye | London 2018
 760506;Sticker | MSL | London 2018
 760507;Sticker | NiKo | London 2018
-760508;Sticker | niko (Foil) | London 2018
 760509;Sticker | Tyloo (Foil) | London 2018
 760510;Sticker | dephh | London 2018
 760511;Sticker | jkaem | London 2018
@@ -11468,7 +11467,6 @@
 760804;Sticker | MICHU (Foil) | London 2018
 760805;Sticker | device (Foil) | London 2018
 760806;Sticker | crush | London 2018
-760807;Sticker | niko | London 2018
 760808;Sticker | Nifty (Foil) | London 2018
 760809;Sticker | Magisk (Foil) | London 2018
 760810;Sticker | nitr0 | London 2018
