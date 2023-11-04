@@ -11594,8 +11594,8 @@
 760974;Sticker | chrisJ (Gold) | London 2018
 760976;Sticker | cajunb (Gold) | London 2018
 760993;Sticker | ANDROID (Gold) | London 2018
-760994;Sticker | niko (Foil)  | London 2018
-760995;Sticker | niko  | London 2018
+760994;Sticker | niko (Foil) | London 2018
+760995;Sticker | niko | London 2018
 761002;Sticker | draken (Gold) | London 2018
 761012;Sticker | tonyblack (Gold) | London 2018
 761021;Sticker | ANGE1 (Gold) | London 2018
@@ -11641,7 +11641,7 @@
 761204;★ Specialist Gloves | Crimson Kimono (Factory New)
 761211;Sticker | mou (Gold) | London 2018
 761212;Sticker | nex (Gold) | London 2018
-761213;Sticker | niko (Gold)  | London 2018
+761213;Sticker | niko (Gold) | London 2018
 761214;Sticker | v4lde (Gold) | London 2018
 761215;★ StatTrak™ Talon Knife | Scorched (Battle-Scarred)
 761240;★ Talon Knife | Urban Masked (Well-Worn)
@@ -20932,7 +20932,6 @@
 928121;Sticker | jkaem | Paris 2023
 928122;Sticker | STYKO | Paris 2023
 928123;Sticker | F1KU | Paris 2023
-928124;Sticker | nawwk | Paris 2023
 928126;Sticker | hardzao | Paris 2023
 928127;Sticker | Keoz | Paris 2023
 928128;Sticker | shalfey | Paris 2023
@@ -20941,7 +20940,6 @@
 928131;Sticker | arT | Paris 2023
 928132;Sticker | aliStair (Gold) | Paris 2023
 928133;Sticker | FlameZ (Glitter) | Paris 2023
-928135;Sticker | nawwk (Glitter) | Paris 2023
 928136;Sticker | Krad | Paris 2023
 928137;Sticker | NEKiZ (Glitter) | Paris 2023
 928139;Sticker | k0nfig (Glitter) | Paris 2023
@@ -21275,7 +21273,6 @@
 928525;Sticker | Cypher (Gold) | Paris 2023
 928529;Sticker | Bart4k (Holo) | Paris 2023
 928530;Sticker | Perfecto (Gold) | Paris 2023
-928531;Sticker | CRUC1AL (Holo) | Paris 2023
 928532;Sticker | felps (Glitter) | Paris 2023
 928533;Sticker | m0NESY (Gold) | Paris 2023
 928534;Sticker | headtr1ck (Holo) | Paris 2023
@@ -21320,7 +21317,6 @@
 928580;Sticker | Lucaozy (Holo) | Paris 2023
 928581;Sticker | b1t (Gold) | Paris 2023
 928582;Sticker | nicoodoz (Holo) | Paris 2023
-928583;Sticker | nawwk (Holo) | Paris 2023
 928584;Sticker | broky (Gold) | Paris 2023
 928585;Sticker | History (Holo) | Paris 2023
 928586;Sticker | Aleksib (Gold) | Paris 2023
@@ -21332,10 +21328,8 @@
 928593;Sticker | DemQQ (Gold) | Paris 2023
 928594;Sticker | Dycha (Gold) | Paris 2023
 928595;Sticker | jL (Gold) | Paris 2023
-928596;Sticker | nawwk (Gold) | Paris 2023
 928597;Sticker | Jerry (Gold) | Paris 2023
 928598;Sticker | JDC (Gold) | Paris 2023
-928599;Sticker | CRUC1AL (Gold) | Paris 2023
 928600;Sticker | sjuush (Gold) | Paris 2023
 928601;Sticker | mynio (Gold) | Paris 2023
 928602;Sticker | Magisk (Gold) | Paris 2023
