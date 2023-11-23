@@ -21531,3 +21531,4 @@
 930475;Souvenir AUG | Condemned (Factory New)
 937183;★ StatTrak™ Talon Knife | Safari Mesh (Factory New)
 937944;★ StatTrak™ Ursus Knife | Forest DDPAT (Factory New)
+952132;★ StatTrak™ Classic Knife | Crimson Web (Factory New)
