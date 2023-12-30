@@ -5997,8 +5997,8 @@
 39838;Sticker | AZR | Cologne 2015
 39839;Sticker | Aces High
 39840;Sticker | Aces High (Holo)
-39841;Sticker | AdreN  | MLG Columbus 2016
-39842;Sticker | AdreN (Foil)  | MLG Columbus 2016
+39841;Sticker | AdreN | MLG Columbus 2016
+39842;Sticker | AdreN (Foil) | MLG Columbus 2016
 39843;Sticker | AdreN (Foil) | Atlanta 2017
 39844;Sticker | AdreN (Foil) | Boston 2018
 39845;Sticker | AdreN (Foil) | Cologne 2016
@@ -6753,7 +6753,7 @@
 40609;Sticker | Nifty (Gold) | Boston 2018
 40610;Sticker | Nifty | Boston 2018
 40611;Sticker | Ninja Defuse
-40612;Sticker | Ninjas in Pyjamas  | Katowice 2015
+40612;Sticker | Ninjas in Pyjamas | Katowice 2015
 40613;Sticker | Ninjas in Pyjamas (Foil) | Cluj-Napoca 2015
 40614;Sticker | Ninjas in Pyjamas (Foil) | Cologne 2015
 40615;Sticker | Ninjas in Pyjamas (Foil) | Cologne 2016
@@ -6789,7 +6789,7 @@
 40645;Sticker | OpTic Gaming (Holo) | Cologne 2016
 40646;Sticker | OpTic Gaming | Atlanta 2017
 40647;Sticker | OpTic Gaming | Cologne 2016
-40648;Sticker | PENTA Sports  | Katowice 2015
+40648;Sticker | PENTA Sports | Katowice 2015
 40649;Sticker | PENTA Sports (Foil) | Katowice 2015
 40650;Sticker | PENTA Sports (Foil) | Krakow 2017
 40651;Sticker | PENTA Sports (Holo) | Katowice 2015
@@ -7184,7 +7184,7 @@
 41043;Sticker | Virtus.pro (Foil) | Katowice 2015
 41044;Sticker | Virtus.pro (Holo) | Katowice 2015
 41045;Sticker | Virtus.pro | Katowice 2015
-41046;Sticker | Vox Eminor  | Katowice 2015
+41046;Sticker | Vox Eminor | Katowice 2015
 41047;Sticker | Vox Eminor (Foil) | Katowice 2015
 41048;Sticker | Vox Eminor (Holo) | Cologne 2014
 41049;Sticker | Vox Eminor (Holo) | Katowice 2014
@@ -14017,7 +14017,7 @@
 774819;G3SG1 | Black Sand (Minimal Wear)
 774822;Sealed Graffiti | Choke (Bazooka Pink)
 774824;M249 | Jungle (Battle-Scarred)
-774827;Michael Syfers  | FBI Sniper
+774827;Michael Syfers | FBI Sniper
 774828;MP5-SD | Acid Wash (Minimal Wear)
 774832;Dual Berettas | Balance (Well-Worn)
 774840;Sealed Graffiti | Kiss (Blood Red)
@@ -14057,7 +14057,7 @@
 774878;Sealed Graffiti | Broken Heart (Bazooka Pink)
 774879;Sealed Graffiti | Kiss (SWAT Blue)
 774880;Sealed Graffiti | Grimace (Violent Violet)
-774881;Ground Rebel  | Elite Crew
+774881;Ground Rebel | Elite Crew
 774882;Sealed Graffiti | Oops (Bazooka Pink)
 774883;MP7 | Teal Blossom (Field-Tested)
 774884;Sealed Graffiti | Fart (Tiger Orange)
