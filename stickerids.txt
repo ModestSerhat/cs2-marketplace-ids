@@ -4443,7 +4443,6 @@
 15973;War
 15974;I See You (Holo)
 15975;Kitted Out
-15976;EZ
 15977;Retro Leet
 15978;Purrurists (Foil)
 15979;This Is Fine (CT)
@@ -6689,3 +6688,25 @@
 18914;Magisk (Gold, Champion) | Paris 2023
 18915;apEX (Gold, Champion) | Paris 2023
 18916;dupreeh (Gold, Champion) | Paris 2023
+18944;Angry T
+18945;Retro Zeus
+18946;Cedar Creek (Holo)
+18947;Please Return To
+18948;AKickflip-47
+18949;Bum A Smoke
+18950;Lotus (Glitter)
+18951;EZ
+18952;This Is Fine (Chicken)
+18953;Loving Eyes (Holo)
+18954;Peek-A-Boo
+18955;Lit (Holo)
+18956;Ouchie (Foil)
+18957;On An Eco (Foil)
+18958;Pushing Smokes (Glitter)
+18959;Try Hard (Holo)
+18960;Lost In Smoke (Foil)
+18961;Factory Sealed (Foil)
+18962;Econometer (Lenticular)
+18963;Dystopian Gaze (Lenticular)
+18964;Old School (Lenticular)
+18965;Easy For Ricksaw

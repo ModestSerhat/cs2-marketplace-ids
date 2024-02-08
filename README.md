@@ -6,8 +6,6 @@ Some known missing items that is seen to exist/not exist including items from th
 
 Some stickers and patches can have other Sticker/Patch ID-Name pairs with the name being the same that have a lower quantity of listings of the same kind of sticker applied (e.g. Rush 4x20 (Holo), CRUC1AL | Paris 2023)<br>
 
-Newly added stickers' from the Ambush Sticker Capsule don't have their Sticker ID-Name pairs added yet as they aren't registered in buff163 yet.
-
 Other items' Pattern Index-Pattern Type pairs will be added in the future, only the AK-47 | Case Hardened's patterns are included for now.
 
 ## Contact
