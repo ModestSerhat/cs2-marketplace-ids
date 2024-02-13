@@ -21823,3 +21823,7 @@
 956929;★ StatTrak™ Kukri Knife | Night Stripe (Well-Worn)
 956953;★ StatTrak™ Kukri Knife | Crimson Web (Minimal Wear)
 956954;★ StatTrak™ Kukri Knife | Stained (Minimal Wear)
+956962;★ StatTrak™ Kukri Knife | Urban Masked (Well-Worn)
+957053;★ StatTrak™ Kukri Knife | Urban Masked (Minimal Wear)
+957054;★ StatTrak™ Kukri Knife | Case Hardened (Well-Worn)
+957345;★ Kukri Knife | Safari Mesh (Factory New)
