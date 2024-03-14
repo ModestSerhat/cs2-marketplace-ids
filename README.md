@@ -1,6 +1,6 @@
 # buff163 IDs
 
-Most tradable CS2 in-game items' Goods ID-Name pairs, applied stickers' or patches' Sticker/Patch ID-Name pairs and some items' Pattern Index-Pattern Type pairs on the website [buff163](https://buff.163.com), including Kilowatt Case, Ambush Sticker Capsule and NIGHTMODE Music Kit Box items can be found here.
+Most tradable CS2 in-game items' Goods ID-Name pairs, applied stickers' or patches' Sticker/Patch ID-Name pairs and some items' Pattern Index-Pattern Type pairs on the website [buff163](https://buff.163.com), including Copenhagen 2024, Kilowatt Case, Ambush Sticker Capsule and NIGHTMODE Music Kit Box items can be found here.
 
 Some known missing items that is seen to exist/not exist including items from the new update which aren't registered on buff163 are also listed here.<br>
 
