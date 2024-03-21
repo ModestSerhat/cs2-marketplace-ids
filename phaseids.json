@@ -1,0 +1,1124 @@
+{
+    "Glock-18 | Gamma Doppler (Factory New)": {
+      "id": 871196,
+      "phase": {
+        "Emerald": 10199483,
+        "Phase 1": 10199521,
+        "Phase 2": 10199510,
+        "Phase 3": 10199583,
+        "Phase 4": 10199715
+      }
+    },
+    "Glock-18 | Gamma Doppler (Minimal Wear)": {
+      "id": 871063,
+      "phase": {
+        "Emerald": 10200213,
+        "Phase 1": 10199527,
+        "Phase 2": 10199494,
+        "Phase 3": 10199624,
+        "Phase 4": 10199610
+      }
+    },
+    "Glock-18 | Gamma Doppler (Field-Tested)": {
+      "id": 871117,
+      "phase": {
+        "Emerald": 10199543,
+        "Phase 1": 10200013,
+        "Phase 2": 10199502,
+        "Phase 3": 10199717,
+        "Phase 4": 10199773
+      }
+    },
+    "Glock-18 | Gamma Doppler (Well-Worn)": {
+      "id": 871334,
+      "phase": {
+        "Emerald": 10216569,
+        "Phase 1": 10209478,
+        "Phase 2": 10200834,
+        "Phase 3": 10207242,
+        "Phase 4": 10204306
+      }
+    },
+    "Glock-18 | Gamma Doppler (Battle-Scarred)": {
+      "id": 871709,
+      "phase": {
+        "Emerald": 10200278,
+        "Phase 1": 10200392,
+        "Phase 2": 10207754,
+        "Phase 3": 10200690,
+        "Phase 4": 10205950
+      }
+    },
+    "★ Bayonet | Doppler (Factory New)": {
+      "id": 42389,
+      "phase": {
+        "Ruby": 446771,
+        "Sapphire": 446775,
+        "Black Pearl": 452100,
+        "Phase 1": 446763,
+        "Phase 2": 446769,
+        "Phase 3": 446764,
+        "Phase 4": 446768
+      }
+    },
+    "★ Bayonet | Doppler (Minimal Wear)": {
+      "id": 42390,
+      "phase": {
+        "Ruby": 446780,
+        "Sapphire": 454202,
+        "Black Pearl": 7470652,
+        "Phase 1": 446776,
+        "Phase 2": 446778,
+        "Phase 3": 446777,
+        "Phase 4": 506688
+      }
+    },
+    "★ StatTrak™ Bayonet | Doppler (Factory New)": {
+      "id": 43292,
+      "phase": {
+        "Ruby": 447031,
+        "Sapphire": 447032,
+        "Black Pearl": 447035,
+        "Phase 1": 447028,
+        "Phase 2": 447026,
+        "Phase 3": 447023,
+        "Phase 4": 447022
+      }
+    },
+    "★ StatTrak™ Bayonet | Doppler (Minimal Wear)": {
+      "id": 43293,
+      "phase": {
+        "Ruby": 9196697,
+        "Sapphire": 10468124,
+        "Black Pearl": 6836121,
+        "Phase 1": 3573855,
+        "Phase 2": 6351276,
+        "Phase 3": 529801,
+        "Phase 4": 1577637
+      }
+    },
+    "★ Bayonet | Gamma Doppler (Factory New)": {
+      "id": 42402,
+      "phase": {
+        "Emerald": 447129,
+        "Phase 1": 447106,
+        "Phase 2": 446755,
+        "Phase 3": 447107,
+        "Phase 4": 447118
+      }
+    },
+    "★ Bayonet | Gamma Doppler (Minimal Wear)": {
+      "id": 42403,
+      "phase": {
+        "Emerald": 447133,
+        "Phase 1": 4234557,
+        "Phase 2": 1406885,
+        "Phase 3": 1172545,
+        "Phase 4": 2137139
+      }
+    },
+    "★ StatTrak™ Bayonet | Gamma Doppler (Factory New)": {
+      "id": 43302,
+      "phase": {
+        "Emerald": 447264,
+        "Phase 1": 454385,
+        "Phase 2": 461698,
+        "Phase 3": 486679,
+        "Phase 4": 503368
+      }
+    },
+    "★ StatTrak™ Bayonet | Gamma Doppler (Minimal Wear)": {
+      "id": 43303,
+      "phase": {
+        "Emerald": 4859663,
+        "Phase 1": 7417567,
+        "Phase 2": 2996651,
+        "Phase 3": 7469779,
+        "Phase 4": 463059
+      }
+    },
+    "★ Flip Knife | Doppler (Factory New)": {
+      "id": 42720,
+      "phase": {
+        "Ruby": 446750,
+        "Sapphire": 446887,
+        "Black Pearl": 446885,
+        "Phase 1": 446878,
+        "Phase 2": 446758,
+        "Phase 3": 446875,
+        "Phase 4": 446882
+      }
+    },
+    "★ Flip Knife | Doppler (Minimal Wear)": {
+      "id": 42721,
+      "phase": {
+        "Ruby": 446896,
+        "Sapphire": 446897,
+        "Black Pearl": 3077574,
+        "Phase 1": 446893,
+        "Phase 2": 448548,
+        "Phase 3": 545988,
+        "Phase 4": 446895
+      }
+    },
+    "★ StatTrak™ Flip Knife | Doppler (Factory New)": {
+      "id": 43528,
+      "phase": {
+        "Ruby": 447060,
+        "Sapphire": 447061,
+        "Black Pearl": 4464762,
+        "Phase 1": 447050,
+        "Phase 2": 447051,
+        "Phase 3": 447049,
+        "Phase 4": 447048
+      }
+    },
+    "★ StatTrak™ Flip Knife | Doppler (Minimal Wear)": {
+      "id": 43529,
+      "phase": {
+        "Ruby": 7408251,
+        "Sapphire": 16219973,
+        "Black Pearl": 6836122,
+        "Phase 1": 1577595,
+        "Phase 2": 2817849,
+        "Phase 3": 4860870,
+        "Phase 4": 1849495
+      }
+    },
+    "★ Flip Knife | Gamma Doppler (Factory New)": {
+      "id": 42734,
+      "phase": {
+        "Emerald": 447156,
+        "Phase 1": 447135,
+        "Phase 2": 447146,
+        "Phase 3": 447137,
+        "Phase 4": 447145
+      }
+    },
+    "★ Flip Knife | Gamma Doppler (Minimal Wear)": {
+      "id": 42735,
+      "phase": {
+        "Emerald": 1411127,
+        "Phase 1": 3043812,
+        "Phase 2": 479449,
+        "Phase 3": 684680,
+        "Phase 4": 3840832
+      }
+    },
+    "★ StatTrak™ Flip Knife | Gamma Doppler (Factory New)": {
+      "id": 43538,
+      "phase": {
+        "Emerald": 547340,
+        "Phase 1": 447265,
+        "Phase 2": 447266,
+        "Phase 3": 447268,
+        "Phase 4": 519389
+      }
+    },
+    "★ StatTrak™ Flip Knife | Gamma Doppler (Minimal Wear)": {
+      "id": 43539,
+      "phase": {
+        "Emerald": 3714220,
+        "Phase 1": 7573537,
+        "Phase 2": 461694,
+        "Phase 3": 6600577,
+        "Phase 4": 4562954
+      }
+    },
+    "★ Gut Knife | Doppler (Factory New)": {
+      "id": 42818,
+      "phase": {
+        "Ruby": 446913,
+        "Sapphire": 446919,
+        "Black Pearl": 446912,
+        "Phase 1": 446899,
+        "Phase 2": 446908,
+        "Phase 3": 446898,
+        "Phase 4": 446903
+      }
+    },
+    "★ Gut Knife | Doppler (Minimal Wear)": {
+      "id": 42819,
+      "phase": {
+        "Ruby": 3369010,
+        "Sapphire": 1290678,
+        "Black Pearl": 6649351,
+        "Phase 1": 446924,
+        "Phase 2": 3531513,
+        "Phase 3": 2314271,
+        "Phase 4": 446923
+      }
+    },
+    "★ StatTrak™ Gut Knife | Doppler (Factory New)": {
+      "id": 43607,
+      "phase": {
+        "Ruby": 1429199,
+        "Sapphire": 1079384,
+        "Black Pearl": 7136137,
+        "Phase 1": 447066,
+        "Phase 2": 447065,
+        "Phase 3": 451967,
+        "Phase 4": 447071
+      }
+    },
+    "★ StatTrak™ Gut Knife | Doppler (Minimal Wear)": {
+      "id": 43608,
+      "phase": {
+        "Ruby": 15832524,
+        "Sapphire": 8085095,
+        "Black Pearl": 6363963,
+        "Phase 1": 1043648,
+        "Phase 2": 11474612,
+        "Phase 3": 2345352,
+        "Phase 4": 7712052
+      }
+    },
+    "★ Gut Knife | Gamma Doppler (Factory New)": {
+      "id": 42832,
+      "phase": {
+        "Emerald": 447187,
+        "Phase 1": 447169,
+        "Phase 2": 447180,
+        "Phase 3": 447170,
+        "Phase 4": 447173
+      }
+    },
+    "★ Gut Knife | Gamma Doppler (Minimal Wear)": {
+      "id": 42833,
+      "phase": {
+        "Emerald": 455644,
+        "Phase 1": 1491042,
+        "Phase 2": 4757542,
+        "Phase 3": 1672000,
+        "Phase 4": 447249
+      }
+    },
+    "★ StatTrak™ Gut Knife | Gamma Doppler (Factory New)": {
+      "id": 43617,
+      "phase": {
+        "Emerald": 1261071,
+        "Phase 1": 457130,
+        "Phase 2": 1225066,
+        "Phase 3": 831680,
+        "Phase 4": 1290677
+      }
+    },
+    "★ StatTrak™ Gut Knife | Gamma Doppler (Minimal Wear)": {
+      "id": 43978,
+      "phase": {
+        "Emerald": 17077829,
+        "Phase 1": 4862562,
+        "Phase 2": 471956,
+        "Phase 3": 5310898,
+        "Phase 4": 9335665
+      }
+    },
+    "★ Karambit | Doppler (Factory New)": {
+      "id": 42998,
+      "phase": {
+        "Ruby": 446958,
+        "Sapphire": 446968,
+        "Black Pearl": 446956,
+        "Phase 1": 446947,
+        "Phase 2": 446954,
+        "Phase 3": 446946,
+        "Phase 4": 446953
+      }
+    },
+    "★ Karambit | Doppler (Minimal Wear)": {
+      "id": 42999,
+      "phase": {
+        "Ruby": 3435175,
+        "Sapphire": 3549384,
+        "Black Pearl": 6009966,
+        "Phase 1": 446972,
+        "Phase 2": 446974,
+        "Phase 3": 446975,
+        "Phase 4": 446973
+      }
+    },
+    "★ StatTrak™ Karambit | Doppler (Factory New)": {
+      "id": 43731,
+      "phase": {
+        "Ruby": 1128122,
+        "Sapphire": 447084,
+        "Black Pearl": 490553,
+        "Phase 1": 447075,
+        "Phase 2": 479061,
+        "Phase 3": 447073,
+        "Phase 4": 447076
+      }
+    },
+    "★ StatTrak™ Karambit | Doppler (Minimal Wear)": {
+      "id": 43732,
+      "phase": {
+        "Ruby": null,
+        "Sapphire": 10143561,
+        "Black Pearl": 17442736,
+        "Phase 1": 6410792,
+        "Phase 2": 7957154,
+        "Phase 3": 6542019,
+        "Phase 4": 5790615
+      }
+    },
+    "★ Karambit | Gamma Doppler (Factory New)": {
+      "id": 43011,
+      "phase": {
+        "Emerald": 447219,
+        "Phase 1": 447192,
+        "Phase 2": 447211,
+        "Phase 3": 447197,
+        "Phase 4": 447204
+      }
+    },
+    "★ Karambit | Gamma Doppler (Minimal Wear)": {
+      "id": 43012,
+      "phase": {
+        "Emerald": 3193257,
+        "Phase 1": 3204145,
+        "Phase 2": 522195,
+        "Phase 3": 3918883,
+        "Phase 4": 527680
+      }
+    },
+    "★ StatTrak™ Karambit | Gamma Doppler (Factory New)": {
+      "id": 43742,
+      "phase": {
+        "Emerald": 1185858,
+        "Phase 1": 475205,
+        "Phase 2": 452445,
+        "Phase 3": 447274,
+        "Phase 4": 447272
+      }
+    },
+    "★ StatTrak™ Karambit | Gamma Doppler (Minimal Wear)": {
+      "id": 756063,
+      "phase": {
+        "Emerald": 2518001,
+        "Phase 1": 1557590,
+        "Phase 2": 3086714,
+        "Phase 3": 1545769,
+        "Phase 4": null
+      }
+    },
+    "★ M9 Bayonet | Doppler (Factory New)": {
+      "id": 43091,
+      "phase": {
+        "Ruby": 446994,
+        "Sapphire": 446749,
+        "Black Pearl": 446993,
+        "Phase 1": 446985,
+        "Phase 2": 446990,
+        "Phase 3": 446977,
+        "Phase 4": 446992
+      }
+    },
+    "★ M9 Bayonet | Doppler (Minimal Wear)": {
+      "id": 43092,
+      "phase": {
+        "Ruby": 2772364,
+        "Sapphire": 458669,
+        "Black Pearl": 4091777,
+        "Phase 1": 774960,
+        "Phase 2": 1799666,
+        "Phase 3": 451968,
+        "Phase 4": 451182
+      }
+    },
+    "★ StatTrak™ M9 Bayonet | Doppler (Factory New)": {
+      "id": 43803,
+      "phase": {
+        "Ruby": 447099,
+        "Sapphire": 447097,
+        "Black Pearl": 3361370,
+        "Phase 1": 447086,
+        "Phase 2": 447088,
+        "Phase 3": 447155,
+        "Phase 4": 447092
+      }
+    },
+    "★ StatTrak™ M9 Bayonet | Doppler (Minimal Wear)": {
+      "id": 43804,
+      "phase": {
+        "Ruby": 1217803,
+        "Sapphire": 5975235,
+        "Black Pearl": null,
+        "Phase 1": 8105174,
+        "Phase 2": 478530,
+        "Phase 3": 7696581,
+        "Phase 4": 8126330
+      }
+    },
+    "★ M9 Bayonet | Gamma Doppler (Factory New)": {
+      "id": 43104,
+      "phase": {
+        "Emerald": 447255,
+        "Phase 1": 447228,
+        "Phase 2": 447245,
+        "Phase 3": 447235,
+        "Phase 4": 447241
+      }
+    },
+    "★ M9 Bayonet | Gamma Doppler (Minimal Wear)": {
+      "id": 44004,
+      "phase": {
+        "Emerald": 517964,
+        "Phase 1": 3810522,
+        "Phase 2": 3309859,
+        "Phase 3": 1232252,
+        "Phase 4": 1233469
+      }
+    },
+    "★ StatTrak™ M9 Bayonet | Gamma Doppler (Factory New)": {
+      "id": 43812,
+      "phase": {
+        "Emerald": 1093581,
+        "Phase 1": 1075576,
+        "Phase 2": 462257,
+        "Phase 3": 534668,
+        "Phase 4": 447277
+      }
+    },
+    "★ StatTrak™ M9 Bayonet | Gamma Doppler (Minimal Wear)": {
+      "id": 43813,
+      "phase": {
+        "Emerald": null,
+        "Phase 1": 4090122,
+        "Phase 2": 8918045,
+        "Phase 3": 9349842,
+        "Phase 4": 12238075
+      }
+    },
+    "★ Huntsman Knife | Doppler (Factory New)": {
+      "id": 42917,
+      "phase": {
+        "Ruby": 446940,
+        "Sapphire": 446938,
+        "Black Pearl": 446943,
+        "Phase 1": 446930,
+        "Phase 2": 446933,
+        "Phase 3": 446926,
+        "Phase 4": 446932
+      }
+    },
+    "★ Huntsman Knife | Doppler (Minimal Wear)": {
+      "id": 42918,
+      "phase": {
+        "Ruby": 446945,
+        "Sapphire": 2685344,
+        "Black Pearl": 3897411,
+        "Phase 1": 3005728,
+        "Phase 2": 1753678,
+        "Phase 3": 2929954,
+        "Phase 4": 496868
+      }
+    },
+    "★ StatTrak™ Huntsman Knife | Doppler (Factory New)": {
+      "id": 43667,
+      "phase": {
+        "Ruby": 1290684,
+        "Sapphire": 475805,
+        "Black Pearl": 493507,
+        "Phase 1": 733321,
+        "Phase 2": 447072,
+        "Phase 3": 488052,
+        "Phase 4": 447074
+      }
+    },
+    "★ StatTrak™ Huntsman Knife | Doppler (Minimal Wear)": {
+      "id": 43668,
+      "phase": {
+        "Ruby": 3188152,
+        "Sapphire": 4258143,
+        "Black Pearl": null,
+        "Phase 1": 11272974,
+        "Phase 2": 10389561,
+        "Phase 3": 3488512,
+        "Phase 4": 7316165
+      }
+    },
+    "★ Huntsman Knife | Gamma Doppler (Factory New)": {
+      "id": 871723,
+      "phase": {
+        "Emerald": 10208218,
+        "Phase 1": 10266796,
+        "Phase 2": 10199964,
+        "Phase 3": 10202414,
+        "Phase 4": 10204478
+      }
+    },
+    "★ Huntsman Knife | Gamma Doppler (Minimal Wear)": {
+      "id": 872108,
+      "phase": {
+        "Emerald": 11339662,
+        "Phase 1": 10365369,
+        "Phase 2": 11262402,
+        "Phase 3": 10270731,
+        "Phase 4": 10317502
+      }
+    },
+    "★ StatTrak™ Huntsman Knife | Gamma Doppler (Factory New)": {
+      "id": 872051,
+      "phase": {
+        "Emerald": 10501843,
+        "Phase 1": 10360074,
+        "Phase 2": 10474424,
+        "Phase 3": 10358198,
+        "Phase 4": 10396008
+      }
+    },
+    "★ StatTrak™ Huntsman Knife | Gamma Doppler (Minimal Wear)": {
+      "id": 872124,
+      "phase": {
+        "Emerald": 12012072,
+        "Phase 1": 11437274,
+        "Phase 2": 10362560,
+        "Phase 3": 11174667,
+        "Phase 4": 13203266
+      }
+    },
+    "★ Falchion Knife | Doppler (Factory New)": {
+      "id": 42636,
+      "phase": {
+        "Ruby": 446866,
+        "Sapphire": 446872,
+        "Black Pearl": 446862,
+        "Phase 1": 446845,
+        "Phase 2": 446857,
+        "Phase 3": 446842,
+        "Phase 4": 446854
+      }
+    },
+    "★ Falchion Knife | Doppler (Minimal Wear)": {
+      "id": 42637,
+      "phase": {
+        "Ruby": 997139,
+        "Sapphire": 459804,
+        "Black Pearl": 3962686,
+        "Phase 1": 884600,
+        "Phase 2": 504234,
+        "Phase 3": 3012551,
+        "Phase 4": 1439058
+      }
+    },
+    "★ StatTrak™ Falchion Knife | Doppler (Factory New)": {
+      "id": 43464,
+      "phase": {
+        "Ruby": 846641,
+        "Sapphire": 498129,
+        "Black Pearl": 3118095,
+        "Phase 1": 447044,
+        "Phase 2": 447047,
+        "Phase 3": 447042,
+        "Phase 4": 447043
+      }
+    },
+    "★ StatTrak™ Falchion Knife | Doppler (Minimal Wear)": {
+      "id": 44995,
+      "phase": {
+        "Ruby": 523723,
+        "Sapphire": 6974826,
+        "Black Pearl": null,
+        "Phase 1": 5720205,
+        "Phase 2": 12271372,
+        "Phase 3": 4235973,
+        "Phase 4": 4719403
+      }
+    },
+    "★ Falchion Knife | Gamma Doppler (Factory New)": {
+      "id": 871877,
+      "phase": {
+        "Emerald": 10292364,
+        "Phase 1": 10225011,
+        "Phase 2": 10200949,
+        "Phase 3": 10205185,
+        "Phase 4": 10215448
+      }
+    },
+    "★ Falchion Knife | Gamma Doppler (Minimal Wear)": {
+      "id": 871983,
+      "phase": {
+        "Emerald": 11081964,
+        "Phase 1": 10551668,
+        "Phase 2": 10215406,
+        "Phase 3": 10430511,
+        "Phase 4": 10505166
+      }
+    },
+    "★ StatTrak™ Falchion Knife | Gamma Doppler (Factory New)": {
+      "id": 872024,
+      "phase": {
+        "Emerald": 10506179,
+        "Phase 1": 10268485,
+        "Phase 2": 10276222,
+        "Phase 3": 10613247,
+        "Phase 4": 10285226
+      }
+    },
+    "★ StatTrak™ Falchion Knife | Gamma Doppler (Minimal Wear)": {
+      "id": 873072,
+      "phase": {
+        "Emerald": 13052357,
+        "Phase 1": 13564918,
+        "Phase 2": 11415876,
+        "Phase 3": 12548510,
+        "Phase 4": 13681459
+      }
+    },
+    "★ Bowie Knife | Doppler (Factory New)": {
+      "id": 42486,
+      "phase": {
+        "Ruby": 446794,
+        "Sapphire": 446798,
+        "Black Pearl": 446801,
+        "Phase 1": 446790,
+        "Phase 2": 446787,
+        "Phase 3": 446783,
+        "Phase 4": 446791
+      }
+    },
+    "★ Bowie Knife | Doppler (Minimal Wear)": {
+      "id": 42487,
+      "phase": {
+        "Ruby": 997850,
+        "Sapphire": 512129,
+        "Black Pearl": 446760,
+        "Phase 1": 1505680,
+        "Phase 2": 1535178,
+        "Phase 3": 1728777,
+        "Phase 4": 2097303
+      }
+    },
+    "★ StatTrak™ Bowie Knife | Doppler (Factory New)": {
+      "id": 43351,
+      "phase": {
+        "Ruby": 447038,
+        "Sapphire": 457394,
+        "Black Pearl": 447037,
+        "Phase 1": 478422,
+        "Phase 2": 469106,
+        "Phase 3": 516112,
+        "Phase 4": 447036
+      }
+    },
+    "★ StatTrak™ Bowie Knife | Doppler (Minimal Wear)": {
+      "id": 43352,
+      "phase": {
+        "Ruby": 464631,
+        "Sapphire": 3598349,
+        "Black Pearl": null,
+        "Phase 1": 9720332,
+        "Phase 2": 7251214,
+        "Phase 3": 466680,
+        "Phase 4": 1816937
+      }
+    },
+    "★ Bowie Knife | Gamma Doppler (Factory New)": {
+      "id": 871861,
+      "phase": {
+        "Emerald": 10266632,
+        "Phase 1": 10230083,
+        "Phase 2": 10201962,
+        "Phase 3": 10203318,
+        "Phase 4": 10208621
+      }
+    },
+    "★ Bowie Knife | Gamma Doppler (Minimal Wear)": {
+      "id": 872133,
+      "phase": {
+        "Emerald": 10406222,
+        "Phase 1": 10892004,
+        "Phase 2": 10487035,
+        "Phase 3": 11186970,
+        "Phase 4": 10363857
+      }
+    },
+    "★ StatTrak™ Bowie Knife | Gamma Doppler (Factory New)": {
+      "id": 871971,
+      "phase": {
+        "Emerald": 10239098,
+        "Phase 1": 10419659,
+        "Phase 2": 10360231,
+        "Phase 3": 10365981,
+        "Phase 4": 10503023
+      }
+    },
+    "★ StatTrak™ Bowie Knife | Gamma Doppler (Minimal Wear)": {
+      "id": 872163,
+      "phase": {
+        "Emerald": 14669924,
+        "Phase 1": 11906997,
+        "Phase 2": 10397526,
+        "Phase 3": 10385872,
+        "Phase 4": 11515521
+      }
+    },
+    "★ Butterfly Knife | Doppler (Factory New)": {
+      "id": 42555,
+      "phase": {
+        "Ruby": 446823,
+        "Phase 1": 446809,
+        "Phase 3": 446802,
+        "Phase 4": 446814,
+        "Black Pearl": 446822,
+        "Phase 2": 446812,
+        "Sapphire": 446830
+      }
+    },
+    "★ Butterfly Knife | Doppler (Minimal Wear)": {
+      "id": 44001,
+      "phase": {
+        "Ruby": 446841,
+        "Phase 1": 464307,
+        "Phase 3": 458419,
+        "Phase 4": 451910,
+        "Black Pearl": 1221730,
+        "Phase 2": 449351,
+        "Sapphire": 504897
+      }
+    },
+    "★ StatTrak™ Butterfly Knife | Doppler (Factory New)": {
+      "id": 43411,
+      "phase": {
+        "Ruby": 480386,
+        "Phase 1": 447041,
+        "Phase 3": 469150,
+        "Phase 4": 487000,
+        "Black Pearl": 464411,
+        "Phase 2": 519388,
+        "Sapphire": 452813
+      }
+    },
+    "★ StatTrak™ Butterfly Knife | Doppler (Minimal Wear)": {
+      "id": 755862,
+      "phase": {
+        "Ruby": 4406750,
+        "Phase 1": 7992340,
+        "Phase 3": 7223481,
+        "Phase 4": 4967466,
+        "Black Pearl": 9196246,
+        "Phase 2": 3930370,
+        "Sapphire": 1123853
+      }
+    },
+    "★ Butterfly Knife | Gamma Doppler (Factory New)": {
+      "id": 871747,
+      "phase": {
+        "Emerald": 10265678,
+        "Phase 1": 10200208,
+        "Phase 2": 10200559,
+        "Phase 3": 10210751,
+        "Phase 4": 10202155
+      }
+    },
+    "★ Butterfly Knife | Gamma Doppler (Minimal Wear)": {
+      "id": 872144,
+      "phase": {
+        "Emerald": 10419844,
+        "Phase 1": 10631867,
+        "Phase 2": 10500844,
+        "Phase 3": 10370792,
+        "Phase 4": 10476197
+      }
+    },
+    "★ StatTrak™ Butterfly Knife | Gamma Doppler (Factory New)": {
+      "id": 871916,
+      "phase": {
+        "Emerald": 10354404,
+        "Phase 1": 10354485,
+        "Phase 2": 10238089,
+        "Phase 3": 10366416,
+        "Phase 4": 10204047
+      }
+    },
+    "★ StatTrak™ Butterfly Knife | Gamma Doppler (Minimal Wear)": {
+      "id": 872121,
+      "phase": {
+        "Emerald": 10657738,
+        "Phase 1": 12744091,
+        "Phase 2": 12254286,
+        "Phase 3": 10350211,
+        "Phase 4": 10468954
+      }
+    },
+    "★ Shadow Daggers | Doppler (Factory New)": {
+      "id": 43186,
+      "phase": {
+        "Ruby": 446756,
+        "Phase 1": 447009,
+        "Phase 3": 447002,
+        "Phase 4": 447010,
+        "Black Pearl": 451817,
+        "Phase 2": 447011,
+        "Sapphire": 447016
+      }
+    },
+    "★ Shadow Daggers | Doppler (Minimal Wear)": {
+      "id": 43187,
+      "phase": {
+        "Ruby": 4258611,
+        "Phase 1": 460746,
+        "Phase 3": 3284945,
+        "Phase 4": 2647523,
+        "Black Pearl": 3381135,
+        "Phase 2": 2152098,
+        "Sapphire": 2703204
+      }
+    },
+    "★ StatTrak™ Shadow Daggers | Doppler (Factory New)": {
+      "id": 43866,
+      "phase": {
+        "Ruby": 447102,
+        "Phase 1": 447104,
+        "Phase 3": 459839,
+        "Phase 4": 448177,
+        "Black Pearl": 5767179,
+        "Phase 2": 1290679,
+        "Sapphire": 447103
+      }
+    },
+    "★ StatTrak™ Shadow Daggers | Doppler (Minimal Wear)": {
+      "id": 43867,
+      "phase": {
+        "Ruby": null,
+        "Phase 1": 17746109,
+        "Phase 3": 14993544,
+        "Phase 4": 4575106,
+        "Black Pearl": 6836120,
+        "Phase 2": 7889300,
+        "Sapphire": 3917766
+      }
+    },
+    "★ Shadow Daggers | Gamma Doppler (Factory New)": {
+      "id": 871722,
+      "phase": {
+        "Emerald": 10201949,
+        "Phase 1": 10199520,
+        "Phase 2": 10253212,
+        "Phase 3": 10215310,
+        "Phase 4": 10269043
+      }
+    },
+    "★ Shadow Daggers | Gamma Doppler (Minimal Wear)": {
+      "id": 872136,
+      "phase": {
+        "Emerald": 10611514,
+        "Phase 1": 10587465,
+        "Phase 2": 11086039,
+        "Phase 3": 10643418,
+        "Phase 4": 10477901
+      }
+    },
+    "★ StatTrak™ Shadow Daggers | Gamma Doppler (Factory New)": {
+      "id": 871829,
+      "phase": {
+        "Emerald": 10289185,
+        "Phase 1": 10275206,
+        "Phase 2": 10597895,
+        "Phase 3": 10411403,
+        "Phase 4": 10368054
+      }
+    },
+    "★ StatTrak™ Shadow Daggers | Gamma Doppler (Minimal Wear)": {
+      "id": 872162,
+      "phase": {
+        "Emerald": null,
+        "Phase 1": 10457287,
+        "Phase 2": 13306945,
+        "Phase 3": 10815662,
+        "Phase 4": 13196865
+      }
+    },
+    "★ Ursus Knife | Doppler (Factory New)": {
+      "id": 769438,
+      "phase": {
+        "Ruby": 2186185,
+        "Sapphire": 2154200,
+        "Black Pearl": 2111357,
+        "Phase 1": 2156107,
+        "Phase 2": 2150511,
+        "Phase 3": 2140199,
+        "Phase 4": 2139853
+      }
+    },
+    "★ Ursus Knife | Doppler (Minimal Wear)": {
+      "id": 769545,
+      "phase": {
+        "Ruby": 3132899,
+        "Sapphire": 2912891,
+        "Black Pearl": 4266665,
+        "Phase 1": 2769588,
+        "Phase 2": 2816830,
+        "Phase 3": 3152551,
+        "Phase 4": 3892745
+      }
+    },
+    "★ StatTrak™ Ursus Knife | Doppler (Factory New)": {
+      "id": 769612,
+      "phase": {
+        "Ruby": 3016930,
+        "Sapphire": 2884561,
+        "Black Pearl": 2794639,
+        "Phase 1": 2252998,
+        "Phase 2": 2391558,
+        "Phase 3": 2389907,
+        "Phase 4": 2502422
+      }
+    },
+    "★ StatTrak™ Ursus Knife | Doppler (Minimal Wear)": {
+      "id": 769884,
+      "phase": {
+        "Ruby": 5790762,
+        "Sapphire": 3238571,
+        "Black Pearl": null,
+        "Phase 1": 6436982,
+        "Phase 2": 2819532,
+        "Phase 3": 4889309,
+        "Phase 4": 5017376
+      }
+    },
+    "★ Navaja Knife | Doppler (Factory New)": {
+      "id": 769477,
+      "phase": {
+        "Ruby": 2128286,
+        "Sapphire": 2139688,
+        "Black Pearl": 2170455,
+        "Phase 1": 2156864,
+        "Phase 2": 2155241,
+        "Phase 3": 2208937,
+        "Phase 4": 2172224
+      }
+    },
+    "★ Navaja Knife | Doppler (Minimal Wear)": {
+      "id": 770032,
+      "phase": {
+        "Ruby": 3618572,
+        "Sapphire": 3537101,
+        "Black Pearl": 9404217,
+        "Phase 1": 3454442,
+        "Phase 2": 3467307,
+        "Phase 3": 3521989,
+        "Phase 4": 3524040
+      }
+    },
+    "★ StatTrak™ Navaja Knife | Doppler (Factory New)": {
+      "id": 769637,
+      "phase": {
+        "Ruby": 2836865,
+        "Sapphire": 2315765,
+        "Black Pearl": 6843854,
+        "Phase 1": 3795692,
+        "Phase 2": 2707333,
+        "Phase 3": 3441854,
+        "Phase 4": 3009285
+      }
+    },
+    "★ StatTrak™ Navaja Knife | Doppler (Minimal Wear)": {
+      "id": 769948,
+      "phase": {
+        "Ruby": 2780854,
+        "Sapphire": 11295192,
+        "Black Pearl": 15591383,
+        "Phase 1": 2551579,
+        "Phase 2": 7963004,
+        "Phase 3": 4540961,
+        "Phase 4": 6849685
+      }
+    },
+    "★ Stiletto Knife | Doppler (Factory New)": {
+      "id": 769474,
+      "phase": {
+        "Ruby": 2145319,
+        "Sapphire": 2135495,
+        "Black Pearl": 2141537,
+        "Phase 1": 2221683,
+        "Phase 2": 2155146,
+        "Phase 3": 2143453,
+        "Phase 4": 2159323
+      }
+    },
+    "★ Stiletto Knife | Doppler (Minimal Wear)": {
+      "id": 769515,
+      "phase": {
+        "Ruby": 2996839,
+        "Sapphire": 4734125,
+        "Black Pearl": 4777681,
+        "Phase 1": 5898419,
+        "Phase 2": 2789307,
+        "Phase 3": 3712493,
+        "Phase 4": 3124666
+      }
+    },
+    "★ StatTrak™ Stiletto Knife | Doppler (Factory New)": {
+      "id": 769592,
+      "phase": {
+        "Ruby": 2250190,
+        "Sapphire": 2795160,
+        "Black Pearl": 3431536,
+        "Phase 1": 2730086,
+        "Phase 2": 2624374,
+        "Phase 3": 3087681,
+        "Phase 4": 3356776
+      }
+    },
+    "★ StatTrak™ Stiletto Knife | Doppler (Minimal Wear)": {
+      "id": 770448,
+      "phase": {
+        "Ruby": 8869116,
+        "Sapphire": 11490256,
+        "Black Pearl": null,
+        "Phase 1": 7422719,
+        "Phase 2": 9777385,
+        "Phase 3": 5034631,
+        "Phase 4": 16079219
+      }
+    },
+    "★ Talon Knife | Doppler (Factory New)": {
+      "id": 769500,
+      "phase": {
+        "Ruby": 2160327,
+        "Sapphire": 2310395,
+        "Black Pearl": 2154894,
+        "Phase 1": 2186883,
+        "Phase 2": 2186882,
+        "Phase 3": 2186884,
+        "Phase 4": 2186880
+      }
+    },
+    "★ Talon Knife | Doppler (Minimal Wear)": {
+      "id": 769501,
+      "phase": {
+        "Ruby": 4521651,
+        "Sapphire": 3899914,
+        "Black Pearl": 2432715,
+        "Phase 1": 3216762,
+        "Phase 2": 3356444,
+        "Phase 3": 4396802,
+        "Phase 4": 2528471
+      }
+    },
+    "★ StatTrak™ Talon Knife | Doppler (Factory New)": {
+      "id": 769825,
+      "phase": {
+        "Ruby": 2801956,
+        "Sapphire": 2742839,
+        "Black Pearl": 2495137,
+        "Phase 1": 2575516,
+        "Phase 2": 2741353,
+        "Phase 3": 2362131,
+        "Phase 4": 2428357
+      }
+    },
+    "★ StatTrak™ Talon Knife | Doppler (Minimal Wear)": {
+      "id": 770512,
+      "phase": {
+        "Ruby": 3618223,
+        "Sapphire": 3007225,
+        "Black Pearl": 7228541,
+        "Phase 1": 2988488,
+        "Phase 2": 7064694,
+        "Phase 3": 11270569,
+        "Phase 4": 4680966
+      }
+    }
+  }
