@@ -22440,3 +22440,4 @@
 960377;Sticker | yuurih (Gold) | Copenhagen 2024
 960379;Sticker | nawwk (Gold) | Copenhagen 2024
 960380;Sticker | hades (Gold) | Copenhagen 2024
+960381;Sticker | FalleN (Gold) | Copenhagen 2024
