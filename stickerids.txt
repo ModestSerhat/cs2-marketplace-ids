@@ -7288,3 +7288,4 @@
 19608;hades (Gold) | Copenhagen 2024
 19609;FalleN (Gold) | Copenhagen 2024
 19610;Goofy (Gold) | Copenhagen 2024
+19611;MOUZ (Gold) | Copenhagen 2024
