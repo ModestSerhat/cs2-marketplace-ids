@@ -22441,6 +22441,7 @@
 960379;Sticker | nawwk (Gold) | Copenhagen 2024
 960380;Sticker | hades (Gold) | Copenhagen 2024
 960381;Sticker | FalleN (Gold) | Copenhagen 2024
+960382;Sticker | Goofy (Gold) | Copenhagen 2024
 960881;★ StatTrak™ Kukri Knife | Forest DDPAT (Factory New)
 960883;Sticker | iM (Champion) | Copenhagen 2024
 960884;Sticker | b1t (Champion) | Copenhagen 2024
