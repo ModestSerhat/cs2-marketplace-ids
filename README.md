@@ -8,8 +8,6 @@ Some stickers and patches can have other Sticker/Patch ID-Name pairs with the na
 
 Other items' Pattern Index-Pattern Type pairs will be added in the future such as Marble Fade knives with Fire & Ice patterns and Blue Gem patterns of Case Hardened knives.
 
-With the closure of buff163 for users outside of mainland China, Youpin898 (UU) Item ID-Name pairs will also be added soon along with restructuring of all files to a single JSON to get items' buff163 Goods ID, Youpin898 Goods ID, Applied Sticker ID, Pattern Indices for specific pattern types for specific items and more from a single item name. 
-
 With the closure of buff163 for users outside of mainland China, [Youpin898 (UU)](https://www.youpin898.com/) Item ID-Name pairs will also be added soon along with the restructuring of all files to a single JSON. This will allow users to get items' buff163 Goods ID, Youpin898 Goods ID, Applied Sticker ID, pattern indices for specific pattern types for specific items, and more from a single item name.
 
 ## Contact
