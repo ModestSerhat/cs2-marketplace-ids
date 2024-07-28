@@ -22465,3 +22465,4 @@
 960908;Sticker | iM (Gold, Champion) | Copenhagen 2024
 960909;Sticker | Aleksib (Holo, Champion) | Copenhagen 2024
 960926;★ StatTrak™ Kukri Knife | Crimson Web (Factory New)
+966016;★ StatTrak™ Kukri Knife | Scorched (Factory New)
