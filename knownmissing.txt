@@ -19,9 +19,6 @@ Phase IDs of Doppler phases known to be missing on buff163:
 ★ StatTrak™ M9 Bayonet | Gamma Doppler Emerald (Minimal Wear) (2 seen on CSFloat, can be unboxed from a Gamma/Gamma 2 Case)
 ★ StatTrak™ Shadow Daggers | Gamma Doppler Emerald (Minimal Wear) (2 seen on CSFloat, can be unboxed from a Operation Riptide/Dreams & Nightmares Case)
 
-IDs of items known to be missing on buff163:
-StatTrak™ Dual Berettas | Hydro Strike (Well-Worn) (1 seen on CSFloat, can be unboxed from a Gallery Case)
-
 IDs of items known to be missing on youpin898:
 CZ75-Auto | Poison Dart (Well-Worn)
 Negev | Anodized Navy (Minimal Wear)
