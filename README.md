@@ -6,7 +6,7 @@ Some known missing items and Doppler phases that is seen to exist/not exist whic
 
 Some stickers and patches can have other Sticker/Patch ID-Name pairs on buff163 with the name being the same that have a lower quantity of listings of the same kind of sticker applied (e.g. Rush 4x20 (Holo), CRUC1AL | Paris 2023)<br>
 
-Sticker ID-Name pairs for the new stickers released in The Armory update on buff163 will be added when available.
+Charm ID-Name pairs for the new charms released in The Armory update on buff163 will be added if made available.
 
 Other items' Pattern Index-Pattern Type pairs will be added in the future such as Marble Fade knives with Fire & Ice patterns and Blue Gem patterns of Case Hardened knives.
 

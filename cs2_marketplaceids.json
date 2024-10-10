@@ -97313,11 +97313,13 @@
     },
     "Sticker | Boom Detonation": {
       "buff163_goods_id": 967935,
-      "youpin_id": 109647
+      "youpin_id": 109647,
+      "buff163_sticker_id": 19663
     },
     "Sticker | XD": {
       "buff163_goods_id": 967936,
-      "youpin_id": 109519
+      "youpin_id": 109519,
+      "buff163_sticker_id": 19664
     },
     "AK-47 | The Outsiders (Well-Worn)": {
       "buff163_goods_id": 967937,
@@ -97333,7 +97335,8 @@
     },
     "Sticker | Hydro Stream": {
       "buff163_goods_id": 967940,
-      "youpin_id": 109504
+      "youpin_id": 109504,
+      "buff163_sticker_id": 19665
     },
     "Gallery Case": {
       "buff163_goods_id": 967941,
@@ -97341,15 +97344,18 @@
     },
     "Sticker | Ribbon Tie": {
       "buff163_goods_id": 967943,
-      "youpin_id": 109523
+      "youpin_id": 109523,
+      "buff163_sticker_id": 19666
     },
     "Sticker | Scorch Loop (Reverse)": {
       "buff163_goods_id": 967944,
-      "youpin_id": 109510
+      "youpin_id": 109510,
+      "buff163_sticker_id": 19667
     },
     "Sticker | Bolt Strike": {
       "buff163_goods_id": 967945,
-      "youpin_id": 109512
+      "youpin_id": 109512,
+      "buff163_sticker_id": 19668
     },
     "Charm | Lil' Ava": {
       "buff163_goods_id": 967946,
@@ -97357,27 +97363,33 @@
     },
     "Sticker | Kawaii Eyes (Glitter)": {
       "buff163_goods_id": 967947,
-      "youpin_id": 109509
+      "youpin_id": 109509,
+      "buff163_sticker_id": 19669
     },
     "Sticker | Winding Scorch": {
       "buff163_goods_id": 967948,
-      "youpin_id": 109505
+      "youpin_id": 109505,
+      "buff163_sticker_id": 19670
     },
     "Sticker | Hot Rod Heat": {
       "buff163_goods_id": 967949,
-      "youpin_id": 109534
+      "youpin_id": 109534,
+      "buff163_sticker_id": 19671
     },
     "Sticker | Bolt Energy": {
       "buff163_goods_id": 967950,
-      "youpin_id": 109508
+      "youpin_id": 109508,
+      "buff163_sticker_id": 19672
     },
     "Sticker | Hydro Geyser": {
       "buff163_goods_id": 967951,
-      "youpin_id": 109607
+      "youpin_id": 109607,
+      "buff163_sticker_id": 19673
     },
     "Sticker | Boom Epicenter": {
       "buff163_goods_id": 967952,
-      "youpin_id": 109600
+      "youpin_id": 109600,
+      "buff163_sticker_id": 19674
     },
     "Charm Detachment Pack": {
       "buff163_goods_id": 967954,
@@ -97385,7 +97397,8 @@
     },
     "Sticker | Boom Trail (Glitter)": {
       "buff163_goods_id": 967956,
-      "youpin_id": 109516
+      "youpin_id": 109516,
+      "buff163_sticker_id": 19675
     },
     "SCAR-20 | Trail Blazer (Minimal Wear)": {
       "buff163_goods_id": 967957,
@@ -97393,11 +97406,13 @@
     },
     "Sticker | Bolt Charge (Foil)": {
       "buff163_goods_id": 967958,
-      "youpin_id": 109584
+      "youpin_id": 109584,
+      "buff163_sticker_id": 19676
     },
     "Sticker | Rainbow Route (Holo)": {
       "buff163_goods_id": 967959,
-      "youpin_id": 109663
+      "youpin_id": 109663,
+      "buff163_sticker_id": 19677
     },
     "R8 Revolver | Tango (Field-Tested)": {
       "buff163_goods_id": 967960,
@@ -97409,7 +97424,8 @@
     },
     "Sticker | Boom Detonation (Glitter)": {
       "buff163_goods_id": 967962,
-      "youpin_id": 109507
+      "youpin_id": 109507,
+      "buff163_sticker_id": 19678
     },
     "M249 | Hypnosis (Minimal Wear)": {
       "buff163_goods_id": 967963,
@@ -97417,19 +97433,23 @@
     },
     "Sticker | Ruby Wave (Lenticular)": {
       "buff163_goods_id": 967964,
-      "youpin_id": 109642
+      "youpin_id": 109642,
+      "buff163_sticker_id": 19679
     },
     "Sticker | Boom Blast": {
       "buff163_goods_id": 967965,
-      "youpin_id": 109567
+      "youpin_id": 109567,
+      "buff163_sticker_id": 19680
     },
     "Sticker | Scorch Loop": {
       "buff163_goods_id": 967966,
-      "youpin_id": 109511
+      "youpin_id": 109511,
+      "buff163_sticker_id": 19681
     },
     "Sticker | Bolt Charge": {
       "buff163_goods_id": 967967,
-      "youpin_id": 109530
+      "youpin_id": 109530,
+      "buff163_sticker_id": 19682
     },
     "UMP-45 | Crimson Foil (Well-Worn)": {
       "buff163_goods_id": 967968,
@@ -97441,15 +97461,18 @@
     },
     "Sticker | Boom Blast (Glitter)": {
       "buff163_goods_id": 967970,
-      "youpin_id": 109540
+      "youpin_id": 109540,
+      "buff163_sticker_id": 19683
     },
     "Sticker | Strike A Pose": {
       "buff163_goods_id": 967971,
-      "youpin_id": 109522
+      "youpin_id": 109522,
+      "buff163_sticker_id": 19684
     },
     "Sticker | Flex": {
       "buff163_goods_id": 967972,
-      "youpin_id": 109506
+      "youpin_id": 109506,
+      "buff163_sticker_id": 19685
     },
     "MP5-SD | Neon Squeezer (Well-Worn)": {
       "buff163_goods_id": 967973,
@@ -97457,7 +97480,8 @@
     },
     "Sticker | High Heat": {
       "buff163_goods_id": 967974,
-      "youpin_id": 109518
+      "youpin_id": 109518,
+      "buff163_sticker_id": 19686
     },
     "MP5-SD | Savannah Halftone (Field-Tested)": {
       "buff163_goods_id": 967975,
@@ -97465,7 +97489,8 @@
     },
     "Sticker | Chompers": {
       "buff163_goods_id": 967976,
-      "youpin_id": 109547
+      "youpin_id": 109547,
+      "buff163_sticker_id": 19687
     },
     "P90 | Wash me (Minimal Wear)": {
       "buff163_goods_id": 967977,
@@ -97495,7 +97520,7 @@
       "buff163_goods_id": 967983,
       "youpin_id": 109553
     },
-    "USP-S | 027 (Minimal Wear)": {
+    "USP-S | 27 (Minimal Wear)": {
       "buff163_goods_id": 967984,
       "youpin_id": 109685
     },
@@ -97505,7 +97530,8 @@
     },
     "Sticker | Hypnoteyes (Holo)": {
       "buff163_goods_id": 967986,
-      "youpin_id": 109520
+      "youpin_id": 109520,
+      "buff163_sticker_id": 19688
     },
     "SCAR-20 | Trail Blazer (Field-Tested)": {
       "buff163_goods_id": 967987,
@@ -97513,11 +97539,13 @@
     },
     "Sticker | Blinky": {
       "buff163_goods_id": 967988,
-      "youpin_id": 109541
+      "youpin_id": 109541,
+      "buff163_sticker_id": 19689
     },
     "Sticker | Winding Scorch (Foil)": {
       "buff163_goods_id": 967989,
-      "youpin_id": 109649
+      "youpin_id": 109649,
+      "buff163_sticker_id": 19690
     },
     "MP5-SD | Statics (Minimal Wear)": {
       "buff163_goods_id": 967990,
@@ -97549,7 +97577,8 @@
     },
     "Sticker | Glare": {
       "buff163_goods_id": 967997,
-      "youpin_id": 109682
+      "youpin_id": 109682,
+      "buff163_sticker_id": 19691
     },
     "Five-SeveN | Midnight Paintover (Field-Tested)": {
       "buff163_goods_id": 967998,
@@ -97565,17 +97594,18 @@
     },
     "Sticker | Taste Buddy (Holo)": {
       "buff163_goods_id": 968001,
-      "youpin_id": 109515
+      "youpin_id": 109515,
+      "buff163_sticker_id": 19692
     },
     "SCAR-20 | Trail Blazer (Battle-Scarred)": {
       "buff163_goods_id": 968002,
       "youpin_id": 109560
     },
-    "USP-S | 027 (Battle-Scarred)": {
+    "USP-S | 27 (Battle-Scarred)": {
       "buff163_goods_id": 968003,
       "youpin_id": 109546
     },
-    "StatTrak™ USP-S | 027 (Battle-Scarred)": {
+    "StatTrak™ USP-S | 27 (Battle-Scarred)": {
       "buff163_goods_id": 968004,
       "youpin_id": 109709
     },
@@ -97585,7 +97615,8 @@
     },
     "Sticker | Boom Trail": {
       "buff163_goods_id": 968006,
-      "youpin_id": 109559
+      "youpin_id": 109559,
+      "buff163_sticker_id": 19693
     },
     "M249 | Hypnosis (Field-Tested)": {
       "buff163_goods_id": 968007,
@@ -97601,7 +97632,8 @@
     },
     "Sticker | From The Deep": {
       "buff163_goods_id": 968011,
-      "youpin_id": 109604
+      "youpin_id": 109604,
+      "buff163_sticker_id": 19694
     },
     "Charm | Hot Sauce": {
       "buff163_goods_id": 968012,
@@ -97613,7 +97645,8 @@
     },
     "Sticker | Taste Bud": {
       "buff163_goods_id": 968014,
-      "youpin_id": 109667
+      "youpin_id": 109667,
+      "buff163_sticker_id": 19695
     },
     "StatTrak™ SCAR-20 | Trail Blazer (Field-Tested)": {
       "buff163_goods_id": 968015,
@@ -97621,7 +97654,8 @@
     },
     "Sticker | Boom Epicenter (Glitter)": {
       "buff163_goods_id": 968016,
-      "youpin_id": 109501
+      "youpin_id": 109501,
+      "buff163_sticker_id": 19696
     },
     "MP5-SD | Savannah Halftone (Battle-Scarred)": {
       "buff163_goods_id": 968017,
@@ -97637,7 +97671,8 @@
     },
     "Sticker | Say Cheese (Holo)": {
       "buff163_goods_id": 968020,
-      "youpin_id": 109581
+      "youpin_id": 109581,
+      "buff163_sticker_id": 19697
     },
     "StatTrak™ Desert Eagle | Calligraffiti (Minimal Wear)": {
       "buff163_goods_id": 968021,
@@ -97665,7 +97700,8 @@
     },
     "Sticker | Fly High": {
       "buff163_goods_id": 968027,
-      "youpin_id": 109659
+      "youpin_id": 109659,
+      "buff163_sticker_id": 19698
     },
     "M4A1-S | Vaporwave (Field-Tested)": {
       "buff163_goods_id": 968028,
@@ -97681,7 +97717,8 @@
     },
     "Sticker | Quick Peek": {
       "buff163_goods_id": 968031,
-      "youpin_id": 109513
+      "youpin_id": 109513,
+      "buff163_sticker_id": 19699
     },
     "Nova | Yorkshire (Well-Worn)": {
       "buff163_goods_id": 968032,
@@ -97695,7 +97732,7 @@
       "buff163_goods_id": 968034,
       "youpin_id": 109780
     },
-    "USP-S | 027 (Field-Tested)": {
+    "USP-S | 27 (Field-Tested)": {
       "buff163_goods_id": 968035,
       "youpin_id": 109572
     },
@@ -97725,7 +97762,8 @@
     },
     "Sticker | Hydro Wave": {
       "buff163_goods_id": 968042,
-      "youpin_id": 109517
+      "youpin_id": 109517,
+      "buff163_sticker_id": 19700
     },
     "AUG | Eye of Zapems (Minimal Wear)": {
       "buff163_goods_id": 968043,
@@ -97737,7 +97775,8 @@
     },
     "Sticker | Clown Wig": {
       "buff163_goods_id": 968045,
-      "youpin_id": 109568
+      "youpin_id": 109568,
+      "buff163_sticker_id": 19701
     },
     "StatTrak™ MP5-SD | Statics (Minimal Wear)": {
       "buff163_goods_id": 968046,
@@ -97813,7 +97852,8 @@
     },
     "Sticker | Lefty (T)": {
       "buff163_goods_id": 968065,
-      "youpin_id": 109601
+      "youpin_id": 109601,
+      "buff163_sticker_id": 19702
     },
     "Tec-9 | Tiger Stencil (Factory New)": {
       "buff163_goods_id": 968066,
@@ -97833,7 +97873,8 @@
     },
     "Sticker | Bolt Energy (Foil)": {
       "buff163_goods_id": 968070,
-      "youpin_id": 109526
+      "youpin_id": 109526,
+      "buff163_sticker_id": 19703
     },
     "AK-47 | The Outsiders (Minimal Wear)": {
       "buff163_goods_id": 968072,
@@ -97853,7 +97894,8 @@
     },
     "Sticker | Clown Nose": {
       "buff163_goods_id": 968076,
-      "youpin_id": 109514
+      "youpin_id": 109514,
+      "buff163_sticker_id": 19704
     },
     "AK-47 | Olive Polycam (Well-Worn)": {
       "buff163_goods_id": 968077,
@@ -97897,13 +97939,14 @@
     },
     "Sticker | From The Deep (Glitter)": {
       "buff163_goods_id": 968087,
-      "youpin_id": 109675
+      "youpin_id": 109675,
+      "buff163_sticker_id": 19705
     },
     "Galil AR | Rainbow Spoon (Well-Worn)": {
       "buff163_goods_id": 968088,
       "youpin_id": 109617
     },
-    "USP-S | 027 (Factory New)": {
+    "USP-S | 27 (Factory New)": {
       "buff163_goods_id": 968089,
       "youpin_id": 109651
     },
@@ -98039,7 +98082,7 @@
       "buff163_goods_id": 968123,
       "youpin_id": 109612
     },
-    "USP-S | 027 (Well-Worn)": {
+    "USP-S | 27 (Well-Worn)": {
       "buff163_goods_id": 968124,
       "youpin_id": 109602
     },
@@ -98057,7 +98100,8 @@
     },
     "Sticker | Lefty (CT)": {
       "buff163_goods_id": 968128,
-      "youpin_id": 109537
+      "youpin_id": 109537,
+      "buff163_sticker_id": 19706
     },
     "Charm | Lil' SAS": {
       "buff163_goods_id": 968129,
@@ -98073,7 +98117,8 @@
     },
     "Sticker | Googly Eye (Lenticular)": {
       "buff163_goods_id": 968132,
-      "youpin_id": 109623
+      "youpin_id": 109623,
+      "buff163_sticker_id": 19707
     },
     "SSG 08 | Zeno (Minimal Wear)": {
       "buff163_goods_id": 968133,
@@ -98225,7 +98270,8 @@
     },
     "Sticker | Gold Teef (Foil)": {
       "buff163_goods_id": 968171,
-      "youpin_id": 109707
+      "youpin_id": 109707,
+      "buff163_sticker_id": 19708
     },
     "Charm | Lil' Squatch": {
       "buff163_goods_id": 968172,
@@ -98317,7 +98363,8 @@
     },
     "Sticker | Red Shades (Foil)": {
       "buff163_goods_id": 968194,
-      "youpin_id": 109648
+      "youpin_id": 109648,
+      "buff163_sticker_id": 19709
     },
     "MP7 | Astrolabe (Well-Worn)": {
       "buff163_goods_id": 968195,
@@ -98477,7 +98524,8 @@
     },
     "Sticker | Bolt Strike (Foil)": {
       "buff163_goods_id": 968234,
-      "youpin_id": 109665
+      "youpin_id": 109665,
+      "buff163_sticker_id": 19710
     },
     "SSG 08 | Halftone Whorl (Minimal Wear)": {
       "buff163_goods_id": 968235,
@@ -98635,7 +98683,7 @@
       "buff163_goods_id": 968273,
       "youpin_id": 109813
     },
-    "StatTrak™ USP-S | 027 (Minimal Wear)": {
+    "StatTrak™ USP-S | 27 (Minimal Wear)": {
       "buff163_goods_id": 968275,
       "youpin_id": 109879
     },
@@ -98729,7 +98777,8 @@
     },
     "Sticker | Mustachio (Foil)": {
       "buff163_goods_id": 968299,
-      "youpin_id": 109851
+      "youpin_id": 109851,
+      "buff163_sticker_id": 19711
     },
     "Dual Berettas | Hydro Strike (Minimal Wear)": {
       "buff163_goods_id": 968300,
@@ -98759,7 +98808,7 @@
       "buff163_goods_id": 968306,
       "youpin_id": 109787
     },
-    "StatTrak™ USP-S | 027 (Well-Worn)": {
+    "StatTrak™ USP-S | 27 (Well-Worn)": {
       "buff163_goods_id": 968307,
       "youpin_id": 109784
     },
@@ -98771,7 +98820,7 @@
       "buff163_goods_id": 968309,
       "youpin_id": 109729
     },
-    "StatTrak™ USP-S | 027 (Field-Tested)": {
+    "StatTrak™ USP-S | 27 (Field-Tested)": {
       "buff163_goods_id": 968310,
       "youpin_id": 109715
     },
@@ -98853,7 +98902,8 @@
     },
     "Sticker | Side Eyes (Lenticular)": {
       "buff163_goods_id": 968331,
-      "youpin_id": 109899
+      "youpin_id": 109899,
+      "buff163_sticker_id": 19712
     },
     "Glock-18 | AXIA (Factory New)": {
       "buff163_goods_id": 968332,
@@ -98925,7 +98975,8 @@
     },
     "Sticker | Ruby Stream (Lenticular)": {
       "buff163_goods_id": 968350,
-      "youpin_id": 109785
+      "youpin_id": 109785,
+      "buff163_sticker_id": 19713
     },
     "Glock-18 | Teal Graf (Battle-Scarred)": {
       "buff163_goods_id": 968351,
@@ -98991,7 +99042,7 @@
       "buff163_goods_id": 968366,
       "youpin_id": 109969
     },
-    "StatTrak™ USP-S | 027 (Factory New)": {
+    "StatTrak™ USP-S | 27 (Factory New)": {
       "buff163_goods_id": 968367,
       "youpin_id": 109981
     },
