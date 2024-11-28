@@ -15218,7 +15218,8 @@
       "youpin_id": 56692
     },
     "Souvenir G3SG1 | Jungle Dashed (Factory New)": {
-      "buff163_goods_id": 37644
+      "buff163_goods_id": 37644,
+      "youpin_id": 109999
     },
     "Souvenir G3SG1 | Jungle Dashed (Field-Tested)": {
       "buff163_goods_id": 37645,
@@ -99340,6 +99341,975 @@
     "StatTrak™ Dual Berettas | Hydro Strike (Well-Worn)": {
       "buff163_goods_id": 968485,
       "youpin_id": 109982
+    },
+    "Sticker | floppy (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114457
+    },
+    "Sticker | chelo | Shanghai 2024": {
+      "buff163_goods_id": 1114458
+    },
+    "Sticker | blameF (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114459
+    },
+    "Sticker | Senzu | Shanghai 2024": {
+      "buff163_goods_id": 1114460
+    },
+    "Sticker | hallzerk (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114461
+    },
+    "Sticker | Volt (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114463
+    },
+    "Sticker | TRY (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114464
+    },
+    "Sticker | skullz | Shanghai 2024": {
+      "buff163_goods_id": 1114465
+    },
+    "Sticker | yuurih | Shanghai 2024": {
+      "buff163_goods_id": 1114467
+    },
+    "Sticker | jackasmo (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114468
+    },
+    "Sticker | fEAR (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114469
+    },
+    "Sticker | Liazz (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114470
+    },
+    "Sticker | Rare Atom (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114471
+    },
+    "Sticker | insani (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114473
+    },
+    "Sticker | GamerLegion (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114474
+    },
+    "Sticker | Heavygod | Shanghai 2024": {
+      "buff163_goods_id": 1114475
+    },
+    "Sticker | decenty (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114476
+    },
+    "Sticker | sh1ro (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114478
+    },
+    "Sticker | mzinho (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114479
+    },
+    "Sticker | YEKINDAR (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114480
+    },
+    "Sticker | ICY (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114481
+    },
+    "Sticker | decenty (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114482
+    },
+    "StatTrak™ Music Kit | Perfect World, Ay Hey": {
+      "buff163_goods_id": 1114483
+    },
+    "Sticker | blameF | Shanghai 2024": {
+      "buff163_goods_id": 1114484
+    },
+    "Sticker | Liazz (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114485
+    },
+    "Sticker | YEKINDAR | Shanghai 2024": {
+      "buff163_goods_id": 1114487
+    },
+    "Sticker | Team Liquid | Shanghai 2024": {
+      "buff163_goods_id": 1114488
+    },
+    "Sticker | BIG (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114489
+    },
+    "Sticker | torzsi (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114490
+    },
+    "Sticker | exit (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114492
+    },
+    "Sticker | biguzera (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114493
+    },
+    "Sticker | iM (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114494
+    },
+    "Sticker | ChildKing (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114495
+    },
+    "Sticker | Wildcard (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114496
+    },
+    "Sticker | G2 Esports (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114497
+    },
+    "Sticker | FlyQuest (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114498
+    },
+    "Sticker | jambo (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114499
+    },
+    "Sticker | INS (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114500
+    },
+    "Sticker | skullz (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114501
+    },
+    "Sticker | Brollan (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114502
+    },
+    "Sticker | MOUZ (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114503
+    },
+    "Sticker | Kaze (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114504
+    },
+    "Sticker | fame | Shanghai 2024": {
+      "buff163_goods_id": 1114505
+    },
+    "Sticker | Volt (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114506
+    },
+    "Sticker | lux | Shanghai 2024": {
+      "buff163_goods_id": 1114507
+    },
+    "Sticker | biguzera | Shanghai 2024": {
+      "buff163_goods_id": 1114508
+    },
+    "Sticker | exit (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114509
+    },
+    "Sticker | Jame | Shanghai 2024": {
+      "buff163_goods_id": 1114510
+    },
+    "Sticker | Aleksib (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114511
+    },
+    "Sticker | somebody (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114512
+    },
+    "Sticker | Perfecto (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114513
+    },
+    "Sticker | Boombl4 (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114514
+    },
+    "Sticker | snow | Shanghai 2024": {
+      "buff163_goods_id": 1114515
+    },
+    "Sticker | The MongolZ | Shanghai 2024": {
+      "buff163_goods_id": 1114516
+    },
+    "Sticker | lux (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114517
+    },
+    "Sticker | Fnatic | Shanghai 2024": {
+      "buff163_goods_id": 1114518
+    },
+    "Sticker | ultimate (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114519
+    },
+    "Sticker | kauez (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114520
+    },
+    "Sticker | Complexity Gaming | Shanghai 2024": {
+      "buff163_goods_id": 1114521
+    },
+    "Sticker | Jimpphat (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114522
+    },
+    "Sticker | hallzerk | Shanghai 2024": {
+      "buff163_goods_id": 1114523
+    },
+    "Sticker | vexite (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114525
+    },
+    "Sticker | HEROIC (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114526
+    },
+    "Sticker | Twistzz | Shanghai 2024": {
+      "buff163_goods_id": 1114527
+    },
+    "Sticker | insani (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114528
+    },
+    "Sticker | lux (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114529
+    },
+    "Sticker | TeSeS (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114530
+    },
+    "Sticker | ultimate | Shanghai 2024": {
+      "buff163_goods_id": 1114531
+    },
+    "Sticker | Aleksib (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114532
+    },
+    "Sticker | NiKo (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114533
+    },
+    "Sticker | chopper (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114534
+    },
+    "Sticker | chopper (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114535
+    },
+    "Sticker | malbsMd (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114536
+    },
+    "Sticker | MIBR (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114537
+    },
+    "Sticker | Summer (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114538
+    },
+    "Sticker | m0NESY (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114539
+    },
+    "Sticker | kauez | Shanghai 2024": {
+      "buff163_goods_id": 1114540
+    },
+    "Sticker | degster (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114541
+    },
+    "Sticker | TeSeS (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114542
+    },
+    "Sticker | Lucky (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114543
+    },
+    "Sticker | apEX (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114544
+    },
+    "Sticker | Perfect World (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114545
+    },
+    "Sticker | sl3nd (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114546
+    },
+    "Sticker | VINI (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114547
+    },
+    "Sticker | noway (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114548
+    },
+    "Sticker | NQZ (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114549
+    },
+    "Sticker | snow (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114550
+    },
+    "Sticker | broky (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114551
+    },
+    "Sticker | MIBR (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114552
+    },
+    "Sticker | The MongolZ (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114553
+    },
+    "Sticker | Team Liquid (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114554
+    },
+    "Shanghai 2024 Challengers Sticker Capsule": {
+      "buff163_goods_id": 1114555
+    },
+    "Sticker | BIG (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114559
+    },
+    "Sticker | paiN Gaming | Shanghai 2024": {
+      "buff163_goods_id": 1114560
+    },
+    "Sticker | FURIA (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114569
+    },
+    "Sticker | ultimate (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114575
+    },
+    "Sticker | Virtus.pro (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114588
+    },
+    "Sticker | zont1x (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114600
+    },
+    "Sticker | sl3nd (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114601
+    },
+    "Sticker | bodyy | Shanghai 2024": {
+      "buff163_goods_id": 1114602
+    },
+    "Sticker | noway (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114603
+    },
+    "Sticker | Complexity Gaming (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114604
+    },
+    "Sticker | Sonic (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114605
+    },
+    "Sticker | Boombl4 (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114606
+    },
+    "Sticker | vexite (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114607
+    },
+    "Sticker | INS (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114608
+    },
+    "Sticker | FlameZ (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114609
+    },
+    "Sticker | ZywOo (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114610
+    },
+    "Sticker | huNter- (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114611
+    },
+    "Sticker | saffee (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114612
+    },
+    "Sticker | ropz (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114613
+    },
+    "Shanghai 2024 Viewer Pass": {
+      "buff163_goods_id": 1114614
+    },
+    "Sticker | GamerLegion (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114615
+    },
+    "Sticker | kyxsan (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114616
+    },
+    "Sticker | noway (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114617
+    },
+    "Sticker | donk (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114618
+    },
+    "Sticker | Virtus.pro (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114619
+    },
+    "Sticker | Krimbo | Shanghai 2024": {
+      "buff163_goods_id": 1114620
+    },
+    "Sticker | mzinho | Shanghai 2024": {
+      "buff163_goods_id": 1114621
+    },
+    "Sticker | KRIMZ | Shanghai 2024": {
+      "buff163_goods_id": 1114622
+    },
+    "Sticker | electronic (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114624
+    },
+    "Sticker | Kaze (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114625
+    },
+    "Sticker | Ax1Le (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114626
+    },
+    "Sticker | Heavygod (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114627
+    },
+    "Sticker | jackasmo (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114628
+    },
+    "Sticker | Perfecto (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114629
+    },
+    "Sticker | Graviti (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114630
+    },
+    "Sticker | KRIMZ (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114631
+    },
+    "Sticker | JDC (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114632
+    },
+    "Sticker | n0rb3r7 (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114633
+    },
+    "Sticker | rigoN (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114634
+    },
+    "Sticker | fame (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114635
+    },
+    "Sticker | Senzu (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114636
+    },
+    "Sticker | Sonic (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114637
+    },
+    "Sticker | Techno4K (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114638
+    },
+    "Sticker | bLitz (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114639
+    },
+    "Sticker | NQZ (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114640
+    },
+    "Sticker | Wildcard (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114642
+    },
+    "Sticker | aliStair (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114643
+    },
+    "Sticker | GamerLegion (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114644
+    },
+    "Sticker | INS (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114645
+    },
+    "Sticker | torzsi (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114646
+    },
+    "Sticker | drop (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114647
+    },
+    "Sticker | stanislaw (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114648
+    },
+    "Sticker | Maka (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114649
+    },
+    "Sticker | The MongolZ (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114650
+    },
+    "Sticker | Jame (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114651
+    },
+    "Sticker | karrigan (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114652
+    },
+    "Sticker | paiN Gaming (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114653
+    },
+    "Sticker | saffee (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114654
+    },
+    "Sticker | ztr (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114655
+    },
+    "Sticker | Brollan (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114656
+    },
+    "Sticker | w0nderful (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114657
+    },
+    "Sticker | Ex3rcice (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114658
+    },
+    "Sticker | JBa (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114659
+    },
+    "Sticker | Team Liquid (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114660
+    },
+    "Sticker | sh1ro (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114661
+    },
+    "Shanghai 2024 Viewer Pass + 3 Souvenir Tokens": {
+      "buff163_goods_id": 1114662
+    },
+    "Sticker | vexite (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114663
+    },
+    "Sticker | YEKINDAR (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114664
+    },
+    "Sticker | jL (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114665
+    },
+    "Sticker | jambo (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114666
+    },
+    "Sticker | FalleN (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114667
+    },
+    "Sticker | MATYS (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114668
+    },
+    "Sticker | stanislaw (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114669
+    },
+    "Sticker | jks (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114670
+    },
+    "Sticker | mzinho (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114671
+    },
+    "Sticker | syrsoN (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114672
+    },
+    "Sticker | Heavygod (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114673
+    },
+    "Sticker | Lucaozy (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114674
+    },
+    "Sticker | ChildKing (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114675
+    },
+    "Sticker | Passion UA (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114676
+    },
+    "Sticker | syrsoN (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114677
+    },
+    "Sticker | Boombl4 (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114678
+    },
+    "Sticker | Natus Vincere (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114679
+    },
+    "Sticker | Lucky (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114680
+    },
+    "Sticker | Rare Atom (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114681
+    },
+    "Sticker | dexter (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114682
+    },
+    "Sticker | s-chilla (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114683
+    },
+    "Sticker | YEKINDAR (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114684
+    },
+    "Sticker | n0rb3r7 (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114685
+    },
+    "Sticker | FURIA (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114686
+    },
+    "Sticker | Jimpphat (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114687
+    },
+    "Sticker | NAF (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114688
+    },
+    "Sticker | exit (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114689
+    },
+    "Sticker | kauez (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114690
+    },
+    "Sticker | 3DMAX (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114691
+    },
+    "Sticker | s-chilla (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114692
+    },
+    "Sticker | ICY (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114693
+    },
+    "Sticker | apEX (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114694
+    },
+    "Sticker | L1haNg (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114695
+    },
+    "Sticker | Imperial Esports (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114696
+    },
+    "Sticker | Vitality (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114697
+    },
+    "Sticker | HEROIC (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114698
+    },
+    "Sticker | Fnatic (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114699
+    },
+    "Sticker | Team Spirit (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114700
+    },
+    "Sticker | zeRRoFIX (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114701
+    },
+    "Sticker | biguzera (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114702
+    },
+    "Sticker | Natus Vincere (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114703
+    },
+    "Sticker | Maka (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114704
+    },
+    "Sticker | Volt (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114705
+    },
+    "Sticker | drop (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114706
+    },
+    "Sticker | Spinx (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114707
+    },
+    "Sticker | yuurih (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114708
+    },
+    "Sticker | 910 (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114709
+    },
+    "Sticker | susp (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114710
+    },
+    "Sticker | FlyQuest (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114711
+    },
+    "Sticker | Cloud9 (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114712
+    },
+    "Sticker | chelo (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114713
+    },
+    "Sticker | tabseN (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114714
+    },
+    "Sticker | fame (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114715
+    },
+    "Sticker | bLitz (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114716
+    },
+    "Sticker | snow (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114717
+    },
+    "Sticker | BIG (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114718
+    },
+    "Sticker | b1t (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114719
+    },
+    "Sticker | fEAR (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114720
+    },
+    "Sticker | TRY (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114721
+    },
+    "Sticker | MOUZ (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114722
+    },
+    "Sticker | aliStair (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114723
+    },
+    "Sticker | Grim (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114724
+    },
+    "Sticker | Complexity Gaming (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114725
+    },
+    "Sticker | Passion UA (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114726
+    },
+    "Sticker | paiN Gaming (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114727
+    },
+    "Sticker | JT (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114728
+    },
+    "Sticker | rain (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114729
+    },
+    "Sticker | sjuush (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114730
+    },
+    "Sticker | malbsMd (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114731
+    },
+    "Sticker | skullz (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114732
+    },
+    "Sticker | felps (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114733
+    },
+    "Sticker | somebody (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114734
+    },
+    "Sticker | bodyy (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114735
+    },
+    "Sticker | ropz (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114736
+    },
+    "Sticker | s-chilla (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114737
+    },
+    "Sticker | susp (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114738
+    },
+    "Sticker | Summer (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114739
+    },
+    "Sticker | sl3nd (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114740
+    },
+    "Sticker | Heavygod (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114741
+    },
+    "Sticker | Fnatic (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114742
+    },
+    "Sticker | Team Liquid (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114743
+    },
+    "Sticker | Twistzz (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114744
+    },
+    "Sticker | Jame (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114746
+    },
+    "Sticker | Krimbo (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114747
+    },
+    "Sticker | NAF (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114748
+    },
+    "Sticker | somebody (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114749
+    },
+    "Sticker | Twistzz (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114750
+    },
+    "Sticker | bLitz (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114751
+    },
+    "Sticker | ztr (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114752
+    },
+    "Sticker | zeRRoFIX (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114753
+    },
+    "Sticker | afro (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114754
+    },
+    "Sticker | Jame (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114755
+    },
+    "Sticker | FL1T (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114756
+    },
+    "Sticker | JDC (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114757
+    },
+    "Sticker | biguzera (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114758
+    },
+    "Sticker | EliGE (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114759
+    },
+    "Sticker | MATYS (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114760
+    },
+    "Sticker | floppy (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114761
+    },
+    "Sticker | Ax1Le (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114763
+    },
+    "Sticker | hallzerk (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114764
+    },
+    "Sticker | stanislaw (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114765
+    },
+    "Sticker | paiN Gaming (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114766
+    },
+    "Sticker | dexter (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114767
+    },
+    "Sticker | tabseN (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114768
+    },
+    "Sticker | Summer (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114769
+    },
+    "Sticker | FalleN (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114770
+    },
+    "Sticker | aNdu (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114771
+    },
+    "Sticker | blameF (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114772
+    },
+    "Sticker | jackasmo (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114773
+    },
+    "Sticker | frozen (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114774
+    },
+    "Sticker | KSCERATO (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114775
+    },
+    "Sticker | insani (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114776
+    },
+    "Sticker | NQZ (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114777
+    },
+    "Sticker | VINI (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114778
+    },
+    "Sticker | FL4MUS (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114779
+    },
+    "Sticker | Kaze (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114780
+    },
+    "Sticker | yuurih (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114781
+    },
+    "Sticker | Liazz (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114782
+    },
+    "Sticker | Complexity Gaming (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114783
+    },
+    "Sticker | aNdu (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114784
+    },
+    "Sticker | The MongolZ (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114785
+    },
+    "Sticker | FURIA (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114786
+    },
+    "Sticker | Grim (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114787
+    },
+    "Sticker | snow (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114788
+    },
+    "Sticker | Grim (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114789
+    },
+    "Sticker | rigoN (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114790
+    },
+    "Sticker | Twistzz (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114791
+    },
+    "Sticker | phzy (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114792
+    },
+    "Sticker | kauez (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114793
+    },
+    "Sticker | Krimbo (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114794
+    },
+    "Sticker | Techno4K (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114795
+    },
+    "Sticker | JT (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114796
+    },
+    "Sticker | mzinho (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114797
+    },
+    "Sticker | skullz (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114798
+    },
+    "Sticker | JBa (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114799
+    },
+    "Sticker | afro (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114800
+    },
+    "Sticker | FL1T (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114801
+    },
+    "Sticker | jks (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114802
+    },
+    "Sticker | Techno4K (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114803
+    },
+    "Sticker | Virtus.pro (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114804
+    },
+    "Sticker | 910 (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114805
+    },
+    "Sticker | chelo (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114806
+    },
+    "Sticker | hallzerk (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114807
+    },
+    "Sticker | Krimbo (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114808
+    },
+    "Sticker | KRIMZ (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114809
+    },
+    "Sticker | FalleN (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114810
+    },
+    "Sticker | yuurih (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114812
+    },
+    "Sticker | TRY (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114813
+    },
+    "Sticker | KRIMZ (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114815
+    },
+    "Sticker | ultimate (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114816
+    },
+    "Sticker | chelo (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114818
+    },
+    "Sticker | L1haNg (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114819
+    },
+    "Sticker | KSCERATO (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114820
+    },
+    "Sticker | syrsoN (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114821
+    },
+    "Sticker | EliGE (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114822
+    },
+    "Sticker | Senzu (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114823
+    },
+    "Sticker | lux (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114824
+    },
+    "Sticker | fame (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114825
+    },
+    "Sticker | electronic (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114826
+    },
+    "Sticker | Senzu (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114827
+    },
+    "Sticker | NAF (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114828
+    },
+    "Sticker | rigoN (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114829
+    },
+    "Sticker | bodyy (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114830
+    },
+    "Sticker | MATYS (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114833
+    },
+    "Sticker | tabseN (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114834
     },
     "Sticker | kioShiMa (Gold) | Atlanta 2017": {
       "buff163_sticker_id": 3326
