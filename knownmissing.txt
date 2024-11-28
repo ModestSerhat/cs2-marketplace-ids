@@ -23,7 +23,6 @@ IDs of items known to be missing on youpin898:
 CZ75-Auto | Poison Dart (Well-Worn)
 Negev | Anodized Navy (Minimal Wear)
 Souvenir AUG | Condemned (Battle-Scarred)
-Souvenir G3SG1 | Jungle Dashed (Factory New)
 Souvenir G3SG1 | VariCamo (Well-Worn)
 Souvenir Galil AR | Sage Spray (Factory New)
 Souvenir Galil AR | VariCamo (Well-Worn)
