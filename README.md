@@ -2,7 +2,7 @@
 
 Most tradable CS2 in-game items' Name/ID pairs from various item marketplaces such as [buff163](https://buff.163.com) and [Youpin898 (UU)](https://www.youpin898.com/) can be found here including [Shanghai 2024](https://store.steampowered.com/news/app/730/view/4472732402493426409), [The Armory](https://store.steampowered.com/sale/armory) and [Masterminds 2 Music Kit Box](https://store.steampowered.com/news/app/730/view/4273439871236872890) items. All items' Goods IDs, Applied Sticker IDs (including exclusively pre-applied stickers), Applied Patch IDs, Doppler Phase IDs and some items' pattern tiers can be found within a single JSON file.<br>
 
-Most missing items from the Shanghai 2024 Major will be added when their goods/sticker IDs are registered on both buff163 and Youpin898.
+Some upcoming items (Souvenir Packages, Champions Autographs Stickers and Capsule) and sticker IDs from the Shanghai 2024 Major will be added when registered on both buff163 and Youpin898.
 
 Some known missing items and Doppler phases that is seen to exist/not exist which aren't registered on buff163 and Youpin898 are also listed here.<br>
 
