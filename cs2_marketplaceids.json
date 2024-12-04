@@ -1961,7 +1961,8 @@
       "youpin_id": 49246
     },
     "CZ75-Auto | Poison Dart (Well-Worn)": {
-      "buff163_goods_id": 34311
+      "buff163_goods_id": 34311,
+      "youpin_id": 110599
     },
     "CZ75-Auto | Pole Position (Battle-Scarred)": {
       "buff163_goods_id": 34312,
@@ -16455,7 +16456,8 @@
       "youpin_id": 58929
     },
     "Souvenir PP-Bizon | Night Ops (Well-Worn)": {
-      "buff163_goods_id": 37955
+      "buff163_goods_id": 37955,
+      "youpin_id": 110600
     },
     "Souvenir PP-Bizon | Sand Dashed (Battle-Scarred)": {
       "buff163_goods_id": 37956,
@@ -58501,7 +58503,8 @@
       "youpin_id": 55517
     },
     "Souvenir P90 | Glacier Mesh (Factory New)": {
-      "buff163_goods_id": 772934
+      "buff163_goods_id": 772934,
+      "youpin_id": 110601
     },
     "★ StatTrak™ Karambit | Safari Mesh (Factory New)": {
       "buff163_goods_id": 773078
