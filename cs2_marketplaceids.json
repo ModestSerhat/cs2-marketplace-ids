@@ -100411,11 +100411,6 @@
       "youpin_id": 110355,
       "buff163_sticker_id": 129243
     },
-    "Sticker | Lucaozy (Holo) | Shanghai 2024": {
-      "buff163_goods_id": 1114283,
-      "youpin_id": 110357,
-      "buff163_sticker_id": 129244
-    },
     "Sticker | Techno4K | Shanghai 2024": {
       "buff163_goods_id": 1114285,
       "youpin_id": 110353,
@@ -100480,11 +100475,6 @@
       "buff163_goods_id": 1114309,
       "youpin_id": 110038,
       "buff163_sticker_id": 129257
-    },
-    "Sticker | Lucaozy | Shanghai 2024": {
-      "buff163_goods_id": 1114311,
-      "youpin_id": 110067,
-      "buff163_sticker_id": 129258
     },
     "Sticker | floppy | Shanghai 2024": {
       "buff163_goods_id": 1114313,
@@ -100608,11 +100598,6 @@
       "buff163_goods_id": 1114436,
       "youpin_id": 110496,
       "buff163_sticker_id": 129281
-    },
-    "Sticker | Lucaozy (Glitter) | Shanghai 2024": {
-      "buff163_goods_id": 1114437,
-      "youpin_id": 110364,
-      "buff163_sticker_id": 129282
     },
     "Sticker | Wildcard (Glitter) | Shanghai 2024": {
       "buff163_goods_id": 1114439,
@@ -101505,11 +101490,6 @@
       "youpin_id": 110436,
       "buff163_sticker_id": 129457
     },
-    "Sticker | Lucaozy (Gold) | Shanghai 2024": {
-      "buff163_goods_id": 1114674,
-      "youpin_id": 110547,
-      "buff163_sticker_id": 129458
-    },
     "Sticker | ChildKing (Holo) | Shanghai 2024": {
       "buff163_goods_id": 1114675,
       "youpin_id": 110432,
@@ -102312,6 +102292,22 @@
     "Shanghai 2024 Inferno Souvenir Package": {
       "buff163_goods_id": 1114857,
       "youpin_id": 110597
+    },
+    "Sticker | brnz4n | Shanghai 2024": {
+      "buff163_goods_id": 1114882,
+      "youpin_id": 110603
+    },
+    "Sticker | brnz4n (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1114883,
+      "youpin_id": 110604
+    },
+    "Sticker | brnz4n (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1114884,
+      "youpin_id": 110605
+    },
+    "Sticker | brnz4n (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1114885,
+      "youpin_id": 110606
     },
     "Sticker | kioShiMa (Gold) | Atlanta 2017": {
       "buff163_sticker_id": 3326
