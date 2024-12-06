@@ -102295,19 +102295,23 @@
     },
     "Sticker | brnz4n | Shanghai 2024": {
       "buff163_goods_id": 1114882,
-      "youpin_id": 110603
+      "youpin_id": 110603,
+      "buff163_sticker_id": 129258
     },
     "Sticker | brnz4n (Glitter) | Shanghai 2024": {
       "buff163_goods_id": 1114883,
-      "youpin_id": 110604
+      "youpin_id": 110604,
+      "buff163_sticker_id": 129282
     },
     "Sticker | brnz4n (Holo) | Shanghai 2024": {
       "buff163_goods_id": 1114884,
-      "youpin_id": 110605
+      "youpin_id": 110605,
+      "buff163_sticker_id": 129244
     },
     "Sticker | brnz4n (Gold) | Shanghai 2024": {
       "buff163_goods_id": 1114885,
-      "youpin_id": 110606
+      "youpin_id": 110606,
+      "buff163_sticker_id": 129458
     },
     "Sticker | kioShiMa (Gold) | Atlanta 2017": {
       "buff163_sticker_id": 3326
