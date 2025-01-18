@@ -16,9 +16,14 @@ Some stickers and patches can have other Sticker/Patch ID-Name pairs on buff163 
 * Item Name/ID pairs and possibly Sticker Name/ID pairs for:
     - [cs.money](https://cs.money/)
     - [buff.market](https://buff.market/)
+* Charm Pattern Index Range-Type Pairs and Charm Pattern Related Paintseed Group IDs
 
 ## Contact
 
 If there are missing item/sticker/pattern ID pairs in the JSON file or there is another type of problem, feel free to contact me at:<br>
 [@mdstsrht on Twitter/X](https://twitter.com/mdstsrht)<br>
 [@mdstsrht on mastodon.social](https://mastodon.social/@mdstsrht)
+
+## License
+
+This package is released under the MIT license. See [LICENSE](https://github.com/modestserhat/cs2-marketplace-ids/LICENSE) for details.
