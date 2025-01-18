@@ -5,7 +5,6 @@ Souvenir R8 Revolver | Bone Mask (Well-Worn) (0 registered on FloatDB, can be un
 Souvenir R8 Revolver | Bone Mask (Battle-Scarred) (0 registered on FloatDB, can be unboxed from a DreamHack 2013/Katowice 2014 Souvenir Package)
 ★ StatTrak™ Ursus Knife | Boreal Forest (Factory New) (1 registered on FloatDB, can be unboxed from a Danger Zone/Horizon Case)
 ★ StatTrak™ Classic Knife | Urban Masked (Factory New) (0 registered on FloatDB, can be unboxed from a CS20 Case)
-★ StatTrak™ Kukri Knife | Night Stripe (Factory New) (2 registered on FloatDB, can be unboxed from a Kilowatt/Gallery Case)
 
 Phase IDs of Doppler phases known to be missing on buff163:
 ★ StatTrak™ M9 Bayonet | Doppler Black Pearl (Minimal Wear) (0 registered on FloatDB, can be unboxed from a Chroma/Chroma 2/Chroma 3 Case)

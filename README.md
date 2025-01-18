@@ -6,12 +6,19 @@ Some known missing items and Doppler phases that is seen to exist/not exist whic
 
 Some stickers and patches can have other Sticker/Patch ID-Name pairs on buff163 with the name being the same that have a lower quantity of listings of the same kind of sticker applied (e.g. Rush 4x20 (Holo), CRUC1AL | Paris 2023)<br>
 
-Charm ID-Name pairs for the new charms released in The Armory update on buff163 will be added if made available.
+## Features to be added
 
-Other items' Pattern Index-Pattern Type pairs will be added in the future such as Marble Fade knives with Fire & Ice patterns and Blue Gem patterns of Case Hardened knives.
+* Pattern Index-Type Pairs and Pattern Related Paintseed Group IDs/Tag IDs for:
+    - Marble Fade Knives with Fire & Ice patterns (Gut, Bayonet, Flip, Karambit, Talon)
+    - Five-SeveN | Kami special patterns (Smile Face, Muscle Man, Togepi etc.)
+    - Case Hardened Knives with Blue Gem patterns
+    - Specialist Gloves | Crimson Kimono with Red patterns
+* Item Name/ID pairs and possibly Sticker Name/ID pairs for:
+    - [cs.money](https://cs.money/)
+    - [buff.market](https://buff.market/)
 
 ## Contact
 
-If there are missing item/sticker/pattern pairs in the txt files or another type of problem, you can contact me at:<br>
+If there are missing item/sticker/pattern ID pairs in the JSON file or there is another type of problem, feel free to contact me at:<br>
 [@mdstsrht on Twitter/X](https://twitter.com/mdstsrht)<br>
 [@mdstsrht on mastodon.social](https://mastodon.social/@mdstsrht)

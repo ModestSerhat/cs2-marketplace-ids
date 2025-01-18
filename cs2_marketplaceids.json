@@ -14736,7 +14736,8 @@
       "youpin_id": 49605
     },
     "Souvenir AUG | Condemned (Battle-Scarred)": {
-      "buff163_goods_id": 37523
+      "buff163_goods_id": 37523,
+      "youpin_id": 110636
     },
     "Souvenir AUG | Condemned (Field-Tested)": {
       "buff163_goods_id": 37524,
@@ -17166,7 +17167,8 @@
       "youpin_id": 57629
     },
     "Souvenir XM1014 | CaliCamo (Battle-Scarred)": {
-      "buff163_goods_id": 38133
+      "buff163_goods_id": 38133,
+      "youpin_id": 110632
     },
     "Souvenir XM1014 | CaliCamo (Factory New)": {
       "buff163_goods_id": 38134,
@@ -43331,7 +43333,8 @@
       "youpin_id": 109447
     },
     "★ StatTrak™ Shadow Daggers | Crimson Web (Well-Worn)": {
-      "buff163_goods_id": 44538
+      "buff163_goods_id": 44538,
+      "youpin_id": 110635
     },
     "★ StatTrak™ Bayonet | Freehand (Battle-Scarred)": {
       "buff163_goods_id": 44541,
@@ -45295,7 +45298,8 @@
       "buff163_goods_id": 757598
     },
     "★ StatTrak™ Falchion Knife | Forest DDPAT (Factory New)": {
-      "buff163_goods_id": 757599
+      "buff163_goods_id": 757599,
+      "youpin_id": 110637
     },
     "★ StatTrak™ Gut Knife | Scorched (Factory New)": {
       "buff163_goods_id": 757600
@@ -66010,7 +66014,8 @@
       "youpin_id": 61285
     },
     "Souvenir XM1014 | Blue Spruce (Factory New)": {
-      "buff163_goods_id": 778258
+      "buff163_goods_id": 778258,
+      "youpin_id": 110641
     },
     "★ StatTrak™ Nomad Knife | Night Stripe (Minimal Wear)": {
       "buff163_goods_id": 778314,
@@ -66195,7 +66200,8 @@
       "youpin_id": 61291
     },
     "★ StatTrak™ Paracord Knife | Boreal Forest (Factory New)": {
-      "buff163_goods_id": 778843
+      "buff163_goods_id": 778843,
+      "youpin_id": 110634
     },
     "★ Skeleton Knife | Scorched (Factory New)": {
       "buff163_goods_id": 778849,
@@ -102419,6 +102425,10 @@
       "youpin_id": 110623,
       "buff163_sticker_id": 129670
     },
+    "★ StatTrak™ Kukri Knife | Night Stripe (Factory New)": {
+      "buff163_goods_id": 1115210,
+      "youpin_id": 110642
+    },
     "Sticker | kioShiMa (Gold) | Atlanta 2017": {
       "buff163_sticker_id": 3326
     },
@@ -105570,6 +105580,74 @@
       "Tier 3": [
         632,
         733
+      ]
+    },
+    "Desert Eagle | Heat Treated": {
+      "Tier 1": [
+        66,
+        67,
+        69,
+        96,
+        148,
+        259,
+        263,
+        297,
+        308,
+        321,
+        324,
+        341,
+        347,
+        461,
+        490,
+        704,
+        790,
+        792,
+        843,
+        990
+      ],
+      "Tier 2": [
+        16,
+        48,
+        111,
+        117,
+        159,
+        273,
+        370,
+        406,
+        426,
+        482,
+        517,
+        530,
+        567,
+        587,
+        674,
+        695,
+        723,
+        781,
+        880,
+        885,
+        904,
+        948
+      ],
+      "Tier 3": [
+        116,
+        225,
+        338,
+        354,
+        356,
+        386,
+        441,
+        542,
+        611,
+        651,
+        673,
+        730,
+        764,
+        856,
+        876,
+        882,
+        942,
+        953
       ]
     }
   }
