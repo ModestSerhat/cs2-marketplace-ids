@@ -36391,11 +36391,35 @@
     },
     "★ Bayonet | Marble Fade (Factory New)": {
       "buff163_goods_id": 42409,
-      "youpin_id": 44937
+      "youpin_id": 44937,
+      "buff163_tag_ids": {
+        "Fire&Ice 1st": 1185643,
+        "Fire&Ice 2nd": 1185639,
+        "Fire&Ice 3rd": 1185642,
+        "Fire&Ice 4th": 1185634,
+        "Fire&Ice 5th": 1185631,
+        "Fire&Ice 6th": 1185629,
+        "Fire&Ice 7th": 1185630,
+        "Fire&Ice 8th": 1185626,
+        "Fire&Ice 9th": 1185922,
+        "Fire&Ice 10th": 1185923
+      }
     },
     "★ Bayonet | Marble Fade (Minimal Wear)": {
       "buff163_goods_id": 42410,
-      "youpin_id": 51827
+      "youpin_id": 51827,
+      "buff163_tag_ids": {
+        "Fire&Ice 1st": 9945992,
+        "Fire&Ice 2nd": 3721334,
+        "Fire&Ice 3rd": null,
+        "Fire&Ice 4th": 1185649,
+        "Fire&Ice 5th": 1185648,
+        "Fire&Ice 6th": null,
+        "Fire&Ice 7th": 3972896,
+        "Fire&Ice 8th": 1185645,
+        "Fire&Ice 9th": 2537978,
+        "Fire&Ice 10th": 6914795
+      }
     },
     "★ Bayonet | Night (Battle-Scarred)": {
       "buff163_goods_id": 42411,
@@ -37856,11 +37880,35 @@
     },
     "★ Flip Knife | Marble Fade (Factory New)": {
       "buff163_goods_id": 42741,
-      "youpin_id": 49373
+      "youpin_id": 49373,
+      "buff163_tag_ids": {
+        "Fire&Ice 1st": 1918939,
+        "Fire&Ice 2nd": 1185668,
+        "Fire&Ice 3rd": 1175436,
+        "Fire&Ice 4th": 1185663,
+        "Fire&Ice 5th": 1185658,
+        "Fire&Ice 6th": 1185654,
+        "Fire&Ice 7th": 1175027,
+        "Fire&Ice 8th": 1185650,
+        "Fire&Ice 9th": 1185931,
+        "Fire&Ice 10th": 1185929
+      }
     },
     "★ Flip Knife | Marble Fade (Minimal Wear)": {
       "buff163_goods_id": 42742,
-      "youpin_id": 54756
+      "youpin_id": 54756,
+      "buff163_tag_ids": {
+        "Fire&Ice 1st": null,
+        "Fire&Ice 2nd": 7989304,
+        "Fire&Ice 3rd": null,
+        "Fire&Ice 4th": 2566726,
+        "Fire&Ice 5th": 1185674,
+        "Fire&Ice 6th": 1185675,
+        "Fire&Ice 7th": 5576469,
+        "Fire&Ice 8th": 2428305,
+        "Fire&Ice 9th": 7804444,
+        "Fire&Ice 10th": 1594487
+      }
     },
     "★ Flip Knife | Night (Battle-Scarred)": {
       "buff163_goods_id": 42743,
@@ -38295,11 +38343,35 @@
     },
     "★ Gut Knife | Marble Fade (Factory New)": {
       "buff163_goods_id": 42839,
-      "youpin_id": 45171
+      "youpin_id": 45171,
+      "buff163_tag_ids": {
+        "Fire&Ice 1st": 1185680,
+        "Fire&Ice 2nd": 1185678,
+        "Fire&Ice 3rd": 1185326,
+        "Fire&Ice 4th": 1185676,
+        "Fire&Ice 5th": 1753565,
+        "Fire&Ice 6th": 1375351,
+        "Fire&Ice 7th": 1228445,
+        "Fire&Ice 8th": 1185517,
+        "Fire&Ice 9th": 1198851,
+        "Fire&Ice 10th": 1185938
+      }
     },
     "★ Gut Knife | Marble Fade (Minimal Wear)": {
       "buff163_goods_id": 42840,
-      "youpin_id": 56894
+      "youpin_id": 56894,
+      "buff163_tag_ids": {
+        "Fire&Ice 1st": null,
+        "Fire&Ice 2nd": 9886833,
+        "Fire&Ice 3rd": 6835675,
+        "Fire&Ice 4th": null,
+        "Fire&Ice 5th": 9138478,
+        "Fire&Ice 6th": 12550311,
+        "Fire&Ice 7th": 4549499,
+        "Fire&Ice 8th": 12080878,
+        "Fire&Ice 9th": 7540534,
+        "Fire&Ice 10th": 9413415
+      }
     },
     "★ Gut Knife | Night (Battle-Scarred)": {
       "buff163_goods_id": 42841,
@@ -39086,11 +39158,35 @@
     },
     "★ Karambit | Marble Fade (Factory New)": {
       "buff163_goods_id": 43017,
-      "youpin_id": 46429
+      "youpin_id": 46429,
+      "buff163_tag_ids": {
+        "Fire&Ice 1st": 1185691,
+        "Fire&Ice 2nd": 1185690,
+        "Fire&Ice 3rd": 1184606,
+        "Fire&Ice 4th": 1183181,
+        "Fire&Ice 5th": 1185683,
+        "Fire&Ice 6th": 1185681,
+        "Fire&Ice 7th": 1183601,
+        "Fire&Ice 8th": 1175273,
+        "Fire&Ice 9th": 1185940,
+        "Fire&Ice 10th": 1185941
+      }
     },
     "★ Karambit | Marble Fade (Minimal Wear)": {
       "buff163_goods_id": 43018,
-      "youpin_id": 56101
+      "youpin_id": 56101,
+      "buff163_tag_ids": {
+        "Fire&Ice 1st": 1185699,
+        "Fire&Ice 2nd": null,
+        "Fire&Ice 3rd": 1604645,
+        "Fire&Ice 4th": 1185698,
+        "Fire&Ice 5th": 14257680,
+        "Fire&Ice 6th": 4545672,
+        "Fire&Ice 7th": 3234526,
+        "Fire&Ice 8th": 2129122,
+        "Fire&Ice 9th": 7079741,
+        "Fire&Ice 10th": 1185944
+      }
     },
     "★ Karambit | Night (Battle-Scarred)": {
       "buff163_goods_id": 43019,
@@ -40019,19 +40115,51 @@
     },
     "★ Specialist Gloves | Crimson Kimono (Battle-Scarred)": {
       "buff163_goods_id": 43232,
-      "youpin_id": 47301
+      "youpin_id": 47301,
+      "buff163_tag_ids": {
+        "Red 1st": 12319886,
+        "Red 2nd": 12300317,
+        "Red 3rd": 12300318,
+        "Red 4th": 12300315,
+        "Red 5th": 12300316,
+        "Red 6th": 12300314
+      }
     },
     "★ Specialist Gloves | Crimson Kimono (Field-Tested)": {
       "buff163_goods_id": 43233,
-      "youpin_id": 46476
+      "youpin_id": 46476,
+      "buff163_tag_ids": {
+        "Red 1st": 12300326,
+        "Red 2nd": 12300325,
+        "Red 3rd": 12300324,
+        "Red 4th": 12300323,
+        "Red 5th": 12300322,
+        "Red 6th": 12300321
+      }
     },
     "★ Specialist Gloves | Crimson Kimono (Minimal Wear)": {
       "buff163_goods_id": 43234,
-      "youpin_id": 49118
+      "youpin_id": 49118,
+      "buff163_tag_ids": {
+        "Red 1st": 12300334,
+        "Red 2nd": 12300327,
+        "Red 3rd": 12300333,
+        "Red 4th": 12300331,
+        "Red 5th": 12300332,
+        "Red 6th": 12300330
+      }
     },
     "★ Specialist Gloves | Crimson Kimono (Well-Worn)": {
       "buff163_goods_id": 43235,
-      "youpin_id": 49793
+      "youpin_id": 49793,
+      "buff163_tag_ids": {
+        "Red 1st": 12300340,
+        "Red 2nd": 12300339,
+        "Red 3rd": 12300338,
+        "Red 4th": 12300337,
+        "Red 5th": 12300336,
+        "Red 6th": 12300335
+      }
     },
     "★ Specialist Gloves | Emerald Web (Battle-Scarred)": {
       "buff163_goods_id": 43236,
@@ -40360,11 +40488,35 @@
     },
     "★ StatTrak™ Bayonet | Marble Fade (Factory New)": {
       "buff163_goods_id": 43307,
-      "youpin_id": 56871
+      "youpin_id": 56871,
+      "buff163_tag_ids": {
+        "Fire&Ice 1st": null,
+        "Fire&Ice 2nd": 1185701,
+        "Fire&Ice 3rd": 1359845,
+        "Fire&Ice 4th": 1518830,
+        "Fire&Ice 5th": 1304067,
+        "Fire&Ice 6th": 3806325,
+        "Fire&Ice 7th": 1185700,
+        "Fire&Ice 8th": 1314393,
+        "Fire&Ice 9th": 3925642,
+        "Fire&Ice 10th": 1290853
+      }
     },
     "★ StatTrak™ Bayonet | Marble Fade (Minimal Wear)": {
       "buff163_goods_id": 43308,
-      "youpin_id": 60515
+      "youpin_id": 60515,
+      "buff163_tag_ids": {
+        "Fire&Ice 1st": null,
+        "Fire&Ice 2nd": null,
+        "Fire&Ice 3rd": null,
+        "Fire&Ice 4th": null,
+        "Fire&Ice 5th": 15337303,
+        "Fire&Ice 6th": null,
+        "Fire&Ice 7th": null,
+        "Fire&Ice 8th": 7564203,
+        "Fire&Ice 9th": 11081525,
+        "Fire&Ice 10th": null
+      }
     },
     "★ StatTrak™ Bayonet | Night (Battle-Scarred)": {
       "buff163_goods_id": 43309,
@@ -41429,11 +41581,35 @@
     },
     "★ StatTrak™ Flip Knife | Marble Fade (Factory New)": {
       "buff163_goods_id": 43544,
-      "youpin_id": 45459
+      "youpin_id": 45459,
+      "buff163_tag_ids": {
+        "Fire&Ice 1st": null,
+        "Fire&Ice 2nd": 1185702,
+        "Fire&Ice 3rd": 1185704,
+        "Fire&Ice 4th": 2189324,
+        "Fire&Ice 5th": 1185706,
+        "Fire&Ice 6th": 1339757,
+        "Fire&Ice 7th": 1185707,
+        "Fire&Ice 8th": 1704680,
+        "Fire&Ice 9th": 2850217,
+        "Fire&Ice 10th": 1324000
+      }
     },
     "★ StatTrak™ Flip Knife | Marble Fade (Minimal Wear)": {
       "buff163_goods_id": 43545,
-      "youpin_id": 103463
+      "youpin_id": 103463,
+      "buff163_tag_ids": {
+        "Fire&Ice 1st": null,
+        "Fire&Ice 2nd": null,
+        "Fire&Ice 3rd": null,
+        "Fire&Ice 4th": null,
+        "Fire&Ice 5th": null,
+        "Fire&Ice 6th": null,
+        "Fire&Ice 7th": null,
+        "Fire&Ice 8th": null,
+        "Fire&Ice 9th": null,
+        "Fire&Ice 10th": 5697662
+      }
     },
     "★ StatTrak™ Flip Knife | Night (Battle-Scarred)": {
       "buff163_goods_id": 43546,
@@ -41777,11 +41953,35 @@
     },
     "★ StatTrak™ Gut Knife | Marble Fade (Factory New)": {
       "buff163_goods_id": 43621,
-      "youpin_id": 60195
+      "youpin_id": 60195,
+      "buff163_tag_ids": {
+        "Fire&Ice 1st": null,
+        "Fire&Ice 2nd": 1185703,
+        "Fire&Ice 3rd": 3097747,
+        "Fire&Ice 4th": 7367112,
+        "Fire&Ice 5th": 1185705,
+        "Fire&Ice 6th": 3796835,
+        "Fire&Ice 7th": 10186619,
+        "Fire&Ice 8th": 4564504,
+        "Fire&Ice 9th": 3754065,
+        "Fire&Ice 10th": 4401270
+      }
     },
     "★ StatTrak™ Gut Knife | Marble Fade (Minimal Wear)": {
       "buff163_goods_id": 43622,
-      "youpin_id": 60196
+      "youpin_id": 60196,
+      "buff163_tag_ids": {
+        "Fire&Ice 1st": null,
+        "Fire&Ice 2nd": null,
+        "Fire&Ice 3rd": null,
+        "Fire&Ice 4th": 7149102,
+        "Fire&Ice 5th": null,
+        "Fire&Ice 6th": null,
+        "Fire&Ice 7th": null,
+        "Fire&Ice 8th": null,
+        "Fire&Ice 9th": null,
+        "Fire&Ice 10th": null
+      }
     },
     "★ StatTrak™ Gut Knife | Night (Battle-Scarred)": {
       "buff163_goods_id": 43623,
@@ -42341,7 +42541,19 @@
     },
     "★ StatTrak™ Karambit | Marble Fade (Factory New)": {
       "buff163_goods_id": 43746,
-      "youpin_id": 48832
+      "youpin_id": 48832,
+      "buff163_tag_ids": {
+        "Fire&Ice 1st": 1185711,
+        "Fire&Ice 2nd": 1185710,
+        "Fire&Ice 3rd": 5167503,
+        "Fire&Ice 4th": 1185709,
+        "Fire&Ice 5th": 1283064,
+        "Fire&Ice 6th": 4222413,
+        "Fire&Ice 7th": 1185708,
+        "Fire&Ice 8th": 1290838,
+        "Fire&Ice 9th": 1185945,
+        "Fire&Ice 10th": 1290839
+      }
     },
     "★ StatTrak™ Karambit | Night (Battle-Scarred)": {
       "buff163_goods_id": 43747,
@@ -45514,7 +45726,19 @@
     },
     "★ StatTrak™ Karambit | Marble Fade (Minimal Wear)": {
       "buff163_goods_id": 756746,
-      "youpin_id": 60640
+      "youpin_id": 60640,
+      "buff163_tag_ids": {
+        "Fire&Ice 1st": null,
+        "Fire&Ice 2nd": 21555762,
+        "Fire&Ice 3rd": null,
+        "Fire&Ice 4th": null,
+        "Fire&Ice 5th": 12052414,
+        "Fire&Ice 6th": null,
+        "Fire&Ice 7th": null,
+        "Fire&Ice 8th": null,
+        "Fire&Ice 9th": 9034220,
+        "Fire&Ice 10th": null
+      }
     },
     "★ StatTrak™ Gut Knife | Fade (Minimal Wear)": {
       "buff163_goods_id": 757092,
@@ -50023,7 +50247,15 @@
     },
     "★ Specialist Gloves | Crimson Kimono (Factory New)": {
       "buff163_goods_id": 761204,
-      "youpin_id": 58331
+      "youpin_id": 58331,
+      "buff163_tag_ids": {
+        "Red 1st": 12303334,
+        "Red 2nd": 12303335,
+        "Red 3rd": 12303337,
+        "Red 4th": 12303341,
+        "Red 5th": 12300319,
+        "Red 6th": 12303342
+      }
     },
     "Sticker | mou (Gold) | London 2018": {
       "buff163_goods_id": 761211,
@@ -55796,7 +56028,19 @@
     },
     "★ Talon Knife | Marble Fade (Factory New)": {
       "buff163_goods_id": 769517,
-      "youpin_id": 9009
+      "youpin_id": 9009,
+      "buff163_tag_ids": {
+        "Fire&Ice 1st": 7941464,
+        "Fire&Ice 2nd": 7941463,
+        "Fire&Ice 3rd": 7941388,
+        "Fire&Ice 4th": 7941459,
+        "Fire&Ice 5th": 7941462,
+        "Fire&Ice 6th": 7941456,
+        "Fire&Ice 7th": 7941461,
+        "Fire&Ice 8th": 7941458,
+        "Fire&Ice 9th": 7941457,
+        "Fire&Ice 10th": 7941460
+      }
     },
     "★ Talon Knife | Rust Coat (Battle-Scarred)": {
       "buff163_goods_id": 769518,
@@ -55917,7 +56161,19 @@
     },
     "★ StatTrak™ Talon Knife | Marble Fade (Factory New)": {
       "buff163_goods_id": 769557,
-      "youpin_id": 55310
+      "youpin_id": 55310,
+      "buff163_tag_ids": {
+        "Fire&Ice 1st": null,
+        "Fire&Ice 2nd": 8324873,
+        "Fire&Ice 3rd": 7941473,
+        "Fire&Ice 4th": 7941474,
+        "Fire&Ice 5th": 7941466,
+        "Fire&Ice 6th": 7952169,
+        "Fire&Ice 7th": 7941471,
+        "Fire&Ice 8th": 7941470,
+        "Fire&Ice 9th": 7941467,
+        "Fire&Ice 10th": 7941469
+      }
     },
     "★ StatTrak™ Ursus Knife | Marble Fade (Factory New)": {
       "buff163_goods_id": 769558,
@@ -56275,7 +56531,19 @@
     },
     "★ Talon Knife | Marble Fade (Minimal Wear)": {
       "buff163_goods_id": 769837,
-      "youpin_id": 53691
+      "youpin_id": 53691,
+      "buff163_tag_ids": {
+        "Fire&Ice 1st": null,
+        "Fire&Ice 2nd": 12619252,
+        "Fire&Ice 3rd": 7941475,
+        "Fire&Ice 4th": null,
+        "Fire&Ice 5th": 8013235,
+        "Fire&Ice 6th": 7941477,
+        "Fire&Ice 7th": 10018357,
+        "Fire&Ice 8th": 7941476,
+        "Fire&Ice 9th": 9097021,
+        "Fire&Ice 10th": 8007906
+      }
     },
     "★ StatTrak™ Talon Knife | Damascus Steel (Factory New)": {
       "buff163_goods_id": 769843,
@@ -56336,7 +56604,19 @@
     },
     "★ StatTrak™ Talon Knife | Marble Fade (Minimal Wear)": {
       "buff163_goods_id": 769920,
-      "youpin_id": 57552
+      "youpin_id": 57552,
+      "buff163_tag_ids": {
+        "Fire&Ice 1st": null,
+        "Fire&Ice 2nd": null,
+        "Fire&Ice 3rd": null,
+        "Fire&Ice 4th": 17507693,
+        "Fire&Ice 5th": null,
+        "Fire&Ice 6th": null,
+        "Fire&Ice 7th": null,
+        "Fire&Ice 8th": null,
+        "Fire&Ice 9th": null,
+        "Fire&Ice 10th": 12297765
+      }
     },
     "★ StatTrak™ Ursus Knife | Damascus Steel (Factory New)": {
       "buff163_goods_id": 769921,
@@ -106732,8 +107012,514 @@
         997
       ]
     },
-    "★ Bayonet | Marble Fade": {},
-    "★ Karambit | Marble Fade": {},
-    "★ Talon Knife | Marble Fade": {}
+    "★ Bayonet | Marble Fade": {
+      "Fire&Ice 10th": [
+        28,
+        156,
+        177,
+        402,
+        545,
+        546,
+        553,
+        559,
+        589,
+        725,
+        764,
+        791,
+        972,
+        977
+      ],
+      "Fire&Ice 1st": [
+        412
+      ],
+      "Fire&Ice 2nd": [
+        16,
+        241,
+        359,
+        393,
+        541,
+        602,
+        688,
+        701
+      ],
+      "Fire&Ice 3rd": [
+        281,
+        292,
+        344,
+        743,
+        777,
+        792,
+        994
+      ],
+      "Fire&Ice 4th": [
+        129,
+        332,
+        780,
+        787,
+        874,
+        908,
+        918,
+        923
+      ],
+      "Fire&Ice 5th": [
+        204,
+        252,
+        457,
+        578,
+        652,
+        660,
+        705,
+        736,
+        832,
+        988
+      ],
+      "Fire&Ice 6th": [
+        112,
+        230,
+        444,
+        452,
+        607,
+        621,
+        631,
+        761,
+        873,
+        982
+      ],
+      "Fire&Ice 7th": [
+        14,
+        32,
+        58,
+        213,
+        243,
+        274,
+        454,
+        614,
+        683,
+        702,
+        732,
+        803,
+        826,
+        867,
+        949
+      ],
+      "Fire&Ice 8th": [
+        5,
+        178,
+        202,
+        337,
+        406,
+        461,
+        539,
+        655,
+        696,
+        971
+      ],
+      "Fire&Ice 9th": [
+        68,
+        121,
+        149,
+        171,
+        206,
+        370,
+        493,
+        499,
+        516,
+        656,
+        672,
+        817,
+        922,
+        997
+      ]
+    },
+    "★ Karambit | Marble Fade": {
+      "Fire&Ice 10th": [
+        28,
+        156,
+        177,
+        402,
+        545,
+        553,
+        591,
+        810,
+        844,
+        858,
+        972,
+        977
+      ],
+      "Fire&Ice 1st": [
+        412
+      ],
+      "Fire&Ice 2nd": [
+        146,
+        241,
+        359,
+        393,
+        541,
+        602,
+        649,
+        688,
+        701
+      ],
+      "Fire&Ice 3rd": [
+        152,
+        281,
+        344,
+        628,
+        673,
+        743,
+        777,
+        792,
+        994
+      ],
+      "Fire&Ice 4th": [
+        48,
+        126,
+        129,
+        332,
+        780,
+        787,
+        874,
+        908,
+        918,
+        923
+      ],
+      "Fire&Ice 5th": [
+        182,
+        204,
+        252,
+        522,
+        652,
+        705,
+        736,
+        832,
+        988
+      ],
+      "Fire&Ice 6th": [
+        112,
+        230,
+        340,
+        356,
+        452,
+        471,
+        607,
+        621,
+        631,
+        773,
+        876,
+        982
+      ],
+      "Fire&Ice 7th": [
+        8,
+        32,
+        58,
+        108,
+        213,
+        274,
+        454,
+        614,
+        653,
+        683,
+        728,
+        732,
+        770,
+        795,
+        803,
+        826,
+        867,
+        949
+      ],
+      "Fire&Ice 8th": [
+        5,
+        178,
+        188,
+        378,
+        406,
+        461,
+        539,
+        655,
+        696,
+        966,
+        971
+      ],
+      "Fire&Ice 9th": [
+        68,
+        121,
+        165,
+        171,
+        206,
+        287,
+        370,
+        493,
+        499,
+        637,
+        672,
+        706,
+        817,
+        959,
+        997
+      ]
+    },
+    "★ Talon Knife | Marble Fade": {
+      "Fire&Ice 10th": [
+        43,
+        130,
+        145,
+        172,
+        447,
+        514,
+        536,
+        566,
+        568,
+        726,
+        891
+      ],
+      "Fire&Ice 1st": [
+        762
+      ],
+      "Fire&Ice 2nd": [
+        87,
+        93,
+        326,
+        341,
+        403,
+        575,
+        636,
+        897,
+        910,
+        911
+      ],
+      "Fire&Ice 3rd": [
+        41,
+        348,
+        468,
+        520,
+        527,
+        601,
+        651,
+        714,
+        961
+      ],
+      "Fire&Ice 4th": [
+        550,
+        576,
+        664,
+        668,
+        807,
+        834,
+        892,
+        944
+      ],
+      "Fire&Ice 5th": [
+        34,
+        201,
+        256,
+        380,
+        449,
+        747,
+        825,
+        925,
+        981
+      ],
+      "Fire&Ice 6th": [
+        147,
+        422,
+        494,
+        577,
+        754,
+        793,
+        824,
+        914,
+        936,
+        943
+      ],
+      "Fire&Ice 7th": [
+        29,
+        84,
+        107,
+        224,
+        345,
+        781
+      ],
+      "Fire&Ice 8th": [
+        46,
+        80,
+        141,
+        308,
+        314,
+        375,
+        455,
+        597,
+        657,
+        838,
+        840,
+        917,
+        956
+      ],
+      "Fire&Ice 9th": [
+        137,
+        173,
+        181,
+        229,
+        313,
+        358,
+        401,
+        435,
+        482,
+        608,
+        640,
+        712,
+        813
+      ]
+    },
+    "★ Specialist Gloves | Crimson Kimono": {
+      "Red 1st": [
+        79,
+        458,
+        560,
+        932
+      ],
+      "Red 2nd": [
+        6,
+        80,
+        208,
+        215,
+        233,
+        241,
+        330,
+        385,
+        402,
+        491,
+        498,
+        699,
+        721,
+        841,
+        842,
+        958
+      ],
+      "Red 3rd": [
+        37,
+        91,
+        92,
+        184,
+        232,
+        290,
+        306,
+        317,
+        329,
+        357,
+        394,
+        447,
+        515,
+        576,
+        587,
+        592,
+        613,
+        657,
+        732,
+        753,
+        931,
+        973
+      ],
+      "Red 4th": [
+        36,
+        45,
+        62,
+        67,
+        68,
+        90,
+        101,
+        182,
+        185,
+        224,
+        228,
+        335,
+        347,
+        348,
+        410,
+        463,
+        590,
+        602,
+        655,
+        731,
+        789,
+        845,
+        914,
+        915,
+        923,
+        924,
+        925,
+        953,
+        979,
+        985,
+        995,
+        996
+      ],
+      "Red 5th": [
+        2,
+        25,
+        26,
+        52,
+        121,
+        122,
+        129,
+        183,
+        205,
+        257,
+        279,
+        285,
+        288,
+        308,
+        381,
+        440,
+        442,
+        466,
+        556,
+        575,
+        577,
+        679,
+        688,
+        715,
+        748,
+        875,
+        954,
+        955,
+        957
+      ],
+      "Red 6th": [
+        120,
+        123,
+        161,
+        207,
+        250,
+        251,
+        280,
+        307,
+        309,
+        324,
+        364,
+        441,
+        485,
+        545,
+        598,
+        612,
+        646,
+        647,
+        663,
+        709,
+        726,
+        742,
+        749,
+        754,
+        788,
+        790,
+        797,
+        869,
+        926,
+        937,
+        945,
+        956,
+        976
+      ]
+    }
   }
 }
