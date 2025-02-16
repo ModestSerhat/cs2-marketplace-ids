@@ -3698,15 +3698,39 @@
     },
     "Five-SeveN | Kami (Factory New)": {
       "buff163_goods_id": 34752,
-      "youpin_id": 1196
+      "youpin_id": 1196,
+      "buff163_paintseed_group_ids": {
+        "Smile Face": 8,
+        "Muscle Man": 9,
+        "Surprised Face": 10,
+        "Funny Face": 11,
+        "Awkward Face": 58,
+        "Togepi": 61
+      }
     },
     "Five-SeveN | Kami (Field-Tested)": {
       "buff163_goods_id": 34753,
-      "youpin_id": 52258
+      "youpin_id": 52258,
+      "buff163_paintseed_group_ids": {
+        "Smile Face": 8,
+        "Muscle Man": 9,
+        "Surprised Face": 10,
+        "Funny Face": 11,
+        "Awkward Face": 58,
+        "Togepi": 61
+      }
     },
     "Five-SeveN | Kami (Minimal Wear)": {
       "buff163_goods_id": 34754,
-      "youpin_id": 177
+      "youpin_id": 177,
+      "buff163_paintseed_group_ids": {
+        "Smile Face": 8,
+        "Muscle Man": 9,
+        "Surprised Face": 10,
+        "Funny Face": 11,
+        "Awkward Face": 58,
+        "Togepi": 61
+      }
     },
     "Five-SeveN | Monkey Business (Battle-Scarred)": {
       "buff163_goods_id": 34755,
@@ -18907,15 +18931,36 @@
     },
     "StatTrak™ Five-SeveN | Kami (Factory New)": {
       "buff163_goods_id": 38570,
-      "youpin_id": 10854
+      "youpin_id": 10854,
+      "buff163_paintseed_group_ids": {
+        "Smile Face": 12,
+        "Muscle Man": 13,
+        "Surprised Face": 14,
+        "Funny Face": 15,
+        "Awkward Face": 57
+      }
     },
     "StatTrak™ Five-SeveN | Kami (Field-Tested)": {
       "buff163_goods_id": 38571,
-      "youpin_id": 1190
+      "youpin_id": 1190,
+      "buff163_paintseed_group_ids": {
+        "Smile Face": 12,
+        "Muscle Man": 13,
+        "Surprised Face": 14,
+        "Funny Face": 15,
+        "Awkward Face": 57
+      }
     },
     "StatTrak™ Five-SeveN | Kami (Minimal Wear)": {
       "buff163_goods_id": 38572,
-      "youpin_id": 332
+      "youpin_id": 332,
+      "buff163_paintseed_group_ids": {
+        "Smile Face": 12,
+        "Muscle Man": 13,
+        "Surprised Face": 14,
+        "Funny Face": 15,
+        "Awkward Face": 57
+      }
     },
     "StatTrak™ Five-SeveN | Monkey Business (Battle-Scarred)": {
       "buff163_goods_id": 38573,
@@ -36163,23 +36208,38 @@
     },
     "★ Bayonet | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 42375,
-      "youpin_id": 490
+      "youpin_id": 490,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 52
+      }
     },
     "★ Bayonet | Case Hardened (Factory New)": {
       "buff163_goods_id": 42376,
-      "youpin_id": 50065
+      "youpin_id": 50065,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 52
+      }
     },
     "★ Bayonet | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 42377,
-      "youpin_id": 9514
+      "youpin_id": 9514,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 52
+      }
     },
     "★ Bayonet | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 42378,
-      "youpin_id": 51979
+      "youpin_id": 51979,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 52
+      }
     },
     "★ Bayonet | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 42379,
-      "youpin_id": 51830
+      "youpin_id": 51830,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 52
+      }
     },
     "★ Bayonet | Crimson Web (Battle-Scarred)": {
       "buff163_goods_id": 42380,
@@ -36583,23 +36643,38 @@
     },
     "★ Bowie Knife | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 42472,
-      "youpin_id": 55351
+      "youpin_id": 55351,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 54
+      }
     },
     "★ Bowie Knife | Case Hardened (Factory New)": {
       "buff163_goods_id": 42473,
-      "youpin_id": 58133
+      "youpin_id": 58133,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 54
+      }
     },
     "★ Bowie Knife | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 42474,
-      "youpin_id": 48190
+      "youpin_id": 48190,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 54
+      }
     },
     "★ Bowie Knife | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 42475,
-      "youpin_id": 51163
+      "youpin_id": 51163,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 54
+      }
     },
     "★ Bowie Knife | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 42476,
-      "youpin_id": 57051
+      "youpin_id": 57051,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 54
+      }
     },
     "★ Bowie Knife | Crimson Web (Battle-Scarred)": {
       "buff163_goods_id": 42477,
@@ -36877,23 +36952,38 @@
     },
     "★ Butterfly Knife | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 42541,
-      "youpin_id": 44082
+      "youpin_id": 44082,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 21
+      }
     },
     "★ Butterfly Knife | Case Hardened (Factory New)": {
       "buff163_goods_id": 42542,
-      "youpin_id": 51930
+      "youpin_id": 51930,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 21
+      }
     },
     "★ Butterfly Knife | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 42543,
-      "youpin_id": 48059
+      "youpin_id": 48059,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 21
+      }
     },
     "★ Butterfly Knife | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 42544,
-      "youpin_id": 43535
+      "youpin_id": 43535,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 21
+      }
     },
     "★ Butterfly Knife | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 42545,
-      "youpin_id": 46966
+      "youpin_id": 46966,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 21
+      }
     },
     "★ Butterfly Knife | Crimson Web (Battle-Scarred)": {
       "buff163_goods_id": 42546,
@@ -37210,23 +37300,38 @@
     },
     "★ Falchion Knife | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 42622,
-      "youpin_id": 52158
+      "youpin_id": 52158,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 48
+      }
     },
     "★ Falchion Knife | Case Hardened (Factory New)": {
       "buff163_goods_id": 42623,
-      "youpin_id": 58263
+      "youpin_id": 58263,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 48
+      }
     },
     "★ Falchion Knife | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 42624,
-      "youpin_id": 44368
+      "youpin_id": 44368,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 48
+      }
     },
     "★ Falchion Knife | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 42625,
-      "youpin_id": 47371
+      "youpin_id": 47371,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 48
+      }
     },
     "★ Falchion Knife | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 42626,
-      "youpin_id": 53497
+      "youpin_id": 53497,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 48
+      }
     },
     "★ Falchion Knife | Crimson Web (Battle-Scarred)": {
       "buff163_goods_id": 42627,
@@ -37564,23 +37669,38 @@
     },
     "★ Flip Knife | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 42706,
-      "youpin_id": 53952
+      "youpin_id": 53952,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 43
+      }
     },
     "★ Flip Knife | Case Hardened (Factory New)": {
       "buff163_goods_id": 42707,
-      "youpin_id": 57441
+      "youpin_id": 57441,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 43
+      }
     },
     "★ Flip Knife | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 42708,
-      "youpin_id": 47050
+      "youpin_id": 47050,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 43
+      }
     },
     "★ Flip Knife | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 42709,
-      "youpin_id": 48419
+      "youpin_id": 48419,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 43
+      }
     },
     "★ Flip Knife | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 42710,
-      "youpin_id": 54521
+      "youpin_id": 54521,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 43
+      }
     },
     "★ Flip Knife | Crimson Web (Battle-Scarred)": {
       "buff163_goods_id": 42711,
@@ -37984,23 +38104,38 @@
     },
     "★ Gut Knife | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 42803,
-      "youpin_id": 60173
+      "youpin_id": 60173,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 42
+      }
     },
     "★ Gut Knife | Case Hardened (Factory New)": {
       "buff163_goods_id": 42804,
-      "youpin_id": 60172
+      "youpin_id": 60172,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 42
+      }
     },
     "★ Gut Knife | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 42805,
-      "youpin_id": 49195
+      "youpin_id": 49195,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 42
+      }
     },
     "★ Gut Knife | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 42806,
-      "youpin_id": 57357
+      "youpin_id": 57357,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 42
+      }
     },
     "★ Gut Knife | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 42807,
-      "youpin_id": 56668
+      "youpin_id": 56668,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 42
+      }
     },
     "★ Gut Knife | Crimson Web (Battle-Scarred)": {
       "buff163_goods_id": 42808,
@@ -38412,23 +38547,38 @@
     },
     "★ Huntsman Knife | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 42902,
-      "youpin_id": 58000
+      "youpin_id": 58000,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 46
+      }
     },
     "★ Huntsman Knife | Case Hardened (Factory New)": {
       "buff163_goods_id": 42903,
-      "youpin_id": 55711
+      "youpin_id": 55711,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 46
+      }
     },
     "★ Huntsman Knife | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 42904,
-      "youpin_id": 53566
+      "youpin_id": 53566,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 46
+      }
     },
     "★ Huntsman Knife | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 42905,
-      "youpin_id": 52653
+      "youpin_id": 52653,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 46
+      }
     },
     "★ Huntsman Knife | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 42906,
-      "youpin_id": 58246
+      "youpin_id": 58246,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 46
+      }
     },
     "★ Huntsman Knife | Crimson Web (Battle-Scarred)": {
       "buff163_goods_id": 42907,
@@ -38757,23 +38907,38 @@
     },
     "★ Karambit | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 42984,
-      "youpin_id": 52362
+      "youpin_id": 52362,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 17
+      }
     },
     "★ Karambit | Case Hardened (Factory New)": {
       "buff163_goods_id": 42985,
-      "youpin_id": 51029
+      "youpin_id": 51029,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 17
+      }
     },
     "★ Karambit | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 42986,
-      "youpin_id": 9512
+      "youpin_id": 9512,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 17
+      }
     },
     "★ Karambit | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 42987,
-      "youpin_id": 46878
+      "youpin_id": 46878,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 17
+      }
     },
     "★ Karambit | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 42988,
-      "youpin_id": 48492
+      "youpin_id": 48492,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 17
+      }
     },
     "★ Karambit | Crimson Web (Battle-Scarred)": {
       "buff163_goods_id": 42989,
@@ -39161,23 +39326,38 @@
     },
     "★ M9 Bayonet | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 43077,
-      "youpin_id": 53102
+      "youpin_id": 53102,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 24
+      }
     },
     "★ M9 Bayonet | Case Hardened (Factory New)": {
       "buff163_goods_id": 43078,
-      "youpin_id": 57050
+      "youpin_id": 57050,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 24
+      }
     },
     "★ M9 Bayonet | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 43079,
-      "youpin_id": 51395
+      "youpin_id": 51395,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 24
+      }
     },
     "★ M9 Bayonet | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 43080,
-      "youpin_id": 48326
+      "youpin_id": 48326,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 24
+      }
     },
     "★ M9 Bayonet | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 43081,
-      "youpin_id": 46541
+      "youpin_id": 46541,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 24
+      }
     },
     "★ M9 Bayonet | Crimson Web (Battle-Scarred)": {
       "buff163_goods_id": 43082,
@@ -39566,23 +39746,38 @@
     },
     "★ Shadow Daggers | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 43172,
-      "youpin_id": 56539
+      "youpin_id": 56539,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 26
+      }
     },
     "★ Shadow Daggers | Case Hardened (Factory New)": {
       "buff163_goods_id": 43173,
-      "youpin_id": 60676
+      "youpin_id": 60676,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 26
+      }
     },
     "★ Shadow Daggers | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 43174,
-      "youpin_id": 52705
+      "youpin_id": 52705,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 26
+      }
     },
     "★ Shadow Daggers | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 43175,
-      "youpin_id": 51144
+      "youpin_id": 51144,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 26
+      }
     },
     "★ Shadow Daggers | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 43176,
-      "youpin_id": 57399
+      "youpin_id": 57399,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 26
+      }
     },
     "★ Shadow Daggers | Crimson Web (Battle-Scarred)": {
       "buff163_goods_id": 43177,
@@ -40024,15 +40219,24 @@
     },
     "★ StatTrak™ Bayonet | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 43282,
-      "youpin_id": 60555
+      "youpin_id": 60555,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 51
+      }
     },
     "★ StatTrak™ Bayonet | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 43283,
-      "youpin_id": 55576
+      "youpin_id": 55576,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 51
+      }
     },
     "★ StatTrak™ Bayonet | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 43284,
-      "youpin_id": 51561
+      "youpin_id": 51561,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 51
+      }
     },
     "★ StatTrak™ Bayonet | Crimson Web (Battle-Scarred)": {
       "buff163_goods_id": 43285,
@@ -40284,19 +40488,31 @@
     },
     "★ StatTrak™ Bowie Knife | Case Hardened (Factory New)": {
       "buff163_goods_id": 43339,
-      "youpin_id": 109448
+      "youpin_id": 109448,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 53
+      }
     },
     "★ StatTrak™ Bowie Knife | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 43340,
-      "youpin_id": 57445
+      "youpin_id": 57445,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 53
+      }
     },
     "★ StatTrak™ Bowie Knife | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 43341,
-      "youpin_id": 59846
+      "youpin_id": 59846,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 53
+      }
     },
     "★ StatTrak™ Bowie Knife | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 43342,
-      "youpin_id": 103425
+      "youpin_id": 103425,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 53
+      }
     },
     "★ StatTrak™ Bowie Knife | Crimson Web (Battle-Scarred)": {
       "buff163_goods_id": 43343,
@@ -40537,19 +40753,31 @@
     },
     "★ StatTrak™ Butterfly Knife | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 43398,
-      "youpin_id": 57972
+      "youpin_id": 57972,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 22
+      }
     },
     "★ StatTrak™ Butterfly Knife | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 43399,
-      "youpin_id": 53187
+      "youpin_id": 53187,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 22
+      }
     },
     "★ StatTrak™ Butterfly Knife | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 43400,
-      "youpin_id": 57200
+      "youpin_id": 57200,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 22
+      }
     },
     "★ StatTrak™ Butterfly Knife | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 43401,
-      "youpin_id": 54903
+      "youpin_id": 54903,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 22
+      }
     },
     "★ StatTrak™ Butterfly Knife | Crimson Web (Battle-Scarred)": {
       "buff163_goods_id": 43402,
@@ -40762,23 +40990,38 @@
     },
     "★ StatTrak™ Falchion Knife | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 43452,
-      "youpin_id": 58044
+      "youpin_id": 58044,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 47
+      }
     },
     "★ StatTrak™ Falchion Knife | Case Hardened (Factory New)": {
       "buff163_goods_id": 43453,
-      "youpin_id": 59993
+      "youpin_id": 59993,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 47
+      }
     },
     "★ StatTrak™ Falchion Knife | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 43454,
-      "youpin_id": 53709
+      "youpin_id": 53709,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 47
+      }
     },
     "★ StatTrak™ Falchion Knife | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 43455,
-      "youpin_id": 59994
+      "youpin_id": 59994,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 47
+      }
     },
     "★ StatTrak™ Falchion Knife | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 43456,
-      "youpin_id": 54928
+      "youpin_id": 54928,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 47
+      }
     },
     "★ StatTrak™ Falchion Knife | Crimson Web (Battle-Scarred)": {
       "buff163_goods_id": 43457,
@@ -41027,23 +41270,38 @@
     },
     "★ StatTrak™ Flip Knife | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 43516,
-      "youpin_id": 60105
+      "youpin_id": 60105,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 44
+      }
     },
     "★ StatTrak™ Flip Knife | Case Hardened (Factory New)": {
       "buff163_goods_id": 43517,
-      "youpin_id": 60102
+      "youpin_id": 60102,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 44
+      }
     },
     "★ StatTrak™ Flip Knife | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 43518,
-      "youpin_id": 60103
+      "youpin_id": 60103,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 44
+      }
     },
     "★ StatTrak™ Flip Knife | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 43519,
-      "youpin_id": 52944
+      "youpin_id": 52944,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 44
+      }
     },
     "★ StatTrak™ Flip Knife | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 43520,
-      "youpin_id": 60104
+      "youpin_id": 60104,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 44
+      }
     },
     "★ StatTrak™ Flip Knife | Crimson Web (Battle-Scarred)": {
       "buff163_goods_id": 43521,
@@ -41371,23 +41629,38 @@
     },
     "★ StatTrak™ Gut Knife | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 43594,
-      "youpin_id": 103453
+      "youpin_id": 103453,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 41
+      }
     },
     "★ StatTrak™ Gut Knife | Case Hardened (Factory New)": {
       "buff163_goods_id": 43595,
-      "youpin_id": 60200
+      "youpin_id": 60200,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 41
+      }
     },
     "★ StatTrak™ Gut Knife | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 43596,
-      "youpin_id": 60202
+      "youpin_id": 60202,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 41
+      }
     },
     "★ StatTrak™ Gut Knife | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 43597,
-      "youpin_id": 60201
+      "youpin_id": 60201,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 41
+      }
     },
     "★ StatTrak™ Gut Knife | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 43598,
-      "youpin_id": 103393
+      "youpin_id": 103393,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 41
+      }
     },
     "★ StatTrak™ Gut Knife | Crimson Web (Battle-Scarred)": {
       "buff163_goods_id": 43599,
@@ -41648,19 +41921,31 @@
     },
     "★ StatTrak™ Huntsman Knife | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 43657,
-      "youpin_id": 61990
+      "youpin_id": 61990,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 45
+      }
     },
     "★ StatTrak™ Huntsman Knife | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 43658,
-      "youpin_id": 104381
+      "youpin_id": 104381,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 45
+      }
     },
     "★ StatTrak™ Huntsman Knife | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 43659,
-      "youpin_id": 104378
+      "youpin_id": 104378,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 45
+      }
     },
     "★ StatTrak™ Huntsman Knife | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 43660,
-      "youpin_id": 101590
+      "youpin_id": 101590,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 45
+      }
     },
     "★ StatTrak™ Huntsman Knife | Crimson Web (Battle-Scarred)": {
       "buff163_goods_id": 43661,
@@ -41919,19 +42204,31 @@
     },
     "★ StatTrak™ Karambit | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 43721,
-      "youpin_id": 60626
+      "youpin_id": 60626,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 16
+      }
     },
     "★ StatTrak™ Karambit | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 43722,
-      "youpin_id": 52353
+      "youpin_id": 52353,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 16
+      }
     },
     "★ StatTrak™ Karambit | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 43723,
-      "youpin_id": 54682
+      "youpin_id": 54682,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 16
+      }
     },
     "★ StatTrak™ Karambit | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 43724,
-      "youpin_id": 53415
+      "youpin_id": 53415,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 16
+      }
     },
     "★ StatTrak™ Karambit | Crimson Web (Battle-Scarred)": {
       "buff163_goods_id": 43725,
@@ -42232,15 +42529,24 @@
     },
     "★ StatTrak™ M9 Bayonet | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 43793,
-      "youpin_id": 57052
+      "youpin_id": 57052,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 23
+      }
     },
     "★ StatTrak™ M9 Bayonet | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 43794,
-      "youpin_id": 55572
+      "youpin_id": 55572,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 23
+      }
     },
     "★ StatTrak™ M9 Bayonet | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 43795,
-      "youpin_id": 55778
+      "youpin_id": 55778,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 23
+      }
     },
     "★ StatTrak™ M9 Bayonet | Crimson Web (Field-Tested)": {
       "buff163_goods_id": 43796,
@@ -42520,19 +42826,31 @@
     },
     "★ StatTrak™ Shadow Daggers | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 43857,
-      "youpin_id": 60763
+      "youpin_id": 60763,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 25
+      }
     },
     "★ StatTrak™ Shadow Daggers | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 43858,
-      "youpin_id": 60761
+      "youpin_id": 60761,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 25
+      }
     },
     "★ StatTrak™ Shadow Daggers | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 43859,
-      "youpin_id": 60760
+      "youpin_id": 60760,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 25
+      }
     },
     "★ StatTrak™ Shadow Daggers | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 43860,
-      "youpin_id": 60762
+      "youpin_id": 60762,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 25
+      }
     },
     "★ StatTrak™ Shadow Daggers | Crimson Web (Battle-Scarred)": {
       "buff163_goods_id": 43861,
@@ -42969,7 +43287,10 @@
     },
     "★ StatTrak™ Bowie Knife | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 43969,
-      "youpin_id": 59848
+      "youpin_id": 59848,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 53
+      }
     },
     "★ StatTrak™ Bowie Knife | Stained (Well-Worn)": {
       "buff163_goods_id": 43970,
@@ -43154,7 +43475,10 @@
     },
     "★ StatTrak™ Butterfly Knife | Case Hardened (Factory New)": {
       "buff163_goods_id": 44009,
-      "youpin_id": 57667
+      "youpin_id": 57667,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 22
+      }
     },
     "★ StatTrak™ Falchion Knife | Night (Minimal Wear)": {
       "buff163_goods_id": 44010,
@@ -43467,7 +43791,10 @@
     },
     "★ StatTrak™ M9 Bayonet | Case Hardened (Factory New)": {
       "buff163_goods_id": 45133,
-      "youpin_id": 60459
+      "youpin_id": 60459,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 23
+      }
     },
     "MP9 | Bulldozer (Factory New)": {
       "buff163_goods_id": 45158,
@@ -44450,7 +44777,10 @@
     },
     "★ StatTrak™ M9 Bayonet | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 45498,
-      "youpin_id": 60460
+      "youpin_id": 60460,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 23
+      }
     },
     "StatTrak™ Glock-18 | Moonrise (Well-Worn)": {
       "buff163_goods_id": 45500,
@@ -44928,7 +45258,10 @@
     },
     "★ StatTrak™ Karambit | Case Hardened (Factory New)": {
       "buff163_goods_id": 755750,
-      "youpin_id": 55732
+      "youpin_id": 55732,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 16
+      }
     },
     "★ Bowie Knife | Safari Mesh (Factory New)": {
       "buff163_goods_id": 755856
@@ -44991,7 +45324,10 @@
     },
     "★ StatTrak™ Bayonet | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 755934,
-      "youpin_id": 54752
+      "youpin_id": 54752,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 51
+      }
     },
     "★ Bayonet | Scorched (Factory New)": {
       "buff163_goods_id": 755936,
@@ -45003,7 +45339,10 @@
     },
     "★ StatTrak™ Huntsman Knife | Case Hardened (Factory New)": {
       "buff163_goods_id": 755947,
-      "youpin_id": 104407
+      "youpin_id": 104407,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 45
+      }
     },
     "Souvenir CZ75-Auto | Nitro (Factory New)": {
       "buff163_goods_id": 755965,
@@ -45018,7 +45357,10 @@
     },
     "★ StatTrak™ Bayonet | Case Hardened (Factory New)": {
       "buff163_goods_id": 756011,
-      "youpin_id": 104403
+      "youpin_id": 104403,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 51
+      }
     },
     "★ StatTrak™ M9 Bayonet | Fade (Minimal Wear)": {
       "buff163_goods_id": 756055,
@@ -45434,7 +45776,10 @@
     },
     "★ StatTrak™ Shadow Daggers | Case Hardened (Factory New)": {
       "buff163_goods_id": 758580,
-      "youpin_id": 109444
+      "youpin_id": 109444,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 25
+      }
     },
     "★ StatTrak™ Falchion Knife | Ultraviolet (Factory New)": {
       "buff163_goods_id": 758613,
@@ -45973,7 +46318,10 @@
     },
     "★ Stiletto Knife | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 759325,
-      "youpin_id": 48179
+      "youpin_id": 48179,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 40
+      }
     },
     "★ Talon Knife": {
       "buff163_goods_id": 759326,
@@ -46153,7 +46501,10 @@
     },
     "★ Talon Knife | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 759401,
-      "youpin_id": 43691
+      "youpin_id": 43691,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 19
+      }
     },
     "★ Talon Knife | Forest DDPAT (Field-Tested)": {
       "buff163_goods_id": 759402,
@@ -46261,11 +46612,17 @@
     },
     "★ Navaja Knife | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 759441,
-      "youpin_id": 56660
+      "youpin_id": 56660,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 38
+      }
     },
     "★ Navaja Knife | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 759442,
-      "youpin_id": 49752
+      "youpin_id": 49752,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 38
+      }
     },
     "★ Navaja Knife | Crimson Web (Minimal Wear)": {
       "buff163_goods_id": 759443,
@@ -46341,7 +46698,10 @@
     },
     "★ Ursus Knife | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 759461,
-      "youpin_id": 49691
+      "youpin_id": 49691,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 28
+      }
     },
     "★ Ursus Knife | Fade (Factory New)": {
       "buff163_goods_id": 759462,
@@ -46365,7 +46725,10 @@
     },
     "★ Ursus Knife | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 759476,
-      "youpin_id": 48648
+      "youpin_id": 48648,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 28
+      }
     },
     "★ Navaja Knife | Night Stripe (Field-Tested)": {
       "buff163_goods_id": 759480,
@@ -46485,7 +46848,10 @@
     },
     "★ Ursus Knife | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 759525,
-      "youpin_id": 44267
+      "youpin_id": 44267,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 28
+      }
     },
     "★ Ursus Knife | Forest DDPAT (Battle-Scarred)": {
       "buff163_goods_id": 759526,
@@ -46509,7 +46875,10 @@
     },
     "★ Stiletto Knife | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 759551,
-      "youpin_id": 49742
+      "youpin_id": 49742,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 40
+      }
     },
     "StatTrak™ AK-47 | Neon Rider (Factory New)": {
       "buff163_goods_id": 759560,
@@ -46529,7 +46898,10 @@
     },
     "★ Navaja Knife | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 759564,
-      "youpin_id": 51888
+      "youpin_id": 51888,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 38
+      }
     },
     "★ Navaja Knife | Safari Mesh (Battle-Scarred)": {
       "buff163_goods_id": 759565,
@@ -46585,7 +46957,10 @@
     },
     "★ Talon Knife | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 759578,
-      "youpin_id": 51579
+      "youpin_id": 51579,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 19
+      }
     },
     "★ Talon Knife | Crimson Web (Battle-Scarred)": {
       "buff163_goods_id": 759579,
@@ -46613,7 +46988,10 @@
     },
     "★ Ursus Knife | Case Hardened (Factory New)": {
       "buff163_goods_id": 759585,
-      "youpin_id": 60874
+      "youpin_id": 60874,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 28
+      }
     },
     "★ Ursus Knife | Forest DDPAT (Field-Tested)": {
       "buff163_goods_id": 759586,
@@ -46641,7 +47019,10 @@
     },
     "★ Talon Knife | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 759624,
-      "youpin_id": 562
+      "youpin_id": 562,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 19
+      }
     },
     "★ Talon Knife | Forest DDPAT (Minimal Wear)": {
       "buff163_goods_id": 759625,
@@ -46673,7 +47054,10 @@
     },
     "★ Ursus Knife | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 759632,
-      "youpin_id": 48499
+      "youpin_id": 48499,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 28
+      }
     },
     "★ Ursus Knife | Night Stripe (Field-Tested)": {
       "buff163_goods_id": 759633,
@@ -46697,7 +47081,10 @@
     },
     "★ StatTrak™ Talon Knife | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 759638,
-      "youpin_id": 56041
+      "youpin_id": 56041,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 18
+      }
     },
     "★ StatTrak™ Ursus Knife": {
       "buff163_goods_id": 759639,
@@ -46825,7 +47212,10 @@
     },
     "★ Navaja Knife | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 759730,
-      "youpin_id": 49591
+      "youpin_id": 49591,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 38
+      }
     },
     "★ StatTrak™ Navaja Knife | Blue Steel (Field-Tested)": {
       "buff163_goods_id": 759731,
@@ -46853,7 +47243,10 @@
     },
     "★ Stiletto Knife | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 759737,
-      "youpin_id": 52220
+      "youpin_id": 52220,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 40
+      }
     },
     "★ Stiletto Knife | Stained (Minimal Wear)": {
       "buff163_goods_id": 759738,
@@ -47009,11 +47402,17 @@
     },
     "★ Stiletto Knife | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 759826,
-      "youpin_id": 51249
+      "youpin_id": 51249,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 40
+      }
     },
     "★ Talon Knife | Case Hardened (Factory New)": {
       "buff163_goods_id": 759827,
-      "youpin_id": 54170
+      "youpin_id": 54170,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 19
+      }
     },
     "★ Ursus Knife | Slaughter (Factory New)": {
       "buff163_goods_id": 759828,
@@ -47065,7 +47464,10 @@
     },
     "★ StatTrak™ Stiletto Knife | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 759881,
-      "youpin_id": 57766
+      "youpin_id": 57766,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 39
+      }
     },
     "★ Stiletto Knife | Night Stripe (Minimal Wear)": {
       "buff163_goods_id": 759882,
@@ -47101,7 +47503,10 @@
     },
     "★ Navaja Knife | Case Hardened (Factory New)": {
       "buff163_goods_id": 760034,
-      "youpin_id": 57747
+      "youpin_id": 57747,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 38
+      }
     },
     "★ StatTrak™ Navaja Knife | Forest DDPAT (Well-Worn)": {
       "buff163_goods_id": 760035,
@@ -47113,7 +47518,10 @@
     },
     "★ StatTrak™ Talon Knife | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 760037,
-      "youpin_id": 55069
+      "youpin_id": 55069,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 18
+      }
     },
     "★ StatTrak™ Talon Knife | Crimson Web (Field-Tested)": {
       "buff163_goods_id": 760038,
@@ -47125,11 +47533,17 @@
     },
     "★ StatTrak™ Navaja Knife | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 760106,
-      "youpin_id": 61004
+      "youpin_id": 61004,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 37
+      }
     },
     "★ StatTrak™ Talon Knife | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 760134,
-      "youpin_id": 55574
+      "youpin_id": 55574,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 18
+      }
     },
     "★ Navaja Knife | Boreal Forest (Battle-Scarred)": {
       "buff163_goods_id": 760136,
@@ -47157,7 +47571,10 @@
     },
     "★ StatTrak™ Navaja Knife | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 760193,
-      "youpin_id": 61003
+      "youpin_id": 61003,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 37
+      }
     },
     "★ StatTrak™ Navaja Knife | Night Stripe (Field-Tested)": {
       "buff163_goods_id": 760214,
@@ -47165,7 +47582,10 @@
     },
     "★ StatTrak™ Stiletto Knife | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 760215,
-      "youpin_id": 56591
+      "youpin_id": 56591,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 39
+      }
     },
     "★ Ursus Knife | Scorched (Well-Worn)": {
       "buff163_goods_id": 760216,
@@ -47181,7 +47601,10 @@
     },
     "★ Stiletto Knife | Case Hardened (Factory New)": {
       "buff163_goods_id": 760247,
-      "youpin_id": 58400
+      "youpin_id": 58400,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 40
+      }
     },
     "★ Ursus Knife | Safari Mesh (Battle-Scarred)": {
       "buff163_goods_id": 760248,
@@ -47233,7 +47656,10 @@
     },
     "★ StatTrak™ Ursus Knife | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 760296,
-      "youpin_id": 103456
+      "youpin_id": 103456,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 27
+      }
     },
     "★ StatTrak™ Ursus Knife | Scorched (Well-Worn)": {
       "buff163_goods_id": 760297,
@@ -47265,7 +47691,10 @@
     },
     "★ Talon Knife | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 760335,
-      "youpin_id": 44719
+      "youpin_id": 44719,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 19
+      }
     },
     "★ StatTrak™ Navaja Knife | Boreal Forest (Minimal Wear)": {
       "buff163_goods_id": 760343,
@@ -49527,7 +49956,10 @@
     },
     "★ StatTrak™ Stiletto Knife | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 761047,
-      "youpin_id": 58123
+      "youpin_id": 58123,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 39
+      }
     },
     "★ StatTrak™ Stiletto Knife | Slaughter (Factory New)": {
       "buff163_goods_id": 761048,
@@ -49638,7 +50070,10 @@
     },
     "★ StatTrak™ Navaja Knife | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 761249,
-      "youpin_id": 57836
+      "youpin_id": 57836,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 37
+      }
     },
     "★ StatTrak™ Navaja Knife | Crimson Web (Battle-Scarred)": {
       "buff163_goods_id": 761250,
@@ -49927,11 +50362,17 @@
     },
     "★ StatTrak™ Stiletto Knife | Case Hardened (Factory New)": {
       "buff163_goods_id": 761404,
-      "youpin_id": 60828
+      "youpin_id": 60828,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 39
+      }
     },
     "★ StatTrak™ Stiletto Knife | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 761405,
-      "youpin_id": 57056
+      "youpin_id": 57056,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 39
+      }
     },
     "★ StatTrak™ Talon Knife | Boreal Forest (Well-Worn)": {
       "buff163_goods_id": 761406,
@@ -50159,7 +50600,10 @@
     },
     "★ StatTrak™ Ursus Knife | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 761479,
-      "youpin_id": 55710
+      "youpin_id": 55710,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 27
+      }
     },
     "Souvenir UMP-45 | Facility Dark (Well-Worn)": {
       "buff163_goods_id": 761484,
@@ -50326,7 +50770,10 @@
     },
     "★ StatTrak™ Ursus Knife | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 761546,
-      "youpin_id": 60886
+      "youpin_id": 60886,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 27
+      }
     },
     "Souvenir AUG | Random Access (Minimal Wear)": {
       "buff163_goods_id": 761557,
@@ -50442,7 +50889,10 @@
     },
     "★ StatTrak™ Talon Knife | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 761843,
-      "youpin_id": 55644
+      "youpin_id": 55644,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 18
+      }
     },
     "★ StatTrak™ Talon Knife | Crimson Web (Battle-Scarred)": {
       "buff163_goods_id": 761844,
@@ -50478,7 +50928,10 @@
     },
     "★ StatTrak™ Navaja Knife | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 761937,
-      "youpin_id": 53758
+      "youpin_id": 53758,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 37
+      }
     },
     "★ StatTrak™ Navaja Knife | Crimson Web (Minimal Wear)": {
       "buff163_goods_id": 761938,
@@ -51213,7 +51666,10 @@
     },
     "★ StatTrak™ Ursus Knife | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 762240,
-      "youpin_id": 60885
+      "youpin_id": 60885,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 27
+      }
     },
     "★ StatTrak™ Ursus Knife | Stained (Factory New)": {
       "buff163_goods_id": 762241,
@@ -51376,7 +51832,10 @@
     },
     "★ StatTrak™ Navaja Knife | Case Hardened (Factory New)": {
       "buff163_goods_id": 762815,
-      "youpin_id": 103430
+      "youpin_id": 103430,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 37
+      }
     },
     "★ StatTrak™ Stiletto Knife | Blue Steel (Factory New)": {
       "buff163_goods_id": 762819,
@@ -51486,7 +51945,10 @@
     },
     "★ StatTrak™ Ursus Knife | Case Hardened (Factory New)": {
       "buff163_goods_id": 762863,
-      "youpin_id": 104351
+      "youpin_id": 104351,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 27
+      }
     },
     "★ StatTrak™ Navaja Knife | Stained (Battle-Scarred)": {
       "buff163_goods_id": 762868,
@@ -52228,7 +52690,10 @@
     },
     "★ StatTrak™ Talon Knife | Case Hardened (Factory New)": {
       "buff163_goods_id": 763996,
-      "youpin_id": 61078
+      "youpin_id": 61078,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 18
+      }
     },
     "★ StatTrak™ Ursus Knife | Night Stripe (Battle-Scarred)": {
       "buff163_goods_id": 763998,
@@ -59121,7 +59586,10 @@
     },
     "★ Classic Knife | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 773738,
-      "youpin_id": 49232
+      "youpin_id": 49232,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 50
+      }
     },
     "StatTrak™ M249 | Aztec (Battle-Scarred)": {
       "buff163_goods_id": 773739,
@@ -59417,11 +59885,17 @@
     },
     "★ Classic Knife | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 773815,
-      "youpin_id": 48178
+      "youpin_id": 48178,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 50
+      }
     },
     "★ Classic Knife | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 773816,
-      "youpin_id": 49821
+      "youpin_id": 49821,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 50
+      }
     },
     "★ Classic Knife | Slaughter (Field-Tested)": {
       "buff163_goods_id": 773817,
@@ -59457,7 +59931,10 @@
     },
     "★ StatTrak™ Classic Knife | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 773825,
-      "youpin_id": 56957
+      "youpin_id": 56957,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 49
+      }
     },
     "★ StatTrak™ Classic Knife | Forest DDPAT (Well-Worn)": {
       "buff163_goods_id": 773826,
@@ -59581,7 +60058,10 @@
     },
     "★ Classic Knife | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 773857,
-      "youpin_id": 45940
+      "youpin_id": 45940,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 50
+      }
     },
     "★ Classic Knife | Blue Steel (Factory New)": {
       "buff163_goods_id": 773858,
@@ -59589,7 +60069,10 @@
     },
     "★ StatTrak™ Classic Knife | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 773859,
-      "youpin_id": 57452
+      "youpin_id": 57452,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 49
+      }
     },
     "★ StatTrak™ Classic Knife | Slaughter (Minimal Wear)": {
       "buff163_goods_id": 773862,
@@ -59621,7 +60104,10 @@
     },
     "★ StatTrak™ Classic Knife | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 773869,
-      "youpin_id": 57217
+      "youpin_id": 57217,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 49
+      }
     },
     "StatTrak™ FAMAS | Commemoration (Battle-Scarred)": {
       "buff163_goods_id": 773870,
@@ -59629,7 +60115,10 @@
     },
     "★ Classic Knife | Case Hardened (Factory New)": {
       "buff163_goods_id": 773871,
-      "youpin_id": 53551
+      "youpin_id": 53551,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 50
+      }
     },
     "★ Classic Knife | Safari Mesh (Well-Worn)": {
       "buff163_goods_id": 773872,
@@ -59641,7 +60130,10 @@
     },
     "★ StatTrak™ Classic Knife | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 773874,
-      "youpin_id": 61154
+      "youpin_id": 61154,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 49
+      }
     },
     "★ StatTrak™ Classic Knife | Crimson Web (Battle-Scarred)": {
       "buff163_goods_id": 773875,
@@ -59684,7 +60176,10 @@
     },
     "★ StatTrak™ Classic Knife | Case Hardened (Factory New)": {
       "buff163_goods_id": 773885,
-      "youpin_id": 103484
+      "youpin_id": 103484,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 49
+      }
     },
     "★ StatTrak™ Bayonet | Urban Masked (Factory New)": {
       "buff163_goods_id": 773886
@@ -63242,7 +63737,10 @@
     },
     "★ Paracord Knife | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 775738,
-      "youpin_id": 49577
+      "youpin_id": 49577,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 34
+      }
     },
     "CZ75-Auto | Indigo (Factory New)": {
       "buff163_goods_id": 775742,
@@ -63834,7 +64332,10 @@
     },
     "★ Paracord Knife | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 775992,
-      "youpin_id": 46901
+      "youpin_id": 46901,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 34
+      }
     },
     "MAC-10 | Copper Borre (Minimal Wear)": {
       "buff163_goods_id": 775993,
@@ -64010,7 +64511,10 @@
     },
     "★ StatTrak™ Skeleton Knife | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 776144,
-      "youpin_id": 52613
+      "youpin_id": 52613,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 32
+      }
     },
     "★ Skeleton Knife | Urban Masked (Field-Tested)": {
       "buff163_goods_id": 776153,
@@ -64110,7 +64614,10 @@
     },
     "★ Survival Knife | Case Hardened (Factory New)": {
       "buff163_goods_id": 776305,
-      "youpin_id": 58127
+      "youpin_id": 58127,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 30
+      }
     },
     "★ Skeleton Knife | Safari Mesh (Minimal Wear)": {
       "buff163_goods_id": 776309,
@@ -64122,7 +64629,10 @@
     },
     "★ Nomad Knife | Case Hardened (Factory New)": {
       "buff163_goods_id": 776332,
-      "youpin_id": 51326
+      "youpin_id": 51326,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 36
+      }
     },
     "MP9 | Wild Lily (Minimal Wear)": {
       "buff163_goods_id": 776341,
@@ -64346,7 +64856,10 @@
     },
     "★ StatTrak™ Skeleton Knife | Case Hardened (Factory New)": {
       "buff163_goods_id": 776668,
-      "youpin_id": 61355
+      "youpin_id": 61355,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 32
+      }
     },
     "★ Nomad Knife | Scorched (Field-Tested)": {
       "buff163_goods_id": 776669,
@@ -64526,7 +65039,10 @@
     },
     "★ StatTrak™ Survival Knife | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 776784,
-      "youpin_id": 61275
+      "youpin_id": 61275,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 29
+      }
     },
     "★ Paracord Knife | Urban Masked (Field-Tested)": {
       "buff163_goods_id": 776785,
@@ -64578,7 +65094,10 @@
     },
     "★ Nomad Knife | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 776801,
-      "youpin_id": 53433
+      "youpin_id": 53433,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 36
+      }
     },
     "★ StatTrak™ Nomad Knife | Night Stripe (Field-Tested)": {
       "buff163_goods_id": 776802,
@@ -64602,15 +65121,24 @@
     },
     "★ StatTrak™ Skeleton Knife | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 776810,
-      "youpin_id": 55854
+      "youpin_id": 55854,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 32
+      }
     },
     "★ Paracord Knife | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 776812,
-      "youpin_id": 54463
+      "youpin_id": 54463,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 34
+      }
     },
     "★ Survival Knife | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 776813,
-      "youpin_id": 9935
+      "youpin_id": 9935,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 30
+      }
     },
     "★ Survival Knife | Scorched (Minimal Wear)": {
       "buff163_goods_id": 776814,
@@ -64662,7 +65190,10 @@
     },
     "★ Nomad Knife | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 776831,
-      "youpin_id": 54764
+      "youpin_id": 54764,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 36
+      }
     },
     "★ Nomad Knife | Fade (Minimal Wear)": {
       "buff163_goods_id": 776832,
@@ -64742,7 +65273,10 @@
     },
     "★ StatTrak™ Nomad Knife | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 776851,
-      "youpin_id": 56353
+      "youpin_id": 56353,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 35
+      }
     },
     "★ StatTrak™ Nomad Knife | Fade (Factory New)": {
       "buff163_goods_id": 776852,
@@ -64770,7 +65304,10 @@
     },
     "★ StatTrak™ Skeleton Knife | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 776858,
-      "youpin_id": 61356
+      "youpin_id": 61356,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 32
+      }
     },
     "★ StatTrak™ Skeleton Knife | Forest DDPAT (Battle-Scarred)": {
       "buff163_goods_id": 776859,
@@ -64854,7 +65391,10 @@
     },
     "★ Skeleton Knife | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 776881,
-      "youpin_id": 49792
+      "youpin_id": 49792,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 31
+      }
     },
     "★ Nomad Knife | Scorched (Minimal Wear)": {
       "buff163_goods_id": 776882,
@@ -64874,7 +65414,10 @@
     },
     "★ Survival Knife | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 776886,
-      "youpin_id": 52869
+      "youpin_id": 52869,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 30
+      }
     },
     "★ StatTrak™ Paracord Knife | Crimson Web (Battle-Scarred)": {
       "buff163_goods_id": 776887,
@@ -64886,11 +65429,17 @@
     },
     "★ Survival Knife | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 776889,
-      "youpin_id": 52601
+      "youpin_id": 52601,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 30
+      }
     },
     "★ Nomad Knife | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 776890,
-      "youpin_id": 54874
+      "youpin_id": 54874,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 36
+      }
     },
     "★ Skeleton Knife | Night Stripe (Minimal Wear)": {
       "buff163_goods_id": 776893,
@@ -64942,7 +65491,10 @@
     },
     "★ Skeleton Knife | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 776905,
-      "youpin_id": 46091
+      "youpin_id": 46091,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 31
+      }
     },
     "★ StatTrak™ Nomad Knife | Safari Mesh (Battle-Scarred)": {
       "buff163_goods_id": 776906,
@@ -64958,7 +65510,10 @@
     },
     "★ Survival Knife | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 776909,
-      "youpin_id": 48861
+      "youpin_id": 48861,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 30
+      }
     },
     "★ Survival Knife | Crimson Web (Battle-Scarred)": {
       "buff163_goods_id": 776910,
@@ -64966,7 +65521,10 @@
     },
     "★ Skeleton Knife | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 776911,
-      "youpin_id": 48498
+      "youpin_id": 48498,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 31
+      }
     },
     "AK-47 | Wild Lotus (Battle-Scarred)": {
       "buff163_goods_id": 776912,
@@ -65010,7 +65568,10 @@
     },
     "★ Paracord Knife | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 776923,
-      "youpin_id": 53146
+      "youpin_id": 53146,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 34
+      }
     },
     "★ StatTrak™ Paracord Knife | Urban Masked (Field-Tested)": {
       "buff163_goods_id": 776925,
@@ -65038,7 +65599,10 @@
     },
     "★ Nomad Knife | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 776932,
-      "youpin_id": 53266
+      "youpin_id": 53266,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 36
+      }
     },
     "★ Survival Knife | Night Stripe (Minimal Wear)": {
       "buff163_goods_id": 776933,
@@ -65170,7 +65734,10 @@
     },
     "★ StatTrak™ Nomad Knife | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 776972,
-      "youpin_id": 61299
+      "youpin_id": 61299,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 35
+      }
     },
     "★ Survival Knife | Night Stripe (Well-Worn)": {
       "buff163_goods_id": 776973,
@@ -65242,7 +65809,10 @@
     },
     "★ Skeleton Knife | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 777039,
-      "youpin_id": 50054
+      "youpin_id": 50054,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 31
+      }
     },
     "★ Skeleton Knife | Crimson Web (Well-Worn)": {
       "buff163_goods_id": 777040,
@@ -65258,7 +65828,10 @@
     },
     "★ StatTrak™ Nomad Knife | Case Hardened (Factory New)": {
       "buff163_goods_id": 777043,
-      "youpin_id": 61296
+      "youpin_id": 61296,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 35
+      }
     },
     "★ StatTrak™ Nomad Knife | Crimson Web (Battle-Scarred)": {
       "buff163_goods_id": 777044,
@@ -65298,11 +65871,17 @@
     },
     "★ StatTrak™ Survival Knife | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 777053,
-      "youpin_id": 49433
+      "youpin_id": 49433,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 29
+      }
     },
     "★ StatTrak™ Survival Knife | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 777054,
-      "youpin_id": 58169
+      "youpin_id": 58169,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 29
+      }
     },
     "★ StatTrak™ Survival Knife | Fade (Factory New)": {
       "buff163_goods_id": 777055,
@@ -65418,7 +65997,10 @@
     },
     "★ StatTrak™ Nomad Knife | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 777124,
-      "youpin_id": 61297
+      "youpin_id": 61297,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 35
+      }
     },
     "★ StatTrak™ Nomad Knife | Crimson Web (Well-Worn)": {
       "buff163_goods_id": 777125,
@@ -65470,11 +66052,17 @@
     },
     "★ Paracord Knife | Case Hardened (Factory New)": {
       "buff163_goods_id": 777147,
-      "youpin_id": 61166
+      "youpin_id": 61166,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 34
+      }
     },
     "★ StatTrak™ Nomad Knife | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 777148,
-      "youpin_id": 61298
+      "youpin_id": 61298,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 35
+      }
     },
     "★ StatTrak™ Skeleton Knife | Night Stripe (Minimal Wear)": {
       "buff163_goods_id": 777149,
@@ -65482,7 +66070,10 @@
     },
     "★ StatTrak™ Survival Knife | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 777150,
-      "youpin_id": 58177
+      "youpin_id": 58177,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 29
+      }
     },
     "★ StatTrak™ Survival Knife | Crimson Web (Battle-Scarred)": {
       "buff163_goods_id": 777151,
@@ -65514,7 +66105,10 @@
     },
     "★ StatTrak™ Paracord Knife | Case Hardened (Battle-Scarred)": {
       "buff163_goods_id": 777158,
-      "youpin_id": 61218
+      "youpin_id": 61218,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 33
+      }
     },
     "★ Paracord Knife | Safari Mesh (Well-Worn)": {
       "buff163_goods_id": 777159,
@@ -65534,7 +66128,10 @@
     },
     "★ StatTrak™ Paracord Knife | Case Hardened (Factory New)": {
       "buff163_goods_id": 777165,
-      "youpin_id": 61217
+      "youpin_id": 61217,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 33
+      }
     },
     "★ StatTrak™ Survival Knife | Urban Masked (Well-Worn)": {
       "buff163_goods_id": 777166,
@@ -65558,7 +66155,10 @@
     },
     "★ StatTrak™ Paracord Knife | Case Hardened (Minimal Wear)": {
       "buff163_goods_id": 777175,
-      "youpin_id": 58297
+      "youpin_id": 58297,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 33
+      }
     },
     "Souvenir M4A1-S | Nitro (Well-Worn)": {
       "buff163_goods_id": 777176
@@ -65616,7 +66216,10 @@
     },
     "★ StatTrak™ Skeleton Knife | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 777196,
-      "youpin_id": 55191
+      "youpin_id": 55191,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 32
+      }
     },
     "★ StatTrak™ Nomad Knife | Boreal Forest (Well-Worn)": {
       "buff163_goods_id": 777197,
@@ -65789,7 +66392,10 @@
     },
     "★ Skeleton Knife | Case Hardened (Factory New)": {
       "buff163_goods_id": 777265,
-      "youpin_id": 52641
+      "youpin_id": 52641,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 31
+      }
     },
     "★ Survival Knife | Scorched (Factory New)": {
       "buff163_goods_id": 777266,
@@ -65809,11 +66415,17 @@
     },
     "★ StatTrak™ Paracord Knife | Case Hardened (Well-Worn)": {
       "buff163_goods_id": 777272,
-      "youpin_id": 56746
+      "youpin_id": 56746,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 33
+      }
     },
     "★ StatTrak™ Paracord Knife | Case Hardened (Field-Tested)": {
       "buff163_goods_id": 777277,
-      "youpin_id": 57229
+      "youpin_id": 57229,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 33
+      }
     },
     "★ StatTrak™ Survival Knife | Slaughter (Field-Tested)": {
       "buff163_goods_id": 777278,
@@ -65923,7 +66535,10 @@
     },
     "★ StatTrak™ Survival Knife | Case Hardened (Factory New)": {
       "buff163_goods_id": 777541,
-      "youpin_id": 104202
+      "youpin_id": 104202,
+      "buff163_paintseed_group_ids": {
+        "Blue Gem": 29
+      }
     },
     "★ StatTrak™ Nomad Knife | Boreal Forest (Battle-Scarred)": {
       "buff163_goods_id": 777542,
@@ -105651,6 +106266,474 @@
         942,
         953
       ]
-    }
+    },
+    "Five-SeveN | Kami": {
+      "Awkward Face": [
+        244
+      ],
+      "Funny Face": [
+        167,
+        403,
+        479,
+        628,
+        887
+      ],
+      "Muscle Man": [
+        847
+      ],
+      "Smile Face": [
+        537
+      ],
+      "Surprised Face": [
+        157
+      ],
+      "Togepi": [
+        906
+      ]
+    },
+    "★ Gut Knife | Case Hardened": {
+      "Blue Gem": [
+        165,
+        220,
+        421,
+        549,
+        647,
+        962
+      ]
+    },
+    "★ Karambit | Case Hardened": {
+      "Blue Gem": [
+        150,
+        269,
+        387,
+        406,
+        417,
+        442,
+        470,
+        550,
+        853,
+        888,
+        905
+      ]
+    },
+    "★ M9 Bayonet | Case Hardened": {
+      "Blue Gem": [
+        11,
+        105,
+        354,
+        417,
+        601,
+        796
+      ]
+    },
+    "★ Bayonet | Case Hardened": {
+      "Blue Gem": [
+        179,
+        442,
+        496,
+        588,
+        592,
+        670,
+        698,
+        828,
+        916
+      ]
+    },
+    "★ Flip Knife | Case Hardened": {
+      "Blue Gem": [
+        73,
+        151,
+        262,
+        321,
+        442,
+        592,
+        670,
+        698,
+        828,
+        916,
+        955
+      ]
+    },
+    "★ Butterfly Knife | Case Hardened": {
+      "Blue Gem": [
+        194,
+        263,
+        330,
+        396,
+        398,
+        478,
+        488,
+        494,
+        652,
+        694,
+        838
+      ]
+    },
+    "★ Bowie Knife | Case Hardened": {
+      "Blue Gem": [
+        29,
+        399,
+        964
+      ]
+    },
+    "★ Shadow Daggers | Case Hardened": {
+      "Blue Gem": [
+        14,
+        80,
+        150,
+        355,
+        417,
+        468
+      ]
+    },
+    "★ Huntsman Knife | Case Hardened": {
+      "Blue Gem": [
+        798,
+        800
+      ]
+    },
+    "★ Falchion Knife | Case Hardened": {
+      "Blue Gem": [
+        494,
+        575,
+        664,
+        694,
+        770,
+        800,
+        838,
+        868,
+        917
+      ]
+    },
+    "★ Navaja Knife | Case Hardened": {
+      "Blue Gem": [
+        182,
+        371,
+        407,
+        488,
+        494,
+        839
+      ]
+    },
+    "★ Talon Knife | Case Hardened": {
+      "Blue Gem": [
+        3,
+        10,
+        55,
+        74,
+        112,
+        185,
+        222,
+        241,
+        306,
+        357,
+        387,
+        450,
+        528,
+        575,
+        661,
+        713,
+        805,
+        819,
+        837,
+        868,
+        873,
+        899,
+        905,
+        923
+      ]
+    },
+    "★ Ursus Knife | Case Hardened": {
+      "Blue Gem": [
+        398,
+        494,
+        510,
+        575,
+        618,
+        694,
+        770,
+        838,
+        891,
+        917,
+        928
+      ]
+    },
+    "★ Stiletto Knife | Case Hardened": {
+      "Blue Gem": [
+        182,
+        371,
+        398,
+        407,
+        478,
+        638,
+        749,
+        838,
+        913,
+        928,
+        965
+      ]
+    },
+    "★ Paracord Knife | Case Hardened": {
+      "Blue Gem": [
+        180,
+        316,
+        403,
+        456,
+        468,
+        497,
+        557,
+        577,
+        583,
+        585
+      ]
+    },
+    "★ Nomad Knife | Case Hardened": {
+      "Blue Gem": [
+        14,
+        55,
+        169,
+        403,
+        456,
+        557,
+        577,
+        668,
+        681,
+        700,
+        704,
+        723,
+        850
+      ]
+    },
+    "★ Survival Knife | Case Hardened": {
+      "Blue Gem": [
+        169,
+        403,
+        456,
+        468,
+        497,
+        557,
+        577,
+        583,
+        634,
+        681
+      ]
+    },
+    "★ Skeleton Knife | Case Hardened": {
+      "Blue Gem": [
+        169,
+        403,
+        449,
+        456,
+        468,
+        497,
+        557,
+        577,
+        583,
+        585,
+        681
+      ]
+    },
+    "★ Classic Knife | Case Hardened": {
+      "Blue Gem": [
+        169,
+        180,
+        288,
+        316,
+        456,
+        583,
+        585,
+        601,
+        634
+      ]
+    },
+    "★ Gut Knife | Marble Fade": {
+      "Fire&Ice 10th": [
+        156,
+        545,
+        559,
+        589,
+        591,
+        791,
+        868,
+        977
+      ],
+      "Fire&Ice 1st": [
+        412
+      ],
+      "Fire&Ice 2nd": [
+        16,
+        146,
+        241,
+        359,
+        541
+      ],
+      "Fire&Ice 3rd": [
+        152,
+        281,
+        344,
+        743,
+        777
+      ],
+      "Fire&Ice 4th": [
+        48,
+        126,
+        129,
+        780,
+        787,
+        874,
+        918,
+        923
+      ],
+      "Fire&Ice 5th": [
+        252,
+        457,
+        522,
+        685
+      ],
+      "Fire&Ice 6th": [
+        112,
+        452,
+        471,
+        621,
+        773,
+        873
+      ],
+      "Fire&Ice 7th": [
+        8,
+        108,
+        274,
+        683,
+        867
+      ],
+      "Fire&Ice 8th": [
+        378,
+        854
+      ],
+      "Fire&Ice 9th": [
+        121,
+        287,
+        959
+      ]
+    },
+    "★ Flip Knife | Marble Fade": {
+      "Fire&Ice 10th": [
+        402,
+        545,
+        553,
+        559,
+        589,
+        591,
+        725,
+        764,
+        844,
+        858,
+        972,
+        977
+      ],
+      "Fire&Ice 1st": [
+        412
+      ],
+      "Fire&Ice 2nd": [
+        16,
+        146,
+        241,
+        359,
+        393,
+        541,
+        602,
+        649,
+        701
+      ],
+      "Fire&Ice 3rd": [
+        152,
+        292,
+        344,
+        628,
+        673,
+        743,
+        777,
+        792,
+        994
+      ],
+      "Fire&Ice 4th": [
+        48,
+        126,
+        129,
+        332,
+        780,
+        874,
+        908
+      ],
+      "Fire&Ice 5th": [
+        182,
+        204,
+        252,
+        457,
+        522,
+        660,
+        685,
+        705,
+        736,
+        988
+      ],
+      "Fire&Ice 6th": [
+        112,
+        230,
+        356,
+        444,
+        452,
+        471,
+        621,
+        631,
+        773,
+        876,
+        982
+      ],
+      "Fire&Ice 7th": [
+        14,
+        32,
+        58,
+        108,
+        213,
+        233,
+        274,
+        405,
+        653,
+        683,
+        702,
+        728,
+        770,
+        795,
+        867
+      ],
+      "Fire&Ice 8th": [
+        178,
+        188,
+        202,
+        337,
+        378,
+        461,
+        539,
+        655,
+        854,
+        971
+      ],
+      "Fire&Ice 9th": [
+        68,
+        149,
+        287,
+        637,
+        656,
+        672,
+        706,
+        766,
+        817,
+        922,
+        997
+      ]
+    },
+    "★ Bayonet | Marble Fade": {},
+    "★ Karambit | Marble Fade": {},
+    "★ Talon Knife | Marble Fade": {}
   }
 }

@@ -8,10 +8,8 @@ Some stickers and patches can have other Sticker/Patch ID-Name pairs on buff163 
 
 ## Features to be added
 
-* Pattern Index-Type Pairs and Pattern Related Paintseed Group IDs/Tag IDs for:
-    - Marble Fade Knives with Fire & Ice patterns (Gut, Bayonet, Flip, Karambit, Talon)
-    - Five-SeveN | Kami special patterns (Smile Face, Muscle Man, Togepi etc.)
-    - Case Hardened Knives with Blue Gem patterns
+* Pattern Index-Type Pairs and Pattern Related Tag IDs for:
+    - Marble Fade Knives with Fire & Ice patterns (Bayonet, Karambit, Talon)
     - Specialist Gloves | Crimson Kimono with Red patterns
 * Item Name/ID pairs and possibly Sticker Name/ID pairs for:
     - [cs.money](https://cs.money/)
