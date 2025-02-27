@@ -36414,7 +36414,7 @@
         "Fire&Ice 3rd": null,
         "Fire&Ice 4th": 1185649,
         "Fire&Ice 5th": 1185648,
-        "Fire&Ice 6th": null,
+        "Fire&Ice 6th": 14011554,
         "Fire&Ice 7th": 3972896,
         "Fire&Ice 8th": 1185645,
         "Fire&Ice 9th": 2537978,
@@ -52991,7 +52991,8 @@
       "youpin_id": 60784
     },
     "★ StatTrak™ Navaja Knife | Safari Mesh (Factory New)": {
-      "buff163_goods_id": 768025
+      "buff163_goods_id": 768025,
+      "youpin_id": 110646
     },
     "★ StatTrak™ Ursus Knife | Night Stripe (Factory New)": {
       "buff163_goods_id": 768026
@@ -101127,11 +101128,6 @@
       "youpin_id": 110316,
       "buff163_sticker_id": 129206
     },
-    "Sticker | volt | Shanghai 2024": {
-      "buff163_goods_id": 1114195,
-      "youpin_id": 110082,
-      "buff163_sticker_id": 129207
-    },
     "Sticker | aNdu | Shanghai 2024": {
       "buff163_goods_id": 1114200,
       "youpin_id": 110251,
@@ -101579,11 +101575,6 @@
       "youpin_id": 110297,
       "buff163_sticker_id": 129297
     },
-    "Sticker | volt (Glitter) | Shanghai 2024": {
-      "buff163_goods_id": 1114463,
-      "youpin_id": 110064,
-      "buff163_sticker_id": 129298
-    },
     "Sticker | TRY (Glitter) | Shanghai 2024": {
       "buff163_goods_id": 1114464,
       "youpin_id": 110264,
@@ -101767,11 +101758,6 @@
       "buff163_goods_id": 1114505,
       "youpin_id": 110343,
       "buff163_sticker_id": 129334
-    },
-    "Sticker | volt (Holo) | Shanghai 2024": {
-      "buff163_goods_id": 1114506,
-      "youpin_id": 110373,
-      "buff163_sticker_id": 129335
     },
     "Sticker | lux | Shanghai 2024": {
       "buff163_goods_id": 1114507,
@@ -102545,11 +102531,6 @@
       "youpin_id": 110391,
       "buff163_sticker_id": 129488
     },
-    "Sticker | volt (Gold) | Shanghai 2024": {
-      "buff163_goods_id": 1114705,
-      "youpin_id": 110527,
-      "buff163_sticker_id": 129489
-    },
     "Sticker | drop (Gold) | Shanghai 2024": {
       "buff163_goods_id": 1114706,
       "youpin_id": 110556,
@@ -103321,6 +103302,26 @@
       "buff163_goods_id": 1114985,
       "youpin_id": 110623,
       "buff163_sticker_id": 129670
+    },
+    "Sticker | volt (Glitter) | Shanghai 2024": {
+      "buff163_goods_id": 1115105,
+      "youpin_id": 110064,
+      "buff163_sticker_id": 129298
+    },
+    "Sticker | volt | Shanghai 2024": {
+      "buff163_goods_id": 1115109,
+      "youpin_id": 110082,
+      "buff163_sticker_id": 129207
+    },
+    "Sticker | volt (Holo) | Shanghai 2024": {
+      "buff163_goods_id": 1115111,
+      "youpin_id": 110373,
+      "buff163_sticker_id": 129335
+    },
+    "Sticker | volt (Gold) | Shanghai 2024": {
+      "buff163_goods_id": 1115112,
+      "youpin_id": 110527,
+      "buff163_sticker_id": 129489
     },
     "★ StatTrak™ Kukri Knife | Night Stripe (Factory New)": {
       "buff163_goods_id": 1115210,

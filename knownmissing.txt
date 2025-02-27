@@ -18,6 +18,22 @@ Phase IDs of Doppler phases known to be missing on buff163:
 ★ StatTrak™ M9 Bayonet | Gamma Doppler Emerald (Minimal Wear) (2 registered on FloatDB, can be unboxed from a Gamma/Gamma 2 Case)
 ★ StatTrak™ Shadow Daggers | Gamma Doppler Emerald (Minimal Wear) (3 registered on FloatDB, can be unboxed from a Operation Riptide/Dreams & Nightmares Case)
 
+Tag IDs of Marble Fade Fire & Ice tiers known to be missing on buff163:
+★ Gut Knife | Marble Fade (Minimal Wear): 1st, 4th
+★ StatTrak™ Gut Knife | Marble Fade (Factory New): 1st
+★ StatTrak™ Gut Knife | Marble Fade (Minimal Wear): 1st, 2nd, 3rd, 5th, 6th, 7th, 8th, 9th, 10th
+★ Flip Knife | Marble Fade (Minimal Wear): 1st, 3rd
+★ StatTrak™ Flip Knife | Marble Fade (Factory New): 1st
+★ StatTrak™ Flip Knife | Marble Fade (Minimal Wear):  1st, 2nd, 3rd, 4th, 5th, 6th, 7th, 8th, 9th
+★ Bayonet | Marble Fade (Minimal Wear): 3rd
+★ StatTrak™ Bayonet | Marble Fade (Factory New): 1st
+★ StatTrak™ Bayonet | Marble Fade (Minimal Wear): 1st, 2nd, 3rd, 4th, 6th, 7th, 10th
+★ Karambit | Marble Fade (Minimal Wear): 2nd
+★ StatTrak™ Karambit | Marble Fade (Minimal Wear): 1st, 3rd, 4th, 6th, 7th, 8th, 10th
+★ Talon Knife | Marble Fade (Minimal Wear): 1st, 4th
+★ StatTrak™ Talon Knife | Marble Fade (Factory New): 1st
+★ StatTrak™ Talon Knife | Marble Fade (Minimal Wear): 1st, 2nd, 3rd, 5th, 6th, 7th, 8th, 9th
+
 IDs of items known to be missing on youpin898:
 Negev | Anodized Navy (Minimal Wear)
 Souvenir AUG | Condemned (Battle-Scarred)
@@ -87,7 +103,6 @@ Souvenir MP7 | Anodized Navy (Minimal Wear)
 ★ StatTrak™ Gut Knife | Urban Masked (Factory New)
 Souvenir R8 Revolver | Bone Mask (Field-Tested)
 ★ StatTrak™ Gut Knife | Safari Mesh (Factory New)
-★ StatTrak™ Navaja Knife | Safari Mesh (Factory New)
 ★ StatTrak™ Ursus Knife | Night Stripe (Factory New)
 ★ StatTrak™ Navaja Knife | Night Stripe (Factory New)
 ★ StatTrak™ Talon Knife | Crimson Web (Factory New)
