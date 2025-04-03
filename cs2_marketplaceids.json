@@ -103819,7 +103819,16 @@
     },
     "★ Skeleton Knife | Doppler (Factory New)": {
       "buff163_goods_id": 1115642,
-      "youpin_id": 110935
+      "youpin_id": 110935,
+      "buff163_phase_ids": {
+        "Ruby": 22738649,
+        "Sapphire": 22738651,
+        "Black Pearl": 22738652,
+        "Phase 1": 22738653,
+        "Phase 2": 22738654,
+        "Phase 3": 22738655,
+        "Phase 4": 22738656
+      }
     },
     "Glock-18 | Shinobu (Battle-Scarred)": {
       "buff163_goods_id": 1115643,
@@ -104139,7 +104148,16 @@
     },
     "★ Nomad Knife | Doppler (Factory New)": {
       "buff163_goods_id": 1115738,
-      "youpin_id": 111055
+      "youpin_id": 111055,
+      "buff163_phase_ids": {
+        "Ruby": 22738662,
+        "Sapphire": 22738664,
+        "Black Pearl": 22738665,
+        "Phase 1": 22738666,
+        "Phase 2": 22738667,
+        "Phase 3": 22738669,
+        "Phase 4": 22738670
+      }
     },
     "Galil AR | Control (Battle-Scarred)": {
       "buff163_goods_id": 1115739,
@@ -104251,7 +104269,16 @@
     },
     "★ Survival Knife | Doppler (Factory New)": {
       "buff163_goods_id": 1115768,
-      "youpin_id": 110869
+      "youpin_id": 110869,
+      "buff163_phase_ids": {
+        "Ruby": 22738681,
+        "Sapphire": 22738684,
+        "Black Pearl": 22738685,
+        "Phase 1": 22738686,
+        "Phase 2": 22738687,
+        "Phase 3": 22738689,
+        "Phase 4": 22738690
+      }
     },
     "StatTrak™ P90 | Wave Breaker (Well-Worn)": {
       "buff163_goods_id": 1115769,
@@ -104839,7 +104866,16 @@
     },
     "★ Paracord Knife | Doppler (Factory New)": {
       "buff163_goods_id": 1115922,
-      "youpin_id": 111035
+      "youpin_id": 111035,
+      "buff163_phase_ids": {
+        "Ruby": 22738709,
+        "Sapphire": 22738711,
+        "Black Pearl": 22738713,
+        "Phase 1": 22738715,
+        "Phase 2": 22738716,
+        "Phase 3": 22738717,
+        "Phase 4": 22738719
+      }
     },
     "★ Nomad Knife | Ultraviolet (Field-Tested)": {
       "buff163_goods_id": 1115923,
@@ -105343,7 +105379,16 @@
     },
     "★ Nomad Knife | Doppler (Minimal Wear)": {
       "buff163_goods_id": 1116059,
-      "youpin_id": 111284
+      "youpin_id": 111284,
+      "buff163_phase_ids": {
+        "Ruby": null,
+        "Sapphire": null,
+        "Black Pearl": null,
+        "Phase 1": null,
+        "Phase 2": null,
+        "Phase 3": null,
+        "Phase 4": null
+      }
     },
     "Zeus x27 | Swamp DDPAT (Battle-Scarred)": {
       "buff163_goods_id": 1116060,
@@ -105395,7 +105440,16 @@
     },
     "★ StatTrak™ Nomad Knife | Doppler (Factory New)": {
       "buff163_goods_id": 1116072,
-      "youpin_id": 111208
+      "youpin_id": 111208,
+      "buff163_phase_ids": {
+        "Ruby": null,
+        "Sapphire": null,
+        "Black Pearl": null,
+        "Phase 1": null,
+        "Phase 2": null,
+        "Phase 3": null,
+        "Phase 4": null
+      }
     },
     "SSG 08 | Grey Smoke (Factory New)": {
       "buff163_goods_id": 1116073,
@@ -105639,7 +105693,16 @@
     },
     "★ StatTrak™ Survival Knife | Doppler (Factory New)": {
       "buff163_goods_id": 1116134,
-      "youpin_id": 111223
+      "youpin_id": 111223,
+      "buff163_phase_ids": {
+        "Ruby": null,
+        "Sapphire": null,
+        "Black Pearl": null,
+        "Phase 1": null,
+        "Phase 2": null,
+        "Phase 3": null,
+        "Phase 4": null
+      }
     },
     "P90 | Mustard Gas (Battle-Scarred)": {
       "buff163_goods_id": 1116135,
@@ -105755,7 +105818,16 @@
     },
     "★ Survival Knife | Doppler (Minimal Wear)": {
       "buff163_goods_id": 1116163,
-      "youpin_id": 111335
+      "youpin_id": 111335,
+      "buff163_phase_ids": {
+        "Ruby": null,
+        "Sapphire": null,
+        "Black Pearl": null,
+        "Phase 1": null,
+        "Phase 2": null,
+        "Phase 3": null,
+        "Phase 4": null
+      }
     },
     "XM1014 | Copperflage (Minimal Wear)": {
       "buff163_goods_id": 1116164,
@@ -105927,7 +105999,16 @@
     },
     "★ StatTrak™ Skeleton Knife | Doppler (Factory New)": {
       "buff163_goods_id": 1116209,
-      "youpin_id": 111282
+      "youpin_id": 111282,
+      "buff163_phase_ids": {
+        "Ruby": null,
+        "Sapphire": null,
+        "Black Pearl": null,
+        "Phase 1": null,
+        "Phase 2": null,
+        "Phase 3": null,
+        "Phase 4": null
+      }
     },
     "Tec-9 | Blue Blast (Well-Worn)": {
       "buff163_goods_id": 1116210,
@@ -105991,7 +106072,16 @@
     },
     "★ StatTrak™ Paracord Knife | Doppler (Factory New)": {
       "buff163_goods_id": 1116226,
-      "youpin_id": 111177
+      "youpin_id": 111177,
+      "buff163_phase_ids": {
+        "Ruby": null,
+        "Sapphire": null,
+        "Black Pearl": null,
+        "Phase 1": null,
+        "Phase 2": null,
+        "Phase 3": null,
+        "Phase 4": null
+      }
     },
     "Glock-18 | Ocean Topo (Well-Worn)": {
       "buff163_goods_id": 1116227,
@@ -106114,7 +106204,8 @@
       "youpin_id": 111327
     },
     "★ StatTrak™ Skeleton Knife | Rust Coat (Well-Worn)": {
-      "buff163_goods_id": 1116257
+      "buff163_goods_id": 1116257,
+      "youpin_id": 111442
     },
     "★ Nomad Knife | Damascus Steel (Minimal Wear)": {
       "buff163_goods_id": 1116258,
@@ -106122,7 +106213,16 @@
     },
     "★ Paracord Knife | Doppler (Minimal Wear)": {
       "buff163_goods_id": 1116259,
-      "youpin_id": 111317
+      "youpin_id": 111317,
+      "buff163_phase_ids": {
+        "Ruby": null,
+        "Sapphire": null,
+        "Black Pearl": null,
+        "Phase 1": null,
+        "Phase 2": null,
+        "Phase 3": null,
+        "Phase 4": null
+      }
     },
     "AWP | Arsenic Spill (Battle-Scarred)": {
       "buff163_goods_id": 1116260,
@@ -106226,7 +106326,16 @@
     },
     "★ StatTrak™ Nomad Knife | Doppler (Minimal Wear)": {
       "buff163_goods_id": 1116287,
-      "youpin_id": 111382
+      "youpin_id": 111382,
+      "buff163_phase_ids": {
+        "Ruby": null,
+        "Sapphire": null,
+        "Black Pearl": null,
+        "Phase 1": null,
+        "Phase 2": null,
+        "Phase 3": null,
+        "Phase 4": null
+      }
     },
     "AWP | LongDog (Factory New)": {
       "buff163_goods_id": 1116288,
@@ -106282,7 +106391,16 @@
     },
     "★ Skeleton Knife | Doppler (Minimal Wear)": {
       "buff163_goods_id": 1116301,
-      "youpin_id": 111318
+      "youpin_id": 111318,
+      "buff163_phase_ids": {
+        "Ruby": null,
+        "Sapphire": null,
+        "Black Pearl": null,
+        "Phase 1": null,
+        "Phase 2": null,
+        "Phase 3": null,
+        "Phase 4": null
+      }
     },
     "★ Survival Knife | Damascus Steel (Battle-Scarred)": {
       "buff163_goods_id": 1116302,
@@ -106418,7 +106536,16 @@
     },
     "★ StatTrak™ Survival Knife | Doppler (Minimal Wear)": {
       "buff163_goods_id": 1116337,
-      "youpin_id": 111390
+      "youpin_id": 111390,
+      "buff163_phase_ids": {
+        "Ruby": null,
+        "Sapphire": null,
+        "Black Pearl": null,
+        "Phase 1": null,
+        "Phase 2": null,
+        "Phase 3": null,
+        "Phase 4": null
+      }
     },
     "★ Skeleton Knife | Damascus Steel (Well-Worn)": {
       "buff163_goods_id": 1116338,
@@ -106461,6 +106588,24 @@
     "★ Paracord Knife | Ultraviolet (Well-Worn)": {
       "buff163_goods_id": 1116349,
       "youpin_id": 111441
+    },
+    "★ StatTrak™ Paracord Knife | Marble Fade (Minimal Wear)": {
+      "buff163_goods_id": 1116355,
+      "youpin_id": 111443
+    },
+    "★ StatTrak™ Nomad Knife | Rust Coat (Well-Worn)": {
+      "buff163_goods_id": 1116356,
+      "youpin_id": 111445
+    },
+    "★ StatTrak™ Skeleton Knife | Damascus Steel (Battle-Scarred)": {
+      "buff163_goods_id": 1116357
+    },
+    "★ StatTrak™ Paracord Knife | Damascus Steel (Well-Worn)": {
+      "buff163_goods_id": 1116359
+    },
+    "★ StatTrak™ Paracord Knife | Damascus Steel (Factory New)": {
+      "buff163_goods_id": 1116360,
+      "youpin_id": 111376
     },
     "Sticker | kioShiMa (Gold) | Atlanta 2017": {
       "buff163_sticker_id": 3326
