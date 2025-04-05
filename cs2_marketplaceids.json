@@ -106567,7 +106567,8 @@
       "youpin_id": 111440
     },
     "★ Paracord Knife | Damascus Steel (Battle-Scarred)": {
-      "buff163_goods_id": 1116343
+      "buff163_goods_id": 1116343,
+      "youpin_id": 111447
     },
     "★ StatTrak™ Skeleton Knife | Damascus Steel (Factory New)": {
       "buff163_goods_id": 1116344,
@@ -106606,6 +106607,44 @@
     "★ StatTrak™ Paracord Knife | Damascus Steel (Factory New)": {
       "buff163_goods_id": 1116360,
       "youpin_id": 111376
+    },
+    "★ StatTrak™ Survival Knife | Ultraviolet (Battle-Scarred)": {
+      "buff163_goods_id": 1116361,
+      "youpin_id": 111450
+    },
+    "★ StatTrak™ Survival Knife | Damascus Steel (Factory New)": {
+      "buff163_goods_id": 1116362,
+      "youpin_id": 111448
+    },
+    "★ StatTrak™ Survival Knife | Damascus Steel (Minimal Wear)": {
+      "buff163_goods_id": 1116363,
+      "youpin_id": 111430
+    },
+    "★ StatTrak™ Skeleton Knife | Ultraviolet (Battle-Scarred)": {
+      "buff163_goods_id": 1116364
+    },
+    "★ StatTrak™ Survival Knife | Damascus Steel (Battle-Scarred)": {
+      "buff163_goods_id": 1116365,
+      "youpin_id": 111438
+    },
+    "★ StatTrak™ Skeleton Knife | Marble Fade (Minimal Wear)": {
+      "buff163_goods_id": 1116366,
+      "youpin_id": 111449
+    },
+    "★ StatTrak™ Survival Knife | Damascus Steel (Well-Worn)": {
+      "buff163_goods_id": 1116367
+    },
+    "★ Survival Knife | Damascus Steel (Well-Worn)": {
+      "buff163_goods_id": 1116368,
+      "youpin_id": 111413
+    },
+    "★ StatTrak™ Survival Knife | Ultraviolet (Minimal Wear)": {
+      "buff163_goods_id": 1116370,
+      "youpin_id": 111324
+    },
+    "★ StatTrak™ Skeleton Knife | Tiger Tooth (Minimal Wear)": {
+      "buff163_goods_id": 1116371,
+      "youpin_id": 111451
     },
     "Sticker | kioShiMa (Gold) | Atlanta 2017": {
       "buff163_sticker_id": 3326
