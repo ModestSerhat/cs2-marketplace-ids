@@ -106556,7 +106556,8 @@
       "youpin_id": 111391
     },
     "★ Skeleton Knife | Ultraviolet (Factory New)": {
-      "buff163_goods_id": 1116340
+      "buff163_goods_id": 1116340,
+      "youpin_id": 111458
     },
     "★ Nomad Knife | Rust Coat (Well-Worn)": {
       "buff163_goods_id": 1116341,
@@ -106599,10 +106600,12 @@
       "youpin_id": 111445
     },
     "★ StatTrak™ Skeleton Knife | Damascus Steel (Battle-Scarred)": {
-      "buff163_goods_id": 1116357
+      "buff163_goods_id": 1116357,
+      "youpin_id": 111460
     },
     "★ StatTrak™ Paracord Knife | Damascus Steel (Well-Worn)": {
-      "buff163_goods_id": 1116359
+      "buff163_goods_id": 1116359,
+      "youpin_id": 111459
     },
     "★ StatTrak™ Paracord Knife | Damascus Steel (Factory New)": {
       "buff163_goods_id": 1116360,
@@ -106621,7 +106624,8 @@
       "youpin_id": 111430
     },
     "★ StatTrak™ Skeleton Knife | Ultraviolet (Battle-Scarred)": {
-      "buff163_goods_id": 1116364
+      "buff163_goods_id": 1116364,
+      "youpin_id": 111452
     },
     "★ StatTrak™ Survival Knife | Damascus Steel (Battle-Scarred)": {
       "buff163_goods_id": 1116365,
@@ -106632,7 +106636,8 @@
       "youpin_id": 111449
     },
     "★ StatTrak™ Survival Knife | Damascus Steel (Well-Worn)": {
-      "buff163_goods_id": 1116367
+      "buff163_goods_id": 1116367,
+      "youpin_id": 111457
     },
     "★ Survival Knife | Damascus Steel (Well-Worn)": {
       "buff163_goods_id": 1116368,
@@ -106645,6 +106650,49 @@
     "★ StatTrak™ Skeleton Knife | Tiger Tooth (Minimal Wear)": {
       "buff163_goods_id": 1116371,
       "youpin_id": 111451
+    },
+    "★ StatTrak™ Nomad Knife | Damascus Steel (Well-Worn)": {
+      "buff163_goods_id": 1116373,
+      "youpin_id": 111453
+    },
+    "★ StatTrak™ Paracord Knife | Doppler (Minimal Wear)": {
+      "buff163_goods_id": 1116375,
+      "youpin_id": 111456,
+      "buff163_phase_ids": {
+        "Ruby": null,
+        "Sapphire": null,
+        "Black Pearl": null,
+        "Phase 1": null,
+        "Phase 2": null,
+        "Phase 3": null,
+        "Phase 4": null
+      }
+    },
+    "★ StatTrak™ Nomad Knife | Ultraviolet (Well-Worn)": {
+      "buff163_goods_id": 1116379
+    },
+    "★ Nomad Knife | Ultraviolet (Factory New)": {
+      "buff163_goods_id": 1116380
+    },
+    "★ StatTrak™ Nomad Knife | Damascus Steel (Minimal Wear)": {
+      "buff163_goods_id": 1116381,
+      "youpin_id": 111455
+    },
+    "★ StatTrak™ Skeleton Knife | Doppler (Minimal Wear)": {
+      "buff163_goods_id": 1116383,
+      "youpin_id": 111444,
+      "buff163_phase_ids": {
+        "Ruby": null,
+        "Sapphire": null,
+        "Black Pearl": null,
+        "Phase 1": null,
+        "Phase 2": null,
+        "Phase 3": null,
+        "Phase 4": null
+      }
+    },
+    "★ StatTrak™ Survival Knife | Marble Fade (Minimal Wear)": {
+      "buff163_goods_id": 1116386
     },
     "Sticker | kioShiMa (Gold) | Atlanta 2017": {
       "buff163_sticker_id": 3326
