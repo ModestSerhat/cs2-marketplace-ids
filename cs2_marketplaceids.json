@@ -105384,10 +105384,10 @@
         "Ruby": null,
         "Sapphire": null,
         "Black Pearl": null,
-        "Phase 1": null,
+        "Phase 1": 22841796,
         "Phase 2": null,
         "Phase 3": null,
-        "Phase 4": null
+        "Phase 4": 22840998
       }
     },
     "Zeus x27 | Swamp DDPAT (Battle-Scarred)": {
@@ -105444,11 +105444,11 @@
       "buff163_phase_ids": {
         "Ruby": null,
         "Sapphire": null,
-        "Black Pearl": null,
+        "Black Pearl": 22840281,
         "Phase 1": null,
-        "Phase 2": null,
-        "Phase 3": null,
-        "Phase 4": null
+        "Phase 2": 22842891,
+        "Phase 3": 22840656,
+        "Phase 4": 22843569
       }
     },
     "SSG 08 | Grey Smoke (Factory New)": {
@@ -105695,11 +105695,11 @@
       "buff163_goods_id": 1116134,
       "youpin_id": 111223,
       "buff163_phase_ids": {
-        "Ruby": null,
+        "Ruby": 22852483,
         "Sapphire": null,
-        "Black Pearl": null,
+        "Black Pearl": 22844398,
         "Phase 1": null,
-        "Phase 2": null,
+        "Phase 2": 22844850,
         "Phase 3": null,
         "Phase 4": null
       }
@@ -105820,12 +105820,12 @@
       "buff163_goods_id": 1116163,
       "youpin_id": 111335,
       "buff163_phase_ids": {
-        "Ruby": null,
-        "Sapphire": null,
+        "Ruby": 22869726,
+        "Sapphire": 22840736,
         "Black Pearl": null,
         "Phase 1": null,
         "Phase 2": null,
-        "Phase 3": null,
+        "Phase 3": 22838548,
         "Phase 4": null
       }
     },
@@ -106003,11 +106003,11 @@
       "buff163_phase_ids": {
         "Ruby": null,
         "Sapphire": null,
-        "Black Pearl": null,
+        "Black Pearl": 22840469,
         "Phase 1": null,
-        "Phase 2": null,
-        "Phase 3": null,
-        "Phase 4": null
+        "Phase 2": 22856907,
+        "Phase 3": 22857534,
+        "Phase 4": 22840847
       }
     },
     "Tec-9 | Blue Blast (Well-Worn)": {
@@ -106075,12 +106075,12 @@
       "youpin_id": 111177,
       "buff163_phase_ids": {
         "Ruby": null,
-        "Sapphire": null,
+        "Sapphire": 22839996,
         "Black Pearl": null,
         "Phase 1": null,
         "Phase 2": null,
         "Phase 3": null,
-        "Phase 4": null
+        "Phase 4": 22840337
       }
     },
     "Glock-18 | Ocean Topo (Well-Worn)": {
@@ -106217,11 +106217,11 @@
       "buff163_phase_ids": {
         "Ruby": null,
         "Sapphire": null,
-        "Black Pearl": null,
+        "Black Pearl": 22836979,
         "Phase 1": null,
-        "Phase 2": null,
+        "Phase 2": 22862813,
         "Phase 3": null,
-        "Phase 4": null
+        "Phase 4": 22847139
       }
     },
     "AWP | Arsenic Spill (Battle-Scarred)": {
@@ -106394,7 +106394,7 @@
       "youpin_id": 111318,
       "buff163_phase_ids": {
         "Ruby": null,
-        "Sapphire": null,
+        "Sapphire": 22869355,
         "Black Pearl": null,
         "Phase 1": null,
         "Phase 2": null,
@@ -106693,6 +106693,10 @@
     },
     "★ StatTrak™ Survival Knife | Marble Fade (Minimal Wear)": {
       "buff163_goods_id": 1116386
+    },
+    "★ StatTrak™ Paracord Knife | Ultraviolet (Well-Worn)": {
+      "buff163_goods_id": 1116399,
+      "youpin_id": 111446
     },
     "Sticker | kioShiMa (Gold) | Atlanta 2017": {
       "buff163_sticker_id": 3326
