@@ -105382,7 +105382,7 @@
       "youpin_id": 111284,
       "buff163_phase_ids": {
         "Ruby": 22901366,
-        "Sapphire": null,
+        "Sapphire": 22981637,
         "Black Pearl": 22917242,
         "Phase 1": 22841796,
         "Phase 2": 22914087,
@@ -105701,7 +105701,7 @@
         "Phase 1": 22917721,
         "Phase 2": 22844850,
         "Phase 3": 22923701,
-        "Phase 4": null
+        "Phase 4": 22971732
       }
     },
     "P90 | Mustard Gas (Battle-Scarred)": {
@@ -106074,7 +106074,7 @@
       "buff163_goods_id": 1116226,
       "youpin_id": 111177,
       "buff163_phase_ids": {
-        "Ruby": null,
+        "Ruby": 22981529,
         "Sapphire": 22839996,
         "Black Pearl": 22920860,
         "Phase 1": 22902708,
@@ -106218,9 +106218,9 @@
         "Ruby": 22905524,
         "Sapphire": 22930501,
         "Black Pearl": 22836979,
-        "Phase 1": null,
+        "Phase 1": 22983687,
         "Phase 2": 22862813,
-        "Phase 3": null,
+        "Phase 3": 22998456,
         "Phase 4": 22847139
       }
     },
@@ -106330,8 +106330,8 @@
       "buff163_phase_ids": {
         "Ruby": null,
         "Sapphire": 22911736,
-        "Black Pearl": null,
-        "Phase 1": null,
+        "Black Pearl": 22981845,
+        "Phase 1": 23028674,
         "Phase 2": null,
         "Phase 3": null,
         "Phase 4": null
@@ -106397,7 +106397,7 @@
         "Sapphire": 22869355,
         "Black Pearl": 22964727,
         "Phase 1": 22937287,
-        "Phase 2": null,
+        "Phase 2": 23057774,
         "Phase 3": 22888031,
         "Phase 4": null
       }
@@ -106543,7 +106543,7 @@
         "Black Pearl": null,
         "Phase 1": null,
         "Phase 2": null,
-        "Phase 3": null,
+        "Phase 3": 23016813,
         "Phase 4": 22913943
       }
     },
@@ -106673,7 +106673,8 @@
       "youpin_id": 111463
     },
     "★ Nomad Knife | Ultraviolet (Factory New)": {
-      "buff163_goods_id": 1116380
+      "buff163_goods_id": 1116380,
+      "youpin_id": 111464
     },
     "★ StatTrak™ Nomad Knife | Damascus Steel (Minimal Wear)": {
       "buff163_goods_id": 1116381,
@@ -106706,6 +106707,16 @@
     "★ StatTrak™ Paracord Knife | Rust Coat (Well-Worn)": {
       "buff163_goods_id": 1116402,
       "youpin_id": 111462
+    },
+    "★ StatTrak™ Nomad Knife | Damascus Steel (Battle-Scarred)": {
+      "buff163_goods_id": 1116405,
+      "youpin_id": 111454
+    },
+    "★ StatTrak™ Skeleton Knife | Damascus Steel (Well-Worn)": {
+      "buff163_goods_id": 1116411
+    },
+    "★ StatTrak™ Skeleton Knife | Ultraviolet (Factory New)": {
+      "buff163_goods_id": 1116412
     },
     "Sticker | kioShiMa (Gold) | Atlanta 2017": {
       "buff163_sticker_id": 3326
