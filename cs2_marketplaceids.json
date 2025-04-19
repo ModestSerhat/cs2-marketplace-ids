@@ -66446,7 +66446,8 @@
       }
     },
     "Souvenir M4A1-S | Nitro (Well-Worn)": {
-      "buff163_goods_id": 777176
+      "buff163_goods_id": 777176,
+      "youpin_id": 111471
     },
     "★ Paracord Knife | Boreal Forest (Factory New)": {
       "buff163_goods_id": 777177,
@@ -106332,9 +106333,9 @@
         "Sapphire": 22911736,
         "Black Pearl": 22981845,
         "Phase 1": 23028674,
-        "Phase 2": null,
+        "Phase 2": 23141504,
         "Phase 3": null,
-        "Phase 4": null
+        "Phase 4": 23154090
       }
     },
     "AWP | LongDog (Factory New)": {
@@ -106399,7 +106400,7 @@
         "Phase 1": 22937287,
         "Phase 2": 23057774,
         "Phase 3": 22888031,
-        "Phase 4": null
+        "Phase 4": 23150158
       }
     },
     "★ Survival Knife | Damascus Steel (Battle-Scarred)": {
@@ -106702,7 +106703,8 @@
       "youpin_id": 111446
     },
     "★ Survival Knife | Ultraviolet (Factory New)": {
-      "buff163_goods_id": 1116401
+      "buff163_goods_id": 1116401,
+      "youpin_id": 111472
     },
     "★ StatTrak™ Paracord Knife | Rust Coat (Well-Worn)": {
       "buff163_goods_id": 1116402,
@@ -106713,7 +106715,8 @@
       "youpin_id": 111454
     },
     "★ StatTrak™ Skeleton Knife | Damascus Steel (Well-Worn)": {
-      "buff163_goods_id": 1116411
+      "buff163_goods_id": 1116411,
+      "youpin_id": 111469
     },
     "★ StatTrak™ Skeleton Knife | Ultraviolet (Factory New)": {
       "buff163_goods_id": 1116412,
@@ -106726,6 +106729,14 @@
     "★ StatTrak™ Survival Knife | Rust Coat (Well-Worn)": {
       "buff163_goods_id": 1116417,
       "youpin_id": 111468
+    },
+    "★ StatTrak™ Nomad Knife | Tiger Tooth (Minimal Wear)": {
+      "buff163_goods_id": 1116421,
+      "youpin_id": 111470
+    },
+    "★ StatTrak™ Paracord Knife | Damascus Steel (Battle-Scarred)": {
+      "buff163_goods_id": 1116436,
+      "youpin_id": 111473
     },
     "Sticker | kioShiMa (Gold) | Atlanta 2017": {
       "buff163_sticker_id": 3326
