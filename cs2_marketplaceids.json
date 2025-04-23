@@ -106689,9 +106689,9 @@
         "Sapphire": null,
         "Black Pearl": null,
         "Phase 1": null,
-        "Phase 2": null,
+        "Phase 2": 23257334,
         "Phase 3": 23132941,
-        "Phase 4": null
+        "Phase 4": 23227981
       }
     },
     "★ StatTrak™ Survival Knife | Marble Fade (Minimal Wear)": {
@@ -106737,6 +106737,13 @@
     "★ StatTrak™ Paracord Knife | Damascus Steel (Battle-Scarred)": {
       "buff163_goods_id": 1116436,
       "youpin_id": 111473
+    },
+    "★ StatTrak™ Survival Knife | Tiger Tooth (Minimal Wear)": {
+      "buff163_goods_id": 1116494,
+      "youpin_id": 111475
+    },
+    "★ StatTrak™ Survival Knife | Ultraviolet (Factory New)": {
+      "buff163_goods_id": 1116496
     },
     "Sticker | kioShiMa (Gold) | Atlanta 2017": {
       "buff163_sticker_id": 3326
