@@ -7649,7 +7649,8 @@
       "youpin_id": 58238
     },
     "Negev | Anodized Navy (Minimal Wear)": {
-      "buff163_goods_id": 35738
+      "buff163_goods_id": 35738,
+      "youpin_id": 111476
     },
     "Negev | Army Sheen (Factory New)": {
       "buff163_goods_id": 35739,
@@ -106543,7 +106544,7 @@
         "Sapphire": null,
         "Black Pearl": 23130200,
         "Phase 1": null,
-        "Phase 2": null,
+        "Phase 2": 23451279,
         "Phase 3": 23016813,
         "Phase 4": 22913943
       }
@@ -106660,13 +106661,13 @@
       "buff163_goods_id": 1116375,
       "youpin_id": 111456,
       "buff163_phase_ids": {
-        "Ruby": null,
+        "Ruby": 23324803,
         "Sapphire": null,
         "Black Pearl": null,
         "Phase 1": null,
         "Phase 2": 23089406,
         "Phase 3": null,
-        "Phase 4": null
+        "Phase 4": 23450810
       }
     },
     "★ StatTrak™ Nomad Knife | Ultraviolet (Well-Worn)": {
@@ -106688,7 +106689,7 @@
         "Ruby": null,
         "Sapphire": null,
         "Black Pearl": null,
-        "Phase 1": null,
+        "Phase 1": 23374170,
         "Phase 2": 23257334,
         "Phase 3": 23132941,
         "Phase 4": 23227981
@@ -106744,6 +106745,10 @@
     },
     "★ StatTrak™ Survival Knife | Ultraviolet (Factory New)": {
       "buff163_goods_id": 1116496
+    },
+    "★ StatTrak™ Paracord Knife | Tiger Tooth (Minimal Wear)": {
+      "buff163_goods_id": 1116525,
+      "youpin_id": 111467
     },
     "Sticker | kioShiMa (Gold) | Atlanta 2017": {
       "buff163_sticker_id": 3326
