@@ -27,9 +27,6 @@ Survival Knife | Doppler Black Pearl (Minimal Wear) (6 registered on FloatDB, Ca
 ★ StatTrak™ Survival Knife | Doppler Phase 1 (Minimal Wear) (2 registered on FloatDB, Can be unboxed from a Fever Case)
 ★ StatTrak™ Nomad Knife | Doppler Ruby (Minimal Wear) (0 registered on FloatDB, Can be unboxed from a Fever Case)
 
-IDs of items known to be missing on buff163:
-Sticker | zweih (Gold) | Austin 2025
-
 Tag IDs of Marble Fade Fire & Ice tiers known to be missing on buff163:
 ★ Gut Knife | Marble Fade (Minimal Wear): 1st, 4th
 ★ StatTrak™ Gut Knife | Marble Fade (Factory New): 1st
