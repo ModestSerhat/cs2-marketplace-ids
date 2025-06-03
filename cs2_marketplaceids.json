@@ -73366,7 +73366,8 @@
       "buff163_goods_id": 853197
     },
     "★ StatTrak™ Navaja Knife | Scorched (Factory New)": {
-      "buff163_goods_id": 854757
+      "buff163_goods_id": 854757,
+      "youpin_id": 112339
     },
     "★ StatTrak™ Paracord Knife | Safari Mesh (Factory New)": {
       "buff163_goods_id": 856906,
@@ -106665,7 +106666,7 @@
       "youpin_id": 111456,
       "buff163_phase_ids": {
         "Ruby": 23324803,
-        "Sapphire": null,
+        "Sapphire": 23715008,
         "Black Pearl": null,
         "Phase 1": null,
         "Phase 2": 23089406,
@@ -106754,7 +106755,8 @@
       "youpin_id": 111467
     },
     "★ StatTrak™ Paracord Knife | Ultraviolet (Factory New)": {
-      "buff163_goods_id": 1116527
+      "buff163_goods_id": 1116527,
+      "youpin_id": 112340
     },
     "Sticker | woxic (Gold) | Austin 2025": {
       "buff163_goods_id": 1116646,
@@ -111023,6 +111025,213 @@
       "buff163_goods_id": 1117773,
       "youpin_id": 112258,
       "buff163_sticker_id": 130588
+    },
+    "Austin 2025 Anubis Souvenir Package": {
+      "buff163_goods_id": 1117878,
+      "youpin_id": 112341
+    },
+    "Austin 2025 Ancient Souvenir Package": {
+      "buff163_goods_id": 1117881,
+      "youpin_id": 112342
+    },
+    "Austin 2025 Train Souvenir Package": {
+      "buff163_goods_id": 1117882,
+      "youpin_id": 112343
+    },
+    "Souvenir CZ75-Auto | Copper Fiber (Minimal Wear)": {
+      "buff163_goods_id": 1117887,
+      "youpin_id": 112347
+    },
+    "Souvenir Galil AR | Green Apple (Factory New)": {
+      "buff163_goods_id": 1117889,
+      "youpin_id": 112359
+    },
+    "Austin 2025 Inferno Souvenir Package": {
+      "buff163_goods_id": 1117890,
+      "youpin_id": 112368
+    },
+    "Souvenir AUG | Steel Sentinel (Minimal Wear)": {
+      "buff163_goods_id": 1117910,
+      "youpin_id": 112371
+    },
+    "Souvenir P90 | Straight Dimes (Battle-Scarred)": {
+      "buff163_goods_id": 1117911,
+      "youpin_id": 112385
+    },
+    "Souvenir P90 | Straight Dimes (Minimal Wear)": {
+      "buff163_goods_id": 1117912,
+      "youpin_id": 112357
+    },
+    "Souvenir XM1014 | Run Run Run (Field-Tested)": {
+      "buff163_goods_id": 1117913,
+      "youpin_id": 112348
+    },
+    "Souvenir P250 | Constructivist (Factory New)": {
+      "buff163_goods_id": 1117914,
+      "youpin_id": 112360
+    },
+    "Souvenir AUG | Steel Sentinel (Well-Worn)": {
+      "buff163_goods_id": 1117915,
+      "youpin_id": 112358
+    },
+    "Souvenir CZ75-Auto | Copper Fiber (Field-Tested)": {
+      "buff163_goods_id": 1117916,
+      "youpin_id": 112345
+    },
+    "Souvenir Glock-18 | Green Line (Minimal Wear)": {
+      "buff163_goods_id": 1117917,
+      "youpin_id": 112380
+    },
+    "Souvenir AUG | Steel Sentinel (Field-Tested)": {
+      "buff163_goods_id": 1117919,
+      "youpin_id": 112349
+    },
+    "Souvenir Nova | Rain Station (Field-Tested)": {
+      "buff163_goods_id": 1117920,
+      "youpin_id": 112361
+    },
+    "Souvenir Galil AR | Green Apple (Minimal Wear)": {
+      "buff163_goods_id": 1117921,
+      "youpin_id": 112351
+    },
+    "Souvenir Nova | Rain Station (Minimal Wear)": {
+      "buff163_goods_id": 1117922,
+      "youpin_id": 112346
+    },
+    "Souvenir AUG | Steel Sentinel (Battle-Scarred)": {
+      "buff163_goods_id": 1117924,
+      "youpin_id": 112367
+    },
+    "Souvenir CZ75-Auto | Copper Fiber (Factory New)": {
+      "buff163_goods_id": 1117925,
+      "youpin_id": 112376
+    },
+    "Souvenir P250 | Constructivist (Minimal Wear)": {
+      "buff163_goods_id": 1117926,
+      "youpin_id": 112350
+    },
+    "Souvenir UMP-45 | Late Night Transit (Minimal Wear)": {
+      "buff163_goods_id": 1117927,
+      "youpin_id": 112377
+    },
+    "Souvenir Zeus x27 | Charged Up (Minimal Wear)": {
+      "buff163_goods_id": 1117928,
+      "youpin_id": 112374
+    },
+    "Souvenir UMP-45 | Late Night Transit (Field-Tested)": {
+      "buff163_goods_id": 1117929,
+      "youpin_id": 112373
+    },
+    "Souvenir Zeus x27 | Charged Up (Field-Tested)": {
+      "buff163_goods_id": 1117930,
+      "youpin_id": 112387
+    },
+    "Souvenir Glock-18 | Green Line (Factory New)": {
+      "buff163_goods_id": 1117931
+    },
+    "Souvenir MAC-10 | Derailment (Field-Tested)": {
+      "buff163_goods_id": 1117932,
+      "youpin_id": 112362
+    },
+    "Souvenir P90 | Straight Dimes (Field-Tested)": {
+      "buff163_goods_id": 1117933,
+      "youpin_id": 112369
+    },
+    "Souvenir FAMAS | 2A2F (Field-Tested)": {
+      "buff163_goods_id": 1117934,
+      "youpin_id": 112375
+    },
+    "Souvenir Galil AR | Green Apple (Field-Tested)": {
+      "buff163_goods_id": 1117935,
+      "youpin_id": 112354
+    },
+    "Souvenir XM1014 | Run Run Run (Factory New)": {
+      "buff163_goods_id": 1117937,
+      "youpin_id": 112356
+    },
+    "Souvenir FAMAS | 2A2F (Battle-Scarred)": {
+      "buff163_goods_id": 1117938,
+      "youpin_id": 112352
+    },
+    "Souvenir P90 | Straight Dimes (Well-Worn)": {
+      "buff163_goods_id": 1117939,
+      "youpin_id": 112364
+    },
+    "Souvenir CZ75-Auto | Copper Fiber (Battle-Scarred)": {
+      "buff163_goods_id": 1117940,
+      "youpin_id": 112365
+    },
+    "Souvenir FAMAS | 2A2F (Minimal Wear)": {
+      "buff163_goods_id": 1117941,
+      "youpin_id": 112344
+    },
+    "Souvenir UMP-45 | Late Night Transit (Well-Worn)": {
+      "buff163_goods_id": 1117942,
+      "youpin_id": 112378
+    },
+    "Souvenir Nova | Rain Station (Factory New)": {
+      "buff163_goods_id": 1117943,
+      "youpin_id": 112355
+    },
+    "Souvenir MP9 | Latte Rush (Battle-Scarred)": {
+      "buff163_goods_id": 1117945
+    },
+    "Souvenir M4A4 | Hellish (Well-Worn)": {
+      "buff163_goods_id": 1117946
+    },
+    "Souvenir MAC-10 | Derailment (Well-Worn)": {
+      "buff163_goods_id": 1117947,
+      "youpin_id": 112383
+    },
+    "Souvenir P250 | Constructivist (Field-Tested)": {
+      "buff163_goods_id": 1117948,
+      "youpin_id": 112353
+    },
+    "Souvenir P90 | Straight Dimes (Factory New)": {
+      "buff163_goods_id": 1117950
+    },
+    "Souvenir Glock-18 | Green Line (Well-Worn)": {
+      "buff163_goods_id": 1117953,
+      "youpin_id": 112379
+    },
+    "Souvenir CZ75-Auto | Copper Fiber (Well-Worn)": {
+      "buff163_goods_id": 1117954,
+      "youpin_id": 112372
+    },
+    "Souvenir XM1014 | Run Run Run (Minimal Wear)": {
+      "buff163_goods_id": 1117955,
+      "youpin_id": 112381
+    },
+    "Souvenir Glock-18 | Green Line (Field-Tested)": {
+      "buff163_goods_id": 1117956,
+      "youpin_id": 112384
+    },
+    "Souvenir MAC-10 | Derailment (Battle-Scarred)": {
+      "buff163_goods_id": 1117957
+    },
+    "Souvenir XM1014 | Run Run Run (Battle-Scarred)": {
+      "buff163_goods_id": 1117958
+    },
+    "Souvenir Zeus x27 | Charged Up (Well-Worn)": {
+      "buff163_goods_id": 1117959
+    },
+    "Souvenir M4A4 | Hellish (Battle-Scarred)": {
+      "buff163_goods_id": 1117960
+    },
+    "Souvenir MAC-10 | Derailment (Minimal Wear)": {
+      "youpin_id": 112363
+    },
+    "Souvenir Glock-18 | Green Line (Battle-Scarred)": {
+      "youpin_id": 112366
+    },
+    "Souvenir AUG | Steel Sentinel (Factory New)": {
+      "youpin_id": 112370
+    },
+    "Souvenir Tec-9 | Whiteout (Field-Tested)": {
+      "youpin_id": 112382
+    },
+    "Souvenir UMP-45 | Late Night Transit (Battle-Scarred)": {
+      "youpin_id": 112386
     },
     "Sticker | kioShiMa (Gold) | Atlanta 2017": {
       "buff163_sticker_id": 3326
