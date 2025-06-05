@@ -6,6 +6,10 @@ Souvenir R8 Revolver | Bone Mask (Battle-Scarred) (0 registered on FloatDB, can 
 ★ StatTrak™ Ursus Knife | Boreal Forest (Factory New) (1 registered on FloatDB, can be unboxed from a Danger Zone/Horizon Case)
 ★ StatTrak™ Classic Knife | Urban Masked (Factory New) (0 registered on FloatDB, can be unboxed from a CS20 Case)
 ★ StatTrak™ Nomad Knife | Ultraviolet (Factory New) (0 registered on FloatDB, can be unboxed from a Fever Case)
+Souvenir Tec-9 | Whiteout (Factory New) (0 registered on FloatDB, can be unboxed from an Austin 2025 Train Souvenir Package)
+Souvenir M4A4 | Hellish (Factory New) (2 registered on FloatDB, can be unboxed from an Austin 2025 Train Souvenir Package)
+Souvenir AWP | LongDog (Factory New) (2 registered on FloatDB, can be unboxed from an Austin 2025 Train Souvenir Package)
+Souvenir AWP | LongDog (Battle-Scarred) (7 registered on FloatDB, can be unboxed from an Austin 2025 Train Souvenir Package)
 
 Phase IDs of Doppler phases known to be missing on buff163:
 ★ StatTrak™ M9 Bayonet | Doppler Black Pearl (Minimal Wear) (0 registered on FloatDB, can be unboxed from a Chroma/Chroma 2/Chroma 3 Case)
@@ -42,6 +46,9 @@ Tag IDs of Marble Fade Fire & Ice tiers known to be missing on buff163:
 ★ Talon Knife | Marble Fade (Minimal Wear): 1st, 4th
 ★ StatTrak™ Talon Knife | Marble Fade (Factory New): 1st
 ★ StatTrak™ Talon Knife | Marble Fade (Minimal Wear): 1st, 2nd, 3rd, 5th, 6th, 7th, 8th, 9th
+
+IDs of items known to be missing on buff163:
+Souvenir Zeus x27 | Charged Up (Factory New)
 
 IDs of items known to be missing on youpin898:
 Souvenir G3SG1 | VariCamo (Well-Worn)

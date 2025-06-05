@@ -111127,7 +111127,8 @@
       "youpin_id": 112387
     },
     "Souvenir Glock-18 | Green Line (Factory New)": {
-      "buff163_goods_id": 1117931
+      "buff163_goods_id": 1117931,
+      "youpin_id": 112415
     },
     "Souvenir MAC-10 | Derailment (Field-Tested)": {
       "buff163_goods_id": 1117932,
@@ -111174,10 +111175,12 @@
       "youpin_id": 112355
     },
     "Souvenir MP9 | Latte Rush (Battle-Scarred)": {
-      "buff163_goods_id": 1117945
+      "buff163_goods_id": 1117945,
+      "youpin_id": 112403
     },
     "Souvenir M4A4 | Hellish (Well-Worn)": {
-      "buff163_goods_id": 1117946
+      "buff163_goods_id": 1117946,
+      "youpin_id": 112393
     },
     "Souvenir MAC-10 | Derailment (Well-Worn)": {
       "buff163_goods_id": 1117947,
@@ -111188,7 +111191,8 @@
       "youpin_id": 112353
     },
     "Souvenir P90 | Straight Dimes (Factory New)": {
-      "buff163_goods_id": 1117950
+      "buff163_goods_id": 1117950,
+      "youpin_id": 112391
     },
     "Souvenir Glock-18 | Green Line (Well-Worn)": {
       "buff163_goods_id": 1117953,
@@ -111207,31 +111211,127 @@
       "youpin_id": 112384
     },
     "Souvenir MAC-10 | Derailment (Battle-Scarred)": {
-      "buff163_goods_id": 1117957
+      "buff163_goods_id": 1117957,
+      "youpin_id": 112411
     },
     "Souvenir XM1014 | Run Run Run (Battle-Scarred)": {
-      "buff163_goods_id": 1117958
+      "buff163_goods_id": 1117958,
+      "youpin_id": 112399
     },
     "Souvenir Zeus x27 | Charged Up (Well-Worn)": {
-      "buff163_goods_id": 1117959
+      "buff163_goods_id": 1117959,
+      "youpin_id": 112404
     },
     "Souvenir M4A4 | Hellish (Battle-Scarred)": {
-      "buff163_goods_id": 1117960
+      "buff163_goods_id": 1117960,
+      "youpin_id": 112401
     },
-    "Souvenir MAC-10 | Derailment (Minimal Wear)": {
-      "youpin_id": 112363
+    "Souvenir AWP | LongDog (Well-Worn)": {
+      "buff163_goods_id": 1117961,
+      "youpin_id": 112417
     },
-    "Souvenir Glock-18 | Green Line (Battle-Scarred)": {
-      "youpin_id": 112366
+    "Souvenir MP9 | Latte Rush (Well-Worn)": {
+      "buff163_goods_id": 1117962,
+      "youpin_id": 112412
     },
-    "Souvenir AUG | Steel Sentinel (Factory New)": {
-      "youpin_id": 112370
+    "Austin 2025 Dust II Souvenir Package": {
+      "buff163_goods_id": 1117963,
+      "youpin_id": 112388
+    },
+    "Souvenir Tec-9 | Whiteout (Battle-Scarred)": {
+      "buff163_goods_id": 1117966,
+      "youpin_id": 112390
     },
     "Souvenir Tec-9 | Whiteout (Field-Tested)": {
+      "buff163_goods_id": 1117967,
       "youpin_id": 112382
     },
+    "Souvenir M4A4 | Hellish (Field-Tested)": {
+      "buff163_goods_id": 1117968,
+      "youpin_id": 112395
+    },
     "Souvenir UMP-45 | Late Night Transit (Battle-Scarred)": {
+      "buff163_goods_id": 1117969,
       "youpin_id": 112386
+    },
+    "Souvenir Glock-18 | Green Line (Battle-Scarred)": {
+      "buff163_goods_id": 1117970,
+      "youpin_id": 112366
+    },
+    "Souvenir Zeus x27 | Charged Up (Battle-Scarred)": {
+      "buff163_goods_id": 1117971,
+      "youpin_id": 112397
+    },
+    "Souvenir MAC-10 | Derailment (Minimal Wear)": {
+      "buff163_goods_id": 1117972,
+      "youpin_id": 112363
+    },
+    "Souvenir AWP | LongDog (Field-Tested)": {
+      "buff163_goods_id": 1117973,
+      "youpin_id": 112414
+    },
+    "Souvenir FAMAS | 2A2F (Factory New)": {
+      "buff163_goods_id": 1117974,
+      "youpin_id": 112408
+    },
+    "Souvenir Tec-9 | Whiteout (Minimal Wear)": {
+      "buff163_goods_id": 1117975,
+      "youpin_id": 112392
+    },
+    "Souvenir XM1014 | Run Run Run (Well-Worn)": {
+      "buff163_goods_id": 1117976,
+      "youpin_id": 112407
+    },
+    "Austin 2025 Mirage Souvenir Package": {
+      "buff163_goods_id": 1117977,
+      "youpin_id": 112396
+    },
+    "Austin 2025 Nuke Souvenir Package": {
+      "buff163_goods_id": 1117982,
+      "youpin_id": 112398
+    },
+    "Souvenir MP9 | Latte Rush (Minimal Wear)": {
+      "buff163_goods_id": 1117997,
+      "youpin_id": 112406
+    },
+    "Souvenir UMP-45 | Late Night Transit (Factory New)": {
+      "buff163_goods_id": 1117998,
+      "youpin_id": 112400
+    },
+    "Souvenir FAMAS | 2A2F (Well-Worn)": {
+      "buff163_goods_id": 1117999,
+      "youpin_id": 112402
+    },
+    "Souvenir M4A4 | Hellish (Minimal Wear)": {
+      "buff163_goods_id": 1118000,
+      "youpin_id": 112405
+    },
+    "Souvenir MP9 | Latte Rush (Field-Tested)": {
+      "buff163_goods_id": 1118001,
+      "youpin_id": 112410
+    },
+    "Souvenir AUG | Steel Sentinel (Factory New)": {
+      "buff163_goods_id": 1118002,
+      "youpin_id": 112370
+    },
+    "Souvenir MAC-10 | Derailment (Factory New)": {
+      "buff163_goods_id": 1118003,
+      "youpin_id": 112409
+    },
+    "Souvenir Tec-9 | Whiteout (Well-Worn)": {
+      "buff163_goods_id": 1118004,
+      "youpin_id": 112394
+    },
+    "Souvenir AWP | LongDog (Minimal Wear)": {
+      "buff163_goods_id": 1118005,
+      "youpin_id": 112413
+    },
+    "Souvenir MP9 | Latte Rush (Factory New)": {
+      "buff163_goods_id": 1118006,
+      "youpin_id": 112416
+    },
+    "Souvenir Zeus x27 | Charged Up (Factory New)": {
+      "youpin_id": 112389
     },
     "Sticker | kioShiMa (Gold) | Atlanta 2017": {
       "buff163_sticker_id": 3326
