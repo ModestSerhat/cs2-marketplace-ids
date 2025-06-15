@@ -6,7 +6,6 @@ Souvenir R8 Revolver | Bone Mask (Battle-Scarred) (0 registered on FloatDB, can 
 ★ StatTrak™ Ursus Knife | Boreal Forest (Factory New) (1 registered on FloatDB, can be unboxed from a Danger Zone/Horizon Case)
 ★ StatTrak™ Classic Knife | Urban Masked (Factory New) (0 registered on FloatDB, can be unboxed from a CS20 Case)
 ★ StatTrak™ Nomad Knife | Ultraviolet (Factory New) (0 registered on FloatDB, can be unboxed from a Fever Case)
-Souvenir Tec-9 | Whiteout (Factory New) (1 registered on FloatDB, can be unboxed from an Austin 2025 Train Souvenir Package)
 
 Phase IDs of Doppler phases known to be missing on buff163:
 ★ StatTrak™ M9 Bayonet | Doppler Black Pearl (Minimal Wear) (0 registered on FloatDB, can be unboxed from a Chroma/Chroma 2/Chroma 3 Case)
@@ -22,9 +21,8 @@ Phase IDs of Doppler phases known to be missing on buff163:
 ★ StatTrak™ Paracord Knife | Doppler Sapphire (Minimal Wear) (1 registered on FloatDB, Can be unboxed from a Fever Case)
 ★ StatTrak™ Paracord Knife | Doppler Black Pearl (Minimal Wear) (1 registered on FloatDB, Can be unboxed from a Fever Case)
 ★ StatTrak™ Paracord Knife | Doppler Phase 1 (Minimal Wear) (0 registered on FloatDB, Can be unboxed from a Fever Case)
-★ StatTrak™ Paracord Knife | Doppler Phase 3 (Minimal Wear) (2 registered on FloatDB, Can be unboxed from a Fever Case)
+★ StatTrak™ Paracord Knife | Doppler Phase 3 (Minimal Wear) (3 registered on FloatDB, Can be unboxed from a Fever Case)
 Survival Knife | Doppler Black Pearl (Minimal Wear) (6 registered on FloatDB, Can be unboxed from a Fever Case)
-★ StatTrak™ Survival Knife | Doppler Sapphire (Minimal Wear) (2 registered on FloatDB, Can be unboxed from a Fever Case)
 ★ StatTrak™ Survival Knife | Doppler Phase 1 (Minimal Wear) (2 registered on FloatDB, Can be unboxed from a Fever Case)
 ★ StatTrak™ Nomad Knife | Doppler Ruby (Minimal Wear) (0 registered on FloatDB, Can be unboxed from a Fever Case)
 

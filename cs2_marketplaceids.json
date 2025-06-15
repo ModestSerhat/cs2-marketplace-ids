@@ -106545,7 +106545,7 @@
       "youpin_id": 111390,
       "buff163_phase_ids": {
         "Ruby": 23112003,
-        "Sapphire": null,
+        "Sapphire": 23839908,
         "Black Pearl": 23130200,
         "Phase 1": null,
         "Phase 2": 23451279,
@@ -111346,6 +111346,10 @@
       "buff163_goods_id": 1118016,
       "youpin_id": 112419
     },
+    "Souvenir Tec-9 | Whiteout (Factory New)": {
+      "buff163_goods_id": 1118034,
+      "youpin_id": 112422
+    },
     "Sticker | kioShiMa (Gold) | Atlanta 2017": {
       "buff163_sticker_id": 3326
     },
@@ -113412,6 +113416,9 @@
     },
     "Sticker | Anubis (Gold)": {
       "buff163_sticker_id": 18885
+    },
+    "Sticker | Train (Gold)": {
+      "buff163_sticker_id": 130596
     }
   },
   "patterns": {
