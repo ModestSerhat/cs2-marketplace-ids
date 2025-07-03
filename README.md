@@ -4,7 +4,7 @@ Most tradable CS2 in-game items' Name/ID pairs from various item marketplaces su
 
 Some known missing items and Doppler phases that is seen to exist/not exist which aren't registered on buff163 and Youpin898 are also listed here.<br>
 
-IDs of the phases for the new Minimal Wear Doppler knives in the Fever Case will be added as soon as possible.<br>
+IDs of the phases for the new Minimal Wear Doppler knives in the Fever Case and the missing Austin 2025 Highlight Charms will be added as soon as possible.<br>
 
 Some stickers and patches can have other Sticker/Patch ID-Name pairs on buff163 with the name being the same that have a lower quantity of listings of the same kind of sticker applied (e.g. Rush 4x20 (Holo), CRUC1AL | Paris 2023)<br>
 
