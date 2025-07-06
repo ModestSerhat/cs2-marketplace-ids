@@ -113188,7 +113188,8 @@
       "youpin_id": 112735
     },
     "Souvenir Charm | Austin 2025 Highlight | Sneaky Double Kill": {
-      "buff163_goods_id": 1118591
+      "buff163_goods_id": 1118591,
+      "youpin_id": 112908
     },
     "Souvenir Charm | Austin 2025 Highlight | mezii Triple Pistol Kill": {
       "buff163_goods_id": 1118592,
@@ -113246,7 +113247,8 @@
       "youpin_id": 112798
     },
     "Souvenir Charm | Austin 2025 Highlight | snow Triple Kill": {
-      "buff163_goods_id": 1118609
+      "buff163_goods_id": 1118609,
+      "youpin_id": 112907
     },
     "Souvenir Charm | Austin 2025 Highlight | Smoked'em": {
       "buff163_goods_id": 1118610
@@ -113278,23 +113280,38 @@
       "buff163_goods_id": 1118621,
       "youpin_id": 112903
     },
-    "Souvenir Charm | Austin 2025 Highlight | Let's Goo": {
-      "youpin_id": 112669
-    },
     "Souvenir Charm | Austin 2025 Highlight | Open And Close": {
+      "buff163_goods_id": 1118622,
       "youpin_id": 112743
     },
+    "Souvenir Charm | Austin 2025 Highlight | Triple Trouble": {
+      "buff163_goods_id": 1118623,
+      "youpin_id": 112901
+    },
+    "Souvenir Charm | Austin 2025 Highlight | biguzera Double Kill": {
+      "buff163_goods_id": 1118624,
+      "youpin_id": 112890
+    },
     "Souvenir Charm | Austin 2025 Highlight | FalleN King Of Banana": {
+      "buff163_goods_id": 1118626,
       "youpin_id": 112747
+    },
+    "Souvenir Charm | Austin 2025 Highlight | Afterplant Secured": {
+      "buff163_goods_id": 1118627,
+      "youpin_id": 112905
+    },
+    "Souvenir Charm | Austin 2025 Highlight | Clutch and Defuse": {
+      "buff163_goods_id": 1118628,
+      "youpin_id": 112857
+    },
+    "Souvenir Charm | Austin 2025 Highlight | Let's Goo": {
+      "youpin_id": 112669
     },
     "Souvenir Charm | Austin 2025 Highlight | The Switcheroo": {
       "youpin_id": 112790
     },
     "Souvenir Charm | Austin 2025 Highlight | Smoke Defender": {
       "youpin_id": 112813
-    },
-    "Souvenir Charm | Austin 2025 Highlight | Clutch and Defuse": {
-      "youpin_id": 112857
     },
     "Souvenir Charm | Austin 2025 Highlight | Rifle Powerplay": {
       "youpin_id": 112861
@@ -113314,17 +113331,14 @@
     "Souvenir Charm | Austin 2025 Highlight | Clutching Up": {
       "youpin_id": 112886
     },
-    "Souvenir Charm | Austin 2025 Highlight | biguzera Double Kill": {
-      "youpin_id": 112890
-    },
     "Souvenir Charm | Austin 2025 Highlight | Tec-9 Tapped": {
       "youpin_id": 112891
     },
     "Souvenir Charm | Austin 2025 Highlight | KSCERATO Double Kill": {
       "youpin_id": 112899
     },
-    "Souvenir Charm | Austin 2025 Highlight | Triple Trouble": {
-      "youpin_id": 112901
+    "Souvenir Charm | Austin 2025 Highlight | YEKINDAR Triple Kill": {
+      "youpin_id": 112906
     },
     "Sticker | kioShiMa (Gold) | Atlanta 2017": {
       "buff163_sticker_id": 3326
