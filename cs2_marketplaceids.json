@@ -111358,7 +111358,8 @@
     },
     "Sticker | ropz (Champion) | Austin 2025": {
       "buff163_goods_id": 1118069,
-      "youpin_id": 112431
+      "youpin_id": 112431,
+      "buff163_sticker_id": 130612
     },
     "Austin 2025 Mirage Souvenir Highlight Package": {
       "buff163_goods_id": 1118071,
@@ -111366,11 +111367,13 @@
     },
     "Sticker | ZywOo (Champion) | Austin 2025": {
       "buff163_goods_id": 1118072,
-      "youpin_id": 112436
+      "youpin_id": 112436,
+      "buff163_sticker_id": 130613
     },
     "Sticker | ZywOo (Foil, Champion) | Austin 2025": {
       "buff163_goods_id": 1118073,
-      "youpin_id": 112440
+      "youpin_id": 112440,
+      "buff163_sticker_id": 130614
     },
     "Souvenir Charm | Austin 2025 Highlight | ZywOo Triple Kill": {
       "buff163_goods_id": 1118074,
@@ -111378,15 +111381,18 @@
     },
     "Sticker | mezii (Champion) | Austin 2025": {
       "buff163_goods_id": 1118075,
-      "youpin_id": 112430
+      "youpin_id": 112430,
+      "buff163_sticker_id": 130615
     },
     "Sticker | FlameZ (Champion) | Austin 2025": {
       "buff163_goods_id": 1118077,
-      "youpin_id": 112429
+      "youpin_id": 112429,
+      "buff163_sticker_id": 130616
     },
     "Sticker | ropz (Foil, Champion) | Austin 2025": {
       "buff163_goods_id": 1118078,
-      "youpin_id": 112432
+      "youpin_id": 112432,
+      "buff163_sticker_id": 130617
     },
     "Austin 2025 Champions Autograph Capsule": {
       "buff163_goods_id": 1118079,
@@ -111398,15 +111404,18 @@
     },
     "Sticker | mezii (Foil, Champion) | Austin 2025": {
       "buff163_goods_id": 1118097,
-      "youpin_id": 112443
+      "youpin_id": 112443,
+      "buff163_sticker_id": 130618
     },
     "Sticker | apEX (Champion) | Austin 2025": {
       "buff163_goods_id": 1118098,
-      "youpin_id": 112437
+      "youpin_id": 112437,
+      "buff163_sticker_id": 130619
     },
     "Sticker | FlameZ (Foil, Champion) | Austin 2025": {
       "buff163_goods_id": 1118099,
-      "youpin_id": 112438
+      "youpin_id": 112438,
+      "buff163_sticker_id": 130620
     },
     "Souvenir Charm | Austin 2025 Highlight | Cleaning Up": {
       "buff163_goods_id": 1118101,
@@ -111418,7 +111427,8 @@
     },
     "Sticker | apEX (Foil, Champion) | Austin 2025": {
       "buff163_goods_id": 1118103,
-      "youpin_id": 112444
+      "youpin_id": 112444,
+      "buff163_sticker_id": 130621
     },
     "Souvenir Charm | Austin 2025 Highlight | No Time": {
       "buff163_goods_id": 1118104,
@@ -111438,23 +111448,28 @@
     },
     "Sticker | mezii (Holo, Champion) | Austin 2025": {
       "buff163_goods_id": 1118108,
-      "youpin_id": 112454
+      "youpin_id": 112454,
+      "buff163_sticker_id": 130622
     },
     "Sticker | ropz (Holo, Champion) | Austin 2025": {
       "buff163_goods_id": 1118109,
-      "youpin_id": 112445
+      "youpin_id": 112445,
+      "buff163_sticker_id": 130623
     },
     "Sticker | ZywOo (Holo, Champion) | Austin 2025": {
       "buff163_goods_id": 1118110,
-      "youpin_id": 112458
+      "youpin_id": 112458,
+      "buff163_sticker_id": 130624
     },
     "Sticker | FlameZ (Holo, Champion) | Austin 2025": {
       "buff163_goods_id": 1118111,
-      "youpin_id": 112451
+      "youpin_id": 112451,
+      "buff163_sticker_id": 130625
     },
     "Sticker | FlameZ (Gold, Champion) | Austin 2025": {
       "buff163_goods_id": 1118112,
-      "youpin_id": 112479
+      "youpin_id": 112479,
+      "buff163_sticker_id": 130626
     },
     "Souvenir Charm | Austin 2025 Highlight | 910 Ace": {
       "buff163_goods_id": 1118113,
@@ -111470,7 +111485,8 @@
     },
     "Sticker | ropz (Gold, Champion) | Austin 2025": {
       "buff163_goods_id": 1118116,
-      "youpin_id": 112456
+      "youpin_id": 112456,
+      "buff163_sticker_id": 130627
     },
     "Souvenir Charm | Austin 2025 Highlight | 180 One Tap": {
       "buff163_goods_id": 1118117,
@@ -111486,7 +111502,8 @@
     },
     "Sticker | apEX (Holo, Champion) | Austin 2025": {
       "buff163_goods_id": 1118120,
-      "youpin_id": 112448
+      "youpin_id": 112448,
+      "buff163_sticker_id": 130628
     },
     "Souvenir Charm | Austin 2025 Highlight | The Clutch Demon": {
       "buff163_goods_id": 1118122,
@@ -111578,7 +111595,8 @@
     },
     "Sticker | mezii (Gold, Champion) | Austin 2025": {
       "buff163_goods_id": 1118144,
-      "youpin_id": 112452
+      "youpin_id": 112452,
+      "buff163_sticker_id": 130629
     },
     "Souvenir Charm | Austin 2025 Highlight | ropz Double Train Kill": {
       "buff163_goods_id": 1118146,
@@ -111598,7 +111616,8 @@
     },
     "Sticker | ZywOo (Gold, Champion) | Austin 2025": {
       "buff163_goods_id": 1118150,
-      "youpin_id": 112439
+      "youpin_id": 112439,
+      "buff163_sticker_id": 130630
     },
     "Souvenir Charm | Austin 2025 Highlight | Trigger Happy": {
       "buff163_goods_id": 1118151,
@@ -111838,7 +111857,8 @@
     },
     "Sticker | apEX (Gold, Champion) | Austin 2025": {
       "buff163_goods_id": 1118212,
-      "youpin_id": 112450
+      "youpin_id": 112450,
+      "buff163_sticker_id": 130631
     },
     "Souvenir Charm | Austin 2025 Highlight | 910 Double Kill": {
       "buff163_goods_id": 1118213,
@@ -111907,9 +111927,6 @@
     "Souvenir Charm | Austin 2025 Highlight | nqz Double Nuke Kill": {
       "buff163_goods_id": 1118229,
       "youpin_id": 112804
-    },
-    "Souvenir Charm | Austin 2025 Highlight | 8hp Clutch": {
-      "buff163_goods_id": 1118230
     },
     "Souvenir Charm | Austin 2025 Highlight | Train Double Dink": {
       "buff163_goods_id": 1118231,
@@ -112259,10 +112276,6 @@
       "buff163_goods_id": 1118332,
       "youpin_id": 112641
     },
-    "Souvenir Charm | Austin 2025 Highlight | Textbook hold": {
-      "buff163_goods_id": 1118333,
-      "youpin_id": 112700
-    },
     "Souvenir Charm | Austin 2025 Highlight | Smoke Ambush": {
       "buff163_goods_id": 1118334,
       "youpin_id": 112526
@@ -112439,13 +112452,9 @@
       "buff163_goods_id": 1118387,
       "youpin_id": 112718
     },
-    "Souvenir Charm | Austin 2025 Highlight | Wont go quietly": {
+    "Souvenir Charm | Austin 2025 Highlight | Wont go quietly": {
       "buff163_goods_id": 1118388,
       "youpin_id": 112719
-    },
-    "Souvenir Charm | Austin 2025 Highlight | Thanks For The M4a1-s": {
-      "buff163_goods_id": 1118389,
-      "youpin_id": 112720
     },
     "Souvenir Charm | Austin 2025 Highlight | torzsi Double Nuke Kill": {
       "buff163_goods_id": 1118390,
@@ -112678,10 +112687,12 @@
       "buff163_goods_id": 1118450
     },
     "Souvenir Charm | Austin 2025 Highlight | dav1deuS Double Anubis Kill": {
-      "buff163_goods_id": 1118451
+      "buff163_goods_id": 1118451,
+      "youpin_id": 112912
     },
     "Souvenir Charm | Austin 2025 Highlight | nqz Clutch Attempt": {
-      "buff163_goods_id": 1118452
+      "buff163_goods_id": 1118452,
+      "youpin_id": 112913
     },
     "Souvenir Charm | Austin 2025 Highlight | Lethal On Long": {
       "buff163_goods_id": 1118453,
@@ -112739,10 +112750,6 @@
       "buff163_goods_id": 1118466,
       "youpin_id": 112772
     },
-    "Souvenir Charm | Austin 2025 Highlight | b1t Double Ak Kill": {
-      "buff163_goods_id": 1118467,
-      "youpin_id": 112622
-    },
     "Souvenir Charm | Austin 2025 Highlight | Damage Dealer": {
       "buff163_goods_id": 1118468,
       "youpin_id": 112684
@@ -112768,7 +112775,8 @@
       "youpin_id": 112680
     },
     "Souvenir Charm | Austin 2025 Highlight | Opening Up": {
-      "buff163_goods_id": 1118474
+      "buff163_goods_id": 1118474,
+      "youpin_id": 112911
     },
     "Souvenir Charm | Austin 2025 Highlight | Striking Shots": {
       "buff163_goods_id": 1118475,
@@ -112821,10 +112829,6 @@
     "Souvenir Charm | Austin 2025 Highlight | The AWP Headshooter": {
       "buff163_goods_id": 1118488,
       "youpin_id": 112826
-    },
-    "Souvenir Charm | Austin 2025 Highlight | You Won't Get My Ak": {
-      "buff163_goods_id": 1118489,
-      "youpin_id": 112819
     },
     "Souvenir Charm | Austin 2025 Highlight | ZywOo Double Nuke Kill": {
       "buff163_goods_id": 1118490,
@@ -112967,7 +112971,8 @@
       "youpin_id": 112776
     },
     "Souvenir Charm | Austin 2025 Highlight | Sixth Sense": {
-      "buff163_goods_id": 1118529
+      "buff163_goods_id": 1118529,
+      "youpin_id": 112914
     },
     "Souvenir Charm | Austin 2025 Highlight | bLitz Double Headshot": {
       "buff163_goods_id": 1118530,
@@ -113012,10 +113017,6 @@
     "Souvenir Charm | Austin 2025 Highlight | One Mag": {
       "buff163_goods_id": 1118541,
       "youpin_id": 112823
-    },
-    "Souvenir Charm | Austin 2025 Highlight | Missed shot and missed chance": {
-      "buff163_goods_id": 1118542,
-      "youpin_id": 112791
     },
     "Souvenir Charm | Austin 2025 Highlight | I Can't See": {
       "buff163_goods_id": 1118543,
@@ -113171,7 +113172,8 @@
       "youpin_id": 112887
     },
     "Souvenir Charm | Austin 2025 Highlight | b1t Double AK Kill": {
-      "buff163_goods_id": 1118585
+      "buff163_goods_id": 1118585,
+      "youpin_id": 112622
     },
     "Souvenir Charm | Austin 2025 Highlight | biguzera: The Entry Demon": {
       "buff163_goods_id": 1118587
@@ -113200,16 +113202,20 @@
       "youpin_id": 112638
     },
     "Souvenir Charm | Austin 2025 Highlight | Textbook Hold": {
-      "buff163_goods_id": 1118594
+      "buff163_goods_id": 1118594,
+      "youpin_id": 112700
     },
     "Souvenir Charm | Austin 2025 Highlight | You Won't Get My AK": {
-      "buff163_goods_id": 1118595
+      "buff163_goods_id": 1118595,
+      "youpin_id": 112819
     },
     "Souvenir Charm | Austin 2025 Highlight | Missed Shot And Missed Chance": {
-      "buff163_goods_id": 1118596
+      "buff163_goods_id": 1118596,
+      "youpin_id": 112791
     },
     "Souvenir Charm | Austin 2025 Highlight | Thanks For The M4A1-S": {
-      "buff163_goods_id": 1118597
+      "buff163_goods_id": 1118597,
+      "youpin_id": 112720
     },
     "Souvenir Charm | Austin 2025 Highlight | Triple Kill Closer": {
       "buff163_goods_id": 1118598,
@@ -113251,7 +113257,8 @@
       "youpin_id": 112907
     },
     "Souvenir Charm | Austin 2025 Highlight | Smoked'em": {
-      "buff163_goods_id": 1118610
+      "buff163_goods_id": 1118610,
+      "youpin_id": 112910
     },
     "Souvenir Charm | Austin 2025 Highlight | Closing Out": {
       "buff163_goods_id": 1118611,
@@ -113304,7 +113311,19 @@
       "buff163_goods_id": 1118628,
       "youpin_id": 112857
     },
+    "Souvenir Charm | Austin 2025 Highlight | Nice Try": {
+      "buff163_goods_id": 1118629
+    },
+    "Souvenir Charm | Austin 2025 Highlight | KSCERATO Triple Kill": {
+      "buff163_goods_id": 1118630,
+      "youpin_id": 112915
+    },
+    "Souvenir Charm | Austin 2025 Highlight | Clutching Up": {
+      "buff163_goods_id": 1118631,
+      "youpin_id": 112886
+    },
     "Souvenir Charm | Austin 2025 Highlight | Let's Goo": {
+      "buff163_goods_id": 1118632,
       "youpin_id": 112669
     },
     "Souvenir Charm | Austin 2025 Highlight | The Switcheroo": {
@@ -113328,9 +113347,6 @@
     "Souvenir Charm | Austin 2025 Highlight | yuurih Entry Fragger": {
       "youpin_id": 112880
     },
-    "Souvenir Charm | Austin 2025 Highlight | Clutching Up": {
-      "youpin_id": 112886
-    },
     "Souvenir Charm | Austin 2025 Highlight | Tec-9 Tapped": {
       "youpin_id": 112891
     },
@@ -113339,6 +113355,9 @@
     },
     "Souvenir Charm | Austin 2025 Highlight | YEKINDAR Triple Kill": {
       "youpin_id": 112906
+    },
+    "Souvenir Charm | Austin 2025 Highlight | Missed'em": {
+      "youpin_id": 112909
     },
     "Sticker | kioShiMa (Gold) | Atlanta 2017": {
       "buff163_sticker_id": 3326
