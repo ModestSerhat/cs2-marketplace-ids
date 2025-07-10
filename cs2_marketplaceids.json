@@ -112681,7 +112681,8 @@
       "youpin_id": 112651
     },
     "Souvenir Charm | Austin 2025 Highlight | FalleN Double Nuke Kill": {
-      "buff163_goods_id": 1118449
+      "buff163_goods_id": 1118449,
+      "youpin_id": 112921
     },
     "Souvenir Charm | Austin 2025 Highlight | Eco Farmer": {
       "buff163_goods_id": 1118450
@@ -113091,7 +113092,8 @@
       "youpin_id": 112830
     },
     "Souvenir Charm | Austin 2025 Highlight | Double Kill To Victory": {
-      "buff163_goods_id": 1118563
+      "buff163_goods_id": 1118563,
+      "youpin_id": 112917
     },
     "Souvenir Charm | Austin 2025 Highlight | Leaving Scraps": {
       "buff163_goods_id": 1118564,
@@ -113176,7 +113178,8 @@
       "youpin_id": 112622
     },
     "Souvenir Charm | Austin 2025 Highlight | biguzera: The Entry Demon": {
-      "buff163_goods_id": 1118587
+      "buff163_goods_id": 1118587,
+      "youpin_id": 112916
     },
     "Souvenir Charm | Austin 2025 Highlight | Matrix": {
       "buff163_goods_id": 1118588,
@@ -113326,14 +113329,31 @@
       "buff163_goods_id": 1118632,
       "youpin_id": 112669
     },
-    "Souvenir Charm | Austin 2025 Highlight | The Switcheroo": {
-      "youpin_id": 112790
+    "Souvenir Charm | Austin 2025 Highlight | Tec-9 Tapped": {
+      "buff163_goods_id": 1118636,
+      "youpin_id": 112891
     },
     "Souvenir Charm | Austin 2025 Highlight | Smoke Defender": {
+      "buff163_goods_id": 1118638,
       "youpin_id": 112813
     },
+    "Souvenir Charm | Austin 2025 Highlight | nqz Retake Denied": {
+      "buff163_goods_id": 1118639,
+      "youpin_id": 112918
+    },
+    "Souvenir Charm | Austin 2025 Highlight | Surprise P2000": {
+      "buff163_goods_id": 1118640
+    },
     "Souvenir Charm | Austin 2025 Highlight | Rifle Powerplay": {
+      "buff163_goods_id": 1118641,
       "youpin_id": 112861
+    },
+    "Souvenir Charm | Austin 2025 Highlight | Missed'em": {
+      "buff163_goods_id": 1118642,
+      "youpin_id": 112909
+    },
+    "Souvenir Charm | Austin 2025 Highlight | The Switcheroo": {
+      "youpin_id": 112790
     },
     "Souvenir Charm | Austin 2025 Highlight | Clutch or Nothing": {
       "youpin_id": 112871
@@ -113347,17 +113367,17 @@
     "Souvenir Charm | Austin 2025 Highlight | yuurih Entry Fragger": {
       "youpin_id": 112880
     },
-    "Souvenir Charm | Austin 2025 Highlight | Tec-9 Tapped": {
-      "youpin_id": 112891
-    },
     "Souvenir Charm | Austin 2025 Highlight | KSCERATO Double Kill": {
       "youpin_id": 112899
     },
     "Souvenir Charm | Austin 2025 Highlight | YEKINDAR Triple Kill": {
       "youpin_id": 112906
     },
-    "Souvenir Charm | Austin 2025 Highlight | Missed'em": {
-      "youpin_id": 112909
+    "Souvenir Charm | Austin 2025 Highlight | YEKINDAR King Of Banana": {
+      "youpin_id": 112919
+    },
+    "Souvenir Charm | Austin 2025 Highlight | You Can't Hide": {
+      "youpin_id": 112920
     },
     "Sticker | kioShiMa (Gold) | Atlanta 2017": {
       "buff163_sticker_id": 3326
