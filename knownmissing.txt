@@ -6,29 +6,6 @@ Souvenir R8 Revolver | Bone Mask (Battle-Scarred) (0 registered on FloatDB, can 
 ★ StatTrak™ Ursus Knife | Boreal Forest (Factory New) (1 registered on FloatDB, can be unboxed from a Danger Zone/Horizon Case)
 ★ StatTrak™ Classic Knife | Urban Masked (Factory New) (0 registered on FloatDB, can be unboxed from a CS20 Case)
 ★ StatTrak™ Nomad Knife | Ultraviolet (Factory New) (0 registered on FloatDB, can be unboxed from a Fever Case)
-Souvenir Charm | Austin 2025 Highlight | dgt Clutch Attempt
-Souvenir Charm | Austin 2025 Highlight | molodoy Triple Kill
-Souvenir Charm | Austin 2025 Highlight | Pistol King
-Souvenir Charm | Austin 2025 Highlight | Eco Frags
-Souvenir Charm | Austin 2025 Highlight | nqz Quad Kill
-Souvenir Charm | Austin 2025 Highlight | Surprise Flank
-Souvenir Charm | Austin 2025 Highlight | The Anchor In Pit
-Souvenir Charm | Austin 2025 Highlight | Miss Into A Double Kill
-Souvenir Charm | Austin 2025 Highlight | nqz Too Slow
-Souvenir Charm | Austin 2025 Highlight | Jiggle Too Wide And You're Dead
-Souvenir Charm | Austin 2025 Highlight | The Eco Hunter
-Souvenir Charm | Austin 2025 Highlight | Pre Aim
-
-IDs of items known to be missing on buff163:
-Souvenir Charm | Austin 2025 Highlight | The Switcheroo
-Souvenir Charm | Austin 2025 Highlight | Clutch or Nothing
-Souvenir Charm | Austin 2025 Highlight | Lower Defense
-Souvenir Charm | Austin 2025 Highlight | Two YEKINDAR Pistol Headshots
-Souvenir Charm | Austin 2025 Highlight | yuurih Entry Fragger
-Souvenir Charm | Austin 2025 Highlight | KSCERATO Double Kill
-Souvenir Charm | Austin 2025 Highlight | YEKINDAR Triple Kill
-Souvenir Charm | Austin 2025 Highlight | YEKINDAR King Of Banana
-Souvenir Charm | Austin 2025 Highlight | You Can't Hide
 
 Phase IDs of Doppler phases known to be missing on buff163:
 ★ StatTrak™ M9 Bayonet | Doppler Black Pearl (Minimal Wear) (0 registered on FloatDB, can be unboxed from a Chroma/Chroma 2/Chroma 3 Case)
@@ -44,7 +21,6 @@ Phase IDs of Doppler phases known to be missing on buff163:
 ★ StatTrak™ Paracord Knife | Doppler Black Pearl (Minimal Wear) (1 registered on FloatDB, Can be unboxed from a Fever Case)
 ★ StatTrak™ Paracord Knife | Doppler Phase 1 (Minimal Wear) (0 registered on FloatDB, Can be unboxed from a Fever Case)
 ★ StatTrak™ Paracord Knife | Doppler Phase 3 (Minimal Wear) (4 registered on FloatDB, Can be unboxed from a Fever Case)
-Survival Knife | Doppler Black Pearl (Minimal Wear) (6 registered on FloatDB, Can be unboxed from a Fever Case)
 ★ StatTrak™ Survival Knife | Doppler Phase 1 (Minimal Wear) (3 registered on FloatDB, Can be unboxed from a Fever Case)
 
 Tag IDs of Marble Fade Fire & Ice tiers known to be missing on buff163:
@@ -137,7 +113,6 @@ Souvenir FAMAS | Teardown (Battle-Scarred)
 ★ StatTrak™ Bowie Knife | Night (Factory New)
 ★ StatTrak™ Falchion Knife | Crimson Web (Factory New)
 ★ StatTrak™ Huntsman Knife | Boreal Forest (Factory New)
-★ StatTrak™ Survival Knife | Forest DDPAT (Factory New)
 ★ StatTrak™ Stiletto Knife | Forest DDPAT (Factory New)
 Souvenir Dual Berettas | Cobalt Quartz (Well-Worn)
 ★ StatTrak™ Paracord Knife | Forest DDPAT (Factory New)
@@ -182,15 +157,19 @@ Souvenir AUG | Condemned (Factory New)
 ★ StatTrak™ Talon Knife | Safari Mesh (Factory New)
 ★ StatTrak™ Classic Knife | Crimson Web (Factory New)
 ★ StatTrak™ Survival Knife | Ultraviolet (Factory New)
-Souvenir Charm | Austin 2025 Highlight | Eco Farmer
-Souvenir Charm | Austin 2025 Highlight | Right Behind You
 Souvenir Charm | Austin 2025 Highlight | Two Is Not Enough
 Souvenir Charm | Austin 2025 Highlight | Look Behind You
 Souvenir Charm | Austin 2025 Highlight | Just One
-Souvenir Charm | Austin 2025 Highlight | Glock Double Down
 Souvenir Charm | Austin 2025 Highlight | KSCERATO Kobe
-Souvenir Charm | Austin 2025 Highlight | Techno4k Triple Terror
-Souvenir Charm | Austin 2025 Highlight | FalleN Double Anubis Kill
 Souvenir Charm | Austin 2025 Highlight | Applaud The Spray Transfer
 Souvenir Charm | Austin 2025 Highlight | Nice Try
 Souvenir Charm | Austin 2025 Highlight | Surprise P2000
+Souvenir Charm | Austin 2025 Highlight | nqz Quad Kill
+Souvenir Charm | Austin 2025 Highlight | Eco Frags
+Souvenir Charm | Austin 2025 Highlight | Miss Into A Double Kill
+Souvenir Charm | Austin 2025 Highlight | The Anchor In Pit
+Souvenir Charm | Austin 2025 Highlight | dgt Clutch Attempt
+Souvenir Charm | Austin 2025 Highlight | molodoy Triple Kill
+Souvenir Charm | Austin 2025 Highlight | nqz Too Slow
+Souvenir Charm | Austin 2025 Highlight | Surprise Flank
+Souvenir Charm | Austin 2025 Highlight | The Eco Hunter

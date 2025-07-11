@@ -66806,7 +66806,8 @@
       "youpin_id": 61199
     },
     "★ StatTrak™ Survival Knife | Forest DDPAT (Factory New)": {
-      "buff163_goods_id": 777404
+      "buff163_goods_id": 777404,
+      "youpin_id": 112930
     },
     "StatTrak™ Music Kit | Scarlxrd: King, Scar": {
       "buff163_goods_id": 777410,
@@ -105830,7 +105831,7 @@
       "buff163_phase_ids": {
         "Ruby": 22869726,
         "Sapphire": 22840736,
-        "Black Pearl": null,
+        "Black Pearl": 24291482,
         "Phase 1": 22909798,
         "Phase 2": 22919738,
         "Phase 3": 22838548,
@@ -112685,7 +112686,8 @@
       "youpin_id": 112921
     },
     "Souvenir Charm | Austin 2025 Highlight | Eco Farmer": {
-      "buff163_goods_id": 1118450
+      "buff163_goods_id": 1118450,
+      "youpin_id": 112923
     },
     "Souvenir Charm | Austin 2025 Highlight | dav1deuS Double Anubis Kill": {
       "buff163_goods_id": 1118451,
@@ -113032,7 +113034,8 @@
       "youpin_id": 112806
     },
     "Souvenir Charm | Austin 2025 Highlight | Right Behind You": {
-      "buff163_goods_id": 1118546
+      "buff163_goods_id": 1118546,
+      "youpin_id": 112926
     },
     "Souvenir Charm | Austin 2025 Highlight | Fire Fight": {
       "buff163_goods_id": 1118547,
@@ -113100,7 +113103,8 @@
       "youpin_id": 112900
     },
     "Souvenir Charm | Austin 2025 Highlight | Glock Double Down": {
-      "buff163_goods_id": 1118565
+      "buff163_goods_id": 1118565,
+      "youpin_id": 112927
     },
     "Souvenir Charm | Austin 2025 Highlight | Techno4K Double A-Site Kill": {
       "buff163_goods_id": 1118566,
@@ -113186,7 +113190,8 @@
       "youpin_id": 112882
     },
     "Souvenir Charm | Austin 2025 Highlight | Techno4k Triple Terror": {
-      "buff163_goods_id": 1118589
+      "buff163_goods_id": 1118589,
+      "youpin_id": 112928
     },
     "Souvenir Charm | Austin 2025 Highlight | dav1deus Double Mirage Kill": {
       "buff163_goods_id": 1118590,
@@ -113249,7 +113254,8 @@
       "youpin_id": 112803
     },
     "Souvenir Charm | Austin 2025 Highlight | FalleN Double Anubis Kill": {
-      "buff163_goods_id": 1118607
+      "buff163_goods_id": 1118607,
+      "youpin_id": 112929
     },
     "Souvenir Charm | Austin 2025 Highlight | Stack Kill": {
       "buff163_goods_id": 1118608,
@@ -113352,32 +113358,84 @@
       "buff163_goods_id": 1118642,
       "youpin_id": 112909
     },
-    "Souvenir Charm | Austin 2025 Highlight | The Switcheroo": {
-      "youpin_id": 112790
-    },
-    "Souvenir Charm | Austin 2025 Highlight | Clutch or Nothing": {
-      "youpin_id": 112871
-    },
-    "Souvenir Charm | Austin 2025 Highlight | Lower Defense": {
-      "youpin_id": 112873
-    },
-    "Souvenir Charm | Austin 2025 Highlight | Two YEKINDAR Pistol Headshots": {
-      "youpin_id": 112876
-    },
-    "Souvenir Charm | Austin 2025 Highlight | yuurih Entry Fragger": {
-      "youpin_id": 112880
-    },
-    "Souvenir Charm | Austin 2025 Highlight | KSCERATO Double Kill": {
-      "youpin_id": 112899
+    "Souvenir Charm | Austin 2025 Highlight | You Can't Hide": {
+      "buff163_goods_id": 1118643,
+      "youpin_id": 112920
     },
     "Souvenir Charm | Austin 2025 Highlight | YEKINDAR Triple Kill": {
+      "buff163_goods_id": 1118644,
       "youpin_id": 112906
     },
+    "Souvenir Charm | Austin 2025 Highlight | nqz Quad Kill": {
+      "buff163_goods_id": 1118645
+    },
+    "Souvenir Charm | Austin 2025 Highlight | Pistol King": {
+      "buff163_goods_id": 1118646,
+      "youpin_id": 112924
+    },
+    "Souvenir Charm | Austin 2025 Highlight | The Switcheroo": {
+      "buff163_goods_id": 1118647,
+      "youpin_id": 112790
+    },
+    "Souvenir Charm | Austin 2025 Highlight | Two YEKINDAR Pistol Headshots": {
+      "buff163_goods_id": 1118648,
+      "youpin_id": 112876
+    },
+    "Souvenir Charm | Austin 2025 Highlight | Jiggle Too Wide And You're Dead": {
+      "buff163_goods_id": 1118649,
+      "youpin_id": 112925
+    },
+    "Souvenir Charm | Austin 2025 Highlight | Clutch or Nothing": {
+      "buff163_goods_id": 1118650,
+      "youpin_id": 112871
+    },
+    "Souvenir Charm | Austin 2025 Highlight | Eco Frags": {
+      "buff163_goods_id": 1118651
+    },
+    "Souvenir Charm | Austin 2025 Highlight | KSCERATO Double Kill": {
+      "buff163_goods_id": 1118652,
+      "youpin_id": 112899
+    },
+    "Souvenir Charm | Austin 2025 Highlight | Miss Into A Double Kill": {
+      "buff163_goods_id": 1118653
+    },
+    "Souvenir Charm | Austin 2025 Highlight | The Anchor In Pit": {
+      "buff163_goods_id": 1118654
+    },
+    "Souvenir Charm | Austin 2025 Highlight | dgt Clutch Attempt": {
+      "buff163_goods_id": 1118655
+    },
+    "Souvenir Charm | Austin 2025 Highlight | molodoy Triple Kill": {
+      "buff163_goods_id": 1118656
+    },
+    "Souvenir Charm | Austin 2025 Highlight | nqz Too Slow": {
+      "buff163_goods_id": 1118657
+    },
+    "Souvenir Charm | Austin 2025 Highlight | yuurih Entry Fragger": {
+      "buff163_goods_id": 1118658,
+      "youpin_id": 112880
+    },
     "Souvenir Charm | Austin 2025 Highlight | YEKINDAR King Of Banana": {
+      "buff163_goods_id": 1118659,
       "youpin_id": 112919
     },
-    "Souvenir Charm | Austin 2025 Highlight | You Can't Hide": {
-      "youpin_id": 112920
+    "Souvenir Charm | Austin 2025 Highlight | Pre Aim": {
+      "buff163_goods_id": 1118660,
+      "youpin_id": 112922
+    },
+    "Souvenir Charm | Austin 2025 Highlight | Surprise Flank": {
+      "buff163_goods_id": 1118661
+    },
+    "★ StatTrak™ Nomad Knife | Ultraviolet (Factory New)": {
+      "buff163_goods_id": 1118662,
+      "youpin_id": 112931
+    },
+    "Souvenir Charm | Austin 2025 Highlight | Lower Defense": {
+      "buff163_goods_id": 1118663,
+      "youpin_id": 112873
+    },
+    "Souvenir Charm | Austin 2025 Highlight | The Eco Hunter": {
+      "buff163_goods_id": 1118664
     },
     "Sticker | kioShiMa (Gold) | Atlanta 2017": {
       "buff163_sticker_id": 3326
