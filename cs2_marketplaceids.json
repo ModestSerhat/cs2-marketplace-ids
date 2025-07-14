@@ -106694,7 +106694,7 @@
       "youpin_id": 111444,
       "buff163_phase_ids": {
         "Ruby": 23570405,
-        "Sapphire": null,
+        "Sapphire": 24305134,
         "Black Pearl": 23527033,
         "Phase 1": 23374170,
         "Phase 2": 23257334,
@@ -113321,7 +113321,8 @@
       "youpin_id": 112857
     },
     "Souvenir Charm | Austin 2025 Highlight | Nice Try": {
-      "buff163_goods_id": 1118629
+      "buff163_goods_id": 1118629,
+      "youpin_id": 112935
     },
     "Souvenir Charm | Austin 2025 Highlight | KSCERATO Triple Kill": {
       "buff163_goods_id": 1118630,
@@ -113348,7 +113349,8 @@
       "youpin_id": 112918
     },
     "Souvenir Charm | Austin 2025 Highlight | Surprise P2000": {
-      "buff163_goods_id": 1118640
+      "buff163_goods_id": 1118640,
+      "youpin_id": 112933
     },
     "Souvenir Charm | Austin 2025 Highlight | Rifle Powerplay": {
       "buff163_goods_id": 1118641,
@@ -113367,7 +113369,8 @@
       "youpin_id": 112906
     },
     "Souvenir Charm | Austin 2025 Highlight | nqz Quad Kill": {
-      "buff163_goods_id": 1118645
+      "buff163_goods_id": 1118645,
+      "youpin_id": 112934
     },
     "Souvenir Charm | Austin 2025 Highlight | Pistol King": {
       "buff163_goods_id": 1118646,
@@ -113397,13 +113400,15 @@
       "youpin_id": 112899
     },
     "Souvenir Charm | Austin 2025 Highlight | Miss Into A Double Kill": {
-      "buff163_goods_id": 1118653
+      "buff163_goods_id": 1118653,
+      "youpin_id": 112932
     },
     "Souvenir Charm | Austin 2025 Highlight | The Anchor In Pit": {
       "buff163_goods_id": 1118654
     },
     "Souvenir Charm | Austin 2025 Highlight | dgt Clutch Attempt": {
-      "buff163_goods_id": 1118655
+      "buff163_goods_id": 1118655,
+      "youpin_id": 112936
     },
     "Souvenir Charm | Austin 2025 Highlight | molodoy Triple Kill": {
       "buff163_goods_id": 1118656
