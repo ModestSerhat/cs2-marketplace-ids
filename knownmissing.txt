@@ -20,7 +20,6 @@ Phase IDs of Doppler phases known to be missing on buff163:
 ★ StatTrak™ Paracord Knife | Doppler Black Pearl (Minimal Wear) (1 registered on FloatDB, Can be unboxed from a Fever Case)
 ★ StatTrak™ Paracord Knife | Doppler Phase 1 (Minimal Wear) (0 registered on FloatDB, Can be unboxed from a Fever Case)
 ★ StatTrak™ Paracord Knife | Doppler Phase 3 (Minimal Wear) (4 registered on FloatDB, Can be unboxed from a Fever Case)
-★ StatTrak™ Survival Knife | Doppler Phase 1 (Minimal Wear) (3 registered on FloatDB, Can be unboxed from a Fever Case)
 
 Tag IDs of Marble Fade Fire & Ice tiers known to be missing on buff163:
 ★ Gut Knife | Marble Fade (Minimal Wear): 1st, 4th
@@ -162,8 +161,6 @@ Souvenir Charm | Austin 2025 Highlight | Just One
 Souvenir Charm | Austin 2025 Highlight | KSCERATO Kobe
 Souvenir Charm | Austin 2025 Highlight | Applaud The Spray Transfer
 Souvenir Charm | Austin 2025 Highlight | Eco Frags
-Souvenir Charm | Austin 2025 Highlight | The Anchor In Pit
 Souvenir Charm | Austin 2025 Highlight | molodoy Triple Kill
 Souvenir Charm | Austin 2025 Highlight | nqz Too Slow
 Souvenir Charm | Austin 2025 Highlight | Surprise Flank
-Souvenir Charm | Austin 2025 Highlight | The Eco Hunter
