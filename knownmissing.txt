@@ -15,7 +15,6 @@ Phase IDs of Doppler phases known to be missing on buff163:
 ★ StatTrak™ Ursus Knife | Doppler Black Pearl (Minimal Wear) (0 registered on FloatDB, can be unboxed from a Prisma/Prisma 2 Case)
 ★ StatTrak™ Stiletto Knife | Doppler Black Pearl (Minimal Wear) (0 registered on FloatDB, can be unboxed from a Prisma/Prisma 2 Case)
 ★ StatTrak™ M9 Bayonet | Gamma Doppler Emerald (Minimal Wear) (2 registered on FloatDB, can be unboxed from a Gamma/Gamma 2 Case)
-★ StatTrak™ Skeleton Knife | Doppler Sapphire (Minimal Wear) (2 registered on FloatDB, Can be unboxed from a Fever Case)
 ★ StatTrak™ Paracord Knife | Doppler Sapphire (Minimal Wear) (1 registered on FloatDB, Can be unboxed from a Fever Case)
 ★ StatTrak™ Paracord Knife | Doppler Black Pearl (Minimal Wear) (1 registered on FloatDB, Can be unboxed from a Fever Case)
 ★ StatTrak™ Paracord Knife | Doppler Phase 1 (Minimal Wear) (0 registered on FloatDB, Can be unboxed from a Fever Case)
@@ -158,7 +157,6 @@ Souvenir AUG | Condemned (Factory New)
 Souvenir Charm | Austin 2025 Highlight | Two Is Not Enough
 Souvenir Charm | Austin 2025 Highlight | Look Behind You
 Souvenir Charm | Austin 2025 Highlight | Just One
-Souvenir Charm | Austin 2025 Highlight | KSCERATO Kobe
 Souvenir Charm | Austin 2025 Highlight | Applaud The Spray Transfer
 Souvenir Charm | Austin 2025 Highlight | Eco Frags
 Souvenir Charm | Austin 2025 Highlight | molodoy Triple Kill

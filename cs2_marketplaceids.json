@@ -98175,6 +98175,10 @@
       "buff163_goods_id": 960926,
       "youpin_id": 109995
     },
+    "★ StatTrak™ Kukri Knife | Scorched (Factory New)": {
+      "buff163_goods_id": 966016,
+      "youpin_id": 110598
+    },
     "Music Kit | Tim Huling, Devil's Paintbrush": {
       "buff163_goods_id": 966234,
       "youpin_id": 109471
@@ -106550,7 +106554,7 @@
         "Ruby": 23112003,
         "Sapphire": 23839908,
         "Black Pearl": 23130200,
-        "Phase 1": null,
+        "Phase 1": 24365508,
         "Phase 2": 23451279,
         "Phase 3": 23016813,
         "Phase 4": 22913943
@@ -113171,7 +113175,8 @@
       "youpin_id": 112864
     },
     "Souvenir Charm | Austin 2025 Highlight | KSCERATO Kobe": {
-      "buff163_goods_id": 1118583
+      "buff163_goods_id": 1118583,
+      "youpin_id": 112940
     },
     "Souvenir Charm | Austin 2025 Highlight | Flying Double Entry": {
       "buff163_goods_id": 1118584,
@@ -113404,7 +113409,8 @@
       "youpin_id": 112932
     },
     "Souvenir Charm | Austin 2025 Highlight | The Anchor In Pit": {
-      "buff163_goods_id": 1118654
+      "buff163_goods_id": 1118654,
+      "youpin_id": 112939
     },
     "Souvenir Charm | Austin 2025 Highlight | dgt Clutch Attempt": {
       "buff163_goods_id": 1118655,
