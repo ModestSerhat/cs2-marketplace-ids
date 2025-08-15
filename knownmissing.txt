@@ -1,4 +1,4 @@
-IDs of items known to be missing on buff163 and youpin898:
+IDs of items known to be missing on all marketplaces (buff163, Youpin898, buff.market):
 Souvenir AWP | Pit Viper (Battle-Scarred) (1 registered on FloatDB, on a VAC banned account)
 Souvenir R8 Revolver | Bone Mask (Factory New) (0 registered on FloatDB, can be possibly unboxed from a DreamHack 2013/Katowice 2014 Souvenir Package)
 Souvenir R8 Revolver | Bone Mask (Well-Worn) (0 registered on FloatDB, can be unboxed from a DreamHack 2013/Katowice 2014 Souvenir Package)
@@ -154,7 +154,25 @@ Souvenir AUG | Condemned (Factory New)
 ★ StatTrak™ Classic Knife | Crimson Web (Factory New)
 ★ StatTrak™ Survival Knife | Ultraviolet (Factory New)
 Souvenir Charm | Austin 2025 Highlight | Two Is Not Enough
-Souvenir Charm | Austin 2025 Highlight | Applaud The Spray Transfer
 Souvenir Charm | Austin 2025 Highlight | Eco Frags
 Souvenir Charm | Austin 2025 Highlight | nqz Too Slow
 Souvenir Charm | Austin 2025 Highlight | Surprise Flank
+
+IDs of items known to be missing on buff.market:
+Souvenir AWP | Pit Viper (Well-Worn)
+★ StatTrak™ M9 Bayonet | Urban Masked (Factory New)
+★ StatTrak™ Huntsman Knife | Scorched (Factory New)
+★ StatTrak™ Flip Knife | Night (Factory New)
+★ StatTrak™ Bowie Knife | Safari Mesh (Factory New)
+★ StatTrak™ Karambit | Urban Masked (Factory New)
+★ StatTrak™ Bayonet | Crimson Web (Factory New)
+★ StatTrak™ Bayonet | Scorched (Factory New)
+★ StatTrak™ Bowie Knife | Forest DDPAT (Factory New)
+Souvenir P2000 | Granite Marbleized (Factory New)
+★ StatTrak™ Ursus Knife | Forest DDPAT (Factory New)
+★ StatTrak™ Classic Knife | Crimson Web (Factory New)
+Souvenir AWP | LongDog (Factory New)
+StatTrak™ Music Kit | James and the Cold Gun, Chewing Glass
+StatTrak™ Music Kit | Killer Mike, MICHAEL
+Deluge Music Kit Box
+StatTrak™ Deluge Music Kit Box
