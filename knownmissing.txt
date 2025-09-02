@@ -15,7 +15,6 @@ Phase IDs of Doppler phases known to be missing on buff163:
 ★ StatTrak™ Ursus Knife | Doppler Black Pearl (Minimal Wear) (0 registered on FloatDB, can be unboxed from a Prisma/Prisma 2 Case)
 ★ StatTrak™ Stiletto Knife | Doppler Black Pearl (Minimal Wear) (0 registered on FloatDB, can be unboxed from a Prisma/Prisma 2 Case)
 ★ StatTrak™ M9 Bayonet | Gamma Doppler Emerald (Minimal Wear) (2 registered on FloatDB, can be unboxed from a Gamma/Gamma 2 Case)
-★ StatTrak™ Paracord Knife | Doppler Sapphire (Minimal Wear) (1 registered on FloatDB, Can be unboxed from a Fever Case)
 ★ StatTrak™ Paracord Knife | Doppler Black Pearl (Minimal Wear) (1 registered on FloatDB, Can be unboxed from a Fever Case)
 ★ StatTrak™ Paracord Knife | Doppler Phase 1 (Minimal Wear) (0 registered on FloatDB, Can be unboxed from a Fever Case)
 
@@ -153,9 +152,7 @@ Souvenir AUG | Condemned (Factory New)
 ★ StatTrak™ Talon Knife | Safari Mesh (Factory New)
 ★ StatTrak™ Classic Knife | Crimson Web (Factory New)
 ★ StatTrak™ Survival Knife | Ultraviolet (Factory New)
-Souvenir Charm | Austin 2025 Highlight | Two Is Not Enough
 Souvenir Charm | Austin 2025 Highlight | nqz Too Slow
-Souvenir Charm | Austin 2025 Highlight | Surprise Flank
 
 IDs of items known to be missing on buff.market:
 Souvenir AWP | Pit Viper (Well-Worn)
@@ -170,4 +167,3 @@ Souvenir AWP | Pit Viper (Well-Worn)
 Souvenir P2000 | Granite Marbleized (Factory New)
 ★ StatTrak™ Ursus Knife | Forest DDPAT (Factory New)
 ★ StatTrak™ Classic Knife | Crimson Web (Factory New)
-Souvenir AWP | LongDog (Factory New)
