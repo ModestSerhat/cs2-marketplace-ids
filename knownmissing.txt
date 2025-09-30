@@ -152,7 +152,6 @@ Souvenir AUG | Condemned (Factory New)
 ★ StatTrak™ Talon Knife | Safari Mesh (Factory New)
 ★ StatTrak™ Classic Knife | Crimson Web (Factory New)
 ★ StatTrak™ Survival Knife | Ultraviolet (Factory New)
-Souvenir Charm | Austin 2025 Highlight | nqz Too Slow
 
 IDs of items known to be missing on buff.market:
 Souvenir AWP | Pit Viper (Well-Worn)
@@ -168,4 +167,3 @@ Souvenir P2000 | Granite Marbleized (Factory New)
 ★ StatTrak™ Ursus Knife | Forest DDPAT (Factory New)
 ★ StatTrak™ Classic Knife | Crimson Web (Factory New)
 StatTrak™ M4A4 | Full Throttle (Factory New)
-StatTrak™ MP7 | Smoking Kills (Factory New)
