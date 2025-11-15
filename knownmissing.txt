@@ -34,10 +34,6 @@ Tag IDs of Marble Fade Fire & Ice tiers known to be missing on buff163:
 ★ StatTrak™ Talon Knife | Marble Fade (Factory New): 1st
 ★ StatTrak™ Talon Knife | Marble Fade (Minimal Wear): 1st, 2nd, 3rd, 5th, 6th, 7th, 8th, 9th
 
-IDs of items known to be missing on buff163 and buff.market:
-Sticker | Cypher (Gold) | Budapest 2025
-Sticker | Bart4k (Gold) | Budapest 2025
-
 IDs of items known to be missing on youpin898:
 Souvenir G3SG1 | VariCamo (Well-Worn)
 Souvenir Galil AR | Sage Spray (Factory New)
@@ -178,42 +174,25 @@ Sticker | NQZ (Gold) | Budapest 2025
 Sticker | The Huns (Gold) | Budapest 2025
 Sticker | Senzu (Gold) | Budapest 2025
 Sticker | sh1ro (Gold) | Budapest 2025
-Sticker | Aurora (Holo) | Budapest 2025
 Sticker | nettik | Budapest 2025
-Sticker | arT | Budapest 2025
 Sticker | slaxz- | Budapest 2025
-Sticker | HexT (Embroidered) | Budapest 2025
-Sticker | EliGE (Holo) | Budapest 2025
 Sticker | z4KR | Budapest 2025
 Sticker | br0 (Embroidered) | Budapest 2025
-Sticker | chelo | Budapest 2025
 Sticker | saadzin | Budapest 2025
 Sticker | bLitz (Gold) | Budapest 2025
 Sticker | Moseyuh (Gold) | Budapest 2025
 Sticker | FlyQuest (Holo) | Budapest 2025
 Sticker | PARIVISION (Holo) | Budapest 2025
-Sticker | PARIVISION (Embroidered) | Budapest 2025
 Sticker | History | Budapest 2025
 Sticker | skullz | Budapest 2025
 Sticker | Tiger | Budapest 2025
-Sticker | drop | Budapest 2025
 Sticker | Tauson (Embroidered) | Budapest 2025
-Sticker | huNter- (Gold) | Budapest 2025
 Sticker | sk0R | Budapest 2025
 Sticker | jambo (Holo) | Budapest 2025
-Sticker | zont1x (Holo) | Budapest 2025
-Sticker | MATYS (Holo) | Budapest 2025
-Sticker | Heavygod (Gold) | Budapest 2025
-Sticker | yuurih (Gold) | Budapest 2025
-Sticker | zont1x (Gold) | Budapest 2025
 Sticker | jabbi (Embroidered) | Budapest 2025
 Sticker | jottAAA (Holo) | Budapest 2025
-Sticker | kauez (Embroidered) | Budapest 2025
 Sticker | Cypher (Holo) | Budapest 2025
 Sticker | HooXi (Holo) | Budapest 2025
-Sticker | The Huns (Holo) | Budapest 2025
-Sticker | Vitality (Gold) | Budapest 2025
-Sticker | TYLOO (Holo) | Budapest 2025
 Sticker | Passion UA (Gold) | Budapest 2025
 Sticker | ztr | Budapest 2025
 Sticker | Magisk (Embroidered) | Budapest 2025
@@ -222,9 +201,6 @@ Sticker | Lucky (Embroidered) | Budapest 2025
 Sticker | w0nderful (Holo) | Budapest 2025
 Sticker | PARIVISION (Gold) | Budapest 2025
 Sticker | Team Liquid (Gold) | Budapest 2025
-Sticker | esenthial | Budapest 2025
-Sticker | br0 | Budapest 2025
-Sticker | decenty | Budapest 2025
 Sticker | Snappi | Budapest 2025
 Sticker | REZ (Holo) | Budapest 2025
 Sticker | Tauson | Budapest 2025
@@ -239,32 +215,19 @@ Sticker | mzinho (Gold) | Budapest 2025
 Sticker | FlameZ (Gold) | Budapest 2025
 Sticker | ropz (Gold) | Budapest 2025
 Sticker | bodyy (Embroidered) | Budapest 2025
-Sticker | siuhy (Embroidered) | Budapest 2025
 Sticker | Mercury (Holo) | Budapest 2025
-Sticker | rain (Embroidered) | Budapest 2025
 Sticker | exit (Holo) | Budapest 2025
-Sticker | XotiC | Budapest 2025
-Sticker | Starry | Budapest 2025
-Sticker | chelo (Embroidered) | Budapest 2025
 Sticker | Summer (Holo) | Budapest 2025
 Sticker | device (Holo) | Budapest 2025
 Sticker | Attacker (Embroidered) | Budapest 2025
-Sticker | nota | Budapest 2025
 Sticker | bodyy (Holo) | Budapest 2025
-Sticker | Techno4K (Gold) | Budapest 2025
-Sticker | xertioN (Gold) | Budapest 2025
-Sticker | makazze (Embroidered) | Budapest 2025
-Sticker | G2 esports (Gold) | Budapest 2025
 Sticker | regali | Budapest 2025
 Sticker | npl (Holo) | Budapest 2025
 Sticker | n1ssim (Holo) | Budapest 2025
-Sticker | ChildKing | Budapest 2025
 Sticker | Summer (Embroidered) | Budapest 2025
 Sticker | ztr (Embroidered) | Budapest 2025
 Sticker | headtr1ck (Holo) | Budapest 2025
 Sticker | Kvem (Holo) | Budapest 2025
-Sticker | JT (Embroidered) | Budapest 2025
-Sticker | kyousuke (Gold) | Budapest 2025
 Sticker | cobra | Budapest 2025
 Sticker | sjuush (Holo) | Budapest 2025
 Sticker | kl1m (Embroidered) | Budapest 2025
@@ -278,22 +241,16 @@ Sticker | Tiger (Embroidered) | Budapest 2025
 Sticker | Lucaozy (Embroidered) | Budapest 2025
 Sticker | PR (Embroidered) | Budapest 2025
 Sticker | vexite (Embroidered) | Budapest 2025
-Sticker | alex666 (Embroidered) | Budapest 2025
-Sticker | jeorge (Embroidered) | Budapest 2025
 Sticker | L1haNg (Embroidered) | Budapest 2025
 Sticker | fEAR (Embroidered) | Budapest 2025
 Sticker | INS (Holo) | Budapest 2025
 Sticker | C4LLM3SU3 (Embroidered) | Budapest 2025
 Sticker | Marek (Gold) | Budapest 2025
-Sticker | molodoy (Gold) | Budapest 2025
-Sticker | hallzerk (Holo) | Budapest 2025
 Sticker | Ex3rcice (Holo) | Budapest 2025
 Sticker | RED Canids (Gold) | Budapest 2025
-Sticker | XANTARES (Embroidered) | Budapest 2025
 Sticker | Jee (Holo) | Budapest 2025
 Sticker | XANTARES (Holo) | Budapest 2025
 Sticker | NertZ (Holo) | Budapest 2025
-Sticker | NAF (Holo) | Budapest 2025
 Sticker | arT (Gold) | Budapest 2025
 Sticker | regali (Embroidered) | Budapest 2025
 Sticker | Kursy (Embroidered) | Budapest 2025
@@ -311,7 +268,6 @@ Sticker | Magisk (Gold) | Budapest 2025
 Sticker | XotiC (Embroidered) | Budapest 2025
 Sticker | NRG (Holo) | Budapest 2025
 Sticker | skullz (Embroidered) | Budapest 2025
-Sticker | dav1deuS (Gold) | Budapest 2025
 Sticker | Starry (Holo) | Budapest 2025
 Sticker | fnatic (Gold) | Budapest 2025
 Sticker | Fluxo (Holo) | Budapest 2025
@@ -320,14 +276,12 @@ Sticker | makazze (Holo) | Budapest 2025
 Sticker | Jame (Embroidered) | Budapest 2025
 Sticker | z4KR (Embroidered) | Budapest 2025
 Sticker | Grim (Holo) | Budapest 2025
-Sticker | SunPayus (Gold) | Budapest 2025
 Sticker | EliGE (Gold) | Budapest 2025
 Sticker | noway (Embroidered) | Budapest 2025
 Sticker | Graviti (Holo) | Budapest 2025
 Sticker | Lake | Budapest 2025
 Sticker | dumau (Embroidered) | Budapest 2025
 Sticker | bodyy (Gold) | Budapest 2025
-Sticker | MIBR (Gold) | Budapest 2025
 Sticker | Lake (Embroidered) | Budapest 2025
 Sticker | nin9 (Embroidered) | Budapest 2025
 Sticker | Bart4k (Embroidered) | Budapest 2025
@@ -351,12 +305,10 @@ Sticker | regali (Gold) | Budapest 2025
 Sticker | ultimate (Gold) | Budapest 2025
 Sticker | xKacpersky (Embroidered) | Budapest 2025
 Sticker | Snappi (Embroidered) | Budapest 2025
-Sticker | drop (Holo) | Budapest 2025
 Sticker | venomzera (Embroidered) | Budapest 2025
 Sticker | Moseyuh (Holo) | Budapest 2025
 Sticker | sk0R (Gold) | Budapest 2025
 Sticker | Staehr (Gold) | Budapest 2025
-Sticker | chayJESUS (Embroidered) | Budapest 2025
 Sticker | Snappi (Holo) | Budapest 2025
 Sticker | Lake (Holo) | Budapest 2025
 Sticker | skullz (Gold) | Budapest 2025
@@ -368,9 +320,7 @@ Sticker | noway (Holo) | Budapest 2025
 Sticker | exit (Gold) | Budapest 2025
 Sticker | qikert (Gold) | Budapest 2025
 Sticker | alex666 (Holo) | Budapest 2025
-Sticker | BELCHONOKK (Embroidered) | Budapest 2025
 Sticker | History (Holo) | Budapest 2025
-Sticker | VINI (Embroidered) | Budapest 2025
 Sticker | jeorge (Holo) | Budapest 2025
 Sticker | xerolte (Holo) | Budapest 2025
 Sticker | jambo (Gold) | Budapest 2025
@@ -424,14 +374,11 @@ Sticker | MAJ3R (Gold) | Budapest 2025
 Sticker | xiELO (Gold) | Budapest 2025
 Sticker | s1n (Holo) | Budapest 2025
 Sticker | GamerLegion (Gold) | Budapest 2025
-Sticker | Lucaozy (Holo) | Budapest 2025
 Sticker | s1n (Gold) | Budapest 2025
 Sticker | Sonic (Gold) | Budapest 2025
 Sticker | AW (Holo) | Budapest 2025
-Sticker | sk0R (Holo) | Budapest 2025
 Sticker | Starry (Embroidered) | Budapest 2025
 Sticker | decenty (Gold) | Budapest 2025
-Sticker | Lucky (Gold) | Budapest 2025
 Sticker | ChildKing (Holo) | Budapest 2025
 Sticker | insani (Gold) | Budapest 2025
 Sticker | cobra (Gold) | Budapest 2025
@@ -447,7 +394,6 @@ Sticker | slaxz- (Gold) | Budapest 2025
 Sticker | PR (Gold) | Budapest 2025
 Sticker | noway (Gold) | Budapest 2025
 Sticker | venomzera (Gold) | Budapest 2025
-Sticker | kye (Holo) | Budapest 2025
 Sticker | Marek (Holo) | Budapest 2025
 Sticker | venomzera (Holo) | Budapest 2025
 Sticker | jcobbb (Holo) | Budapest 2025
@@ -541,3 +487,5 @@ Sticker | sjuush (Gold) | Budapest 2025
 Sticker | n1ssim (Gold) | Budapest 2025
 Sticker | Summer (Gold) | Budapest 2025
 Sticker | headtr1ck (Gold) | Budapest 2025
+Sticker | Cypher (Gold) | Budapest 2025
+Sticker | Bart4k (Gold) | Budapest 2025
