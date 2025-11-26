@@ -34,9 +34,6 @@ Tag IDs of Marble Fade Fire & Ice tiers known to be missing on buff163:
 ★ StatTrak™ Talon Knife | Marble Fade (Factory New): 1st
 ★ StatTrak™ Talon Knife | Marble Fade (Minimal Wear): 1st, 2nd, 3rd, 5th, 6th, 7th, 8th, 9th
 
-IDs of items known to be missing on buff163:
-Souvenir AK-47 | B the Monster (Well-Worn)
-
 IDs of items known to be missing on youpin898:
 Souvenir G3SG1 | VariCamo (Well-Worn)
 Souvenir Galil AR | Sage Spray (Factory New)
@@ -154,8 +151,6 @@ Souvenir AUG | Condemned (Factory New)
 ★ StatTrak™ Talon Knife | Safari Mesh (Factory New)
 ★ StatTrak™ Classic Knife | Crimson Web (Factory New)
 ★ StatTrak™ Survival Knife | Ultraviolet (Factory New)
-Souvenir AK-47 | B the Monster (Factory New)
-Souvenir AWP | Crakow! (Factory New)
 
 IDs of items known to be missing on buff.market:
 Souvenir AWP | Pit Viper (Well-Worn)
@@ -171,37 +166,21 @@ Souvenir P2000 | Granite Marbleized (Factory New)
 ★ StatTrak™ Ursus Knife | Forest DDPAT (Factory New)
 ★ StatTrak™ Classic Knife | Crimson Web (Factory New)
 Sticker | saadzin (Gold) | Budapest 2025
-Sticker | sk0R (Gold) | Budapest 2025
-Sticker | EmiliaQAQ (Gold) | Budapest 2025
-Sticker | kl1m (Gold) | Budapest 2025
 Sticker | Tiger (Gold) | Budapest 2025
-Sticker | lux (Holo) | Budapest 2025
 Sticker | r1nkle (Gold) | Budapest 2025
 Sticker | broky (Gold) | Budapest 2025
-Sticker | jcobbb (Gold) | Budapest 2025
 Sticker | kauez (Gold) | Budapest 2025
-Sticker | fEAR (Gold) | Budapest 2025
-Sticker | HexT (Gold) | Budapest 2025
 Sticker | headtr1ck (Gold) | Budapest 2025
-Souvenir Desert Eagle | Tilted (Battle-Scarred)
 Souvenir Desert Eagle | Tilted (Well-Worn)
-Souvenir AUG | Eye of Zapems (Minimal Wear)
-Souvenir MAC-10 | Pipsqueak (Minimal Wear)
-Souvenir Galil AR | Metallic Squeezer (Battle-Scarred)
-Souvenir MAC-10 | Pipsqueak (Well-Worn)
 Souvenir AUG | Eye of Zapems (Factory New)
 Souvenir Dual Berettas | Sweet Little Angels (Factory New)
-Souvenir AK-47 | B the Monster (Field-Tested)
-Souvenir Zeus x27 | Dragon Snore (Field-Tested)
 Souvenir Glock-18 | Teal Graf (Battle-Scarred)
 Souvenir Zeus x27 | Dragon Snore (Factory New)
 Souvenir MAC-10 | Pipsqueak (Factory New)
 Souvenir AUG | Eye of Zapems (Battle-Scarred)
 Souvenir AWP | Crakow! (Minimal Wear)
-Souvenir AWP | Crakow! (Field-Tested)
 Souvenir XM1014 | Monster Melt (Factory New)
 Souvenir Galil AR | Metallic Squeezer (Well-Worn)
-Souvenir Nova | Wurst Hölle (Factory New)
 Souvenir AUG | Eye of Zapems (Well-Worn)
 Souvenir Dual Berettas | Sweet Little Angels (Well-Worn)
 Souvenir Dual Berettas | Sweet Little Angels (Battle-Scarred)
