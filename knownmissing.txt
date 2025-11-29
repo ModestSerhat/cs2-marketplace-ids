@@ -60,7 +60,6 @@ Souvenir M4A1-S | Boreal Forest (Factory New)
 ★ StatTrak™ Karambit | Night (Factory New)
 ★ StatTrak™ Karambit | Boreal Forest (Factory New)
 Souvenir AUG | Contractor (Factory New)
-Souvenir MP7 | Army Recon (Factory New)
 ★ StatTrak™ M9 Bayonet | Boreal Forest (Factory New)
 Souvenir USP-S | Night Ops (Battle-Scarred)
 ★ Huntsman Knife | Scorched (Factory New)
@@ -153,7 +152,6 @@ Souvenir AUG | Condemned (Factory New)
 ★ StatTrak™ Survival Knife | Ultraviolet (Factory New)
 
 IDs of items known to be missing on buff.market:
-Souvenir AWP | Pit Viper (Well-Worn)
 ★ StatTrak™ M9 Bayonet | Urban Masked (Factory New)
 ★ StatTrak™ Huntsman Knife | Scorched (Factory New)
 ★ StatTrak™ Flip Knife | Night (Factory New)
@@ -165,19 +163,12 @@ Souvenir AWP | Pit Viper (Well-Worn)
 Souvenir P2000 | Granite Marbleized (Factory New)
 ★ StatTrak™ Ursus Knife | Forest DDPAT (Factory New)
 ★ StatTrak™ Classic Knife | Crimson Web (Factory New)
-Sticker | saadzin (Gold) | Budapest 2025
 Sticker | Tiger (Gold) | Budapest 2025
 Sticker | r1nkle (Gold) | Budapest 2025
-Sticker | broky (Gold) | Budapest 2025
-Sticker | kauez (Gold) | Budapest 2025
 Sticker | headtr1ck (Gold) | Budapest 2025
-Souvenir Desert Eagle | Tilted (Well-Worn)
 Souvenir AUG | Eye of Zapems (Factory New)
 Souvenir Dual Berettas | Sweet Little Angels (Factory New)
 Souvenir Glock-18 | Teal Graf (Battle-Scarred)
-Souvenir Zeus x27 | Dragon Snore (Factory New)
-Souvenir MAC-10 | Pipsqueak (Factory New)
-Souvenir AUG | Eye of Zapems (Battle-Scarred)
 Souvenir AWP | Crakow! (Minimal Wear)
 Souvenir XM1014 | Monster Melt (Factory New)
 Souvenir Galil AR | Metallic Squeezer (Well-Worn)
@@ -189,4 +180,3 @@ Souvenir Zeus x27 | Dragon Snore (Well-Worn)
 Souvenir AK-47 | B the Monster (Factory New)
 Souvenir AK-47 | B the Monster (Battle-Scarred)
 Souvenir AWP | Crakow! (Factory New)
-Souvenir AK-47 | B the Monster (Well-Worn)
