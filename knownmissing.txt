@@ -35,9 +35,6 @@ Tag IDs of Marble Fade Fire & Ice tiers known to be missing on buff163:
 ★ StatTrak™ Talon Knife | Marble Fade (Factory New): 1st
 ★ StatTrak™ Talon Knife | Marble Fade (Minimal Wear): 1st, 2nd, 3rd, 5th, 6th, 7th, 8th, 9th
 
-IDs of items known to be missing on buff163:
-Souvenir Charm | Budapest 2025 Highlight | frozen post-plant wall
-
 IDs of items known to be missing on youpin898:
 Souvenir G3SG1 | VariCamo (Well-Worn)
 Souvenir Galil AR | Sage Spray (Factory New)
@@ -172,36 +169,11 @@ Souvenir Charm | Budapest 2025 Highlight | xertioN vs FaZe on Inferno
 Souvenir Charm | Budapest 2025 Highlight | jcobbb entry force
 
 IDs of items known to be missing on buff.market:
-Souvenir Charm | Budapest 2025 Highlight | Aleksib CT lockdown
-Souvenir Charm | Budapest 2025 Highlight | b1t Triple timing quad
-Sticker | ZywOo (Gold, Champion) | Budapest 2025
-Souvenir Charm | Budapest 2025 Highlight | Aleksib vs FURIA on Inferno
-Souvenir Charm | Budapest 2025 Highlight | iM vs FURIA on Inferno
 Souvenir Charm | Budapest 2025 Highlight | frozen vs Vitality on Nuke
-Souvenir Charm | Budapest 2025 Highlight | b1t vs FaZe on Inferno
-Souvenir Charm | Budapest 2025 Highlight | w0nderful vs FURIA on Train
-Souvenir Charm | Budapest 2025 Highlight | broky lineup save
-Souvenir Charm | Budapest 2025 Highlight | flameZ vs The MongolZ on Mirage
-Souvenir Charm | Budapest 2025 Highlight | Falcons on the QF stage
-Souvenir Charm | Budapest 2025 Highlight | donk vs Falcons on Nuke
-Souvenir Charm | Budapest 2025 Highlight | Jimpphat vs FaZe on Inferno
-Souvenir Charm | Budapest 2025 Highlight | Aleksib smoke read spray
 Souvenir Charm | Budapest 2025 Highlight | karrigan vs MOUZ on Inferno
 Souvenir Charm | Budapest 2025 Highlight | FaZe win in the QF
-Souvenir Charm | Budapest 2025 Highlight | makazze vs FURIA on Inferno
-Souvenir Charm | Budapest 2025 Highlight | broky vs MOUZ on Nuke
 Souvenir Charm | Budapest 2025 Highlight | KSCERATO boost play
-Souvenir Charm | Budapest 2025 Highlight | w0nderful plant lockdown
 Souvenir Charm | Budapest 2025 Highlight | Aleksib vs FURIA on Mirage
 Souvenir Charm | Budapest 2025 Highlight | b1t Outside to B stop
-Souvenir Charm | Budapest 2025 Highlight | karrigan vs MOUZ on Nuke
-Souvenir Charm | Budapest 2025 Highlight | Twistzz dual chaos
 Souvenir Charm | Budapest 2025 Highlight | xertioN clutch win
-Souvenir Charm | Budapest 2025 Highlight | 910 vs Vitality on Dust II
-Souvenir Charm | Budapest 2025 Highlight | torzsi Tec-9 rampage
-Souvenir Charm | Budapest 2025 Highlight | FaZe on the QF stage
 Souvenir Charm | Budapest 2025 Highlight | frozen Banana snap
-Souvenir Charm | Budapest 2025 Highlight | Twistzz vs MOUZ on Inferno
-Souvenir Charm | Budapest 2025 Highlight | xertioN vs FaZe on Inferno
-Souvenir Charm | Budapest 2025 Highlight | jcobbb entry force
-Souvenir Charm | Budapest 2025 Highlight | frozen post-plant wall
