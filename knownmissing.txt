@@ -155,7 +155,6 @@ Souvenir Charm | Budapest 2025 Highlight | controlez vs Vitality on Dust II
 Souvenir Charm | Budapest 2025 Highlight | Mzinho Long control
 Souvenir Charm | Budapest 2025 Highlight | torzsi vs FaZe on Inferno
 Souvenir Charm | Budapest 2025 Highlight | FaZe on the QF stage
-Souvenir Charm | Budapest 2025 Highlight | MOUZ on the QF stage
 Souvenir Charm | Budapest 2025 Highlight | Spinx vs FaZe on Nuke
 Souvenir Charm | Budapest 2025 Highlight | frozen Banana snap
 Souvenir Charm | Budapest 2025 Highlight | xertioN vs FaZe on Nuke
@@ -166,8 +165,6 @@ Souvenir Charm | Budapest 2025 Highlight | jcobbb entry force
 Souvenir Charm | Budapest 2025 Highlight | frozen vs MOUZ on Nuke
 
 IDs of items known to be missing on buff.market:
-Souvenir Charm | Budapest 2025 Highlight | frozen vs Vitality on Nuke
 Souvenir Charm | Budapest 2025 Highlight | karrigan vs MOUZ on Inferno
-Souvenir Charm | Budapest 2025 Highlight | b1t Outside to B stop
 Souvenir Charm | Budapest 2025 Highlight | xertioN clutch win
 Souvenir Charm | Budapest 2025 Highlight | frozen Banana snap
