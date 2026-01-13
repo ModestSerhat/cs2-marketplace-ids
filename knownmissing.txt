@@ -16,7 +16,7 @@ Phase IDs of Doppler phases known to be missing on buff163:
 ★ StatTrak™ Stiletto Knife | Doppler Black Pearl (Minimal Wear) (0 registered on FloatDB, can be unboxed from a Prisma/Prisma 2 Case)
 ★ StatTrak™ M9 Bayonet | Gamma Doppler Emerald (Minimal Wear) (2 registered on FloatDB, can be unboxed from a Gamma/Gamma 2 Case)
 ★ StatTrak™ Paracord Knife | Doppler Black Pearl (Minimal Wear) (1 registered on FloatDB, Can be unboxed from a Fever Case)
-★ StatTrak™ Paracord Knife | Doppler Phase 1 (Minimal Wear) (1 registered on FloatDB, Can be unboxed from a Fever Case)
+★ StatTrak™ Paracord Knife | Doppler Phase 1 (Minimal Wear) (2 registered on FloatDB, Can be unboxed from a Fever Case)
 
 Tag IDs of Marble Fade Fire & Ice tiers known to be missing on buff163:
 ★ Gut Knife | Marble Fade (Minimal Wear): 1st, 4th
@@ -32,7 +32,7 @@ Tag IDs of Marble Fade Fire & Ice tiers known to be missing on buff163:
 ★ StatTrak™ Karambit | Marble Fade (Minimal Wear): 1st, 3rd, 4th, 6th, 7th, 8th, 10th
 ★ Talon Knife | Marble Fade (Minimal Wear): 1st, 4th
 ★ StatTrak™ Talon Knife | Marble Fade (Factory New): 1st
-★ StatTrak™ Talon Knife | Marble Fade (Minimal Wear): 1st, 2nd, 3rd, 5th, 6th, 7th, 8th, 9th
+★ StatTrak™ Talon Knife | Marble Fade (Minimal Wear): 1st, 2nd, 3rd, 5th, 6th, 8th, 9th
 
 IDs of items known to be missing on youpin898:
 Souvenir Galil AR | Sage Spray (Factory New)
@@ -163,8 +163,3 @@ Souvenir Charm | Budapest 2025 Highlight | Twistzz vs MOUZ on Inferno
 Souvenir Charm | Budapest 2025 Highlight | xertioN vs FaZe on Inferno
 Souvenir Charm | Budapest 2025 Highlight | jcobbb entry force
 Souvenir Charm | Budapest 2025 Highlight | frozen vs MOUZ on Nuke
-
-IDs of items known to be missing on buff.market:
-Souvenir Charm | Budapest 2025 Highlight | karrigan vs MOUZ on Inferno
-Souvenir Charm | Budapest 2025 Highlight | xertioN clutch win
-Souvenir Charm | Budapest 2025 Highlight | frozen Banana snap
