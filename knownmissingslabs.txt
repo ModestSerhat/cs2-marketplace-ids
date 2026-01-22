@@ -216,7 +216,6 @@ Sticker Slab | Snax (Foil) | Cluj-Napoca 2015
 Sticker Slab | Snax (Foil) | MLG Columbus 2016
 Sticker Slab | Snax (Gold) | Boston 2018
 Sticker Slab | Snax | Cologne 2016
-Sticker Slab | Snax | Krakow 2017
 Sticker Slab | Snax | MLG Columbus 2016
 Sticker Slab | SnypeR | Cologne 2015
 Sticker Slab | Spiidi (Foil) | Atlanta 2017
@@ -619,7 +618,6 @@ Sticker Slab | suNny (Gold) | Boston 2018
 Sticker Slab | WorldEdit | Cologne 2015
 Sticker Slab | Calyx | London 2018
 Sticker Slab | Nifty | London 2018
-Sticker Slab | BIG | London 2018
 Sticker Slab | xccurate | London 2018
 Sticker Slab | BnTeT | London 2018
 Sticker Slab | waterfaLLZ | London 2018
@@ -750,7 +748,6 @@ Sticker Slab | sterling | Katowice 2019
 Sticker Slab | CeRq | Katowice 2019
 Sticker Slab | KrizzeN | Katowice 2019
 Sticker Slab | DeadFox (Foil) | Katowice 2019
-Sticker Slab | autimatic | Katowice 2019
 Sticker Slab | wayLander | Katowice 2019
 Sticker Slab | DavCost | Katowice 2019
 Sticker Slab | ALEX | Katowice 2019
@@ -1289,7 +1286,6 @@ Sticker Slab | niko (Glitter) | Paris 2023
 Sticker Slab | sk0R | Paris 2023
 Sticker Slab | Liazz (Glitter) | Paris 2023
 Sticker Slab | niko (Holo) | Paris 2023
-Sticker Slab | Woro2k (Gold) | Paris 2023
 Sticker Slab | Bart4k (Glitter) | Paris 2023
 Sticker Slab | saffee (Glitter) | Paris 2023
 Sticker Slab | niko (Gold) | Paris 2023
@@ -1551,7 +1547,6 @@ Sticker Slab | slaxz- | Budapest 2025
 Sticker Slab | kensizor | Budapest 2025
 Sticker Slab | Snappi | Budapest 2025
 Sticker Slab | REZ (Holo) | Budapest 2025
-Sticker Slab | noway | Budapest 2025
 Sticker Slab | Lucaozy | Budapest 2025
 Sticker Slab | saadzin (Gold) | Budapest 2025
 Sticker Slab | blameF | Budapest 2025
@@ -1652,7 +1647,6 @@ Sticker Slab | CacaNito (Holo) | Copenhagen 2024
 Sticker Slab | jL (Holo) | Copenhagen 2024
 Sticker Slab | jackasmo | Shanghai 2024
 Sticker Slab | blameF (Holo) | Shanghai 2024
-Sticker Slab | stanislaw (Holo) | Shanghai 2024
 Sticker Slab | HexT | Austin 2025
 Sticker Slab | Swisher | Austin 2025
 Sticker Slab | fame | Austin 2025
@@ -1739,6 +1733,7 @@ Sticker Slab | Skadoodle (Gold) | Krakow 2017
 Sticker Slab | SmithZz (Foil) | Cluj-Napoca 2015
 Sticker Slab | Snax (Foil) | Boston 2018
 Sticker Slab | Snax | Boston 2018
+Sticker Slab | Snax | Krakow 2017
 Sticker Slab | SnypeR (Foil) | Cologne 2015
 Sticker Slab | Spiidi (Foil) | Cologne 2015
 Sticker Slab | Spiidi | MLG Columbus 2016
@@ -1841,6 +1836,7 @@ Sticker Slab | yam (Foil) | Cologne 2015
 Sticker Slab | zehN (Gold) | Boston 2018
 Sticker Slab | GruBy (Foil) | Cologne 2015
 Sticker Slab | iBUYPOWER (Holo) | Katowice 2014
+Sticker Slab | BIG | London 2018
 Sticker Slab | Cloud9 | London 2018
 Sticker Slab | Skadoodle | London 2018
 Sticker Slab | f0rest (Foil) | London 2018
@@ -1918,6 +1914,7 @@ Sticker Slab | cadiaN (Gold) | London 2018
 Sticker Slab | jR (Gold) | London 2018
 Sticker Slab | GeT_RiGhT | Katowice 2019
 Sticker Slab | Aleksib | Katowice 2019
+Sticker Slab | autimatic | Katowice 2019
 Sticker Slab | Golden | Katowice 2019
 Sticker Slab | GuardiaN | Katowice 2019
 Sticker Slab | COLDYY1 | Katowice 2019
@@ -1929,7 +1926,6 @@ Sticker Slab | Grayhound Gaming | Katowice 2019
 Sticker Slab | dexter (Foil) | Katowice 2019
 Sticker Slab | xccurate (Foil) | Katowice 2019
 Sticker Slab | shox (Gold) | Katowice 2019
-Sticker Slab | Winstrike Team | Katowice 2019
 Sticker Slab | GuardiaN (Gold) | Katowice 2019
 Sticker Slab | COLDYY1 (Gold) | Katowice 2019
 Sticker Slab | Gratisfaction (Gold) | Katowice 2019
@@ -1978,7 +1974,6 @@ Sticker Slab | ZywOo (Glitter) | Antwerp 2022
 Sticker Slab | REZ (Holo) | Antwerp 2022
 Sticker Slab | fer (Glitter) | Antwerp 2022
 Sticker Slab | nin9 (Holo) | Antwerp 2022
-Sticker Slab | Magisk (Holo) | Antwerp 2022
 Sticker Slab | woxic | Antwerp 2022
 Sticker Slab | interz (Holo) | Antwerp 2022
 Sticker Slab | syrsoN (Gold) | Antwerp 2022
@@ -2048,6 +2043,7 @@ Sticker Slab | KEi (Glitter) | Paris 2023
 Sticker Slab | b1t (Glitter) | Paris 2023
 Sticker Slab | YEKINDAR | Paris 2023
 Sticker Slab | sdy (Holo) | Paris 2023
+Sticker Slab | Woro2k (Gold) | Paris 2023
 Sticker Slab | stavn (Holo) | Paris 2023
 Sticker Slab | zorte (Gold) | Paris 2023
 Sticker Slab | Cypher (Gold) | Paris 2023
@@ -2124,6 +2120,7 @@ Sticker Slab | nettik (Gold) | Austin 2025
 Sticker Slab | ROUX (Gold) | Austin 2025
 Sticker Slab | VINI (Gold) | Austin 2025
 Sticker Slab | Summer | Budapest 2025
+Sticker Slab | noway | Budapest 2025
 Sticker Slab | PR | Budapest 2025
 Sticker Slab | sjuush (Holo) | Budapest 2025
 Sticker Slab | zevy (Embroidered) | Budapest 2025
@@ -2583,6 +2580,7 @@ Sticker Slab | forZe eSports (Gold) | Antwerp 2022
 Sticker Slab | Bad News Eagles (Gold) | Antwerp 2022
 Sticker Slab | gla1ve (Glitter) | Antwerp 2022
 Sticker Slab | woxic (Holo) | Antwerp 2022
+Sticker Slab | Magisk (Holo) | Antwerp 2022
 Sticker Slab | FalleN (Glitter) | Antwerp 2022
 Sticker Slab | ENCE (Holo) | Antwerp 2022
 Sticker Slab | qikert (Holo) | Antwerp 2022
@@ -3498,7 +3496,6 @@ Sticker Slab | FaZe Clan | London 2018
 Sticker Slab | compLexity Gaming | London 2018
 Sticker Slab | ANDROID | London 2018
 Sticker Slab | stanislaw | London 2018
-Sticker Slab | Rogue (Foil) | London 2018
 Sticker Slab | compLexity Gaming (Foil) | London 2018
 Sticker Slab | XANTARES | London 2018
 Sticker Slab | device | London 2018
@@ -3710,6 +3707,7 @@ Sticker Slab | Summer (Gold) | Katowice 2019
 Sticker Slab | arT (Gold) | Katowice 2019
 Sticker Slab | Twistzz (Gold) | Katowice 2019
 Sticker Slab | buster (Foil) | Katowice 2019
+Sticker Slab | Winstrike Team | Katowice 2019
 Sticker Slab | Kaze (Foil) | Katowice 2019
 Sticker Slab | ALEX (Foil) | Katowice 2019
 Sticker Slab | buster (Gold) | Katowice 2019
@@ -4692,6 +4690,7 @@ Sticker Slab | drop (Holo) | Shanghai 2024
 Sticker Slab | Maka (Holo) | Shanghai 2024
 Sticker Slab | Jame (Glitter) | Shanghai 2024
 Sticker Slab | jambo (Gold) | Shanghai 2024
+Sticker Slab | stanislaw (Holo) | Shanghai 2024
 Sticker Slab | jks (Holo) | Shanghai 2024
 Sticker Slab | ChildKing (Holo) | Shanghai 2024
 Sticker Slab | s-chilla (Glitter) | Shanghai 2024
