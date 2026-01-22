@@ -34,6 +34,11 @@ Tag IDs of Marble Fade Fire & Ice tiers known to be missing on buff163:
 ★ StatTrak™ Talon Knife | Marble Fade (Factory New): 1st
 ★ StatTrak™ Talon Knife | Marble Fade (Minimal Wear): 1st, 2nd, 3rd, 5th, 6th, 8th, 9th
 
+IDs of items known to be missing on youpin898 and buff.market:
+Galil AR | Sky Mandala (Well-Worn)
+P2000 | Grip Tape (Well-Worn)
+AWP | The End (Factory New)
+
 IDs of items known to be missing on youpin898:
 Souvenir Galil AR | Sage Spray (Factory New)
 Souvenir Galil AR | VariCamo (Well-Worn)
@@ -148,11 +153,8 @@ Souvenir AUG | Condemned (Factory New)
 ★ StatTrak™ Talon Knife | Safari Mesh (Factory New)
 ★ StatTrak™ Classic Knife | Crimson Web (Factory New)
 ★ StatTrak™ Survival Knife | Ultraviolet (Factory New)
-Souvenir Charm | Budapest 2025 Highlight | Jimpphat vs FaZe on Inferno
 Souvenir Charm | Budapest 2025 Highlight | karrigan nade finish
-Souvenir Charm | Budapest 2025 Highlight | controlez vs Vitality on Dust II
 Souvenir Charm | Budapest 2025 Highlight | Mzinho Long control
-Souvenir Charm | Budapest 2025 Highlight | torzsi vs FaZe on Inferno
 Souvenir Charm | Budapest 2025 Highlight | FaZe on the QF stage
 Souvenir Charm | Budapest 2025 Highlight | Spinx vs FaZe on Nuke
 Souvenir Charm | Budapest 2025 Highlight | frozen Banana snap
@@ -162,3 +164,19 @@ Souvenir Charm | Budapest 2025 Highlight | Twistzz vs MOUZ on Inferno
 Souvenir Charm | Budapest 2025 Highlight | xertioN vs FaZe on Inferno
 Souvenir Charm | Budapest 2025 Highlight | jcobbb entry force
 Souvenir Charm | Budapest 2025 Highlight | frozen vs MOUZ on Nuke
+Glock-18 | Trace Lock (Well-Worn)
+
+IDs of items known to be missing on buff.market:
+AK-47 | Aphrodite (Factory New)
+SG 553 | Safari Print (Battle-Scarred)
+M4A1-S | Party Animal (Minimal Wear)
+Nova | Currents (Well-Worn)
+XM1014 | XoooM (Well-Worn)
+CZ75-Auto | Honey Paisley (Well-Worn)
+M4A1-S | Party Animal (Factory New)
+P90 | Aeolian Light (Well-Worn)
+Glock-18 | Trace Lock (Factory New)
+M4A1-S | Party Animal (Well-Worn)
+Desert Eagle | The Daily Deagle (Well-Worn)
+SSG 08 | Sans Comic (Battle-Scarred)
+AUG | Creep (Well-Worn)
