@@ -72,8 +72,6 @@ Sticker Slab | KRIMZ (Foil) | Cologne 2016
 Sticker Slab | KRIMZ (Gold) | Boston 2018
 Sticker Slab | KRIMZ | Atlanta 2017
 Sticker Slab | Karsa (Gold) | Boston 2018
-Sticker Slab | Kaze (Foil) | Boston 2018
-Sticker Slab | Keyd Stars (Foil) | Katowice 2015
 Sticker Slab | Kjaerbye (Gold) | Boston 2018
 Sticker Slab | Kjaerbye | Cluj-Napoca 2015
 Sticker Slab | KrizzeN (Foil) | Boston 2018
@@ -99,7 +97,6 @@ Sticker Slab | Magisk | Atlanta 2017
 Sticker Slab | Maikelele | Cluj-Napoca 2015
 Sticker Slab | Maikelele | MLG Columbus 2016
 Sticker Slab | NAF (Foil) | Atlanta 2017
-Sticker Slab | NAF (Foil) | Boston 2018
 Sticker Slab | NAF (Foil) | Cologne 2016
 Sticker Slab | NAF (Gold) | Boston 2018
 Sticker Slab | NAF | Atlanta 2017
@@ -114,7 +111,6 @@ Sticker Slab | Ninjas in Pyjamas (Holo) | Katowice 2014
 Sticker Slab | North (Foil) | Boston 2018
 Sticker Slab | PENTA Sports | Katowice 2015
 Sticker Slab | Professor_Chaos (Foil) | MLG Columbus 2016
-Sticker Slab | Professor_Chaos | MLG Columbus 2016
 Sticker Slab | RUBINO (Foil) | Atlanta 2017
 Sticker Slab | RUBINO (Foil) | Cologne 2016
 Sticker Slab | RUBINO | Atlanta 2017
@@ -135,7 +131,6 @@ Sticker Slab | STYKO | Atlanta 2017
 Sticker Slab | ScreaM (Foil) | Atlanta 2017
 Sticker Slab | ScreaM (Foil) | Cluj-Napoca 2015
 Sticker Slab | ScreaM (Foil) | Cologne 2016
-Sticker Slab | ScreaM (Gold) | Boston 2018
 Sticker Slab | ShahZaM (Foil) | Boston 2018
 Sticker Slab | ShahZaM (Gold) | Boston 2018
 Sticker Slab | Shara (Foil) | Cologne 2016
@@ -157,7 +152,6 @@ Sticker Slab | Spiidi (Foil) | Cologne 2016
 Sticker Slab | Spiidi (Gold) | Boston 2018
 Sticker Slab | Spiidi | Cologne 2016
 Sticker Slab | Stewie2K (Foil) | MLG Columbus 2016
-Sticker Slab | Stewie2K | MLG Columbus 2016
 Sticker Slab | Summer (Gold) | Boston 2018
 Sticker Slab | Summer | Boston 2018
 Sticker Slab | TACO (Foil) | Atlanta 2017
@@ -226,7 +220,6 @@ Sticker Slab | byali (Foil) | Atlanta 2017
 Sticker Slab | byali (Foil) | MLG Columbus 2016
 Sticker Slab | byali (Gold) | Boston 2018
 Sticker Slab | byali | MLG Columbus 2016
-Sticker Slab | cajunb (Foil) | Atlanta 2017
 Sticker Slab | cajunb (Foil) | Boston 2018
 Sticker Slab | cajunb (Gold) | Boston 2018
 Sticker Slab | cajunb | Atlanta 2017
@@ -243,7 +236,6 @@ Sticker Slab | coldzera (Foil) | Cologne 2016
 Sticker Slab | coldzera (Gold) | Boston 2018
 Sticker Slab | coldzera | Atlanta 2017
 Sticker Slab | coldzera | Cluj-Napoca 2015
-Sticker Slab | coldzera | Cologne 2015
 Sticker Slab | daps | Cologne 2016
 Sticker Slab | denis (Foil) | Atlanta 2017
 Sticker Slab | denis (Foil) | Cologne 2016
@@ -274,7 +266,6 @@ Sticker Slab | fer (Foil) | Cologne 2016
 Sticker Slab | fer | Atlanta 2017
 Sticker Slab | fitch (Foil) | Boston 2018
 Sticker Slab | fitch (Gold) | Boston 2018
-Sticker Slab | flamie (Foil) | Atlanta 2017
 Sticker Slab | flamie (Foil) | Cologne 2015
 Sticker Slab | flamie (Foil) | MLG Columbus 2016
 Sticker Slab | flamie (Gold) | Boston 2018
@@ -378,7 +369,6 @@ Sticker Slab | oskar (Gold) | Krakow 2017
 Sticker Slab | paz (Foil) | Boston 2018
 Sticker Slab | paz (Gold) | Boston 2018
 Sticker Slab | paz | Boston 2018
-Sticker Slab | peet (Foil) | Cluj-Napoca 2015
 Sticker Slab | peet | Cluj-Napoca 2015
 Sticker Slab | peet | Cologne 2015
 Sticker Slab | pita | Cologne 2016
@@ -393,7 +383,6 @@ Sticker Slab | rain (Gold) | Krakow 2017
 Sticker Slab | rallen | Cluj-Napoca 2015
 Sticker Slab | rallen | Cologne 2015
 Sticker Slab | reltuC (Foil) | Cologne 2016
-Sticker Slab | reltuC (Foil) | MLG Columbus 2016
 Sticker Slab | reltuC | Cluj-Napoca 2015
 Sticker Slab | reltuC | Cologne 2015
 Sticker Slab | reltuC | Cologne 2016
@@ -411,7 +400,6 @@ Sticker Slab | shroud (Foil) | Cologne 2015
 Sticker Slab | shroud (Gold) | Krakow 2017
 Sticker Slab | somebody (Foil) | Boston 2018
 Sticker Slab | somebody (Gold) | Boston 2018
-Sticker Slab | somebody | Boston 2018
 Sticker Slab | spaze (Foil) | Cologne 2016
 Sticker Slab | spaze | Cologne 2016
 Sticker Slab | stanislaw (Foil) | Atlanta 2017
@@ -568,7 +556,6 @@ Sticker Slab | kioShiMa (Gold) | Katowice 2019
 Sticker Slab | hutji (Gold) | Katowice 2019
 Sticker Slab | VINI (Gold) | Katowice 2019
 Sticker Slab | electronic (Gold) | Katowice 2019
-Sticker Slab | autimatic (Gold) | Katowice 2019
 Sticker Slab | tonyblack (Gold) | Katowice 2019
 Sticker Slab | Rickeh (Gold) | Katowice 2019
 Sticker Slab | erkaSt (Gold) | Katowice 2019
@@ -603,7 +590,6 @@ Sticker Slab | Keoz | Berlin 2019
 Sticker Slab | Krad (Foil) | Berlin 2019
 Sticker Slab | nexa (Foil) | Berlin 2019
 Sticker Slab | oskar (Foil) | Berlin 2019
-Sticker Slab | Vitality | Berlin 2019
 Sticker Slab | AZR (Foil) | Berlin 2019
 Sticker Slab | AmaNEk (Foil) | Berlin 2019
 Sticker Slab | Freeman (Foil) | Berlin 2019
@@ -631,7 +617,6 @@ Sticker Slab | svyat (Gold) | Berlin 2019
 Sticker Slab | malta (Gold) | Berlin 2019
 Sticker Slab | Summer (Gold) | Berlin 2019
 Sticker Slab | Brehze (Gold) | Berlin 2019
-Sticker Slab | CeRq (Gold) | Berlin 2019
 Sticker Slab | LETN1 (Gold) | Berlin 2019
 Sticker Slab | VINI (Gold) | Berlin 2019
 Sticker Slab | erkaSt (Gold) | Berlin 2019
@@ -647,7 +632,6 @@ Sticker Slab | ISSAA (Gold) | Berlin 2019
 Sticker Slab | xand (Gold) | Berlin 2019
 Sticker Slab | EspiranTo (Gold) | Berlin 2019
 Sticker Slab | Ramz1kBO$$ (Gold) | Berlin 2019
-Sticker Slab | HObbit | Stockholm 2021
 Sticker Slab | REZ | Stockholm 2021
 Sticker Slab | nafany (Gold) | Stockholm 2021
 Sticker Slab | interz (Gold) | Stockholm 2021
@@ -656,7 +640,6 @@ Sticker Slab | sjuush (Gold) | Stockholm 2021
 Sticker Slab | Qikert (Gold) | Stockholm 2021
 Sticker Slab | nexa (Gold) | Stockholm 2021
 Sticker Slab | Krimbo (Gold) | Antwerp 2022
-Sticker Slab | faveN (Glitter) | Antwerp 2022
 Sticker Slab | Calyx | Antwerp 2022
 Sticker Slab | shalfey (Glitter) | Antwerp 2022
 Sticker Slab | Spinx (Glitter) | Antwerp 2022
@@ -673,7 +656,6 @@ Sticker Slab | drop (Gold) | Antwerp 2022
 Sticker Slab | hatz (Holo) | Antwerp 2022
 Sticker Slab | aliStair (Holo) | Antwerp 2022
 Sticker Slab | oSee (Gold) | Antwerp 2022
-Sticker Slab | Calyx (Gold) | Antwerp 2022
 Sticker Slab | apEX | Rio 2022
 Sticker Slab | hampus | Rio 2022
 Sticker Slab | slaxz- | Rio 2022
@@ -688,7 +670,6 @@ Sticker Slab | stavn | Rio 2022
 Sticker Slab | TACO | Rio 2022
 Sticker Slab | jabbi (Glitter) | Rio 2022
 Sticker Slab | dumau (Glitter) | Rio 2022
-Sticker Slab | tabseN | Rio 2022
 Sticker Slab | Magisk | Rio 2022
 Sticker Slab | latto | Rio 2022
 Sticker Slab | fame | Rio 2022
@@ -781,12 +762,10 @@ Sticker Slab | NQZ (Gold) | Copenhagen 2024
 Sticker Slab | sense (Glitter) | Copenhagen 2024
 Sticker Slab | salazar (Gold) | Copenhagen 2024
 Sticker Slab | jkaem (Holo) | Copenhagen 2024
-Sticker Slab | MAJ3R (Holo) | Copenhagen 2024
 Sticker Slab | ewjerkz (Holo) | Copenhagen 2024
 Sticker Slab | gla1ve (Gold) | Copenhagen 2024
 Sticker Slab | MAJ3R (Gold) | Copenhagen 2024
 Sticker Slab | CacaNito (Gold) | Copenhagen 2024
-Sticker Slab | Hobbit (Holo) | Copenhagen 2024
 Sticker Slab | woxic (Gold) | Copenhagen 2024
 Sticker Slab | sense (Gold) | Copenhagen 2024
 Sticker Slab | STYKO (Gold) | Copenhagen 2024
@@ -825,7 +804,6 @@ Sticker Slab | yuurih | Austin 2025
 Sticker Slab | Astra Militarum 1
 Sticker Slab | bodyy (Foil) | Austin 2025
 Sticker Slab | Ariucle (Holo) | Austin 2025
-Sticker Slab | Swisher (Foil) | Austin 2025
 Sticker Slab | Attacker | Austin 2025
 Sticker Slab | Cxzi (Holo) | Austin 2025
 Sticker Slab | nettik (Holo) | Austin 2025
@@ -854,11 +832,10 @@ Sticker Slab | chrisJ (Foil) | Cologne 2015
 Sticker Slab | dennis (Gold) | Krakow 2017
 Sticker Slab | device (Foil) | Atlanta 2017
 Sticker Slab | fnx (Foil) | MLG Columbus 2016
-Sticker Slab | hutji | Boston 2018
 Sticker Slab | innocent (Foil) | Krakow 2017
 Sticker Slab | jkaem | Cluj-Napoca 2015
 Sticker Slab | jks (Foil) | Boston 2018
-Sticker Slab | kioShiMa | Atlanta 2017
+Sticker Slab | somebody | Boston 2018
 Sticker Slab | tarik (Foil) | Cluj-Napoca 2015
 Sticker Slab | tarik | MLG Columbus 2016
 Sticker Slab | Winstrike Team (Foil) | London 2018
@@ -867,7 +844,8 @@ Sticker Slab | s1mple (Gold) | London 2018
 Sticker Slab | Brehze | Katowice 2019
 Sticker Slab | kennyS (Gold) | Katowice 2019
 Sticker Slab | BnTeT (Gold) | Berlin 2019
-Sticker Slab | FASHR | Rio 2022
+Sticker Slab | HObbit | Stockholm 2021
+Sticker Slab | tabseN | Rio 2022
 Sticker Slab | boltz (Holo) | Rio 2022
 Sticker Slab | roeJ (Gold) | Rio 2022
 Sticker Slab | mir | Copenhagen 2024
@@ -906,28 +884,30 @@ Sticker Slab | James | Cologne 2015
 Sticker Slab | KRIMZ (Foil) | Boston 2018
 Sticker Slab | KRIMZ (Foil) | Cluj-Napoca 2015
 Sticker Slab | KRIMZ (Foil) | MLG Columbus 2016
+Sticker Slab | Kaze (Foil) | Boston 2018
+Sticker Slab | Keyd Stars (Foil) | Katowice 2015
 Sticker Slab | Kjaerbye (Foil) | Atlanta 2017
 Sticker Slab | Kjaerbye (Foil) | Boston 2018
 Sticker Slab | Kvik (Gold) | Boston 2018
 Sticker Slab | Lekr0 (Foil) | Boston 2018
 Sticker Slab | Magisk (Foil) | Atlanta 2017
 Sticker Slab | Maikelele (Foil) | Cluj-Napoca 2015
+Sticker Slab | NAF (Foil) | Boston 2018
 Sticker Slab | NAF | Cologne 2016
 Sticker Slab | NBK- (Foil) | Cologne 2015
 Sticker Slab | NBK- (Foil) | Krakow 2017
 Sticker Slab | NBK- (Foil) | MLG Columbus 2016
 Sticker Slab | NBK- (Gold) | Krakow 2017
-Sticker Slab | NEO (Gold) | Krakow 2017
-Sticker Slab | NEO | Cologne 2015
 Sticker Slab | NEO | Cologne 2016
 Sticker Slab | Natus Vincere (Foil) | Atlanta 2017
 Sticker Slab | Ninjas in Pyjamas (Foil) | DreamHack 2014
 Sticker Slab | Ninjas in Pyjamas | Katowice 2014
 Sticker Slab | North (Foil) | Atlanta 2017
 Sticker Slab | OpTic Gaming (Foil) | Cologne 2016
+Sticker Slab | Professor_Chaos | MLG Columbus 2016
 Sticker Slab | Renegades (Holo) | Boston 2018
-Sticker Slab | RpK | Boston 2018
 Sticker Slab | ScreaM (Foil) | Boston 2018
+Sticker Slab | ScreaM (Gold) | Boston 2018
 Sticker Slab | Skadoodle (Foil) | Cluj-Napoca 2015
 Sticker Slab | Skadoodle (Gold) | Boston 2018
 Sticker Slab | Skadoodle (Gold) | Krakow 2017
@@ -937,6 +917,7 @@ Sticker Slab | Spiidi | MLG Columbus 2016
 Sticker Slab | Stewie2K (Gold) | Boston 2018
 Sticker Slab | Stewie2K (Gold) | Krakow 2017
 Sticker Slab | Stewie2K | Boston 2018
+Sticker Slab | Stewie2K | MLG Columbus 2016
 Sticker Slab | TACO (Foil) | MLG Columbus 2016
 Sticker Slab | TaZ (Foil) | Cologne 2015
 Sticker Slab | Titan (Holo) | Katowice 2014
@@ -944,12 +925,12 @@ Sticker Slab | WorldEdit | Krakow 2017
 Sticker Slab | Xyp9x (Foil) | Cluj-Napoca 2015
 Sticker Slab | Zero (Foil) | Atlanta 2017
 Sticker Slab | Zeus | Atlanta 2017
-Sticker Slab | allu (Foil) | Cologne 2015
 Sticker Slab | apEX (Foil) | Atlanta 2017
 Sticker Slab | bodyy (Foil) | Boston 2018
 Sticker Slab | boltz (Foil) | Cologne 2015
 Sticker Slab | buster (Foil) | Boston 2018
 Sticker Slab | byali | Cologne 2016
+Sticker Slab | cajunb (Foil) | Atlanta 2017
 Sticker Slab | cajunb (Foil) | MLG Columbus 2016
 Sticker Slab | chrisJ (Foil) | Krakow 2017
 Sticker Slab | chrisJ (Gold) | Krakow 2017
@@ -966,6 +947,7 @@ Sticker Slab | fer (Gold) | Boston 2018
 Sticker Slab | fer (Gold) | Krakow 2017
 Sticker Slab | fer | Boston 2018
 Sticker Slab | fer | Cluj-Napoca 2015
+Sticker Slab | flamie (Foil) | Atlanta 2017
 Sticker Slab | flamie | Cologne 2016
 Sticker Slab | flusha (Foil) | MLG Columbus 2016
 Sticker Slab | fox (Foil) | Cluj-Napoca 2015
@@ -997,9 +979,9 @@ Sticker Slab | pashaBiceps (Foil) | Cluj-Napoca 2015
 Sticker Slab | pashaBiceps (Gold) | Boston 2018
 Sticker Slab | pashaBiceps (Gold) | Krakow 2017
 Sticker Slab | peet (Foil) | Cologne 2015
-Sticker Slab | rallen (Foil) | Cologne 2015
 Sticker Slab | reltuC (Foil) | Cluj-Napoca 2015
 Sticker Slab | reltuC (Foil) | Cologne 2015
+Sticker Slab | reltuC (Foil) | MLG Columbus 2016
 Sticker Slab | seang@res | Cluj-Napoca 2015
 Sticker Slab | seized (Foil) | Cluj-Napoca 2015
 Sticker Slab | seized (Foil) | Cologne 2015
@@ -1012,13 +994,11 @@ Sticker Slab | stanislaw | Atlanta 2017
 Sticker Slab | tarik (Foil) | Atlanta 2017
 Sticker Slab | tarik | Cologne 2015
 Sticker Slab | v4lde (Foil) | Boston 2018
-Sticker Slab | yam (Foil) | Cologne 2015
 Sticker Slab | zehN (Gold) | Boston 2018
 Sticker Slab | iBUYPOWER (Holo) | Katowice 2014
 Sticker Slab | xccurate | London 2018
 Sticker Slab | waterfaLLZ | London 2018
 Sticker Slab | GeT_RiGhT | London 2018
-Sticker Slab | dennis | London 2018
 Sticker Slab | ANGE1 (Foil) | London 2018
 Sticker Slab | ShahZaM (Foil) | London 2018
 Sticker Slab | jkaem (Foil) | London 2018
@@ -1026,7 +1006,6 @@ Sticker Slab | BnTeT (Foil) | London 2018
 Sticker Slab | chopper (Foil) | London 2018
 Sticker Slab | yay (Foil) | London 2018
 Sticker Slab | nex (Foil) | London 2018
-Sticker Slab | olofmeister (Foil) | London 2018
 Sticker Slab | Renegades (Foil) | London 2018
 Sticker Slab | HellRaisers (Foil) | London 2018
 Sticker Slab | dupreeh | London 2018
@@ -1077,16 +1056,15 @@ Sticker Slab | Stewie2K (Gold) | Katowice 2019
 Sticker Slab | TACO (Gold) | Katowice 2019
 Sticker Slab | malta (Gold) | Katowice 2019
 Sticker Slab | sdy (Gold) | Katowice 2019
-Sticker Slab | sterling (Gold) | Katowice 2019
 Sticker Slab | tiziaN (Gold) | Katowice 2019
 Sticker Slab | apEX (Gold) | Katowice 2019
+Sticker Slab | autimatic (Gold) | Katowice 2019
 Sticker Slab | Aerial (Gold) | Katowice 2019
 Sticker Slab | allu (Gold) | Katowice 2019
 Sticker Slab | fer | Berlin 2019
 Sticker Slab | MIBR | Berlin 2019
 Sticker Slab | Aerial | Berlin 2019
 Sticker Slab | Aleksib (Foil) | Berlin 2019
-Sticker Slab | BnTeT | Berlin 2019
 Sticker Slab | ALEX (Gold) | Berlin 2019
 Sticker Slab | shox (Gold) | Berlin 2019
 Sticker Slab | ShahZaM (Foil) | Berlin 2019
@@ -1097,6 +1075,7 @@ Sticker Slab | NAF (Gold) | Berlin 2019
 Sticker Slab | nitr0 (Gold) | Berlin 2019
 Sticker Slab | Sico (Gold) | Berlin 2019
 Sticker Slab | almazer (Gold) | Berlin 2019
+Sticker Slab | CeRq (Gold) | Berlin 2019
 Sticker Slab | DeStiNy (Gold) | Berlin 2019
 Sticker Slab | FL1T (Gold) | Berlin 2019
 Sticker Slab | qikert (Gold) | Berlin 2019
@@ -1111,6 +1090,7 @@ Sticker Slab | nin9 (Gold) | Antwerp 2022
 Sticker Slab | sico (Holo) | Antwerp 2022
 Sticker Slab | sk0R (Gold) | Antwerp 2022
 Sticker Slab | xfl0ud (Gold) | Antwerp 2022
+Sticker Slab | Calyx (Gold) | Antwerp 2022
 Sticker Slab | broky | Rio 2022
 Sticker Slab | REZ | Rio 2022
 Sticker Slab | Brollan | Rio 2022
@@ -1124,7 +1104,6 @@ Sticker Slab | sdy (Holo) | Rio 2022
 Sticker Slab | Snappi (Holo) | Rio 2022
 Sticker Slab | Hobbit (Holo) | Rio 2022
 Sticker Slab | jabbi (Gold) | Rio 2022
-Sticker Slab | Jame (Holo) | Rio 2022
 Sticker Slab | SunPayus (Holo) | Rio 2022
 Sticker Slab | Dycha (Holo) | Rio 2022
 Sticker Slab | Dycha (Gold) | Rio 2022
@@ -1135,10 +1114,8 @@ Sticker Slab | Liazz (Gold) | Rio 2022
 Sticker Slab | xertioN (Gold) | Rio 2022
 Sticker Slab | interz (Gold) | Rio 2022
 Sticker Slab | dgt (Gold) | Rio 2022
-Sticker Slab | yuurih (Gold) | Rio 2022
 Sticker Slab | fame (Holo, Champion) | Rio 2022
 Sticker Slab | biguzera (Gold) | Paris 2023
-Sticker Slab | felps | Copenhagen 2024
 Sticker Slab | Techno4K (Holo) | Copenhagen 2024
 Sticker Slab | volt | Copenhagen 2024
 Sticker Slab | Kylar (Holo) | Copenhagen 2024
@@ -1219,14 +1196,13 @@ Sticker Slab | MSL (Foil) | Cologne 2016
 Sticker Slab | Maikelele (Foil) | MLG Columbus 2016
 Sticker Slab | Maniac (Foil) | Cologne 2015
 Sticker Slab | NBK- (Foil) | Atlanta 2017
-Sticker Slab | NBK- (Foil) | Boston 2018
 Sticker Slab | NBK- (Foil) | Cluj-Napoca 2015
 Sticker Slab | NBK- (Foil) | Cologne 2016
 Sticker Slab | NBK- | Atlanta 2017
 Sticker Slab | NBK- | Cluj-Napoca 2015
 Sticker Slab | NEO | Atlanta 2017
+Sticker Slab | NEO | Cologne 2015
 Sticker Slab | NEO | MLG Columbus 2016
-Sticker Slab | Natus Vincere (Foil) | Cluj-Napoca 2015
 Sticker Slab | Natus Vincere | Katowice 2014
 Sticker Slab | North (Foil) | Krakow 2017
 Sticker Slab | North (Holo) | Boston 2018
@@ -1269,7 +1245,6 @@ Sticker Slab | TaZ (Foil) | Cluj-Napoca 2015
 Sticker Slab | TaZ (Foil) | Cologne 2016
 Sticker Slab | TaZ | Cluj-Napoca 2015
 Sticker Slab | TaZ | Cologne 2015
-Sticker Slab | TaZ | MLG Columbus 2016
 Sticker Slab | Team EnVyUs (Holo) | Boston 2018
 Sticker Slab | Team EnVyUs | Cologne 2016
 Sticker Slab | Team Liquid (Foil) | Cluj-Napoca 2015
@@ -1290,6 +1265,7 @@ Sticker Slab | abE | MLG Columbus 2016
 Sticker Slab | aizy (Foil) | Atlanta 2017
 Sticker Slab | aizy (Foil) | MLG Columbus 2016
 Sticker Slab | aizy | MLG Columbus 2016
+Sticker Slab | allu (Foil) | Cologne 2015
 Sticker Slab | allu (Foil) | Krakow 2017
 Sticker Slab | allu | Cluj-Napoca 2015
 Sticker Slab | allu | Cologne 2015
@@ -1312,6 +1288,7 @@ Sticker Slab | cajunb (Foil) | Krakow 2017
 Sticker Slab | chrisJ (Foil) | Cluj-Napoca 2015
 Sticker Slab | coldzera (Foil) | Cluj-Napoca 2015
 Sticker Slab | coldzera (Foil) | MLG Columbus 2016
+Sticker Slab | coldzera | Cologne 2015
 Sticker Slab | denis (Foil) | Boston 2018
 Sticker Slab | denis (Foil) | Cologne 2015
 Sticker Slab | denis | MLG Columbus 2016
@@ -1370,8 +1347,10 @@ Sticker Slab | pashaBiceps | Boston 2018
 Sticker Slab | pashaBiceps | Cluj-Napoca 2015
 Sticker Slab | pashaBiceps | Cologne 2015
 Sticker Slab | pashaBiceps | Cologne 2016
+Sticker Slab | peet (Foil) | Cluj-Napoca 2015
 Sticker Slab | pyth | Cologne 2016
 Sticker Slab | pyth | MLG Columbus 2016
+Sticker Slab | rallen (Foil) | Cologne 2015
 Sticker Slab | seang@res (Foil) | Cluj-Napoca 2015
 Sticker Slab | seang@res (Foil) | Cologne 2015
 Sticker Slab | seized (Foil) | MLG Columbus 2016
@@ -1386,6 +1365,7 @@ Sticker Slab | wayLander | Atlanta 2017
 Sticker Slab | wayLander | Krakow 2017
 Sticker Slab | wayLander | MLG Columbus 2016
 Sticker Slab | xms (Foil) | Boston 2018
+Sticker Slab | yam (Foil) | Cologne 2015
 Sticker Slab | zehN (Foil) | Boston 2018
 Sticker Slab | znajder | Atlanta 2017
 Sticker Slab | Ex6TenZ (Foil) | MLG Columbus 2016
@@ -1407,6 +1387,7 @@ Sticker Slab | North (Holo) | London 2018
 Sticker Slab | Xyp9x (Foil) | London 2018
 Sticker Slab | Natus Vincere (Foil) | London 2018
 Sticker Slab | Cloud9 (Holo) | London 2018
+Sticker Slab | dennis | London 2018
 Sticker Slab | Snappi (Foil) | London 2018
 Sticker Slab | dephh | London 2018
 Sticker Slab | Lekr0 | London 2018
@@ -1563,13 +1544,12 @@ Sticker Slab | shox (Gold) | Stockholm 2021
 Sticker Slab | Imperial Esports | Antwerp 2022
 Sticker Slab | G2 Esports | Antwerp 2022
 Sticker Slab | Zyphon | Antwerp 2022
-Sticker Slab | forZe eSports | Antwerp 2022
 Sticker Slab | chelo | Antwerp 2022
 Sticker Slab | FalleN | Antwerp 2022
 Sticker Slab | Tuurtle (Holo) | Antwerp 2022
 Sticker Slab | blameF | Antwerp 2022
-Sticker Slab | ZywOo (Glitter) | Antwerp 2022
 Sticker Slab | tiziaN | Antwerp 2022
+Sticker Slab | faveN (Glitter) | Antwerp 2022
 Sticker Slab | Brollan (Holo) | Antwerp 2022
 Sticker Slab | dav1d (Glitter) | Antwerp 2022
 Sticker Slab | tabseN (Glitter) | Antwerp 2022
@@ -1647,21 +1627,19 @@ Sticker Slab | NEOFRAG (Gold) | Rio 2022
 Sticker Slab | mezii (Gold) | Rio 2022
 Sticker Slab | HexT (Gold) | Rio 2022
 Sticker Slab | fame (Gold) | Rio 2022
+Sticker Slab | yuurih (Gold) | Rio 2022
 Sticker Slab | Techno4K (Gold) | Rio 2022
 Sticker Slab | acoR (Gold) | Rio 2022
 Sticker Slab | bLitz (Gold) | Rio 2022
 Sticker Slab | bLitz (Glitter) | Paris 2023
 Sticker Slab | acoR | Paris 2023
-Sticker Slab | KRIMZ | Paris 2023
 Sticker Slab | FlameZ | Paris 2023
 Sticker Slab | broky (Glitter) | Paris 2023
 Sticker Slab | KEi (Glitter) | Paris 2023
-Sticker Slab | NEOFRAG | Paris 2023
 Sticker Slab | Goofy (Glitter) | Paris 2023
 Sticker Slab | Lucaozy (Glitter) | Paris 2023
 Sticker Slab | shalfey (Glitter) | Paris 2023
 Sticker Slab | gxx- (Glitter) | Paris 2023
-Sticker Slab | npl (Holo) | Paris 2023
 Sticker Slab | shalfey (Holo) | Paris 2023
 Sticker Slab | Liazz (Glitter) | Paris 2023
 Sticker Slab | saffee (Glitter) | Paris 2023
@@ -1670,14 +1648,12 @@ Sticker Slab | sinnopsyy (Glitter) | Paris 2023
 Sticker Slab | mynio (Glitter) | Paris 2023
 Sticker Slab | v$m (Glitter) | Paris 2023
 Sticker Slab | YEKINDAR (Glitter) | Paris 2023
-Sticker Slab | felps (Gold) | Paris 2023
 Sticker Slab | mynio (Holo) | Paris 2023
 Sticker Slab | acoR (Holo) | Paris 2023
 Sticker Slab | stavn (Gold) | Paris 2023
 Sticker Slab | Thomas (Gold) | Paris 2023
 Sticker Slab | hardzao (Gold) | Paris 2023
 Sticker Slab | mynio (Gold) | Paris 2023
-Sticker Slab | shalfey (Gold) | Paris 2023
 Sticker Slab | Lucaozy (Gold) | Paris 2023
 Sticker Slab | HEN1 | Copenhagen 2024
 Sticker Slab | decenty (Glitter) | Copenhagen 2024
@@ -1698,7 +1674,7 @@ Sticker Slab | Boombl4 | Copenhagen 2024
 Sticker Slab | Boombl4 (Holo) | Copenhagen 2024
 Sticker Slab | FL1T (Gold) | Copenhagen 2024
 Sticker Slab | Perfecto (Glitter) | Copenhagen 2024
-Sticker Slab | XANTARES (Glitter) | Copenhagen 2024
+Sticker Slab | MAJ3R (Holo) | Copenhagen 2024
 Sticker Slab | electronic (Holo) | Copenhagen 2024
 Sticker Slab | Snax (Holo) | Copenhagen 2024
 Sticker Slab | roman (Glitter) | Copenhagen 2024
@@ -1708,6 +1684,7 @@ Sticker Slab | kyxsan (Gold) | Copenhagen 2024
 Sticker Slab | roman (Gold) | Copenhagen 2024
 Sticker Slab | electronic (Gold) | Copenhagen 2024
 Sticker Slab | Dycha (Holo) | Copenhagen 2024
+Sticker Slab | Hobbit (Holo) | Copenhagen 2024
 Sticker Slab | ewjerkz (Gold) | Copenhagen 2024
 Sticker Slab | sjuush (Gold) | Copenhagen 2024
 Sticker Slab | yuurih (Gold) | Copenhagen 2024
@@ -1750,7 +1727,6 @@ Sticker Slab | fame (Gold) | Shanghai 2024
 Sticker Slab | rigoN (Gold) | Shanghai 2024
 Sticker Slab | tabseN (Gold) | Shanghai 2024
 Sticker Slab | floppy (Gold) | Shanghai 2024
-Sticker Slab | JT (Holo) | Austin 2025
 Sticker Slab | Grim (Foil) | Austin 2025
 Sticker Slab | Night Lords 1
 Sticker Slab | TRY | Austin 2025
@@ -1758,6 +1734,7 @@ Sticker Slab | SunPayus (Holo) | Austin 2025
 Sticker Slab | hallzerk (Holo) | Austin 2025
 Sticker Slab | jeorge (Foil) | Austin 2025
 Sticker Slab | hampus (Foil) | Austin 2025
+Sticker Slab | Swisher (Foil) | Austin 2025
 Sticker Slab | nicx (Foil) | Austin 2025
 Sticker Slab | fame (Foil) | Austin 2025
 Sticker Slab | Liazz (Foil) | Austin 2025
@@ -1787,7 +1764,6 @@ Sticker Slab | Necron Glyphs
 Sticker Slab | zorte (Gold) | Austin 2025
 Sticker Slab | Death Guard 1
 Sticker Slab | Harlequins 2
-Sticker Slab | latto (Holo) | Austin 2025
 Sticker Slab | FL4MUS (Gold) | Austin 2025
 Sticker Slab | controlez (Holo) | Austin 2025
 Sticker Slab | efire (Holo) | Austin 2025
@@ -1795,11 +1771,9 @@ Sticker Slab | Grim (Holo) | Austin 2025
 Sticker Slab | br0 (Gold) | Austin 2025
 Sticker Slab | nettik | Budapest 2025
 Sticker Slab | slaxz- | Budapest 2025
-Sticker Slab | chelo | Budapest 2025
 Sticker Slab | jambo (Holo) | Budapest 2025
 Sticker Slab | brnz4n (Holo) | Budapest 2025
 Sticker Slab | Swisher (Embroidered) | Budapest 2025
-Sticker Slab | bodyy (Holo) | Budapest 2025
 Sticker Slab | nicx (Embroidered) | Budapest 2025
 Sticker Slab | broky (Embroidered) | Budapest 2025
 Sticker Slab | arT (Gold) | Budapest 2025
@@ -1819,17 +1793,14 @@ Sticker Slab | TRY (Embroidered) | Budapest 2025
 Sticker Slab | Tiger (Gold) | Budapest 2025
 Sticker Slab | ewjerkz (Holo) | Budapest 2025
 Sticker Slab | MAJ3R (Gold) | Budapest 2025
-Sticker Slab | s1n (Holo) | Budapest 2025
 Sticker Slab | decenty (Gold) | Budapest 2025
 Sticker Slab | Kursy (Gold) | Budapest 2025
-Sticker Slab | noway (Gold) | Budapest 2025
 Sticker Slab | Bart4k (Holo) | Budapest 2025
 Sticker Slab | esenthial (Holo) | Budapest 2025
 Sticker Slab | dumau (Holo) | Budapest 2025
 Sticker Slab | XotiC (Holo) | Budapest 2025
 Sticker Slab | lux (Holo) | Budapest 2025
 Sticker Slab | L1haNg (Gold) | Budapest 2025
-Sticker Slab | r1nkle (Gold) | Budapest 2025
 Sticker Slab | r1nkle (Holo) | Budapest 2025
 Sticker Slab | kensizor (Gold) | Budapest 2025
 Sticker Slab | Tauson (Gold) | Budapest 2025
@@ -1851,7 +1822,6 @@ Sticker Slab | AZR | Boston 2018
 Sticker Slab | AdreN (Foil) | Atlanta 2017
 Sticker Slab | AdreN (Gold) | Krakow 2017
 Sticker Slab | AmaNEk | Boston 2018
-Sticker Slab | Astralis (Holo) | Atlanta 2017
 Sticker Slab | Astralis (Holo) | Boston 2018
 Sticker Slab | Attacker (Foil) | Boston 2018
 Sticker Slab | Attacker | Boston 2018
@@ -1862,7 +1832,6 @@ Sticker Slab | B1ad3 | Cluj-Napoca 2015
 Sticker Slab | B1ad3 | Cologne 2015
 Sticker Slab | BIG | Boston 2018
 Sticker Slab | BnTeT (Gold) | Boston 2018
-Sticker Slab | Bravado Gaming | DreamHack 2014
 Sticker Slab | Calyx (Foil) | Boston 2018
 Sticker Slab | Calyx | Boston 2018
 Sticker Slab | Clan-Mystik (Holo) | Katowice 2014
@@ -1870,7 +1839,6 @@ Sticker Slab | Clan-Mystik | Katowice 2014
 Sticker Slab | Cloud9 (Foil) | Krakow 2017
 Sticker Slab | Cloud9 (Holo) | DreamHack 2014
 Sticker Slab | Cloud9 G2A (Foil) | Cologne 2015
-Sticker Slab | Countdown (Foil)
 Sticker Slab | Counter Logic Gaming (Holo) | Katowice 2015
 Sticker Slab | Counter Logic Gaming | Cologne 2015
 Sticker Slab | DD (Gold) | Boston 2018
@@ -1888,7 +1856,6 @@ Sticker Slab | EliGE (Foil) | Boston 2018
 Sticker Slab | EliGE (Foil) | Cluj-Napoca 2015
 Sticker Slab | EliGE | Atlanta 2017
 Sticker Slab | EliGE | Cluj-Napoca 2015
-Sticker Slab | EliGE | MLG Columbus 2016
 Sticker Slab | Ex6TenZ (Foil) | Cluj-Napoca 2015
 Sticker Slab | Ex6TenZ | Cologne 2015
 Sticker Slab | FaZe Clan (Foil) | Boston 2018
@@ -1975,6 +1942,7 @@ Sticker Slab | NBK- | Boston 2018
 Sticker Slab | NEO (Foil) | Boston 2018
 Sticker Slab | NEO (Foil) | Cologne 2015
 Sticker Slab | NEO (Foil) | MLG Columbus 2016
+Sticker Slab | NEO (Gold) | Krakow 2017
 Sticker Slab | NEO | Boston 2018
 Sticker Slab | NEO | Krakow 2017
 Sticker Slab | Natus Vincere (Foil) | Boston 2018
@@ -2096,7 +2064,6 @@ Sticker Slab | dennis (Foil) | Cologne 2016
 Sticker Slab | dennis | Cologne 2016
 Sticker Slab | dennis | Krakow 2017
 Sticker Slab | device (Foil) | Cluj-Napoca 2015
-Sticker Slab | device (Foil) | Cologne 2015
 Sticker Slab | device (Foil) | Cologne 2016
 Sticker Slab | device (Gold) | Krakow 2017
 Sticker Slab | device | Atlanta 2017
@@ -2106,7 +2073,6 @@ Sticker Slab | dimasick | Boston 2018
 Sticker Slab | dupreeh (Foil) | Cluj-Napoca 2015
 Sticker Slab | dupreeh (Foil) | Cologne 2016
 Sticker Slab | dupreeh (Foil) | MLG Columbus 2016
-Sticker Slab | dupreeh (Gold) | Boston 2018
 Sticker Slab | dupreeh | Boston 2018
 Sticker Slab | dupreeh | Krakow 2017
 Sticker Slab | electronic (Foil) | Atlanta 2017
@@ -2140,13 +2106,13 @@ Sticker Slab | gob b | Krakow 2017
 Sticker Slab | hazed (Foil) | Cologne 2015
 Sticker Slab | hutji (Foil) | Krakow 2017
 Sticker Slab | hutji (Gold) | Krakow 2017
+Sticker Slab | hutji | Boston 2018
 Sticker Slab | hutji | Krakow 2017
 Sticker Slab | iBUYPOWER | Katowice 2014
 Sticker Slab | innocent (Gold) | Krakow 2017
 Sticker Slab | innocent | Boston 2018
 Sticker Slab | jR (Foil) | Krakow 2017
 Sticker Slab | jR | Krakow 2017
-Sticker Slab | jdm64 (Foil) | Cluj-Napoca 2015
 Sticker Slab | jdm64 (Foil) | MLG Columbus 2016
 Sticker Slab | jdm64 | Atlanta 2017
 Sticker Slab | jkaem (Foil) | Cologne 2016
@@ -2176,6 +2142,7 @@ Sticker Slab | kennyS | MLG Columbus 2016
 Sticker Slab | keshandr (Gold) | Boston 2018
 Sticker Slab | keshandr (Gold) | Krakow 2017
 Sticker Slab | kioShiMa (Foil) | Cologne 2015
+Sticker Slab | kioShiMa | Atlanta 2017
 Sticker Slab | koosta (Foil) | Cologne 2016
 Sticker Slab | loWel | Krakow 2017
 Sticker Slab | markeloff (Foil) | Atlanta 2017
@@ -2231,7 +2198,6 @@ Sticker Slab | shox (Foil) | Cluj-Napoca 2015
 Sticker Slab | shox (Foil) | Krakow 2017
 Sticker Slab | shox (Foil) | MLG Columbus 2016
 Sticker Slab | shox (Gold) | Krakow 2017
-Sticker Slab | shox | Atlanta 2017
 Sticker Slab | shox | Boston 2018
 Sticker Slab | shox | Cologne 2015
 Sticker Slab | shroud (Foil) | Cluj-Napoca 2015
@@ -2245,7 +2211,6 @@ Sticker Slab | suNny (Gold) | Krakow 2017
 Sticker Slab | suNny | Boston 2018
 Sticker Slab | suNny | Krakow 2017
 Sticker Slab | tabseN (Gold) | Krakow 2017
-Sticker Slab | tabseN | Boston 2018
 Sticker Slab | tabseN | Krakow 2017
 Sticker Slab | tarik (Foil) | Cologne 2015
 Sticker Slab | tarik (Foil) | Cologne 2016
@@ -2259,7 +2224,6 @@ Sticker Slab | zehN | Boston 2018
 Sticker Slab | zehN | Krakow 2017
 Sticker Slab | DD | London 2018
 Sticker Slab | ANDROID | London 2018
-Sticker Slab | XANTARES | London 2018
 Sticker Slab | device | London 2018
 Sticker Slab | Skadoodle | London 2018
 Sticker Slab | fer | London 2018
@@ -2278,7 +2242,6 @@ Sticker Slab | Edward (Foil) | London 2018
 Sticker Slab | flusha | London 2018
 Sticker Slab | SicK | London 2018
 Sticker Slab | gade | London 2018
-Sticker Slab | captainMo (Foil) | London 2018
 Sticker Slab | Hiko (Foil) | London 2018
 Sticker Slab | Hobbit | London 2018
 Sticker Slab | Snax | London 2018
@@ -2288,6 +2251,7 @@ Sticker Slab | AdreN | London 2018
 Sticker Slab | Ex6TenZ (Foil) | London 2018
 Sticker Slab | Kvik | London 2018
 Sticker Slab | GuardiaN (Foil) | London 2018
+Sticker Slab | olofmeister (Foil) | London 2018
 Sticker Slab | JUGi (Foil) | London 2018
 Sticker Slab | Natus Vincere (Holo) | London 2018
 Sticker Slab | draken (Foil) | London 2018
@@ -2408,7 +2372,6 @@ Sticker Slab | kioShiMa | Katowice 2019
 Sticker Slab | xccurate | Katowice 2019
 Sticker Slab | GuardiaN | Katowice 2019
 Sticker Slab | arT | Katowice 2019
-Sticker Slab | flusha | Katowice 2019
 Sticker Slab | bodyy (Foil) | Katowice 2019
 Sticker Slab | NAF | Katowice 2019
 Sticker Slab | REZ | Katowice 2019
@@ -2471,7 +2434,6 @@ Sticker Slab | ableJ (Foil) | Katowice 2019
 Sticker Slab | xccurate (Gold) | Katowice 2019
 Sticker Slab | DavCost (Foil) | Katowice 2019
 Sticker Slab | Attacker (Gold) | Katowice 2019
-Sticker Slab | Dima (Gold) | Katowice 2019
 Sticker Slab | GeT_RiGhT (Gold) | Katowice 2019
 Sticker Slab | ISSAA (Gold) | Katowice 2019
 Sticker Slab | JaCkz (Gold) | Katowice 2019
@@ -2484,6 +2446,7 @@ Sticker Slab | jkaem (Gold) | Katowice 2019
 Sticker Slab | jks (Gold) | Katowice 2019
 Sticker Slab | olofmeister (Gold) | Katowice 2019
 Sticker Slab | qikert (Gold) | Katowice 2019
+Sticker Slab | sterling (Gold) | Katowice 2019
 Sticker Slab | gob b (Gold) | Katowice 2019
 Sticker Slab | crush (Gold) | Katowice 2019
 Sticker Slab | KRIMZ (Gold) | Katowice 2019
@@ -2522,7 +2485,6 @@ Sticker Slab | ottoNd | Berlin 2019
 Sticker Slab | speed4k | Berlin 2019
 Sticker Slab | FL1T | Berlin 2019
 Sticker Slab | somebody | Berlin 2019
-Sticker Slab | buster (Foil) | Berlin 2019
 Sticker Slab | Lekr0 (Foil) | Berlin 2019
 Sticker Slab | gla1ve | Berlin 2019
 Sticker Slab | Aleksib (Gold) | Berlin 2019
@@ -2532,6 +2494,7 @@ Sticker Slab | dephh | Berlin 2019
 Sticker Slab | CeRq | Berlin 2019
 Sticker Slab | aizy (Foil) | Berlin 2019
 Sticker Slab | VINI | Berlin 2019
+Sticker Slab | BnTeT | Berlin 2019
 Sticker Slab | dephh (Foil) | Berlin 2019
 Sticker Slab | svyat | Berlin 2019
 Sticker Slab | arT (Foil) | Berlin 2019
@@ -2539,6 +2502,7 @@ Sticker Slab | chrisJ (Foil) | Berlin 2019
 Sticker Slab | ENCE | Berlin 2019
 Sticker Slab | Sico (Foil) | Berlin 2019
 Sticker Slab | Brehze (Foil) | Berlin 2019
+Sticker Slab | Vitality | Berlin 2019
 Sticker Slab | JUGi (Foil) | Berlin 2019
 Sticker Slab | EliGE (Gold) | Berlin 2019
 Sticker Slab | JaCkz (Foil) | Berlin 2019
@@ -2550,7 +2514,6 @@ Sticker Slab | xsepower (Foil) | Berlin 2019
 Sticker Slab | device (Gold) | Berlin 2019
 Sticker Slab | DeStiNy (Foil) | Berlin 2019
 Sticker Slab | compLexity Gaming | Berlin 2019
-Sticker Slab | DreamEaters | Berlin 2019
 Sticker Slab | Grayhound Gaming | Berlin 2019
 Sticker Slab | NRG | Berlin 2019
 Sticker Slab | VINI (Foil) | Berlin 2019
@@ -2576,7 +2539,6 @@ Sticker Slab | kinqie (Gold) | Berlin 2019
 Sticker Slab | somebody (Gold) | Berlin 2019
 Sticker Slab | AdreN (Gold) | Berlin 2019
 Sticker Slab | RpK (Gold) | Berlin 2019
-Sticker Slab | Magisk (Gold) | Berlin 2019
 Sticker Slab | ottoNd (Gold) | Berlin 2019
 Sticker Slab | JaCkz (Gold) | Berlin 2019
 Sticker Slab | karrigan (Gold) | Berlin 2019
@@ -2588,7 +2550,6 @@ Sticker Slab | SANJI (Gold) | Berlin 2019
 Sticker Slab | aizy (Gold) | Berlin 2019
 Sticker Slab | v4lde (Gold) | Berlin 2019
 Sticker Slab | nexa (Gold) | Berlin 2019
-Sticker Slab | Blue Gnar
 Sticker Slab | Heroic (Foil) | Stockholm 2021
 Sticker Slab | Heroic (Gold) | Stockholm 2021
 Sticker Slab | Entropiq (Gold) | Stockholm 2021
@@ -2630,7 +2591,6 @@ Sticker Slab | nicoodoz | Antwerp 2022
 Sticker Slab | broky | Antwerp 2022
 Sticker Slab | dycha | Antwerp 2022
 Sticker Slab | chelo (Gold) | Antwerp 2022
-Sticker Slab | syrsoN | Antwerp 2022
 Sticker Slab | cadiaN | Antwerp 2022
 Sticker Slab | Brollan | Antwerp 2022
 Sticker Slab | nicoodoz (Glitter) | Antwerp 2022
@@ -2694,7 +2654,6 @@ Sticker Slab | nin9 | Antwerp 2022
 Sticker Slab | nitr0 | Antwerp 2022
 Sticker Slab | FL1T | Antwerp 2022
 Sticker Slab | WOOD7 (Glitter) | Antwerp 2022
-Sticker Slab | huNter (Holo) | Antwerp 2022
 Sticker Slab | Norwi (Glitter) | Antwerp 2022
 Sticker Slab | refrezh (Holo) | Antwerp 2022
 Sticker Slab | Krimbo (Holo) | Antwerp 2022
@@ -2719,8 +2678,6 @@ Sticker Slab | b1t (Holo) | Antwerp 2022
 Sticker Slab | jabbi (Gold) | Antwerp 2022
 Sticker Slab | HooXi (Holo) | Antwerp 2022
 Sticker Slab | JT (Holo) | Antwerp 2022
-Sticker Slab | ins (Glitter) | Antwerp 2022
-Sticker Slab | Aleksib (Holo) | Antwerp 2022
 Sticker Slab | ropz (Gold) | Antwerp 2022
 Sticker Slab | Spinx (Holo) | Antwerp 2022
 Sticker Slab | gxx- (Gold) | Antwerp 2022
@@ -2734,7 +2691,6 @@ Sticker Slab | Perfecto (Gold) | Antwerp 2022
 Sticker Slab | Snappi (Holo) | Antwerp 2022
 Sticker Slab | Brollan (Gold) | Antwerp 2022
 Sticker Slab | nicoodoz (Holo) | Antwerp 2022
-Sticker Slab | xfl0ud (Glitter) | Antwerp 2022
 Sticker Slab | JaCkz (Holo) | Antwerp 2022
 Sticker Slab | nitr0 (Glitter) | Antwerp 2022
 Sticker Slab | NAF (Glitter) | Antwerp 2022
@@ -2820,7 +2776,6 @@ Sticker Slab | magixx (Glitter) | Rio 2022
 Sticker Slab | TeSeS (Glitter) | Rio 2022
 Sticker Slab | REZ (Glitter) | Rio 2022
 Sticker Slab | Staehr (Holo) | Rio 2022
-Sticker Slab | electronic (Holo) | Rio 2022
 Sticker Slab | broky (Glitter) | Rio 2022
 Sticker Slab | nafany (Glitter) | Rio 2022
 Sticker Slab | vexite | Rio 2022
@@ -2834,6 +2789,7 @@ Sticker Slab | S1ren (Holo) | Rio 2022
 Sticker Slab | stavn (Gold) | Rio 2022
 Sticker Slab | isak (Holo) | Rio 2022
 Sticker Slab | boltz | Rio 2022
+Sticker Slab | FASHR | Rio 2022
 Sticker Slab | n0rb3r7 (Holo) | Rio 2022
 Sticker Slab | Ax1Le (Glitter) | Rio 2022
 Sticker Slab | sh1ro | Rio 2022
@@ -2869,7 +2825,6 @@ Sticker Slab | aliStair (Glitter) | Rio 2022
 Sticker Slab | HexT (Glitter) | Rio 2022
 Sticker Slab | k1to (Glitter) | Rio 2022
 Sticker Slab | bLitz | Rio 2022
-Sticker Slab | cadiaN (Holo) | Rio 2022
 Sticker Slab | tabseN (Holo) | Rio 2022
 Sticker Slab | max (Glitter) | Rio 2022
 Sticker Slab | degster (Glitter) | Rio 2022
@@ -2882,6 +2837,7 @@ Sticker Slab | neaLaN (Glitter) | Rio 2022
 Sticker Slab | n0rb3r7 | Rio 2022
 Sticker Slab | Jame (Gold) | Rio 2022
 Sticker Slab | broky (Gold) | Rio 2022
+Sticker Slab | Jame (Holo) | Rio 2022
 Sticker Slab | Sico (Holo) | Rio 2022
 Sticker Slab | FL1T (Holo) | Rio 2022
 Sticker Slab | Techno4K (Glitter) | Rio 2022
@@ -2934,11 +2890,9 @@ Sticker Slab | KRIMZ (Holo) | Rio 2022
 Sticker Slab | iM (Holo) | Rio 2022
 Sticker Slab | latto (Holo) | Rio 2022
 Sticker Slab | chelo (Holo) | Rio 2022
-Sticker Slab | vexite (Holo) | Rio 2022
 Sticker Slab | Perfecto (Gold) | Rio 2022
 Sticker Slab | sjuush (Gold) | Rio 2022
 Sticker Slab | coldzera (Gold) | Rio 2022
-Sticker Slab | ropz (Gold) | Rio 2022
 Sticker Slab | rain (Gold) | Rio 2022
 Sticker Slab | gxx- (Gold) | Rio 2022
 Sticker Slab | frozen (Gold) | Rio 2022
@@ -2949,7 +2903,6 @@ Sticker Slab | torzsi (Gold) | Rio 2022
 Sticker Slab | dupreeh (Gold) | Rio 2022
 Sticker Slab | drop (Holo) | Rio 2022
 Sticker Slab | siuhy (Gold) | Rio 2022
-Sticker Slab | FlameZ (Gold) | Rio 2022
 Sticker Slab | Techno4K (Holo) | Rio 2022
 Sticker Slab | fame (Holo) | Rio 2022
 Sticker Slab | EliGE | Rio 2022
@@ -2958,8 +2911,6 @@ Sticker Slab | chelo (Gold) | Rio 2022
 Sticker Slab | autimatic (Gold) | Rio 2022
 Sticker Slab | EliGE (Gold) | Rio 2022
 Sticker Slab | JDC (Gold) | Rio 2022
-Sticker Slab | NQZ (Gold) | Rio 2022
-Sticker Slab | qikert (Gold, Champion) | Rio 2022
 Sticker Slab | sdy | Paris 2023
 Sticker Slab | Thomas (Glitter) | Paris 2023
 Sticker Slab | sjuush | Paris 2023
@@ -2970,9 +2921,7 @@ Sticker Slab | jabbi | Paris 2023
 Sticker Slab | DemQQ | Paris 2023
 Sticker Slab | isak | Paris 2023
 Sticker Slab | zorte | Paris 2023
-Sticker Slab | SENER1 | Paris 2023
 Sticker Slab | KRIMZ (Glitter) | Paris 2023
-Sticker Slab | Kylar | Paris 2023
 Sticker Slab | juanflatroo | Paris 2023
 Sticker Slab | dupreeh | Paris 2023
 Sticker Slab | Cypher | Paris 2023
@@ -2990,7 +2939,6 @@ Sticker Slab | dupreeh (Glitter) | Paris 2023
 Sticker Slab | vexite | Paris 2023
 Sticker Slab | isak (Holo) | Paris 2023
 Sticker Slab | ropz | Paris 2023
-Sticker Slab | frozen (Glitter) | Paris 2023
 Sticker Slab | Thomas (Holo) | Paris 2023
 Sticker Slab | sdy (Holo) | Paris 2023
 Sticker Slab | Brollan (Glitter) | Paris 2023
@@ -3018,6 +2966,7 @@ Sticker Slab | salazar | Copenhagen 2024
 Sticker Slab | Patti | Copenhagen 2024
 Sticker Slab | n1ssim | Copenhagen 2024
 Sticker Slab | Techno4K | Copenhagen 2024
+Sticker Slab | felps | Copenhagen 2024
 Sticker Slab | Nodios | Copenhagen 2024
 Sticker Slab | TRAVIS (Glitter) | Copenhagen 2024
 Sticker Slab | xertioN (Glitter) | Copenhagen 2024
@@ -3027,8 +2976,6 @@ Sticker Slab | Spinx (Glitter) | Copenhagen 2024
 Sticker Slab | biguzera (Glitter) | Copenhagen 2024
 Sticker Slab | Jee | Copenhagen 2024
 Sticker Slab | lux | Copenhagen 2024
-Sticker Slab | HEN1 (Glitter) | Copenhagen 2024
-Sticker Slab | Jee (Glitter) | Copenhagen 2024
 Sticker Slab | fame | Copenhagen 2024
 Sticker Slab | Jimpphat (Glitter) | Copenhagen 2024
 Sticker Slab | adamS | Copenhagen 2024
@@ -3041,7 +2988,6 @@ Sticker Slab | nawwk (Glitter) | Copenhagen 2024
 Sticker Slab | dumau (Gold) | Copenhagen 2024
 Sticker Slab | isak (Glitter) | Copenhagen 2024
 Sticker Slab | huNter- | Copenhagen 2024
-Sticker Slab | iM (Glitter) | Copenhagen 2024
 Sticker Slab | CacaNito | Copenhagen 2024
 Sticker Slab | Calyx (Holo) | Copenhagen 2024
 Sticker Slab | roman | Copenhagen 2024
@@ -3058,13 +3004,11 @@ Sticker Slab | Ax1Le | Copenhagen 2024
 Sticker Slab | mir (Glitter) | Copenhagen 2024
 Sticker Slab | siuhy (Holo) | Copenhagen 2024
 Sticker Slab | ewjerkz | Copenhagen 2024
-Sticker Slab | MAJ3R | Copenhagen 2024
 Sticker Slab | hades | Copenhagen 2024
 Sticker Slab | sense | Copenhagen 2024
 Sticker Slab | latto (Gold) | Copenhagen 2024
 Sticker Slab | fame (Glitter) | Copenhagen 2024
 Sticker Slab | Jee (Holo) | Copenhagen 2024
-Sticker Slab | Ax1Le (Glitter) | Copenhagen 2024
 Sticker Slab | NEKiZ (Gold) | Copenhagen 2024
 Sticker Slab | nicoodoz | Copenhagen 2024
 Sticker Slab | woxic | Copenhagen 2024
@@ -3082,12 +3026,10 @@ Sticker Slab | bLitz (Gold) | Copenhagen 2024
 Sticker Slab | Kylar (Glitter) | Copenhagen 2024
 Sticker Slab | yuurih | Copenhagen 2024
 Sticker Slab | NertZ (Glitter) | Copenhagen 2024
-Sticker Slab | westmelon (Gold) | Copenhagen 2024
 Sticker Slab | Calyx (Gold) | Copenhagen 2024
 Sticker Slab | biguzera (Gold) | Copenhagen 2024
 Sticker Slab | STYKO (Glitter) | Copenhagen 2024
 Sticker Slab | JT (Gold) | Copenhagen 2024
-Sticker Slab | adamS (Gold) | Copenhagen 2024
 Sticker Slab | Dycha (Glitter) | Copenhagen 2024
 Sticker Slab | STYKO (Holo) | Copenhagen 2024
 Sticker Slab | sense (Holo) | Copenhagen 2024
@@ -3110,7 +3052,6 @@ Sticker Slab | jkaem (Gold) | Copenhagen 2024
 Sticker Slab | acoR (Gold) | Copenhagen 2024
 Sticker Slab | volt (Gold) | Copenhagen 2024
 Sticker Slab | nawwk (Gold) | Copenhagen 2024
-Sticker Slab | NertZ | Shanghai 2024
 Sticker Slab | Jimpphat | Shanghai 2024
 Sticker Slab | jambo | Shanghai 2024
 Sticker Slab | sjuush (Glitter) | Shanghai 2024
@@ -3148,7 +3089,6 @@ Sticker Slab | Summer | Shanghai 2024
 Sticker Slab | NQZ | Shanghai 2024
 Sticker Slab | 910 | Shanghai 2024
 Sticker Slab | jackasmo | Shanghai 2024
-Sticker Slab | KSCERATO | Shanghai 2024
 Sticker Slab | VINI (Glitter) | Shanghai 2024
 Sticker Slab | syrsoN | Shanghai 2024
 Sticker Slab | floppy | Shanghai 2024
@@ -3205,7 +3145,6 @@ Sticker Slab | NAF (Holo) | Shanghai 2024
 Sticker Slab | L1haNg (Holo) | Shanghai 2024
 Sticker Slab | drop (Gold) | Shanghai 2024
 Sticker Slab | yuurih (Glitter) | Shanghai 2024
-Sticker Slab | 910 (Glitter) | Shanghai 2024
 Sticker Slab | tabseN (Glitter) | Shanghai 2024
 Sticker Slab | skullz (Glitter) | Shanghai 2024
 Sticker Slab | felps (Gold) | Shanghai 2024
@@ -3227,7 +3166,6 @@ Sticker Slab | Grim (Holo) | Shanghai 2024
 Sticker Slab | phzy (Gold) | Shanghai 2024
 Sticker Slab | kauez (Gold) | Shanghai 2024
 Sticker Slab | Krimbo (Gold) | Shanghai 2024
-Sticker Slab | mzinho (Gold) | Shanghai 2024
 Sticker Slab | Techno4K (Gold) | Shanghai 2024
 Sticker Slab | chelo (Holo) | Shanghai 2024
 Sticker Slab | Krimbo (Holo) | Shanghai 2024
@@ -3314,9 +3252,7 @@ Sticker Slab | mlhzin (Holo) | Austin 2025
 Sticker Slab | chayJESUS (Foil) | Austin 2025
 Sticker Slab | dumau | Austin 2025
 Sticker Slab | F1KU (Foil) | Austin 2025
-Sticker Slab | Tyranids 2
 Sticker Slab | npl (Holo) | Austin 2025
-Sticker Slab | z4KR (Foil) | Austin 2025
 Sticker Slab | s1n (Foil) | Austin 2025
 Sticker Slab | controlez (Foil) | Austin 2025
 Sticker Slab | spooke (Holo) | Austin 2025
@@ -3333,16 +3269,13 @@ Sticker Slab | adamb (Gold) | Austin 2025
 Sticker Slab | n1ssim (Holo) | Austin 2025
 Sticker Slab | INS (Holo) | Austin 2025
 Sticker Slab | alex666 (Foil) | Austin 2025
-Sticker Slab | tN1R (Holo) | Austin 2025
 Sticker Slab | bodyy (Gold) | Austin 2025
 Sticker Slab | Moseyuh (Holo) | Austin 2025
 Sticker Slab | z4KR (Holo) | Austin 2025
 Sticker Slab | Lucaozy (Gold) | Austin 2025
 Sticker Slab | hampus (Holo) | Austin 2025
 Sticker Slab | Plopski (Gold) | Austin 2025
-Sticker Slab | Death Guard 2
 Sticker Slab | Chr1zN (Holo) | Austin 2025
-Sticker Slab | karrigan (Gold) | Austin 2025
 Sticker Slab | saadzin (Gold) | Austin 2025
 Sticker Slab | susp (Gold) | Austin 2025
 Sticker Slab | Magnojez (Holo) | Austin 2025

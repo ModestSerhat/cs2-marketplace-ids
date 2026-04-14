@@ -146,19 +146,15 @@ Souvenir AUG | Condemned (Factory New)
 ★ StatTrak™ Classic Knife | Crimson Web (Factory New)
 ★ StatTrak™ Survival Knife | Ultraviolet (Factory New)
 Souvenir Charm | Budapest 2025 Highlight | xertioN vs FaZe on Nuke
-Souvenir Charm | Budapest 2025 Highlight | jcobbb entry force
 
 IDs of items known to be missing on buff.market:
 ★ Sport Gloves | Frosty (Factory New)
-★ Driver Gloves | Brocade Crane (Factory New)
-★ Driver Gloves | Garden (Factory New)
 ★ Sport Gloves | Red Racer (Factory New)
 ★ Driver Gloves | Dragon Fists (Factory New)
 ★ Specialist Gloves | Big Swell (Factory New)
 ★ Sport Gloves | Ultra Violent (Factory New)
 ★ Driver Gloves | Plum Quill (Factory New)
 ★ Specialist Gloves | Sunburst (Factory New)
-★ Driver Gloves | Wave Chaser (Factory New)
 ★ Driver Gloves | Brocade Flowers (Factory New)
 ★ Specialist Gloves | Blackbook (Factory New)
 ★ Driver Gloves | Seigaiha (Factory New)
