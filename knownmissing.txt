@@ -152,7 +152,6 @@ IDs of items known to be missing on buff.market:
 ★ Sport Gloves | Red Racer (Factory New)
 ★ Driver Gloves | Dragon Fists (Factory New)
 ★ Specialist Gloves | Big Swell (Factory New)
-★ Sport Gloves | Ultra Violent (Factory New)
 ★ Driver Gloves | Plum Quill (Factory New)
 ★ Specialist Gloves | Sunburst (Factory New)
 ★ Driver Gloves | Brocade Flowers (Factory New)
