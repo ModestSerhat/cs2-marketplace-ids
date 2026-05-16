@@ -145,7 +145,3 @@ Souvenir AUG | Condemned (Factory New)
 ★ StatTrak™ Classic Knife | Crimson Web (Factory New)
 ★ StatTrak™ Survival Knife | Ultraviolet (Factory New)
 Souvenir Charm | Budapest 2025 Highlight | xertioN vs FaZe on Nuke
-
-IDs of items known to be missing on buff.market:
-★ Sport Gloves | Frosty (Factory New)
-★ Driver Gloves | Plum Quill (Factory New)
