@@ -1,5 +1,4 @@
-﻿IDs of items known to be missing on cs.money marketplace:
-Atlanta 2017 Challengers (Holo-Foil)
+﻿Atlanta 2017 Challengers (Holo-Foil)
 Atlanta 2017 Legends (Holo-Foil)
 Boston 2018 Attending Legends (Holo-Foil)
 Boston 2018 Legends (Holo-Foil)
@@ -15,145 +14,22 @@ Krakow 2017 Challengers (Holo-Foil)
 Krakow 2017 Legends (Holo-Foil)
 MLG Columbus 2016 Challengers (Holo-Foil)
 MLG Columbus 2016 Legends (Holo-Foil)
-Sticker | Dosia (Gold) | Boston 2018
-Sticker | Happy (Gold) | Boston 2018
-Sticker | Harp of War (Holo)
-Sticker | King on the Field
-Sticker | Kvik (Gold) | Boston 2018
-Sticker | LEGIJA (Gold) | Krakow 2017
-Sticker | Lekr0 (Foil) | Atlanta 2017
-Sticker | MAJ3R (Gold) | Boston 2018
-Sticker | NAF (Foil) | Atlanta 2017
-Sticker | NAF (Gold) | Boston 2018
-Sticker | SIXER (Foil) | Atlanta 2017
-Sticker | Spiidi (Foil) | Cologne 2016
-Sticker | Stewie2K (Gold) | Krakow 2017
-Sticker | aizy (Foil) | Atlanta 2017
-Sticker | aizy (Gold) | Boston 2018
-Sticker | apEX (Gold) | Krakow 2017
-Sticker | balblna (Gold) | Boston 2018
-Sticker | buster (Gold) | Boston 2018
-Sticker | cajunb (Gold) | Krakow 2017
-Sticker | chopper (Gold) | Krakow 2017
-Sticker | chrisJ (Gold) | Krakow 2017
-Sticker | dupreeh (Gold) | Krakow 2017
-Sticker | jR (Gold) | Krakow 2017
-Sticker | keshandr (Gold) | Krakow 2017
-Sticker | markeloff (Gold) | Krakow 2017
-Sticker | rain (Gold) | Krakow 2017
-Sticker | seized (Gold) | Krakow 2017
-Sticker | stanislaw (Gold) | Boston 2018
-Sticker | suNny (Gold) | Krakow 2017
-Sticker | znajder (Foil) | Atlanta 2017
-★ Bayonet | Doppler (Factory New)
-★ Bayonet | Doppler (Minimal Wear)
-★ Bayonet | Gamma Doppler (Factory New)
-★ Bayonet | Gamma Doppler (Minimal Wear)
-★ Bowie Knife | Doppler (Factory New)
-★ Bowie Knife | Doppler (Minimal Wear)
-★ Butterfly Knife | Doppler (Factory New)
-★ Falchion Knife | Doppler (Factory New)
-★ Falchion Knife | Doppler (Minimal Wear)
-★ Flip Knife | Doppler (Factory New)
-★ Flip Knife | Doppler (Minimal Wear)
-★ Flip Knife | Gamma Doppler (Factory New)
-★ Flip Knife | Gamma Doppler (Minimal Wear)
-★ Gut Knife | Doppler (Factory New)
-★ Gut Knife | Doppler (Minimal Wear)
-★ Gut Knife | Gamma Doppler (Factory New)
-★ Gut Knife | Gamma Doppler (Minimal Wear)
-★ Huntsman Knife | Doppler (Factory New)
-★ Huntsman Knife | Doppler (Minimal Wear)
-★ Karambit | Doppler (Factory New)
-★ Karambit | Doppler (Minimal Wear)
-★ Karambit | Gamma Doppler (Factory New)
-★ Karambit | Gamma Doppler (Minimal Wear)
-★ M9 Bayonet | Doppler (Factory New)
-★ M9 Bayonet | Doppler (Minimal Wear)
-★ M9 Bayonet | Gamma Doppler (Factory New)
-★ Shadow Daggers | Doppler (Factory New)
-★ Shadow Daggers | Doppler (Minimal Wear)
-★ StatTrak™ Bayonet | Doppler (Factory New)
-★ StatTrak™ Bayonet | Gamma Doppler (Factory New)
-★ StatTrak™ Bayonet | Gamma Doppler (Minimal Wear)
-★ StatTrak™ Bowie Knife | Doppler (Factory New)
-★ StatTrak™ Bowie Knife | Doppler (Minimal Wear)
-★ StatTrak™ Butterfly Knife | Doppler (Factory New)
-★ StatTrak™ Falchion Knife | Doppler (Factory New)
-★ StatTrak™ Flip Knife | Doppler (Factory New)
 ★ StatTrak™ Flip Knife | Doppler (Minimal Wear)
-★ StatTrak™ Flip Knife | Gamma Doppler (Factory New)
-★ StatTrak™ Flip Knife | Gamma Doppler (Minimal Wear)
-★ StatTrak™ Gut Knife | Doppler (Factory New)
-★ StatTrak™ Gut Knife | Doppler (Minimal Wear)
-★ StatTrak™ Gut Knife | Gamma Doppler (Factory New)
-★ StatTrak™ Huntsman Knife | Doppler (Factory New)
-★ StatTrak™ Huntsman Knife | Doppler (Minimal Wear)
-★ StatTrak™ Karambit | Doppler (Factory New)
-★ StatTrak™ Karambit | Doppler (Minimal Wear)
-★ StatTrak™ Karambit | Gamma Doppler (Factory New)
-★ StatTrak™ M9 Bayonet | Doppler (Factory New)
-★ StatTrak™ M9 Bayonet | Doppler (Minimal Wear)
-★ StatTrak™ M9 Bayonet | Gamma Doppler (Factory New)
-★ StatTrak™ Shadow Daggers | Doppler (Factory New)
-★ StatTrak™ Shadow Daggers | Doppler (Minimal Wear)
-★ StatTrak™ Gut Knife | Gamma Doppler (Minimal Wear)
-★ Butterfly Knife | Doppler (Minimal Wear)
-★ M9 Bayonet | Gamma Doppler (Minimal Wear)
-★ StatTrak™ Falchion Knife | Doppler (Minimal Wear)
-★ StatTrak™ Butterfly Knife | Doppler (Minimal Wear)
 ★ StatTrak™ Karambit | Gamma Doppler (Minimal Wear)
-★ StatTrak™ Falchion Knife | Boreal Forest (Factory New)
-★ StatTrak™ Shadow Daggers | Stained (Factory New)
-★ StatTrak™ Gut Knife | Forest DDPAT (Factory New)
 London 2018 Minor Challengers (Holo-Foil)
 London 2018 Legends (Holo-Foil)
 London 2018 Returning Challengers (Holo-Foil)
-Sticker | bondik (Gold) | London 2018
-Sticker | SicK (Gold) | London 2018
 Katowice 2019 Legends (Holo-Foil)
 Katowice 2019 Returning Challengers (Holo-Foil)
 Katowice 2019 Minor Challengers (Holo-Foil)
-★ Ursus Knife | Doppler (Factory New)
-★ Stiletto Knife | Doppler (Factory New)
-★ Navaja Knife | Doppler (Factory New)
-★ Talon Knife | Doppler (Factory New)
-★ Talon Knife | Doppler (Minimal Wear)
-★ Stiletto Knife | Doppler (Minimal Wear)
-★ Ursus Knife | Doppler (Minimal Wear)
-★ StatTrak™ Stiletto Knife | Doppler (Factory New)
-★ StatTrak™ Ursus Knife | Doppler (Factory New)
-★ StatTrak™ Navaja Knife | Doppler (Factory New)
-★ StatTrak™ Talon Knife | Doppler (Factory New)
-★ StatTrak™ Ursus Knife | Doppler (Minimal Wear)
-★ StatTrak™ Navaja Knife | Doppler (Minimal Wear)
-★ Navaja Knife | Doppler (Minimal Wear)
-★ StatTrak™ Stiletto Knife | Doppler (Minimal Wear)
-★ StatTrak™ Talon Knife | Doppler (Minimal Wear)
-Chicken Capsule
-Berlin 2019 Legends Autograph Capsule
-Berlin 2019 Minor Challengers Autograph Capsule
-Berlin 2019 Returning Challengers Autograph Capsule
 Berlin 2019 Legends (Holo-Foil)
 Berlin 2019 Minor Challengers (Holo-Foil)
 Berlin 2019 Returning Challengers (Holo-Foil)
-CS20 Case
-CS20 Sticker Capsule
-MAC-10 | Classic Crate (Well-Worn)
-Shattered Web Case
-Sealed Graffiti | Uh Oh (Battle Green)
 ★ StatTrak™ Paracord Knife | Crimson Web (Factory New)
-★ StatTrak™ Paracord Knife | Urban Masked (Factory New)
 ★ Skeleton Knife | Boreal Forest (Factory New)
 ★ StatTrak™ Skeleton Knife | Urban Masked (Factory New)
-★ StatTrak™ Stiletto Knife | Night Stripe (Factory New)
 ★ StatTrak™ Nomad Knife | Blue Steel (Factory New)
 ★ Skeleton Knife | Scorched (Factory New)
-Half-Life: Alyx Collectible Pins Capsule
-Half-Life: Alyx Sticker Capsule
-Half-Life: Alyx Patch Pack
-★ StatTrak™ Classic Knife | Safari Mesh (Factory New)
-Warhammer 40,000 Sticker Capsule
 ★ Paracord Knife | Safari Mesh (Factory New)
 ★ StatTrak™ Bayonet | Ultraviolet (Factory New)
 Fracture Case
