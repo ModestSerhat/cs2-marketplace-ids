@@ -7,8 +7,10 @@ Some known missing items (including stickers from the IEM Cologne 2026 Major), D
 Some stickers and patches can have other Sticker/Patch ID-Name pairs on buff163 with the name being the same that have a lower quantity of listings of the same kind of sticker applied (e.g. Rush 4x20 (Holo), CRUC1AL | Paris 2023)<br>
 
 ## Features to be added
-* Sticker Name-ID and Phase/Tag Name-ID pairs for:
+* Phase/Tag Name-ID pairs for:
     - [buff.market](https://buff.market/)
+* Doppler/Gamma Doppler Phase Name ID pairs for:
+    - [cs.money](https://cs.money/)
 
 ## Contact
 

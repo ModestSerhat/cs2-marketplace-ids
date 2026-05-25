@@ -728,7 +728,7 @@ Sticker Slab | Sharks Esports (Gold) | Cologne 2026
 Sticker Slab | Gaimin Gladiators (Gold) | Cologne 2026
 Sticker Slab | Lynn Vision (Holo) | Cologne 2026
 Sticker Slab | Lynn Vision (Gold) | Cologne 2026
-Sticker Slab | THUNDER dOWNUNDER (Gold) | Cologne 2026
+Sticker Slab | THUNDERdOWNUNDER (Gold) | Cologne 2026
 Sticker Slab | FlyQuest (Gold) | Cologne 2026
 Sticker Slab | IEM (Gold) | Cologne 2026
 Sticker Slab | mezii (Gold) | Cologne 2026
@@ -921,9 +921,10 @@ Sticker Slab | roeJ (Gold) | Rio 2022
 Sticker Slab | Sico (Gold) | Rio 2022
 Sticker Slab | blameF (Holo) | Shanghai 2024
 Sticker Slab | 9z Team (Holo) | Cologne 2026
+Sticker Slab | THUNDERdOWNUNDER | Cologne 2026
+Sticker Slab | THUNDERdOWNUNDER (Foil) | Cologne 2026
+Sticker Slab | THUNDERdOWNUNDER (Holo) | Cologne 2026
 Sticker Slab | molodoy (Foil) | Cologne 2026
-Sticker Slab | Zero (Foil) | Cologne 2026
-Sticker Slab | Zero (Holo) | Cologne 2026
 Sticker Slab | C4LLM3SU3 (Gold) | Cologne 2026
 Sticker Slab | jks | Cologne 2026
 Sticker Slab | jks (Gold) | Cologne 2026
@@ -1962,9 +1963,6 @@ Sticker Slab | Team Liquid (Holo) | Cologne 2026
 Sticker Slab | Team Liquid (Gold) | Cologne 2026
 Sticker Slab | Lynn Vision | Cologne 2026
 Sticker Slab | Lynn Vision (Foil) | Cologne 2026
-Sticker Slab | THUNDER dOWNUNDER | Cologne 2026
-Sticker Slab | THUNDER dOWNUNDER (Foil) | Cologne 2026
-Sticker Slab | THUNDER dOWNUNDER (Holo) | Cologne 2026
 Sticker Slab | FlyQuest | Cologne 2026
 Sticker Slab | FlyQuest (Foil) | Cologne 2026
 Sticker Slab | FlyQuest (Holo) | Cologne 2026
@@ -2337,6 +2335,8 @@ Sticker Slab | Moseyuh | Cologne 2026
 Sticker Slab | Moseyuh (Foil) | Cologne 2026
 Sticker Slab | Moseyuh (Holo) | Cologne 2026
 Sticker Slab | Zero | Cologne 2026
+Sticker Slab | Zero (Foil) | Cologne 2026
+Sticker Slab | Zero (Holo) | Cologne 2026
 Sticker Slab | gafolo | Cologne 2026
 Sticker Slab | gafolo (Foil) | Cologne 2026
 Sticker Slab | gafolo (Holo) | Cologne 2026
