@@ -35,29 +35,19 @@ Tag IDs of Marble Fade Fire & Ice tiers known to be missing on buff163:
 
 IDs of items known to be missing on all four marketplaces (buff163, youpin898, buff.market, cs.money):
 Sticker | BIG (Gold) | Cologne 2026
-Sticker | Gaimin Gladiators (Gold) | Cologne 2026
 Sticker | THUNDERdOWNUNDER (Gold) | Cologne 2026
 Sticker | MAJ3R (Foil) | Cologne 2026
-Sticker | woxic (Foil) | Cologne 2026
-Sticker | dziugss (Foil) | Cologne 2026
-Sticker | phzy (Foil) | Cologne 2026
 Sticker | NQZ (Foil) | Cologne 2026
 Sticker | piriajr (Foil) | Cologne 2026
 Sticker | Rainwaker (Gold) | Cologne 2026
 Sticker | afro (Gold) | Cologne 2026
 Sticker | Gizmy (Gold) | Cologne 2026
-Sticker | meyern (Foil) | Cologne 2026
 Sticker | Snax (Gold) | Cologne 2026
-Sticker | kensizor (Foil) | Cologne 2026
 Sticker | Chr1zN (Foil) | Cologne 2026
 Sticker | tabseN (Foil) | Cologne 2026
 Sticker | tabseN (Gold) | Cologne 2026
 Sticker | faveN (Foil) | Cologne 2026
-Sticker | blameF (Foil) | Cologne 2026
-Sticker | gr1ks (Foil) | Cologne 2026
 Sticker | s1n (Gold) | Cologne 2026
-Sticker | LNZ (Foil) | Cologne 2026
-Sticker | venomzera (Foil) | Cologne 2026
 Sticker | venomzera (Gold) | Cologne 2026
 Sticker | beastik (Foil) | Cologne 2026
 Sticker | beastik (Gold) | Cologne 2026
@@ -66,9 +56,7 @@ Sticker | kisserek (Foil) | Cologne 2026
 Sticker | stressarN (Foil) | Cologne 2026
 Sticker | br0 (Gold) | Cologne 2026
 Sticker | rdnzao (Gold) | Cologne 2026
-Sticker | HEN1 (Foil) | Cologne 2026
 Sticker | HEN1 (Gold) | Cologne 2026
-Sticker | felps (Foil) | Cologne 2026
 Sticker | NEKiZ (Foil) | Cologne 2026
 Sticker | aliStair (Gold) | Cologne 2026
 Sticker | asap (Gold) | Cologne 2026
@@ -76,11 +64,10 @@ Sticker | INS (Gold) | Cologne 2026
 
 IDs of items known to be missing on buff163:
 Sticker | NAF (Gold) | Cologne 2026
-Sticker | BetBoom (Gold) | Cologne 2026
 Sticker | Sharks Esports (Gold) | Cologne 2026
 Sticker | esenthial (Foil) | Cologne 2026
-Sticker | Wicadia (Foil) | Cologne 2026
 Sticker | luken (Gold) | Cologne 2026
+Sticker | phzy (Foil) | Cologne 2026
 
 IDs of items known to be missing on youpin898:
 Souvenir Galil AR | Sage Spray (Factory New)
@@ -197,14 +184,11 @@ Sticker | Sinners (Gold) | Cologne 2026
 Sticker | Astralis (Gold) | Cologne 2026
 Sticker | NertZ (Foil) | Cologne 2026
 Sticker | kl1m (Foil) | Cologne 2026
-Sticker | dgt | Cologne 2026
 Sticker | Snax (Foil) | Cologne 2026
 Sticker | woxic (Gold) | Cologne 2026
 Sticker | AZUWU | Cologne 2026
-Sticker | Heavygod (Foil) | Cologne 2026
 ★ StatTrak™ Ursus Knife | Boreal Forest (Factory New)
 Sticker | SHOCK (Foil) | Cologne 2026
-Sticker | xfl0ud (Foil) | Cologne 2026
 Sticker | v$m (Gold) | Cologne 2026
 Sticker | SHOCK | Cologne 2026
 Sticker | tabseN | Cologne 2026
@@ -216,13 +200,11 @@ Sticker | Brollan (Gold) | Cologne 2026
 Sticker | HUASOPEEK (Gold) | Cologne 2026
 Sticker | S1ren (Gold) | Cologne 2026
 Sticker | dexter (Gold) | Cologne 2026
-Sticker | blameF | Cologne 2026
 Sticker | zorte (Gold) | Cologne 2026
 Sticker | susp (Gold) | Cologne 2026
 Sticker | xfl0ud (Gold) | Cologne 2026
 Sticker | Aurora (Gold) | Cologne 2026
 Sticker | kisserek (Gold) | Cologne 2026
-Sticker | kensizor | Cologne 2026
 Sticker | piriajr | Cologne 2026
 Sticker | biguzera | Cologne 2026
 Sticker | NQZ | Cologne 2026
@@ -231,23 +213,19 @@ Sticker | AZUWU (Gold) | Cologne 2026
 Sticker | Techno4K (Foil) | Cologne 2026
 Sticker | gr1ks (Gold) | Cologne 2026
 Sticker | torzsi (Foil) | Cologne 2026
-Sticker | woxic | Cologne 2026
 Sticker | SINNERS (Gold) | Cologne 2026
 Sticker | HUASOPEEK (Foil) | Cologne 2026
 Sticker | SINNERS (Holo) | Cologne 2026
 Sticker | yuurih (Foil) | Cologne 2026
 Sticker | Grim | Cologne 2026
-Sticker | MAJ3R | Cologne 2026
 Sticker | v$m (Foil) | Cologne 2026
 Sticker | Swisher (Gold) | Cologne 2026
-Sticker | Gizmy | Cologne 2026
 Sticker | bLitz (Foil) | Cologne 2026
 Sticker | SunPayus (Foil) | Cologne 2026
 Sticker | Staehr (Gold) | Cologne 2026
 Sticker | n1ssim (Foil) | Cologne 2026
 Sticker | luken (Foil) | Cologne 2026
 Sticker | THUNDERdOWNUNDER (Foil) | Cologne 2026
-Sticker | esenthial | Cologne 2026
 Sticker | SINNERS | Cologne 2026
 Sticker | snow (Foil) | Cologne 2026
 Sticker | dgt (Foil) | Cologne 2026
@@ -272,6 +250,16 @@ Sticker | soulfly | Cologne 2026
 Sticker | gr1ks | Cologne 2026
 Sticker | susp (Foil) | Cologne 2026
 Sticker | ryu (Foil) | Cologne 2026
+Sticker | gr1ks (Foil) | Cologne 2026
+Sticker | dziugss (Foil) | Cologne 2026
+Sticker | blameF (Foil) | Cologne 2026
+Sticker | meyern (Foil) | Cologne 2026
+Sticker | woxic (Foil) | Cologne 2026
+Sticker | LNZ (Foil) | Cologne 2026
+Sticker | felps (Foil) | Cologne 2026
+Sticker | HEN1 (Foil) | Cologne 2026
+Sticker | Gaimin Gladiators (Gold) | Cologne 2026
+Sticker | venomzera (Foil) | Cologne 2026
 
 IDs of items known to be missing on buff.market:
 Sticker | Starry (Gold) | Cologne 2026
@@ -286,11 +274,10 @@ Sticker | vexite (Gold) | Cologne 2026
 Sticker | koala (Foil) | Cologne 2026
 Sticker | SINNERS (Gold) | Cologne 2026
 Sticker | NAF (Gold) | Cologne 2026
-Sticker | BetBoom (Gold) | Cologne 2026
 Sticker | Sharks Esports (Gold) | Cologne 2026
 Sticker | esenthial (Foil) | Cologne 2026
-Sticker | Wicadia (Foil) | Cologne 2026
 Sticker | luken (Gold) | Cologne 2026
+Sticker | phzy (Foil) | Cologne 2026
 
 IDs of items known to be missing on cs.money:
 Boston 2018 Legends (Holo-Foil)
@@ -2119,9 +2106,21 @@ Sticker | G2 esports (Gold) | Cologne 2026
 Sticker | ryu (Foil) | Cologne 2026
 Sticker | snow (Gold) | Cologne 2026
 Sticker | soulfly (Foil) | Cologne 2026
-Sticker | NAF (Gold) | Cologne 2026
+Sticker | Wicadia (Foil) | Cologne 2026
+Sticker | gr1ks (Foil) | Cologne 2026
 Sticker | BetBoom (Gold) | Cologne 2026
+Sticker | dziugss (Foil) | Cologne 2026
+Sticker | kensizor (Foil) | Cologne 2026
+Sticker | blameF (Foil) | Cologne 2026
+Sticker | meyern (Foil) | Cologne 2026
+Sticker | woxic (Foil) | Cologne 2026
+Sticker | LNZ (Foil) | Cologne 2026
+Sticker | felps (Foil) | Cologne 2026
+Sticker | HEN1 (Foil) | Cologne 2026
+Sticker | Gaimin Gladiators (Gold) | Cologne 2026
+Sticker | venomzera (Foil) | Cologne 2026
+Sticker | NAF (Gold) | Cologne 2026
 Sticker | Sharks Esports (Gold) | Cologne 2026
 Sticker | esenthial (Foil) | Cologne 2026
-Sticker | Wicadia (Foil) | Cologne 2026
 Sticker | luken (Gold) | Cologne 2026
+Sticker | phzy (Foil) | Cologne 2026
