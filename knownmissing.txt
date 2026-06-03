@@ -33,22 +33,14 @@ IDs of items known to be missing on all four marketplaces (buff163, youpin898, b
 Sticker | BIG (Gold) | Cologne 2026
 Sticker | Rainwaker (Gold) | Cologne 2026
 Sticker | afro (Gold) | Cologne 2026
-Sticker | Snax (Gold) | Cologne 2026
 Sticker | tabseN (Foil) | Cologne 2026
 Sticker | tabseN (Gold) | Cologne 2026
-Sticker | s1n (Gold) | Cologne 2026
-Sticker | beastik (Gold) | Cologne 2026
 Sticker | SHOCK (Gold) | Cologne 2026
-Sticker | HEN1 (Gold) | Cologne 2026
-Sticker | asap (Gold) | Cologne 2026
 Sticker | INS (Gold) | Cologne 2026
 
 IDs of items known to be missing on buff163:
-Sticker | NAF (Gold) | Cologne 2026
 Sticker | luken (Gold) | Cologne 2026
-Sticker | MAJ3R (Foil) | Cologne 2026
 Sticker | beastik (Foil) | Cologne 2026
-Sticker | kisserek (Foil) | Cologne 2026
 
 IDs of items known to be missing on youpin898:
 Sticker | LUCAS1 (Gold) | Boston 2018
@@ -135,52 +127,41 @@ Sticker | Sinners (Gold) | Cologne 2026
 Sticker | Astralis (Gold) | Cologne 2026
 Sticker | Snax (Foil) | Cologne 2026
 Sticker | woxic (Gold) | Cologne 2026
-Sticker | AZUWU | Cologne 2026
 ★ StatTrak™ Ursus Knife | Boreal Forest (Factory New)
 Sticker | v$m (Gold) | Cologne 2026
 Sticker | MAJ3R (Gold) | Cologne 2026
 Sticker | HUASOPEEK (Gold) | Cologne 2026
 Sticker | S1ren (Gold) | Cologne 2026
 Sticker | dexter (Gold) | Cologne 2026
-Sticker | susp (Gold) | Cologne 2026
-Sticker | kisserek (Gold) | Cologne 2026
 Sticker | slaxz- (Gold) | Cologne 2026
 Sticker | AZUWU (Gold) | Cologne 2026
-Sticker | Techno4K (Foil) | Cologne 2026
-Sticker | gr1ks (Gold) | Cologne 2026
 Sticker | SINNERS (Gold) | Cologne 2026
 Sticker | HUASOPEEK (Foil) | Cologne 2026
 Sticker | SINNERS (Holo) | Cologne 2026
 Sticker | SINNERS | Cologne 2026
-Sticker | biguzera (Foil) | Cologne 2026
 Sticker | nitr0 (Gold) | Cologne 2026
 Sticker | faveN (Gold) | Cologne 2026
 Sticker | gafolo (Gold) | Cologne 2026
 Sticker | SINNERS (Foil) | Cologne 2026
 Sticker | koala (Gold) | Cologne 2026
-Sticker | blameF (Foil) | Cologne 2026
-Sticker | meyern (Foil) | Cologne 2026
 Sticker | Gaimin Gladiators (Gold) | Cologne 2026
-Sticker | Gizmy (Gold) | Cologne 2026
 Sticker | rdnzao (Gold) | Cologne 2026
 Sticker | venomzera (Gold) | Cologne 2026
 Sticker | aliStair (Gold) | Cologne 2026
 Sticker | THUNDERdOWNUNDER (Gold) | Cologne 2026
 Sticker | br0 (Gold) | Cologne 2026
+Sticker | HEN1 (Gold) | Cologne 2026
+Sticker | Snax (Gold) | Cologne 2026
+Sticker | s1n (Gold) | Cologne 2026
+Sticker | beastik (Gold) | Cologne 2026
 
 IDs of items known to be missing on buff.market:
-Sticker | westmelon | Cologne 2026
 Sticker | Brollan | Cologne 2026
-Sticker | Spinx | Cologne 2026
 Sticker | vexite (Gold) | Cologne 2026
 ★ StatTrak™ Ursus Knife | Boreal Forest (Factory New)
-Sticker | koala (Foil) | Cologne 2026
 Sticker | SINNERS (Gold) | Cologne 2026
-Sticker | NAF (Gold) | Cologne 2026
 Sticker | luken (Gold) | Cologne 2026
-Sticker | MAJ3R (Foil) | Cologne 2026
 Sticker | beastik (Foil) | Cologne 2026
-Sticker | kisserek (Foil) | Cologne 2026
 
 IDs of items known to be missing on cs.money:
 Boston 2018 Legends (Holo-Foil)
@@ -2006,8 +1987,13 @@ Sticker | esenthial (Foil) | Cologne 2026
 Sticker | THUNDERdOWNUNDER (Gold) | Cologne 2026
 Sticker | br0 (Gold) | Cologne 2026
 Sticker | Chr1zN (Foil) | Cologne 2026
+Sticker | HEN1 (Gold) | Cologne 2026
+Sticker | Snax (Gold) | Cologne 2026
+Sticker | s1n (Gold) | Cologne 2026
 Sticker | NAF (Gold) | Cologne 2026
-Sticker | luken (Gold) | Cologne 2026
-Sticker | MAJ3R (Foil) | Cologne 2026
-Sticker | beastik (Foil) | Cologne 2026
+Sticker | beastik (Gold) | Cologne 2026
+Sticker | asap (Gold) | Cologne 2026
 Sticker | kisserek (Foil) | Cologne 2026
+Sticker | MAJ3R (Foil) | Cologne 2026
+Sticker | luken (Gold) | Cologne 2026
+Sticker | beastik (Foil) | Cologne 2026
