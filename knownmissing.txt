@@ -33,7 +33,6 @@ IDs of items known to be missing on all four marketplaces (buff163, youpin898, b
 Sticker | BIG (Gold) | Cologne 2026
 Sticker | afro (Gold) | Cologne 2026
 Sticker | SHOCK (Gold) | Cologne 2026
-Sticker | INS (Gold) | Cologne 2026
 
 IDs of items known to be missing on youpin898:
 Sticker | LUCAS1 (Gold) | Boston 2018
@@ -137,9 +136,9 @@ Sticker | Snax (Gold) | Cologne 2026
 Sticker | s1n (Gold) | Cologne 2026
 Sticker | beastik (Gold) | Cologne 2026
 Sticker | Rainwaker (Gold) | Cologne 2026
+Sticker | INS (Gold) | Cologne 2026
 
 IDs of items known to be missing on buff.market:
-★ StatTrak™ Ursus Knife | Boreal Forest (Factory New)
 Sticker | SINNERS (Gold) | Cologne 2026
 
 IDs of items known to be missing on cs.money:
@@ -984,3 +983,4 @@ Sticker | tabseN (Foil) | Cologne 2026
 Sticker | tabseN (Gold) | Cologne 2026
 Sticker | luken (Gold) | Cologne 2026
 Sticker | Rainwaker (Gold) | Cologne 2026
+Sticker | INS (Gold) | Cologne 2026
