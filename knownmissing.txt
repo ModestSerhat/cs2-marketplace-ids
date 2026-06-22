@@ -11,7 +11,6 @@ Phase IDs of Doppler phases known to be missing on buff163:
 ★ StatTrak™ Stiletto Knife | Doppler Black Pearl (Minimal Wear) (0 registered on FloatDB, can be unboxed from a Prisma/Prisma 2 Case)
 ★ StatTrak™ M9 Bayonet | Gamma Doppler Emerald (Minimal Wear) (2 registered on FloatDB, can be unboxed from a Gamma/Gamma 2 Case)
 ★ StatTrak™ Paracord Knife | Doppler Black Pearl (Minimal Wear) (1 registered on FloatDB, Can be unboxed from a Fever Case)
-★ StatTrak™ Paracord Knife | Doppler Phase 1 (Minimal Wear) (5 registered on FloatDB, Can be unboxed from a Fever Case)
 Souvenir Glock-18 | Gamma Doppler Phase 1 (Factory New) (0 registered on FloatDB, Can be made through Cologne 2026 Major Shop)
 Souvenir Glock-18 | Gamma Doppler Phase 2 (Factory New) (1 registered on FloatDB, Can be made through Cologne 2026 Major Shop)
 Souvenir Glock-18 | Gamma Doppler Phase 3 (Factory New) (0 registered on FloatDB, Can be made through Cologne 2026 Major Shop)
@@ -120,25 +119,11 @@ Sticker | kNgV- (Gold) | Boston 2018
 Souvenir Charm | Budapest 2025 Highlight | xertioN vs FaZe on Nuke
 Sticker | Astralis (Gold) | Cologne 2026
 ★ StatTrak™ Ursus Knife | Boreal Forest (Factory New)
-Sticker | v$m (Gold) | Cologne 2026
-Sticker | slaxz- (Gold) | Cologne 2026
 Sticker | AZUWU (Gold) | Cologne 2026
-Sticker | SINNERS (Gold) | Cologne 2026
 Sticker | nitr0 (Gold) | Cologne 2026
-Sticker | gafolo (Gold) | Cologne 2026
-Sticker | koala (Gold) | Cologne 2026
-Sticker | Gaimin Gladiators (Gold) | Cologne 2026
-Sticker | rdnzao (Gold) | Cologne 2026
-Sticker | br0 (Gold) | Cologne 2026
 Sticker | Snax (Gold) | Cologne 2026
-Sticker | s1n (Gold) | Cologne 2026
 Sticker | beastik (Gold) | Cologne 2026
-Sticker | Rainwaker (Gold) | Cologne 2026
-Sticker | INS (Gold) | Cologne 2026
-Sticker | afro (Gold) | Cologne 2026
-
-IDs of items known to be missing on buff.market:
-Sticker | SINNERS (Gold) | Cologne 2026
+Sticker | SHOCK (Gold) | Cologne 2026
 
 IDs of items known to be missing on cs.money:
 Boston 2018 Legends (Holo-Foil)
@@ -855,3 +840,4 @@ Sticker | tabseN (Gold) | Cologne 2026
 Sticker | luken (Gold) | Cologne 2026
 Sticker | INS (Gold) | Cologne 2026
 Sticker | afro (Gold) | Cologne 2026
+Sticker | SHOCK (Gold) | Cologne 2026
