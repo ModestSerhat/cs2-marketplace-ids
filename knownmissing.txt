@@ -1,4 +1,4 @@
-IDs of items known to be missing on all marketplaces (buff163, youpin898, buff.market):
+IDs of items known to be missing on all marketplaces (buff163, youpin898, buff.market, cs.money):
 ★ StatTrak™ Classic Knife | Urban Masked (Factory New) (0 registered on FloatDB, can be unboxed from a CS20 Case)
 
 Phase IDs of Doppler phases known to be missing on buff163:
@@ -34,7 +34,6 @@ Tag IDs of Marble Fade Fire & Ice tiers known to be missing on buff163:
 
 IDs of items known to be missing on all four marketplaces (buff163, youpin898, buff.market, cs.money):
 Sticker | BIG (Gold) | Cologne 2026
-Sticker | SHOCK (Gold) | Cologne 2026
 
 IDs of items known to be missing on youpin898:
 Sticker | LUCAS1 (Gold) | Boston 2018
@@ -119,11 +118,8 @@ Sticker | kNgV- (Gold) | Boston 2018
 Souvenir Charm | Budapest 2025 Highlight | xertioN vs FaZe on Nuke
 Sticker | Astralis (Gold) | Cologne 2026
 ★ StatTrak™ Ursus Knife | Boreal Forest (Factory New)
-Sticker | AZUWU (Gold) | Cologne 2026
-Sticker | nitr0 (Gold) | Cologne 2026
 Sticker | Snax (Gold) | Cologne 2026
 Sticker | beastik (Gold) | Cologne 2026
-Sticker | SHOCK (Gold) | Cologne 2026
 
 IDs of items known to be missing on cs.money:
 Boston 2018 Legends (Holo-Foil)
