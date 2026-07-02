@@ -658,10 +658,7 @@ Sticker Slab | soulfly | Cologne 2026
 Sticker Slab | Wicadia (Gold) | Cologne 2026
 Sticker Slab | dziugss (Gold) | Cologne 2026
 Sticker Slab | jabbi (Gold) | Cologne 2026
-Sticker Slab | Staehr (Gold) | Cologne 2026
-Sticker Slab | arT (Gold) | Cologne 2026
 Sticker Slab | biguzera (Gold) | Cologne 2026
-Sticker Slab | NQZ (Gold) | Cologne 2026
 Sticker Slab | snow (Gold) | Cologne 2026
 Sticker Slab | v$m (Gold) | Cologne 2026
 Sticker Slab | Bymas (Gold) | Cologne 2026
@@ -729,6 +726,7 @@ Sticker Slab | zevy | Paris 2023
 Sticker Slab | blameF (Holo) | Shanghai 2024
 Sticker Slab | kauez (Holo) | Shanghai 2024
 Sticker Slab | Spinx | Cologne 2026
+Sticker Slab | Staehr (Gold) | Cologne 2026
 Sticker Slab | n1ssim (Gold) | Cologne 2026
 Sticker Slab | nilo (Gold) | Cologne 2026
 
@@ -737,7 +735,6 @@ Sticker Slab | 3DMAX | Katowice 2014
 Sticker Slab | Astralis (Foil) | Atlanta 2017
 Sticker Slab | Astralis (Foil) | Krakow 2017
 Sticker Slab | B1ad3 (Foil) | Atlanta 2017
-Sticker Slab | B1ad3 (Foil) | Cologne 2015
 Sticker Slab | B1ad3 (Foil) | Cologne 2016
 Sticker Slab | B1ad3 (Foil) | MLG Columbus 2016
 Sticker Slab | B1ad3 | Atlanta 2017
@@ -1082,7 +1079,6 @@ Sticker Slab | wayLander (Gold) | Boston 2018
 Sticker Slab | wayLander | Atlanta 2017
 Sticker Slab | wayLander | Krakow 2017
 Sticker Slab | wayLander | MLG Columbus 2016
-Sticker Slab | xms (Foil) | Boston 2018
 Sticker Slab | yam (Foil) | Cologne 2015
 Sticker Slab | zehN (Foil) | Boston 2018
 Sticker Slab | znajder | Atlanta 2017
@@ -1616,7 +1612,9 @@ Sticker Slab | cmtry (Gold) | Cologne 2026
 Sticker Slab | ryu (Gold) | Cologne 2026
 Sticker Slab | NertZ (Gold) | Cologne 2026
 Sticker Slab | SunPayus (Gold) | Cologne 2026
+Sticker Slab | arT (Gold) | Cologne 2026
 Sticker Slab | latto (Gold) | Cologne 2026
+Sticker Slab | NQZ (Gold) | Cologne 2026
 Sticker Slab | Rainwaker (Gold) | Cologne 2026
 Sticker Slab | AZUWU (Gold) | Cologne 2026
 Sticker Slab | dgt (Gold) | Cologne 2026
@@ -1650,7 +1648,6 @@ Sticker Slab | MoDo (Gold) | Cologne 2026
 Sticker Slab | kisserek | Cologne 2026
 Sticker Slab | kisserek (Foil) | Cologne 2026
 Sticker Slab | kisserek (Holo) | Cologne 2026
-Sticker Slab | br0 (Holo) | Cologne 2026
 Sticker Slab | br0 (Gold) | Cologne 2026
 Sticker Slab | oSee (Gold) | Cologne 2026
 Sticker Slab | nitr0 (Gold) | Cologne 2026
@@ -1713,6 +1710,7 @@ Sticker Slab | Avangar (Holo) | Boston 2018
 Sticker Slab | Avangar | Boston 2018
 Sticker Slab | Awp Country
 Sticker Slab | B1ad3 (Foil) | Boston 2018
+Sticker Slab | B1ad3 (Foil) | Cologne 2015
 Sticker Slab | B1ad3 (Foil) | Krakow 2017
 Sticker Slab | B1ad3 (Gold) | Boston 2018
 Sticker Slab | B1ad3 | Boston 2018
@@ -3037,6 +3035,7 @@ Sticker Slab | wayLander (Foil) | Boston 2018
 Sticker Slab | wayLander (Foil) | Cologne 2016
 Sticker Slab | wayLander (Foil) | Krakow 2017
 Sticker Slab | wayLander | Boston 2018
+Sticker Slab | xms (Foil) | Boston 2018
 Sticker Slab | xms | Boston 2018
 Sticker Slab | zehN (Foil) | Krakow 2017
 Sticker Slab | zehN (Gold) | Boston 2018
@@ -9438,6 +9437,7 @@ Sticker Slab | Grim | Cologne 2026
 Sticker Slab | Grim (Foil) | Cologne 2026
 Sticker Slab | Grim (Holo) | Cologne 2026
 Sticker Slab | br0 | Cologne 2026
+Sticker Slab | br0 (Holo) | Cologne 2026
 Sticker Slab | oSee | Cologne 2026
 Sticker Slab | oSee (Foil) | Cologne 2026
 Sticker Slab | oSee (Holo) | Cologne 2026
