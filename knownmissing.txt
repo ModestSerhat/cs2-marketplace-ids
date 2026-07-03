@@ -34,7 +34,7 @@ Tag IDs of Marble Fade Fire & Ice tiers known to be missing on buff163:
 ★ StatTrak™ Karambit | Marble Fade (Minimal Wear): 1st, 3rd, 4th, 6th, 7th, 8th, 10th
 ★ Talon Knife | Marble Fade (Minimal Wear): 1st, 4th
 ★ StatTrak™ Talon Knife | Marble Fade (Factory New): 1st
-★ StatTrak™ Talon Knife | Marble Fade (Minimal Wear): 1st, 2nd, 3rd, 5th, 6th, 8th, 9th
+★ StatTrak™ Talon Knife | Marble Fade (Minimal Wear): 1st, 2nd, 3rd, 5th, 6th, 8th
 
 IDs of items known to be missing on youpin898:
 Sticker | LUCAS1 (Gold) | Boston 2018
@@ -791,3 +791,43 @@ Souvenir Charm | Cologne 2026 Highlight | AZUWU Deagle ACE
 Souvenir Charm | Cologne 2026 Highlight | dgt Pistol ACE
 Souvenir Charm | Cologne 2026 Highlight | asap ACE
 Sticker | BIG (Gold) | Cologne 2026
+Sticker | Head In Hands (Glitter)
+Sticker | Assterisk
+Sticker | Big Red Rocket
+Sticker | Explosives
+Sticker | Partyboy
+Sticker | Skull Bunny
+Sticker | Boner Snap (Holo)
+Sticker | Airhorn
+Sticker | Gonna Leave A Mark
+Sticker | Head In Hands
+Jackass Sticker Capsule
+Sticker | Censored
+Sticker | The Magic Trick
+Sticker | Gonna Leave A Mark (Holo)
+Sticker | Airhorn (Glitter)
+Sticker | Jackass
+Sticker | Radiograph
+Sticker | WARNING
+Sticker | Golf Cart
+Sticker | Rocket Skates
+Sticker | Radiograph (Foil)
+Sticker | Boner Snap
+Sticker | Skull Bunny (Glitter)
+Sticker | Radiograph (Holo)
+Sticker | Rocket Skates (Holo)
+Sticker | High Five!
+Sticker | Big Red Rocket (Glitter)
+Sticker | Censored (Foil)
+Sticker | Jackass (Holo)
+Sticker | ZZZAP!
+Sticker | Explosives (Foil)
+Sticker | Electric Avenue (Lenticular)
+Sticker | Poo Cocktail Supreme (Lenticular)
+Sticker | Assterisk (Glitter)
+Sticker | Assterisk (Foil)
+Sticker | WARNING (Foil)
+Sticker | High Five! (Glitter)
+Sticker | The Magic Trick (Glitter)
+Sticker | ZZZAP! (Holo)
+Sticker | Partyboy (Lenticular)

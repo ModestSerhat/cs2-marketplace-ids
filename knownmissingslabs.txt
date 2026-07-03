@@ -73,7 +73,6 @@ Sticker Slab | MSL (Foil) | Boston 2018
 Sticker Slab | MSL (Gold) | Boston 2018
 Sticker Slab | MSL | Cluj-Napoca 2015
 Sticker Slab | MSL | Cologne 2016
-Sticker Slab | Magisk | Atlanta 2017
 Sticker Slab | Maikelele | MLG Columbus 2016
 Sticker Slab | NAF (Foil) | Atlanta 2017
 Sticker Slab | NAF (Foil) | Cologne 2016
@@ -557,7 +556,6 @@ Sticker Slab | faveN (Holo) | Rio 2022
 Sticker Slab | Keoz (Gold) | Rio 2022
 Sticker Slab | Patsi (Gold) | Rio 2022
 Sticker Slab | k1to (Gold) | Rio 2022
-Sticker Slab | Zyphon (Gold) | Rio 2022
 Sticker Slab | dumau (Holo) | Rio 2022
 Sticker Slab | HexT (Holo) | Rio 2022
 Sticker Slab | slaxz- (Gold) | Rio 2022
@@ -642,7 +640,6 @@ Sticker Slab | PARIVISION (Gold) | Cologne 2026
 Sticker Slab | Aurora (Gold) | Cologne 2026
 Sticker Slab | FUT (Gold) | Cologne 2026
 Sticker Slab | paiN Gaming (Gold) | Cologne 2026
-Sticker Slab | Monte (Gold) | Cologne 2026
 Sticker Slab | GamerLegion (Gold) | Cologne 2026
 Sticker Slab | B8 (Gold) | Cologne 2026
 Sticker Slab | BetBoom (Gold) | Cologne 2026
@@ -653,7 +650,6 @@ Sticker Slab | NRG (Gold) | Cologne 2026
 Sticker Slab | Sharks Esports (Gold) | Cologne 2026
 Sticker Slab | Gaimin Gladiators (Gold) | Cologne 2026
 Sticker Slab | Lynn Vision (Gold) | Cologne 2026
-Sticker Slab | mezii (Gold) | Cologne 2026
 Sticker Slab | soulfly | Cologne 2026
 Sticker Slab | Wicadia (Gold) | Cologne 2026
 Sticker Slab | dziugss (Gold) | Cologne 2026
@@ -664,7 +660,6 @@ Sticker Slab | v$m (Gold) | Cologne 2026
 Sticker Slab | Bymas (Gold) | Cologne 2026
 Sticker Slab | afro (Gold) | Cologne 2026
 Sticker Slab | Gizmy (Gold) | Cologne 2026
-Sticker Slab | HUASOPEEK (Gold) | Cologne 2026
 Sticker Slab | Snax (Gold) | Cologne 2026
 Sticker Slab | hypex | Cologne 2026
 Sticker Slab | hypex (Gold) | Cologne 2026
@@ -680,8 +675,6 @@ Sticker Slab | insani (Foil) | Cologne 2026
 Sticker Slab | venomzera (Gold) | Cologne 2026
 Sticker Slab | SHOCK | Cologne 2026
 Sticker Slab | SHOCK (Foil) | Cologne 2026
-Sticker Slab | kisserek (Gold) | Cologne 2026
-Sticker Slab | stressarN (Gold) | Cologne 2026
 Sticker Slab | Grim (Gold) | Cologne 2026
 Sticker Slab | br0 (Foil) | Cologne 2026
 Sticker Slab | Sonic (Gold) | Cologne 2026
@@ -691,6 +684,42 @@ Sticker Slab | doc (Gold) | Cologne 2026
 Sticker Slab | felps (Gold) | Cologne 2026
 Sticker Slab | vexite (Gold) | Cologne 2026
 Sticker Slab | story (Gold) | Cologne 2026
+Sticker Slab | Head In Hands (Glitter)
+Sticker Slab | Assterisk
+Sticker Slab | Big Red Rocket
+Sticker Slab | Explosives
+Sticker Slab | Partyboy
+Sticker Slab | Skull Bunny
+Sticker Slab | Boner Snap (Holo)
+Sticker Slab | Airhorn
+Sticker Slab | Gonna Leave A Mark
+Sticker Slab | Head In Hands
+Sticker Slab | Censored
+Sticker Slab | The Magic Trick
+Sticker Slab | Gonna Leave A Mark (Holo)
+Sticker Slab | Airhorn (Glitter)
+Sticker Slab | Jackass
+Sticker Slab | Radiograph
+Sticker Slab | WARNING
+Sticker Slab | Golf Cart
+Sticker Slab | Rocket Skates
+Sticker Slab | Radiograph (Foil)
+Sticker Slab | Boner Snap
+Sticker Slab | Skull Bunny (Glitter)
+Sticker Slab | Radiograph (Holo)
+Sticker Slab | Rocket Skates (Holo)
+Sticker Slab | High Five!
+Sticker Slab | Big Red Rocket (Glitter)
+Sticker Slab | Censored (Foil)
+Sticker Slab | Jackass (Holo)
+Sticker Slab | ZZZAP!
+Sticker Slab | Explosives (Foil)
+Sticker Slab | Poo Cocktail Supreme (Lenticular)
+Sticker Slab | Assterisk (Glitter)
+Sticker Slab | High Five! (Glitter)
+Sticker Slab | The Magic Trick (Glitter)
+Sticker Slab | ZZZAP! (Holo)
+Sticker Slab | Partyboy (Lenticular)
 
 IDs of sticker slabs known to be missing on buff163, buff.market and cs.money:
 Sticker Slab | Astralis (Foil) | Boston 2018
@@ -719,16 +748,17 @@ Sticker Slab | ALEX | Katowice 2019
 Sticker Slab | Brehze | Katowice 2019
 Sticker Slab | HObbit | Stockholm 2021
 Sticker Slab | tabseN | Rio 2022
+Sticker Slab | Zyphon (Gold) | Rio 2022
 Sticker Slab | boltz (Holo) | Rio 2022
 Sticker Slab | roeJ (Gold) | Rio 2022
 Sticker Slab | Sico (Gold) | Rio 2022
 Sticker Slab | zevy | Paris 2023
 Sticker Slab | blameF (Holo) | Shanghai 2024
 Sticker Slab | kauez (Holo) | Shanghai 2024
+Sticker Slab | Monte (Gold) | Cologne 2026
 Sticker Slab | Spinx | Cologne 2026
-Sticker Slab | Staehr (Gold) | Cologne 2026
 Sticker Slab | n1ssim (Gold) | Cologne 2026
-Sticker Slab | nilo (Gold) | Cologne 2026
+Sticker Slab | Assterisk (Foil)
 
 IDs of sticker slabs known to be missing on youpin898 and cs.money:
 Sticker Slab | 3DMAX | Katowice 2014
@@ -877,7 +907,6 @@ Sticker Slab | Spiidi (Foil) | Cologne 2015
 Sticker Slab | Spiidi | MLG Columbus 2016
 Sticker Slab | Stewie2K (Gold) | Boston 2018
 Sticker Slab | Stewie2K (Gold) | Krakow 2017
-Sticker Slab | Stewie2K | Boston 2018
 Sticker Slab | Stewie2K | Krakow 2017
 Sticker Slab | Stewie2K | MLG Columbus 2016
 Sticker Slab | TACO (Foil) | Boston 2018
@@ -1001,7 +1030,6 @@ Sticker Slab | jdm64 (Foil) | Boston 2018
 Sticker Slab | jkaem (Foil) | MLG Columbus 2016
 Sticker Slab | jkaem | Cologne 2016
 Sticker Slab | jks | Cologne 2015
-Sticker Slab | k0nfig (Foil) | Krakow 2017
 Sticker Slab | k0nfig | Boston 2018
 Sticker Slab | karrigan (Foil) | Cologne 2016
 Sticker Slab | karrigan | Atlanta 2017
@@ -1114,7 +1142,6 @@ Sticker Slab | Renegades (Foil) | London 2018
 Sticker Slab | BIG (Holo) | London 2018
 Sticker Slab | Boombl4 | London 2018
 Sticker Slab | GeT_RiGhT (Foil) | London 2018
-Sticker Slab | dupreeh | London 2018
 Sticker Slab | waterfaLLZ (Foil) | London 2018
 Sticker Slab | MIBR (Holo) | London 2018
 Sticker Slab | olofmeister | London 2018
@@ -1128,7 +1155,6 @@ Sticker Slab | MICHU | London 2018
 Sticker Slab | Fnatic (Foil) | London 2018
 Sticker Slab | Skadoodle (Foil) | London 2018
 Sticker Slab | Virtus.Pro (Foil) | London 2018
-Sticker Slab | Team Liquid (Holo) | London 2018
 Sticker Slab | nitr0 (Foil) | London 2018
 Sticker Slab | Renegades (Holo) | London 2018
 Sticker Slab | stanislaw (Foil) | London 2018
@@ -1171,7 +1197,6 @@ Sticker Slab | Calyx (Gold) | London 2018
 Sticker Slab | jR (Gold) | London 2018
 Sticker Slab | Rickeh | Katowice 2019
 Sticker Slab | KrizzeN | Katowice 2019
-Sticker Slab | wayLander | Katowice 2019
 Sticker Slab | twist | Katowice 2019
 Sticker Slab | n0thing | Katowice 2019
 Sticker Slab | ISSAA | Katowice 2019
@@ -1222,7 +1247,6 @@ Sticker Slab | Brehze (Gold) | Katowice 2019
 Sticker Slab | sergej (Gold) | Katowice 2019
 Sticker Slab | wayLander (Gold) | Katowice 2019
 Sticker Slab | Liazz (Gold) | Katowice 2019
-Sticker Slab | Aleksib | Berlin 2019
 Sticker Slab | fer | Berlin 2019
 Sticker Slab | Team Liquid | Berlin 2019
 Sticker Slab | Aerial | Berlin 2019
@@ -1256,7 +1280,6 @@ Sticker Slab | ShahZaM (Foil) | Berlin 2019
 Sticker Slab | TACO (Gold) | Berlin 2019
 Sticker Slab | SicK (Gold) | Berlin 2019
 Sticker Slab | DeadFox (Gold) | Berlin 2019
-Sticker Slab | Ethan (Foil) | Berlin 2019
 Sticker Slab | forZe eSports | Berlin 2019
 Sticker Slab | Renegades | Berlin 2019
 Sticker Slab | facecrack (Gold) | Berlin 2019
@@ -1272,7 +1295,6 @@ Sticker Slab | nitr0 (Gold) | Berlin 2019
 Sticker Slab | gade (Gold) | Berlin 2019
 Sticker Slab | JUGi (Gold) | Berlin 2019
 Sticker Slab | Ethan (Gold) | Berlin 2019
-Sticker Slab | FalleN (Gold) | Berlin 2019
 Sticker Slab | Sico (Gold) | Berlin 2019
 Sticker Slab | dexter (Gold) | Berlin 2019
 Sticker Slab | almazer (Gold) | Berlin 2019
@@ -1324,7 +1346,6 @@ Sticker Slab | woxic | Antwerp 2022
 Sticker Slab | interz (Holo) | Antwerp 2022
 Sticker Slab | Boombl4 (Holo) | Antwerp 2022
 Sticker Slab | yuurih (Gold) | Antwerp 2022
-Sticker Slab | boltz (Glitter) | Antwerp 2022
 Sticker Slab | fer (Holo) | Antwerp 2022
 Sticker Slab | KENSi (Holo) | Antwerp 2022
 Sticker Slab | ins (Holo) | Antwerp 2022
@@ -1336,7 +1357,6 @@ Sticker Slab | nin9 (Glitter) | Antwerp 2022
 Sticker Slab | luken (Gold) | Antwerp 2022
 Sticker Slab | nin9 (Gold) | Antwerp 2022
 Sticker Slab | Norwi (Gold) | Antwerp 2022
-Sticker Slab | Boombl4 (Gold) | Antwerp 2022
 Sticker Slab | sico (Holo) | Antwerp 2022
 Sticker Slab | dgt (Gold) | Antwerp 2022
 Sticker Slab | exit (Holo) | Antwerp 2022
@@ -1582,12 +1602,12 @@ Sticker Slab | Team Spirit (Gold) | Cologne 2026
 Sticker Slab | Astralis (Gold) | Cologne 2026
 Sticker Slab | G2 esports (Gold) | Cologne 2026
 Sticker Slab | 9z Team (Gold) | Cologne 2026
-Sticker Slab | HEROIC (Gold) | Cologne 2026
 Sticker Slab | M80 (Holo) | Cologne 2026
 Sticker Slab | SINNERS (Gold) | Cologne 2026
 Sticker Slab | TYLOO (Gold) | Cologne 2026
 Sticker Slab | THUNDERdOWNUNDER (Gold) | Cologne 2026
 Sticker Slab | FlyQuest (Gold) | Cologne 2026
+Sticker Slab | mezii (Gold) | Cologne 2026
 Sticker Slab | iM (Gold) | Cologne 2026
 Sticker Slab | bLitz (Gold) | Cologne 2026
 Sticker Slab | Techno4K (Gold) | Cologne 2026
@@ -1602,7 +1622,6 @@ Sticker Slab | FalleN (Gold) | Cologne 2026
 Sticker Slab | yuurih (Gold) | Cologne 2026
 Sticker Slab | Jimpphat (Gold) | Cologne 2026
 Sticker Slab | Brollan | Cologne 2026
-Sticker Slab | Brollan (Holo) | Cologne 2026
 Sticker Slab | Spinx (Gold) | Cologne 2026
 Sticker Slab | torzsi (Gold) | Cologne 2026
 Sticker Slab | dem0n (Gold) | Cologne 2026
@@ -1619,6 +1638,7 @@ Sticker Slab | Rainwaker (Gold) | Cologne 2026
 Sticker Slab | AZUWU (Gold) | Cologne 2026
 Sticker Slab | dgt (Gold) | Cologne 2026
 Sticker Slab | luchov (Gold) | Cologne 2026
+Sticker Slab | HUASOPEEK (Gold) | Cologne 2026
 Sticker Slab | REZ | Cologne 2026
 Sticker Slab | REZ (Gold) | Cologne 2026
 Sticker Slab | Tauson (Gold) | Cologne 2026
@@ -1648,6 +1668,8 @@ Sticker Slab | MoDo (Gold) | Cologne 2026
 Sticker Slab | kisserek | Cologne 2026
 Sticker Slab | kisserek (Foil) | Cologne 2026
 Sticker Slab | kisserek (Holo) | Cologne 2026
+Sticker Slab | kisserek (Gold) | Cologne 2026
+Sticker Slab | stressarN (Gold) | Cologne 2026
 Sticker Slab | br0 (Gold) | Cologne 2026
 Sticker Slab | oSee (Gold) | Cologne 2026
 Sticker Slab | nitr0 (Gold) | Cologne 2026
@@ -1661,6 +1683,8 @@ Sticker Slab | aliStair (Gold) | Cologne 2026
 Sticker Slab | asap (Gold) | Cologne 2026
 Sticker Slab | nettik (Gold) | Cologne 2026
 Sticker Slab | kyxsan (Gold, Champion) | Cologne 2026
+Sticker Slab | Electric Avenue (Lenticular)
+Sticker Slab | WARNING (Foil)
 
 IDs of sticker slabs known to be missing on buff.market and cs.money:
 Sticker Slab | Lynn Vision | Cologne 2026
@@ -2156,6 +2180,7 @@ Sticker Slab | MSL | Boston 2018
 Sticker Slab | MSL | Krakow 2017
 Sticker Slab | Magisk (Foil) | Krakow 2017
 Sticker Slab | Magisk (Gold) | Krakow 2017
+Sticker Slab | Magisk | Atlanta 2017
 Sticker Slab | Magisk | Krakow 2017
 Sticker Slab | Mahjong Fa
 Sticker Slab | Mahjong Rooster
@@ -2399,6 +2424,7 @@ Sticker Slab | Stan (Holo)
 Sticker Slab | Stay Frosty
 Sticker Slab | Stewie2K (Foil) | Boston 2018
 Sticker Slab | Stewie2K (Foil) | Krakow 2017
+Sticker Slab | Stewie2K | Boston 2018
 Sticker Slab | Stupid Banana (Foil)
 Sticker Slab | Summer (Foil) | Boston 2018
 Sticker Slab | Support
@@ -2815,6 +2841,7 @@ Sticker Slab | jks (Foil) | Boston 2018
 Sticker Slab | jks (Foil) | Cologne 2015
 Sticker Slab | jks | Boston 2018
 Sticker Slab | jmqa | Boston 2018
+Sticker Slab | k0nfig (Foil) | Krakow 2017
 Sticker Slab | k0nfig | Atlanta 2017
 Sticker Slab | k0nfig | Krakow 2017
 Sticker Slab | kNgV- (Foil) | Boston 2018
@@ -3196,6 +3223,7 @@ Sticker Slab | COLDYY1 (Foil) | London 2018
 Sticker Slab | REZ (Foil) | London 2018
 Sticker Slab | Xyp9x | London 2018
 Sticker Slab | chopper | London 2018
+Sticker Slab | dupreeh | London 2018
 Sticker Slab | DD (Foil) | London 2018
 Sticker Slab | jks (Foil) | London 2018
 Sticker Slab | S0tF1k (Foil) | London 2018
@@ -3247,6 +3275,7 @@ Sticker Slab | bodyy (Foil) | London 2018
 Sticker Slab | aizy (Foil) | London 2018
 Sticker Slab | karrigan (Foil) | London 2018
 Sticker Slab | Snax (Foil) | London 2018
+Sticker Slab | Team Liquid (Holo) | London 2018
 Sticker Slab | RUSH (Foil) | London 2018
 Sticker Slab | FalleN (Foil) | London 2018
 Sticker Slab | tonyblack | London 2018
@@ -3389,6 +3418,7 @@ Sticker Slab | FaZe Clan (Holo) | Katowice 2019
 Sticker Slab | ENCE (Holo) | Katowice 2019
 Sticker Slab | DeadFox (Foil) | Katowice 2019
 Sticker Slab | autimatic | Katowice 2019
+Sticker Slab | wayLander | Katowice 2019
 Sticker Slab | Magisk | Katowice 2019
 Sticker Slab | FalleN | Katowice 2019
 Sticker Slab | Stewie2K | Katowice 2019
@@ -3755,6 +3785,7 @@ Sticker Slab | device (Foil) | Berlin 2019
 Sticker Slab | GuardiaN | Berlin 2019
 Sticker Slab | Golden | Berlin 2019
 Sticker Slab | nitr0 (Foil) | Berlin 2019
+Sticker Slab | Aleksib | Berlin 2019
 Sticker Slab | olofmeister (Foil) | Berlin 2019
 Sticker Slab | Lekr0 | Berlin 2019
 Sticker Slab | G2 Esports | Berlin 2019
@@ -3971,6 +4002,7 @@ Sticker Slab | DeStiNy (Foil) | Berlin 2019
 Sticker Slab | Ninjas in Pyjamas (Foil) | Berlin 2019
 Sticker Slab | dexter (Foil) | Berlin 2019
 Sticker Slab | ANGE1 (Foil) | Berlin 2019
+Sticker Slab | Ethan (Foil) | Berlin 2019
 Sticker Slab | North | Berlin 2019
 Sticker Slab | INTZ E-SPORTS CLUB | Berlin 2019
 Sticker Slab | CR4ZY | Berlin 2019
@@ -4034,6 +4066,7 @@ Sticker Slab | DreamEaters (Foil) | Berlin 2019
 Sticker Slab | AdreN (Gold) | Berlin 2019
 Sticker Slab | kennyS (Gold) | Berlin 2019
 Sticker Slab | Zeus (Gold) | Berlin 2019
+Sticker Slab | FalleN (Gold) | Berlin 2019
 Sticker Slab | RpK (Gold) | Berlin 2019
 Sticker Slab | NiKo (Gold) | Berlin 2019
 Sticker Slab | frozen (Gold) | Berlin 2019
@@ -4960,6 +4993,7 @@ Sticker Slab | rigoN (Glitter) | Antwerp 2022
 Sticker Slab | dupreeh (Holo) | Antwerp 2022
 Sticker Slab | MIBR (Gold) | Antwerp 2022
 Sticker Slab | Boombl4 (Glitter) | Antwerp 2022
+Sticker Slab | boltz (Glitter) | Antwerp 2022
 Sticker Slab | karrigan (Holo) | Antwerp 2022
 Sticker Slab | Aleksib (Glitter) | Antwerp 2022
 Sticker Slab | Copenhagen Flames (Gold) | Antwerp 2022
@@ -5034,6 +5068,7 @@ Sticker Slab | huNter (Gold) | Antwerp 2022
 Sticker Slab | JaCkz (Holo) | Antwerp 2022
 Sticker Slab | nitr0 (Glitter) | Antwerp 2022
 Sticker Slab | NAF (Glitter) | Antwerp 2022
+Sticker Slab | Boombl4 (Gold) | Antwerp 2022
 Sticker Slab | Patsi (Holo) | Antwerp 2022
 Sticker Slab | sh1ro (Gold) | Antwerp 2022
 Sticker Slab | Twistzz (Gold) | Antwerp 2022
@@ -9005,6 +9040,7 @@ Sticker Slab | B8 (Holo) | Cologne 2026
 Sticker Slab | HEROIC | Cologne 2026
 Sticker Slab | HEROIC (Foil) | Cologne 2026
 Sticker Slab | HEROIC (Holo) | Cologne 2026
+Sticker Slab | HEROIC (Gold) | Cologne 2026
 Sticker Slab | BetBoom | Cologne 2026
 Sticker Slab | BetBoom (Foil) | Cologne 2026
 Sticker Slab | BetBoom (Holo) | Cologne 2026
@@ -9175,6 +9211,7 @@ Sticker Slab | Jimpphat | Cologne 2026
 Sticker Slab | Jimpphat (Foil) | Cologne 2026
 Sticker Slab | Jimpphat (Holo) | Cologne 2026
 Sticker Slab | Brollan (Foil) | Cologne 2026
+Sticker Slab | Brollan (Holo) | Cologne 2026
 Sticker Slab | Brollan (Gold) | Cologne 2026
 Sticker Slab | Spinx (Foil) | Cologne 2026
 Sticker Slab | Spinx (Holo) | Cologne 2026
@@ -9237,6 +9274,7 @@ Sticker Slab | jabbi (Holo) | Cologne 2026
 Sticker Slab | Staehr | Cologne 2026
 Sticker Slab | Staehr (Foil) | Cologne 2026
 Sticker Slab | Staehr (Holo) | Cologne 2026
+Sticker Slab | Staehr (Gold) | Cologne 2026
 Sticker Slab | huNter- | Cologne 2026
 Sticker Slab | huNter- (Foil) | Cologne 2026
 Sticker Slab | huNter- (Holo) | Cologne 2026
@@ -9357,6 +9395,7 @@ Sticker Slab | xfl0ud (Holo) | Cologne 2026
 Sticker Slab | nilo | Cologne 2026
 Sticker Slab | nilo (Foil) | Cologne 2026
 Sticker Slab | nilo (Holo) | Cologne 2026
+Sticker Slab | nilo (Gold) | Cologne 2026
 Sticker Slab | susp | Cologne 2026
 Sticker Slab | susp (Foil) | Cologne 2026
 Sticker Slab | susp (Holo) | Cologne 2026
