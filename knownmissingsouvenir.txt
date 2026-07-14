@@ -4037,7 +4037,6 @@ Souvenir Negev | Raw Ceramic (Battle-Scarred)
 Souvenir G3SG1 | Green Cell (Field-Tested)
 Souvenir MAC-10 | Storm Camo (Well-Worn)
 Souvenir Sawed-Off | Runoff (Battle-Scarred)
-Souvenir SG 553 | Night Camo (Well-Worn)
 Souvenir Negev | Sour Grapes (Field-Tested)
 Souvenir Desert Eagle | Mint Fan (Minimal Wear)
 Souvenir P2000 | Royal Baroque (Minimal Wear)
@@ -4588,6 +4587,9 @@ Souvenir Glock-18 | Fully Tuned (Minimal Wear)
 Souvenir Tec-9 | Sultan (Field-Tested)
 Souvenir FAMAS | Snake Song (Factory New)
 Souvenir PP-Bizon | Traitor (Minimal Wear)
+
+IDs of sticker slabs known to be missing on buff.market and cs.money:
+Souvenir SG 553 | Night Camo (Well-Worn)
 
 IDs of sticker slabs known to be missing on youpin898:
 Souvenir Tec-9 | Nuclear Threat (Factory New)

@@ -218,7 +218,6 @@ Sticker Slab | friberg (Foil) | MLG Columbus 2016
 Sticker Slab | friberg | Cologne 2016
 Sticker Slab | gla1ve (Foil) | Atlanta 2017
 Sticker Slab | gla1ve (Foil) | Boston 2018
-Sticker Slab | gla1ve (Gold) | Boston 2018
 Sticker Slab | gla1ve | Cologne 2016
 Sticker Slab | gob b (Gold) | Boston 2018
 Sticker Slab | gob b | Cluj-Napoca 2015
@@ -980,6 +979,7 @@ Sticker Slab | friberg (Foil) | Cologne 2016
 Sticker Slab | friberg | Cluj-Napoca 2015
 Sticker Slab | friberg | MLG Columbus 2016
 Sticker Slab | gla1ve (Foil) | Cologne 2016
+Sticker Slab | gla1ve (Gold) | Boston 2018
 Sticker Slab | gob b (Foil) | Cologne 2015
 Sticker Slab | hazed | Cologne 2015
 Sticker Slab | hazed | MLG Columbus 2016
