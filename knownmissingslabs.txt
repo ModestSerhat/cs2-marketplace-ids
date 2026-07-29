@@ -178,7 +178,6 @@ Sticker Slab | denis (Foil) | Cologne 2016
 Sticker Slab | denis (Foil) | MLG Columbus 2016
 Sticker Slab | denis (Gold) | Boston 2018
 Sticker Slab | denis (Gold) | Krakow 2017
-Sticker Slab | denis | Cluj-Napoca 2015
 Sticker Slab | denis | Cologne 2016
 Sticker Slab | dennis (Foil) | MLG Columbus 2016
 Sticker Slab | dennis | Cluj-Napoca 2015
@@ -267,7 +266,6 @@ Sticker Slab | ngiN | Boston 2018
 Sticker Slab | nitr0 (Foil) | Atlanta 2017
 Sticker Slab | nitr0 (Foil) | Cologne 2016
 Sticker Slab | nitr0 (Foil) | MLG Columbus 2016
-Sticker Slab | nitr0 | Atlanta 2017
 Sticker Slab | nitr0 | Cluj-Napoca 2015
 Sticker Slab | olofmeister (Foil) | Atlanta 2017
 Sticker Slab | olofmeister | Atlanta 2017
@@ -406,7 +404,6 @@ Sticker Slab | ableJ (Gold) | Katowice 2019
 Sticker Slab | erkaSt | Katowice 2019
 Sticker Slab | sterling (Foil) | Katowice 2019
 Sticker Slab | fitch (Foil) | Katowice 2019
-Sticker Slab | DavCost (Gold) | Katowice 2019
 Sticker Slab | Brollan (Gold) | Katowice 2019
 Sticker Slab | n0thing (Gold) | Katowice 2019
 Sticker Slab | AdreN (Gold) | Katowice 2019
@@ -628,6 +625,539 @@ Sticker Slab | Sonic (Gold) | Cologne 2026
 Sticker Slab | koala (Gold) | Cologne 2026
 Sticker Slab | doc (Gold) | Cologne 2026
 Sticker Slab | Cry Baby
+Sticker Slab | Vitality (Foil, Ranked) | Cologne 2026
+Sticker Slab | Vitality (Holo, Ranked) | Cologne 2026
+Sticker Slab | Vitality (Gold, Ranked) | Cologne 2026
+Sticker Slab | Natus Vincere (Foil, Ranked) | Cologne 2026
+Sticker Slab | Natus Vincere (Gold, Ranked) | Cologne 2026
+Sticker Slab | Falcons (Gold, Ranked) | Cologne 2026
+Sticker Slab | The Mongolz (Foil, Ranked) | Cologne 2026
+Sticker Slab | The Mongolz (Holo, Ranked) | Cologne 2026
+Sticker Slab | The Mongolz (Gold, Ranked) | Cologne 2026
+Sticker Slab | PARIVISION (Foil, Ranked) | Cologne 2026
+Sticker Slab | PARIVISION (Gold, Ranked) | Cologne 2026
+Sticker Slab | Aurora (Foil, Ranked) | Cologne 2026
+Sticker Slab | Aurora (Holo, Ranked) | Cologne 2026
+Sticker Slab | Aurora (Gold, Ranked) | Cologne 2026
+Sticker Slab | FURIA (Foil, Ranked) | Cologne 2026
+Sticker Slab | FURIA (Gold, Ranked) | Cologne 2026
+Sticker Slab | MOUZ (Foil, Ranked) | Cologne 2026
+Sticker Slab | MOUZ (Holo, Ranked) | Cologne 2026
+Sticker Slab | MOUZ (Gold, Ranked) | Cologne 2026
+Sticker Slab | FUT (Foil, Ranked) | Cologne 2026
+Sticker Slab | FUT (Holo, Ranked) | Cologne 2026
+Sticker Slab | FUT (Gold, Ranked) | Cologne 2026
+Sticker Slab | Team Spirit (Foil, Ranked) | Cologne 2026
+Sticker Slab | Team Spirit (Gold, Ranked) | Cologne 2026
+Sticker Slab | Astralis (Foil, Ranked) | Cologne 2026
+Sticker Slab | Astralis (Holo, Ranked) | Cologne 2026
+Sticker Slab | Astralis (Gold, Ranked) | Cologne 2026
+Sticker Slab | G2 esports (Foil, Ranked) | Cologne 2026
+Sticker Slab | G2 esports (Gold, Ranked) | Cologne 2026
+Sticker Slab | Legacy (Foil, Ranked) | Cologne 2026
+Sticker Slab | Legacy (Holo, Ranked) | Cologne 2026
+Sticker Slab | Legacy (Gold, Ranked) | Cologne 2026
+Sticker Slab | paiN Gaming (Foil, Ranked) | Cologne 2026
+Sticker Slab | paiN Gaming (Gold, Ranked) | Cologne 2026
+Sticker Slab | Monte (Foil, Ranked) | Cologne 2026
+Sticker Slab | Monte (Holo, Ranked) | Cologne 2026
+Sticker Slab | Monte (Gold, Ranked) | Cologne 2026
+Sticker Slab | 9z Team (Foil, Ranked) | Cologne 2026
+Sticker Slab | 9z Team (Holo, Ranked) | Cologne 2026
+Sticker Slab | 9z Team (Gold, Ranked) | Cologne 2026
+Sticker Slab | GamerLegion (Foil, Ranked) | Cologne 2026
+Sticker Slab | GamerLegion (Gold, Ranked) | Cologne 2026
+Sticker Slab | B8 (Foil, Ranked) | Cologne 2026
+Sticker Slab | B8 (Holo, Ranked) | Cologne 2026
+Sticker Slab | B8 (Gold, Ranked) | Cologne 2026
+Sticker Slab | HEROIC (Foil, Ranked) | Cologne 2026
+Sticker Slab | HEROIC (Holo, Ranked) | Cologne 2026
+Sticker Slab | HEROIC (Gold, Ranked) | Cologne 2026
+Sticker Slab | BetBoom (Foil, Ranked) | Cologne 2026
+Sticker Slab | BetBoom (Holo, Ranked) | Cologne 2026
+Sticker Slab | BetBoom (Gold, Ranked) | Cologne 2026
+Sticker Slab | BIG (Foil, Ranked) | Cologne 2026
+Sticker Slab | BIG (Holo, Ranked) | Cologne 2026
+Sticker Slab | BIG (Gold, Ranked) | Cologne 2026
+Sticker Slab | M80 (Foil, Ranked) | Cologne 2026
+Sticker Slab | M80 (Holo, Ranked) | Cologne 2026
+Sticker Slab | M80 (Gold, Ranked) | Cologne 2026
+Sticker Slab | MIBR (Foil, Ranked) | Cologne 2026
+Sticker Slab | MIBR (Holo, Ranked) | Cologne 2026
+Sticker Slab | MIBR (Gold, Ranked) | Cologne 2026
+Sticker Slab | SINNERS (Foil, Ranked) | Cologne 2026
+Sticker Slab | SINNERS (Gold, Ranked) | Cologne 2026
+Sticker Slab | NRG (Foil, Ranked) | Cologne 2026
+Sticker Slab | NRG (Holo, Ranked) | Cologne 2026
+Sticker Slab | NRG (Gold, Ranked) | Cologne 2026
+Sticker Slab | TYLOO (Gold, Ranked) | Cologne 2026
+Sticker Slab | Sharks Esports (Foil, Ranked) | Cologne 2026
+Sticker Slab | Sharks Esports (Holo, Ranked) | Cologne 2026
+Sticker Slab | Sharks Esports (Gold, Ranked) | Cologne 2026
+Sticker Slab | Gaimin Gladiators (Foil, Ranked) | Cologne 2026
+Sticker Slab | Gaimin Gladiators (Holo, Ranked) | Cologne 2026
+Sticker Slab | Gaimin Gladiators (Gold, Ranked) | Cologne 2026
+Sticker Slab | Team Liquid (Foil, Ranked) | Cologne 2026
+Sticker Slab | Team Liquid (Gold, Ranked) | Cologne 2026
+Sticker Slab | Lynn Vision (Foil, Ranked) | Cologne 2026
+Sticker Slab | Lynn Vision (Holo, Ranked) | Cologne 2026
+Sticker Slab | Lynn Vision (Gold, Ranked) | Cologne 2026
+Sticker Slab | THUNDERdOWNUNDER (Foil, Ranked) | Cologne 2026
+Sticker Slab | THUNDERdOWNUNDER (Gold, Ranked) | Cologne 2026
+Sticker Slab | FlyQuest (Foil, Ranked) | Cologne 2026
+Sticker Slab | FlyQuest (Gold, Ranked) | Cologne 2026
+Sticker Slab | IEM (Foil, Ranked) | Cologne 2026
+Sticker Slab | IEM (Gold, Ranked) | Cologne 2026
+Sticker Slab | ZywOo (Foil, Ranked) | Cologne 2026
+Sticker Slab | ZywOo (Holo, Ranked) | Cologne 2026
+Sticker Slab | ZywOo (Gold, Ranked) | Cologne 2026
+Sticker Slab | apEX (Foil, Ranked) | Cologne 2026
+Sticker Slab | apEX (Holo, Ranked) | Cologne 2026
+Sticker Slab | apEX (Gold, Ranked) | Cologne 2026
+Sticker Slab | mezii (Foil, Ranked) | Cologne 2026
+Sticker Slab | mezii (Holo, Ranked) | Cologne 2026
+Sticker Slab | mezii (Gold, Ranked) | Cologne 2026
+Sticker Slab | FlameZ (Foil, Ranked) | Cologne 2026
+Sticker Slab | FlameZ (Holo, Ranked) | Cologne 2026
+Sticker Slab | FlameZ (Gold, Ranked) | Cologne 2026
+Sticker Slab | ropz (Holo, Ranked) | Cologne 2026
+Sticker Slab | w0nderful (Foil, Ranked) | Cologne 2026
+Sticker Slab | w0nderful (Holo, Ranked) | Cologne 2026
+Sticker Slab | Aleksib (Foil, Ranked) | Cologne 2026
+Sticker Slab | Aleksib (Holo, Ranked) | Cologne 2026
+Sticker Slab | Aleksib (Gold, Ranked) | Cologne 2026
+Sticker Slab | b1t (Foil, Ranked) | Cologne 2026
+Sticker Slab | b1t (Holo, Ranked) | Cologne 2026
+Sticker Slab | b1t (Gold, Ranked) | Cologne 2026
+Sticker Slab | iM (Foil, Ranked) | Cologne 2026
+Sticker Slab | iM (Holo, Ranked) | Cologne 2026
+Sticker Slab | iM (Gold, Ranked) | Cologne 2026
+Sticker Slab | makazze (Foil, Ranked) | Cologne 2026
+Sticker Slab | makazze (Holo, Ranked) | Cologne 2026
+Sticker Slab | makazze (Gold, Ranked) | Cologne 2026
+Sticker Slab | kyxsan (Foil, Ranked) | Cologne 2026
+Sticker Slab | kyxsan (Holo, Ranked) | Cologne 2026
+Sticker Slab | kyxsan (Gold, Ranked) | Cologne 2026
+Sticker Slab | TeSeS (Foil, Ranked) | Cologne 2026
+Sticker Slab | TeSeS (Holo, Ranked) | Cologne 2026
+Sticker Slab | TeSeS (Gold, Ranked) | Cologne 2026
+Sticker Slab | kyousuke (Holo, Ranked) | Cologne 2026
+Sticker Slab | bLitz (Foil, Ranked) | Cologne 2026
+Sticker Slab | bLitz (Holo, Ranked) | Cologne 2026
+Sticker Slab | bLitz (Gold, Ranked) | Cologne 2026
+Sticker Slab | Techno4K (Foil, Ranked) | Cologne 2026
+Sticker Slab | Techno4K (Holo, Ranked) | Cologne 2026
+Sticker Slab | cobra (Foil, Ranked) | Cologne 2026
+Sticker Slab | cobra (Holo, Ranked) | Cologne 2026
+Sticker Slab | cobra (Gold, Ranked) | Cologne 2026
+Sticker Slab | mzinho (Foil, Ranked) | Cologne 2026
+Sticker Slab | mzinho (Holo, Ranked) | Cologne 2026
+Sticker Slab | mzinho (Gold, Ranked) | Cologne 2026
+Sticker Slab | 910 (Foil, Ranked) | Cologne 2026
+Sticker Slab | 910 (Holo, Ranked) | Cologne 2026
+Sticker Slab | 910 (Gold, Ranked) | Cologne 2026
+Sticker Slab | Jame (Foil, Ranked) | Cologne 2026
+Sticker Slab | nota (Foil, Ranked) | Cologne 2026
+Sticker Slab | nota (Holo, Ranked) | Cologne 2026
+Sticker Slab | nota (Gold, Ranked) | Cologne 2026
+Sticker Slab | xiELO (Foil, Ranked) | Cologne 2026
+Sticker Slab | xiELO (Holo, Ranked) | Cologne 2026
+Sticker Slab | xiELO (Gold, Ranked) | Cologne 2026
+Sticker Slab | BELCHONOKK (Foil, Ranked) | Cologne 2026
+Sticker Slab | BELCHONOKK (Holo, Ranked) | Cologne 2026
+Sticker Slab | BELCHONOKK (Gold, Ranked) | Cologne 2026
+Sticker Slab | zweih (Foil, Ranked) | Cologne 2026
+Sticker Slab | zweih (Holo, Ranked) | Cologne 2026
+Sticker Slab | zweih (Gold, Ranked) | Cologne 2026
+Sticker Slab | XANTARES (Foil, Ranked) | Cologne 2026
+Sticker Slab | XANTARES (Gold, Ranked) | Cologne 2026
+Sticker Slab | soulfly (Foil, Ranked) | Cologne 2026
+Sticker Slab | soulfly (Holo, Ranked) | Cologne 2026
+Sticker Slab | soulfly (Gold, Ranked) | Cologne 2026
+Sticker Slab | Wicadia (Foil, Ranked) | Cologne 2026
+Sticker Slab | Wicadia (Holo, Ranked) | Cologne 2026
+Sticker Slab | Wicadia (Gold, Ranked) | Cologne 2026
+Sticker Slab | MAJ3R (Foil, Ranked) | Cologne 2026
+Sticker Slab | MAJ3R (Holo, Ranked) | Cologne 2026
+Sticker Slab | MAJ3R (Gold, Ranked) | Cologne 2026
+Sticker Slab | woxic (Foil, Ranked) | Cologne 2026
+Sticker Slab | woxic (Holo, Ranked) | Cologne 2026
+Sticker Slab | woxic (Gold, Ranked) | Cologne 2026
+Sticker Slab | YEKINDAR (Foil, Ranked) | Cologne 2026
+Sticker Slab | YEKINDAR (Holo, Ranked) | Cologne 2026
+Sticker Slab | YEKINDAR (Gold, Ranked) | Cologne 2026
+Sticker Slab | KSCERATO (Foil, Ranked) | Cologne 2026
+Sticker Slab | KSCERATO (Holo, Ranked) | Cologne 2026
+Sticker Slab | KSCERATO (Gold, Ranked) | Cologne 2026
+Sticker Slab | FalleN (Foil, Ranked) | Cologne 2026
+Sticker Slab | FalleN (Gold, Ranked) | Cologne 2026
+Sticker Slab | molodoy (Foil, Ranked) | Cologne 2026
+Sticker Slab | molodoy (Holo, Ranked) | Cologne 2026
+Sticker Slab | molodoy (Gold, Ranked) | Cologne 2026
+Sticker Slab | yuurih (Foil, Ranked) | Cologne 2026
+Sticker Slab | yuurih (Holo, Ranked) | Cologne 2026
+Sticker Slab | yuurih (Gold, Ranked) | Cologne 2026
+Sticker Slab | Jimpphat (Foil, Ranked) | Cologne 2026
+Sticker Slab | Jimpphat (Holo, Ranked) | Cologne 2026
+Sticker Slab | Jimpphat (Gold, Ranked) | Cologne 2026
+Sticker Slab | Brollan (Foil, Ranked) | Cologne 2026
+Sticker Slab | Brollan (Holo, Ranked) | Cologne 2026
+Sticker Slab | Brollan (Gold, Ranked) | Cologne 2026
+Sticker Slab | Spinx (Foil, Ranked) | Cologne 2026
+Sticker Slab | Spinx (Holo, Ranked) | Cologne 2026
+Sticker Slab | Spinx (Gold, Ranked) | Cologne 2026
+Sticker Slab | torzsi (Foil, Ranked) | Cologne 2026
+Sticker Slab | torzsi (Holo, Ranked) | Cologne 2026
+Sticker Slab | torzsi (Gold, Ranked) | Cologne 2026
+Sticker Slab | xertioN (Foil, Ranked) | Cologne 2026
+Sticker Slab | xertioN (Holo, Ranked) | Cologne 2026
+Sticker Slab | xertioN (Gold, Ranked) | Cologne 2026
+Sticker Slab | dem0n (Foil, Ranked) | Cologne 2026
+Sticker Slab | dem0n (Holo, Ranked) | Cologne 2026
+Sticker Slab | dem0n (Gold, Ranked) | Cologne 2026
+Sticker Slab | lauNX (Foil, Ranked) | Cologne 2026
+Sticker Slab | lauNX (Holo, Ranked) | Cologne 2026
+Sticker Slab | lauNX (Gold, Ranked) | Cologne 2026
+Sticker Slab | Krabeni (Foil, Ranked) | Cologne 2026
+Sticker Slab | Krabeni (Holo, Ranked) | Cologne 2026
+Sticker Slab | Krabeni (Gold, Ranked) | Cologne 2026
+Sticker Slab | cmtry (Foil, Ranked) | Cologne 2026
+Sticker Slab | cmtry (Holo, Ranked) | Cologne 2026
+Sticker Slab | cmtry (Gold, Ranked) | Cologne 2026
+Sticker Slab | dziugss (Foil, Ranked) | Cologne 2026
+Sticker Slab | dziugss (Holo, Ranked) | Cologne 2026
+Sticker Slab | dziugss (Gold, Ranked) | Cologne 2026
+Sticker Slab | tN1R (Foil, Ranked) | Cologne 2026
+Sticker Slab | tN1R (Holo, Ranked) | Cologne 2026
+Sticker Slab | tN1R (Gold, Ranked) | Cologne 2026
+Sticker Slab | donk (Foil, Ranked) | Cologne 2026
+Sticker Slab | magixx (Foil, Ranked) | Cologne 2026
+Sticker Slab | sh1ro (Foil, Ranked) | Cologne 2026
+Sticker Slab | zont1x (Foil, Ranked) | Cologne 2026
+Sticker Slab | zont1x (Gold, Ranked) | Cologne 2026
+Sticker Slab | HooXi (Foil, Ranked) | Cologne 2026
+Sticker Slab | HooXi (Holo, Ranked) | Cologne 2026
+Sticker Slab | HooXi (Gold, Ranked) | Cologne 2026
+Sticker Slab | phzy (Foil, Ranked) | Cologne 2026
+Sticker Slab | phzy (Holo, Ranked) | Cologne 2026
+Sticker Slab | phzy (Gold, Ranked) | Cologne 2026
+Sticker Slab | ryu (Foil, Ranked) | Cologne 2026
+Sticker Slab | ryu (Holo, Ranked) | Cologne 2026
+Sticker Slab | ryu (Gold, Ranked) | Cologne 2026
+Sticker Slab | jabbi (Foil, Ranked) | Cologne 2026
+Sticker Slab | jabbi (Holo, Ranked) | Cologne 2026
+Sticker Slab | jabbi (Gold, Ranked) | Cologne 2026
+Sticker Slab | Staehr (Foil, Ranked) | Cologne 2026
+Sticker Slab | Staehr (Holo, Ranked) | Cologne 2026
+Sticker Slab | Staehr (Gold, Ranked) | Cologne 2026
+Sticker Slab | huNter- (Foil, Ranked) | Cologne 2026
+Sticker Slab | huNter- (Holo, Ranked) | Cologne 2026
+Sticker Slab | huNter- (Gold, Ranked) | Cologne 2026
+Sticker Slab | Heavygod (Foil, Ranked) | Cologne 2026
+Sticker Slab | Heavygod (Holo, Ranked) | Cologne 2026
+Sticker Slab | Heavygod (Gold, Ranked) | Cologne 2026
+Sticker Slab | NertZ (Foil, Ranked) | Cologne 2026
+Sticker Slab | NertZ (Holo, Ranked) | Cologne 2026
+Sticker Slab | NertZ (Gold, Ranked) | Cologne 2026
+Sticker Slab | SunPayus (Foil, Ranked) | Cologne 2026
+Sticker Slab | SunPayus (Holo, Ranked) | Cologne 2026
+Sticker Slab | SunPayus (Gold, Ranked) | Cologne 2026
+Sticker Slab | MATYS (Foil, Ranked) | Cologne 2026
+Sticker Slab | MATYS (Holo, Ranked) | Cologne 2026
+Sticker Slab | MATYS (Gold, Ranked) | Cologne 2026
+Sticker Slab | arT (Foil, Ranked) | Cologne 2026
+Sticker Slab | arT (Holo, Ranked) | Cologne 2026
+Sticker Slab | arT (Gold, Ranked) | Cologne 2026
+Sticker Slab | latto (Foil, Ranked) | Cologne 2026
+Sticker Slab | latto (Holo, Ranked) | Cologne 2026
+Sticker Slab | latto (Gold, Ranked) | Cologne 2026
+Sticker Slab | dumau (Foil, Ranked) | Cologne 2026
+Sticker Slab | dumau (Holo, Ranked) | Cologne 2026
+Sticker Slab | dumau (Gold, Ranked) | Cologne 2026
+Sticker Slab | saadzin (Foil, Ranked) | Cologne 2026
+Sticker Slab | saadzin (Holo, Ranked) | Cologne 2026
+Sticker Slab | saadzin (Gold, Ranked) | Cologne 2026
+Sticker Slab | n1ssim (Foil, Ranked) | Cologne 2026
+Sticker Slab | n1ssim (Holo, Ranked) | Cologne 2026
+Sticker Slab | n1ssim (Gold, Ranked) | Cologne 2026
+Sticker Slab | biguzera (Foil, Ranked) | Cologne 2026
+Sticker Slab | biguzera (Holo, Ranked) | Cologne 2026
+Sticker Slab | biguzera (Gold, Ranked) | Cologne 2026
+Sticker Slab | NQZ (Foil, Ranked) | Cologne 2026
+Sticker Slab | NQZ (Holo, Ranked) | Cologne 2026
+Sticker Slab | NQZ (Gold, Ranked) | Cologne 2026
+Sticker Slab | snow (Foil, Ranked) | Cologne 2026
+Sticker Slab | snow (Holo, Ranked) | Cologne 2026
+Sticker Slab | snow (Gold, Ranked) | Cologne 2026
+Sticker Slab | piriajr (Foil, Ranked) | Cologne 2026
+Sticker Slab | piriajr (Holo, Ranked) | Cologne 2026
+Sticker Slab | piriajr (Gold, Ranked) | Cologne 2026
+Sticker Slab | v$m (Foil, Ranked) | Cologne 2026
+Sticker Slab | v$m (Holo, Ranked) | Cologne 2026
+Sticker Slab | v$m (Gold, Ranked) | Cologne 2026
+Sticker Slab | Rainwaker (Foil, Ranked) | Cologne 2026
+Sticker Slab | Rainwaker (Holo, Ranked) | Cologne 2026
+Sticker Slab | Rainwaker (Gold, Ranked) | Cologne 2026
+Sticker Slab | Bymas (Foil, Ranked) | Cologne 2026
+Sticker Slab | Bymas (Holo, Ranked) | Cologne 2026
+Sticker Slab | Bymas (Gold, Ranked) | Cologne 2026
+Sticker Slab | afro (Foil, Ranked) | Cologne 2026
+Sticker Slab | afro (Holo, Ranked) | Cologne 2026
+Sticker Slab | afro (Gold, Ranked) | Cologne 2026
+Sticker Slab | Gizmy (Foil, Ranked) | Cologne 2026
+Sticker Slab | Gizmy (Holo, Ranked) | Cologne 2026
+Sticker Slab | Gizmy (Gold, Ranked) | Cologne 2026
+Sticker Slab | AZUWU (Foil, Ranked) | Cologne 2026
+Sticker Slab | AZUWU (Holo, Ranked) | Cologne 2026
+Sticker Slab | AZUWU (Gold, Ranked) | Cologne 2026
+Sticker Slab | max (Foil, Ranked) | Cologne 2026
+Sticker Slab | max (Holo, Ranked) | Cologne 2026
+Sticker Slab | dgt (Foil, Ranked) | Cologne 2026
+Sticker Slab | dgt (Holo, Ranked) | Cologne 2026
+Sticker Slab | dgt (Gold, Ranked) | Cologne 2026
+Sticker Slab | meyern (Foil, Ranked) | Cologne 2026
+Sticker Slab | meyern (Holo, Ranked) | Cologne 2026
+Sticker Slab | meyern (Gold, Ranked) | Cologne 2026
+Sticker Slab | luchov (Foil, Ranked) | Cologne 2026
+Sticker Slab | luchov (Holo, Ranked) | Cologne 2026
+Sticker Slab | luchov (Gold, Ranked) | Cologne 2026
+Sticker Slab | HUASOPEEK (Foil, Ranked) | Cologne 2026
+Sticker Slab | HUASOPEEK (Holo, Ranked) | Cologne 2026
+Sticker Slab | HUASOPEEK (Gold, Ranked) | Cologne 2026
+Sticker Slab | Snax (Foil, Ranked) | Cologne 2026
+Sticker Slab | Snax (Holo, Ranked) | Cologne 2026
+Sticker Slab | Snax (Gold, Ranked) | Cologne 2026
+Sticker Slab | REZ (Foil, Ranked) | Cologne 2026
+Sticker Slab | REZ (Holo, Ranked) | Cologne 2026
+Sticker Slab | REZ (Gold, Ranked) | Cologne 2026
+Sticker Slab | Tauson (Foil, Ranked) | Cologne 2026
+Sticker Slab | Tauson (Holo, Ranked) | Cologne 2026
+Sticker Slab | Tauson (Gold, Ranked) | Cologne 2026
+Sticker Slab | PR (Foil, Ranked) | Cologne 2026
+Sticker Slab | PR (Holo, Ranked) | Cologne 2026
+Sticker Slab | PR (Gold, Ranked) | Cologne 2026
+Sticker Slab | hypex (Foil, Ranked) | Cologne 2026
+Sticker Slab | hypex (Holo, Ranked) | Cologne 2026
+Sticker Slab | hypex (Gold, Ranked) | Cologne 2026
+Sticker Slab | s1zzi (Foil, Ranked) | Cologne 2026
+Sticker Slab | s1zzi (Holo, Ranked) | Cologne 2026
+Sticker Slab | s1zzi (Gold, Ranked) | Cologne 2026
+Sticker Slab | npl (Foil, Ranked) | Cologne 2026
+Sticker Slab | npl (Holo, Ranked) | Cologne 2026
+Sticker Slab | npl (Gold, Ranked) | Cologne 2026
+Sticker Slab | esenthial (Foil, Ranked) | Cologne 2026
+Sticker Slab | esenthial (Holo, Ranked) | Cologne 2026
+Sticker Slab | esenthial (Gold, Ranked) | Cologne 2026
+Sticker Slab | alex666 (Foil, Ranked) | Cologne 2026
+Sticker Slab | alex666 (Holo, Ranked) | Cologne 2026
+Sticker Slab | alex666 (Gold, Ranked) | Cologne 2026
+Sticker Slab | kensizor (Foil, Ranked) | Cologne 2026
+Sticker Slab | kensizor (Holo, Ranked) | Cologne 2026
+Sticker Slab | kensizor (Gold, Ranked) | Cologne 2026
+Sticker Slab | xfl0ud (Foil, Ranked) | Cologne 2026
+Sticker Slab | xfl0ud (Holo, Ranked) | Cologne 2026
+Sticker Slab | xfl0ud (Gold, Ranked) | Cologne 2026
+Sticker Slab | nilo (Foil, Ranked) | Cologne 2026
+Sticker Slab | nilo (Holo, Ranked) | Cologne 2026
+Sticker Slab | nilo (Gold, Ranked) | Cologne 2026
+Sticker Slab | susp (Foil, Ranked) | Cologne 2026
+Sticker Slab | susp (Holo, Ranked) | Cologne 2026
+Sticker Slab | susp (Gold, Ranked) | Cologne 2026
+Sticker Slab | Chr1zN (Foil, Ranked) | Cologne 2026
+Sticker Slab | Chr1zN (Holo, Ranked) | Cologne 2026
+Sticker Slab | Chr1zN (Gold, Ranked) | Cologne 2026
+Sticker Slab | yxngstxr (Foil, Ranked) | Cologne 2026
+Sticker Slab | yxngstxr (Holo, Ranked) | Cologne 2026
+Sticker Slab | yxngstxr (Gold, Ranked) | Cologne 2026
+Sticker Slab | Boombl4 (Foil, Ranked) | Cologne 2026
+Sticker Slab | Boombl4 (Holo, Ranked) | Cologne 2026
+Sticker Slab | Boombl4 (Gold, Ranked) | Cologne 2026
+Sticker Slab | zorte (Foil, Ranked) | Cologne 2026
+Sticker Slab | zorte (Holo, Ranked) | Cologne 2026
+Sticker Slab | zorte (Gold, Ranked) | Cologne 2026
+Sticker Slab | S1ren (Foil, Ranked) | Cologne 2026
+Sticker Slab | S1ren (Holo, Ranked) | Cologne 2026
+Sticker Slab | S1ren (Gold, Ranked) | Cologne 2026
+Sticker Slab | FL4MUS (Foil, Ranked) | Cologne 2026
+Sticker Slab | FL4MUS (Holo, Ranked) | Cologne 2026
+Sticker Slab | FL4MUS (Gold, Ranked) | Cologne 2026
+Sticker Slab | Magnojez (Foil, Ranked) | Cologne 2026
+Sticker Slab | Magnojez (Holo, Ranked) | Cologne 2026
+Sticker Slab | Magnojez (Gold, Ranked) | Cologne 2026
+Sticker Slab | tabseN (Foil, Ranked) | Cologne 2026
+Sticker Slab | tabseN (Holo, Ranked) | Cologne 2026
+Sticker Slab | tabseN (Gold, Ranked) | Cologne 2026
+Sticker Slab | JDC (Foil, Ranked) | Cologne 2026
+Sticker Slab | JDC (Holo, Ranked) | Cologne 2026
+Sticker Slab | JDC (Gold, Ranked) | Cologne 2026
+Sticker Slab | faveN (Foil, Ranked) | Cologne 2026
+Sticker Slab | faveN (Holo, Ranked) | Cologne 2026
+Sticker Slab | faveN (Gold, Ranked) | Cologne 2026
+Sticker Slab | blameF (Foil, Ranked) | Cologne 2026
+Sticker Slab | blameF (Holo, Ranked) | Cologne 2026
+Sticker Slab | blameF (Gold, Ranked) | Cologne 2026
+Sticker Slab | gr1ks (Foil, Ranked) | Cologne 2026
+Sticker Slab | gr1ks (Holo, Ranked) | Cologne 2026
+Sticker Slab | gr1ks (Gold, Ranked) | Cologne 2026
+Sticker Slab | Swisher (Foil, Ranked) | Cologne 2026
+Sticker Slab | Swisher (Holo, Ranked) | Cologne 2026
+Sticker Slab | Swisher (Gold, Ranked) | Cologne 2026
+Sticker Slab | Lake (Foil, Ranked) | Cologne 2026
+Sticker Slab | Lake (Holo, Ranked) | Cologne 2026
+Sticker Slab | Lake (Gold, Ranked) | Cologne 2026
+Sticker Slab | JBa (Foil, Ranked) | Cologne 2026
+Sticker Slab | JBa (Holo, Ranked) | Cologne 2026
+Sticker Slab | JBa (Gold, Ranked) | Cologne 2026
+Sticker Slab | s1n (Foil, Ranked) | Cologne 2026
+Sticker Slab | s1n (Holo, Ranked) | Cologne 2026
+Sticker Slab | s1n (Gold, Ranked) | Cologne 2026
+Sticker Slab | slaxz- (Foil, Ranked) | Cologne 2026
+Sticker Slab | slaxz- (Holo, Ranked) | Cologne 2026
+Sticker Slab | slaxz- (Gold, Ranked) | Cologne 2026
+Sticker Slab | LNZ (Foil, Ranked) | Cologne 2026
+Sticker Slab | LNZ (Holo, Ranked) | Cologne 2026
+Sticker Slab | LNZ (Gold, Ranked) | Cologne 2026
+Sticker Slab | insani (Foil, Ranked) | Cologne 2026
+Sticker Slab | insani (Holo, Ranked) | Cologne 2026
+Sticker Slab | insani (Gold, Ranked) | Cologne 2026
+Sticker Slab | brnz4n (Foil, Ranked) | Cologne 2026
+Sticker Slab | brnz4n (Holo, Ranked) | Cologne 2026
+Sticker Slab | brnz4n (Gold, Ranked) | Cologne 2026
+Sticker Slab | venomzera (Foil, Ranked) | Cologne 2026
+Sticker Slab | venomzera (Holo, Ranked) | Cologne 2026
+Sticker Slab | venomzera (Gold, Ranked) | Cologne 2026
+Sticker Slab | kl1m (Foil, Ranked) | Cologne 2026
+Sticker Slab | kl1m (Holo, Ranked) | Cologne 2026
+Sticker Slab | kl1m (Gold, Ranked) | Cologne 2026
+Sticker Slab | beastik (Foil, Ranked) | Cologne 2026
+Sticker Slab | beastik (Holo, Ranked) | Cologne 2026
+Sticker Slab | beastik (Gold, Ranked) | Cologne 2026
+Sticker Slab | SHOCK (Foil, Ranked) | Cologne 2026
+Sticker Slab | SHOCK (Holo, Ranked) | Cologne 2026
+Sticker Slab | SHOCK (Gold, Ranked) | Cologne 2026
+Sticker Slab | MoDo (Foil, Ranked) | Cologne 2026
+Sticker Slab | MoDo (Holo, Ranked) | Cologne 2026
+Sticker Slab | MoDo (Gold, Ranked) | Cologne 2026
+Sticker Slab | kisserek (Foil, Ranked) | Cologne 2026
+Sticker Slab | kisserek (Holo, Ranked) | Cologne 2026
+Sticker Slab | kisserek (Gold, Ranked) | Cologne 2026
+Sticker Slab | stressarN (Foil, Ranked) | Cologne 2026
+Sticker Slab | stressarN (Holo, Ranked) | Cologne 2026
+Sticker Slab | stressarN (Gold, Ranked) | Cologne 2026
+Sticker Slab | Grim (Foil, Ranked) | Cologne 2026
+Sticker Slab | Grim (Holo, Ranked) | Cologne 2026
+Sticker Slab | Grim (Gold, Ranked) | Cologne 2026
+Sticker Slab | br0 (Foil, Ranked) | Cologne 2026
+Sticker Slab | br0 (Holo, Ranked) | Cologne 2026
+Sticker Slab | br0 (Gold, Ranked) | Cologne 2026
+Sticker Slab | oSee (Foil, Ranked) | Cologne 2026
+Sticker Slab | oSee (Holo, Ranked) | Cologne 2026
+Sticker Slab | oSee (Gold, Ranked) | Cologne 2026
+Sticker Slab | Sonic (Foil, Ranked) | Cologne 2026
+Sticker Slab | Sonic (Holo, Ranked) | Cologne 2026
+Sticker Slab | Sonic (Gold, Ranked) | Cologne 2026
+Sticker Slab | nitr0 (Foil, Ranked) | Cologne 2026
+Sticker Slab | nitr0 (Holo, Ranked) | Cologne 2026
+Sticker Slab | nitr0 (Gold, Ranked) | Cologne 2026
+Sticker Slab | Mercury (Foil, Ranked) | Cologne 2026
+Sticker Slab | Mercury (Holo, Ranked) | Cologne 2026
+Sticker Slab | Mercury (Gold, Ranked) | Cologne 2026
+Sticker Slab | Jee (Foil, Ranked) | Cologne 2026
+Sticker Slab | Jee (Gold, Ranked) | Cologne 2026
+Sticker Slab | JamYoung (Foil, Ranked) | Cologne 2026
+Sticker Slab | Moseyuh (Foil, Ranked) | Cologne 2026
+Sticker Slab | Moseyuh (Holo, Ranked) | Cologne 2026
+Sticker Slab | Moseyuh (Gold, Ranked) | Cologne 2026
+Sticker Slab | Zero (Foil, Ranked) | Cologne 2026
+Sticker Slab | Zero (Holo, Ranked) | Cologne 2026
+Sticker Slab | Zero (Gold, Ranked) | Cologne 2026
+Sticker Slab | gafolo (Foil, Ranked) | Cologne 2026
+Sticker Slab | gafolo (Holo, Ranked) | Cologne 2026
+Sticker Slab | gafolo (Gold, Ranked) | Cologne 2026
+Sticker Slab | koala (Foil, Ranked) | Cologne 2026
+Sticker Slab | koala (Holo, Ranked) | Cologne 2026
+Sticker Slab | koala (Gold, Ranked) | Cologne 2026
+Sticker Slab | maxxkor (Foil, Ranked) | Cologne 2026
+Sticker Slab | maxxkor (Holo, Ranked) | Cologne 2026
+Sticker Slab | maxxkor (Gold, Ranked) | Cologne 2026
+Sticker Slab | rdnzao (Foil, Ranked) | Cologne 2026
+Sticker Slab | rdnzao (Holo, Ranked) | Cologne 2026
+Sticker Slab | rdnzao (Gold, Ranked) | Cologne 2026
+Sticker Slab | doc (Foil, Ranked) | Cologne 2026
+Sticker Slab | doc (Holo, Ranked) | Cologne 2026
+Sticker Slab | doc (Gold, Ranked) | Cologne 2026
+Sticker Slab | HEN1 (Foil, Ranked) | Cologne 2026
+Sticker Slab | HEN1 (Holo, Ranked) | Cologne 2026
+Sticker Slab | HEN1 (Gold, Ranked) | Cologne 2026
+Sticker Slab | felps (Foil, Ranked) | Cologne 2026
+Sticker Slab | felps (Holo, Ranked) | Cologne 2026
+Sticker Slab | felps (Gold, Ranked) | Cologne 2026
+Sticker Slab | NEKiZ (Foil, Ranked) | Cologne 2026
+Sticker Slab | NEKiZ (Holo, Ranked) | Cologne 2026
+Sticker Slab | NEKiZ (Gold, Ranked) | Cologne 2026
+Sticker Slab | luken (Foil, Ranked) | Cologne 2026
+Sticker Slab | luken (Holo, Ranked) | Cologne 2026
+Sticker Slab | luken (Gold, Ranked) | Cologne 2026
+Sticker Slab | JOTA (Foil, Ranked) | Cologne 2026
+Sticker Slab | JOTA (Holo, Ranked) | Cologne 2026
+Sticker Slab | JOTA (Gold, Ranked) | Cologne 2026
+Sticker Slab | EliGE (Foil, Ranked) | Cologne 2026
+Sticker Slab | EliGE (Holo, Ranked) | Cologne 2026
+Sticker Slab | EliGE (Gold, Ranked) | Cologne 2026
+Sticker Slab | ultimate (Foil, Ranked) | Cologne 2026
+Sticker Slab | ultimate (Holo, Ranked) | Cologne 2026
+Sticker Slab | ultimate (Gold, Ranked) | Cologne 2026
+Sticker Slab | malbsMd (Foil, Ranked) | Cologne 2026
+Sticker Slab | malbsMd (Holo, Ranked) | Cologne 2026
+Sticker Slab | malbsMd (Gold, Ranked) | Cologne 2026
+Sticker Slab | siuhy (Foil, Ranked) | Cologne 2026
+Sticker Slab | siuhy (Holo, Ranked) | Cologne 2026
+Sticker Slab | siuhy (Gold, Ranked) | Cologne 2026
+Sticker Slab | NAF (Foil, Ranked) | Cologne 2026
+Sticker Slab | NAF (Holo, Ranked) | Cologne 2026
+Sticker Slab | NAF (Gold, Ranked) | Cologne 2026
+Sticker Slab | westmelon (Foil, Ranked) | Cologne 2026
+Sticker Slab | westmelon (Holo, Ranked) | Cologne 2026
+Sticker Slab | westmelon (Gold, Ranked) | Cologne 2026
+Sticker Slab | z4KR (Foil, Ranked) | Cologne 2026
+Sticker Slab | z4KR (Holo, Ranked) | Cologne 2026
+Sticker Slab | z4KR (Gold, Ranked) | Cologne 2026
+Sticker Slab | Starry (Foil, Ranked) | Cologne 2026
+Sticker Slab | Starry (Holo, Ranked) | Cologne 2026
+Sticker Slab | Starry (Gold, Ranked) | Cologne 2026
+Sticker Slab | EmiliaQAQ (Foil, Ranked) | Cologne 2026
+Sticker Slab | EmiliaQAQ (Holo, Ranked) | Cologne 2026
+Sticker Slab | EmiliaQAQ (Gold, Ranked) | Cologne 2026
+Sticker Slab | C4LLM3SU3 (Gold, Ranked) | Cologne 2026
+Sticker Slab | dexter (Foil, Ranked) | Cologne 2026
+Sticker Slab | dexter (Holo, Ranked) | Cologne 2026
+Sticker Slab | dexter (Gold, Ranked) | Cologne 2026
+Sticker Slab | Liazz (Foil, Ranked) | Cologne 2026
+Sticker Slab | Liazz (Holo, Ranked) | Cologne 2026
+Sticker Slab | Liazz (Gold, Ranked) | Cologne 2026
+Sticker Slab | aliStair (Foil, Ranked) | Cologne 2026
+Sticker Slab | aliStair (Holo, Ranked) | Cologne 2026
+Sticker Slab | aliStair (Gold, Ranked) | Cologne 2026
+Sticker Slab | asap (Foil, Ranked) | Cologne 2026
+Sticker Slab | asap (Holo, Ranked) | Cologne 2026
+Sticker Slab | asap (Gold, Ranked) | Cologne 2026
+Sticker Slab | TjP (Foil, Ranked) | Cologne 2026
+Sticker Slab | TjP (Holo, Ranked) | Cologne 2026
+Sticker Slab | TjP (Gold, Ranked) | Cologne 2026
+Sticker Slab | INS (Foil, Ranked) | Cologne 2026
+Sticker Slab | INS (Holo, Ranked) | Cologne 2026
+Sticker Slab | INS (Gold, Ranked) | Cologne 2026
+Sticker Slab | jks (Foil, Ranked) | Cologne 2026
+Sticker Slab | jks (Holo, Ranked) | Cologne 2026
+Sticker Slab | jks (Gold, Ranked) | Cologne 2026
+Sticker Slab | vexite (Foil, Ranked) | Cologne 2026
+Sticker Slab | vexite (Holo, Ranked) | Cologne 2026
+Sticker Slab | vexite (Gold, Ranked) | Cologne 2026
+Sticker Slab | story (Foil, Ranked) | Cologne 2026
+Sticker Slab | story (Gold, Ranked) | Cologne 2026
+Sticker Slab | nettik (Foil, Ranked) | Cologne 2026
+Sticker Slab | nettik (Holo, Ranked) | Cologne 2026
+Sticker Slab | nettik (Gold, Ranked) | Cologne 2026
 
 IDs of sticker slabs known to be missing on buff163, buff.market and cs.money:
 Sticker Slab | DEVIL (Foil) | Cologne 2016
@@ -666,9 +1196,16 @@ Sticker Slab | Monte (Gold) | Cologne 2026
 Sticker Slab | Lynn Vision (Gold) | Cologne 2026
 Sticker Slab | Spinx | Cologne 2026
 Sticker Slab | afro (Gold) | Cologne 2026
-Sticker Slab | Apple A Day (Glitter)
-Sticker Slab | B'nana Strike
-Sticker Slab | Pungent Comms
+Sticker Slab | Natus Vincere (Holo, Ranked) | Cologne 2026
+Sticker Slab | FURIA (Holo, Ranked) | Cologne 2026
+Sticker Slab | G2 esports (Holo, Ranked) | Cologne 2026
+Sticker Slab | paiN Gaming (Holo, Ranked) | Cologne 2026
+Sticker Slab | TYLOO (Holo, Ranked) | Cologne 2026
+Sticker Slab | Techno4K (Gold, Ranked) | Cologne 2026
+Sticker Slab | C4LLM3SU3 (Holo, Ranked) | Cologne 2026
+
+IDs of sticker slabs known to be missing on youpin898, buff.market and cs.money:
+Sticker Slab | SINNERS (Holo, Ranked) | Cologne 2026
 
 IDs of sticker slabs known to be missing on youpin898 and cs.money:
 Sticker Slab | 3DMAX | Katowice 2014
@@ -871,7 +1408,6 @@ Sticker Slab | byali (Foil) | Cluj-Napoca 2015
 Sticker Slab | byali (Foil) | Cologne 2015
 Sticker Slab | byali (Foil) | Cologne 2016
 Sticker Slab | byali | Atlanta 2017
-Sticker Slab | byali | Cologne 2016
 Sticker Slab | cajunb (Foil) | Atlanta 2017
 Sticker Slab | cajunb (Foil) | Cologne 2015
 Sticker Slab | cajunb (Foil) | Krakow 2017
@@ -891,6 +1427,7 @@ Sticker Slab | denis (Foil) | Boston 2018
 Sticker Slab | denis (Foil) | Cluj-Napoca 2015
 Sticker Slab | denis (Foil) | Cologne 2015
 Sticker Slab | denis | Atlanta 2017
+Sticker Slab | denis | Cluj-Napoca 2015
 Sticker Slab | denis | MLG Columbus 2016
 Sticker Slab | dennis | Atlanta 2017
 Sticker Slab | device (Gold) | Boston 2018
@@ -976,6 +1513,7 @@ Sticker Slab | nex | Cluj-Napoca 2015
 Sticker Slab | nex | Cologne 2016
 Sticker Slab | nitr0 (Foil) | Boston 2018
 Sticker Slab | nitr0 (Gold) | Boston 2018
+Sticker Slab | nitr0 | Atlanta 2017
 Sticker Slab | olofmeister (Foil) | Cluj-Napoca 2015
 Sticker Slab | olofmeister (Gold) | Boston 2018
 Sticker Slab | oskar (Gold) | Boston 2018
@@ -1138,6 +1676,7 @@ Sticker Slab | xseveN (Foil) | Katowice 2019
 Sticker Slab | Aleksib (Gold) | Katowice 2019
 Sticker Slab | XANTARES (Gold) | Katowice 2019
 Sticker Slab | DeadFox (Gold) | Katowice 2019
+Sticker Slab | DavCost (Gold) | Katowice 2019
 Sticker Slab | ALEX (Gold) | Katowice 2019
 Sticker Slab | COLDYY1 (Gold) | Katowice 2019
 Sticker Slab | CeRq (Gold) | Katowice 2019
@@ -1224,10 +1763,8 @@ Sticker Slab | paiN Gaming (Foil) | Stockholm 2021
 Sticker Slab | BIG (Gold) | Stockholm 2021
 Sticker Slab | ENCE (Gold) | Stockholm 2021
 Sticker Slab | Plopski (Gold) | Stockholm 2021
-Sticker Slab | HObbit (Holo) | Stockholm 2021
 Sticker Slab | interz (Holo) | Stockholm 2021
 Sticker Slab | Kyojin (Holo) | Stockholm 2021
-Sticker Slab | drop (Holo) | Stockholm 2021
 Sticker Slab | FL1T (Gold) | Stockholm 2021
 Sticker Slab | VINI (Gold) | Stockholm 2021
 Sticker Slab | drop (Gold) | Stockholm 2021
@@ -1427,7 +1964,6 @@ Sticker Slab | fame (Foil) | Austin 2025
 Sticker Slab | isak (Holo) | Austin 2025
 Sticker Slab | Liazz (Foil) | Austin 2025
 Sticker Slab | vexite (Holo) | Austin 2025
-Sticker Slab | snow (Foil) | Austin 2025
 Sticker Slab | headtr1ck (Holo) | Austin 2025
 Sticker Slab | kensizor (Holo) | Austin 2025
 Sticker Slab | Swisher (Holo) | Austin 2025
@@ -1560,16 +2096,34 @@ Sticker Slab | dexter (Gold) | Cologne 2026
 Sticker Slab | aliStair (Gold) | Cologne 2026
 Sticker Slab | asap (Gold) | Cologne 2026
 Sticker Slab | vexite (Gold) | Cologne 2026
-Sticker Slab | story (Gold) | Cologne 2026
-Sticker Slab | nettik (Gold) | Cologne 2026
 Sticker Slab | Pepper Gauge (Lenticular)
 Sticker Slab | Fruit Fly (Foil)
 Sticker Slab | From The Vine (Holo)
 Sticker Slab | Turbo Peek (Foil)
 Sticker Slab | Sniper Ahead (Foil)
+Sticker Slab | Falcons (Foil, Ranked) | Cologne 2026
+Sticker Slab | PARIVISION (Holo, Ranked) | Cologne 2026
+Sticker Slab | FlyQuest (Holo, Ranked) | Cologne 2026
+Sticker Slab | IEM (Holo, Ranked) | Cologne 2026
+Sticker Slab | ropz (Foil, Ranked) | Cologne 2026
+Sticker Slab | ropz (Gold, Ranked) | Cologne 2026
+Sticker Slab | w0nderful (Gold, Ranked) | Cologne 2026
+Sticker Slab | NiKo (Foil, Ranked) | Cologne 2026
+Sticker Slab | m0NESY (Foil, Ranked) | Cologne 2026
+Sticker Slab | kyousuke (Foil, Ranked) | Cologne 2026
+Sticker Slab | Jame (Holo, Ranked) | Cologne 2026
+Sticker Slab | Jame (Gold, Ranked) | Cologne 2026
+Sticker Slab | FalleN (Holo, Ranked) | Cologne 2026
+Sticker Slab | magixx (Holo, Ranked) | Cologne 2026
+Sticker Slab | magixx (Gold, Ranked) | Cologne 2026
+Sticker Slab | zont1x (Holo, Ranked) | Cologne 2026
+Sticker Slab | max (Gold, Ranked) | Cologne 2026
+Sticker Slab | C4LLM3SU3 (Foil, Ranked) | Cologne 2026
+Sticker Slab | story (Holo, Ranked) | Cologne 2026
 
 IDs of sticker slabs known to be missing on buff.market and cs.money:
 Sticker Slab | kyxsan (Foil) | Cologne 2026
+Sticker Slab | Jee (Holo, Ranked) | Cologne 2026
 
 IDs of sticker slabs known to be missing on cs.money:
 Sticker Slab | Mahjong Zhong
@@ -2571,6 +3125,7 @@ Sticker Slab | byali (Gold) | Krakow 2017
 Sticker Slab | byali | Boston 2018
 Sticker Slab | byali | Cluj-Napoca 2015
 Sticker Slab | byali | Cologne 2015
+Sticker Slab | byali | Cologne 2016
 Sticker Slab | byali | Krakow 2017
 Sticker Slab | byali | MLG Columbus 2016
 Sticker Slab | cajunb (Foil) | Cluj-Napoca 2015
@@ -4490,6 +5045,7 @@ Sticker Slab | hampus | Stockholm 2021
 Sticker Slab | Plopski (Holo) | Stockholm 2021
 Sticker Slab | hampus (Holo) | Stockholm 2021
 Sticker Slab | nafany (Holo) | Stockholm 2021
+Sticker Slab | HObbit (Holo) | Stockholm 2021
 Sticker Slab | refrezh (Holo) | Stockholm 2021
 Sticker Slab | b1t (Gold) | Stockholm 2021
 Sticker Slab | VINI (Holo) | Stockholm 2021
@@ -4511,6 +5067,7 @@ Sticker Slab | TeSeS (Holo) | Stockholm 2021
 Sticker Slab | nexa (Holo) | Stockholm 2021
 Sticker Slab | JACKZ (Gold) | Stockholm 2021
 Sticker Slab | device (Holo) | Stockholm 2021
+Sticker Slab | drop (Holo) | Stockholm 2021
 Sticker Slab | Kyojin (Gold) | Stockholm 2021
 Sticker Slab | huNter- (Gold) | Stockholm 2021
 Sticker Slab | TeSeS (Gold) | Stockholm 2021
@@ -7789,6 +8346,7 @@ Sticker Slab | Officio Assassinorum
 Sticker Slab | 3DMAX | Austin 2025
 Sticker Slab | Lake (Foil) | Austin 2025
 Sticker Slab | Techno4K (Holo) | Austin 2025
+Sticker Slab | snow (Foil) | Austin 2025
 Sticker Slab | Brollan (Holo) | Austin 2025
 Sticker Slab | Buzz (Foil) | Austin 2025
 Sticker Slab | yuurih (Foil) | Austin 2025
@@ -9576,9 +10134,11 @@ Sticker Slab | vexite (Holo) | Cologne 2026
 Sticker Slab | story | Cologne 2026
 Sticker Slab | story (Foil) | Cologne 2026
 Sticker Slab | story (Holo) | Cologne 2026
+Sticker Slab | story (Gold) | Cologne 2026
 Sticker Slab | nettik | Cologne 2026
 Sticker Slab | nettik (Foil) | Cologne 2026
 Sticker Slab | nettik (Holo) | Cologne 2026
+Sticker Slab | nettik (Gold) | Cologne 2026
 Sticker Slab | NiKo (Champion) | Cologne 2026
 Sticker Slab | NiKo (Foil, Champion) | Cologne 2026
 Sticker Slab | NiKo (Holo, Champion) | Cologne 2026
@@ -9649,15 +10209,18 @@ Sticker Slab | Ultra Fruity (Holo)
 Sticker Slab | Knife Streak (Holo)
 Sticker Slab | Quality Control (Holo)
 Sticker Slab | Aceberry (Glitter)
+Sticker Slab | Apple A Day (Glitter)
 Sticker Slab | Lemin
 Sticker Slab | Agent Kucumber
 Sticker Slab | Box Logo
 Sticker Slab | Heckler
 Sticker Slab | Scratch N' Whiff
 Sticker Slab | From The Source
+Sticker Slab | B'nana Strike
 Sticker Slab | Fresh Cut
 Sticker Slab | Radish K
 Sticker Slab | Peekle
+Sticker Slab | Pungent Comms
 Sticker Slab | Digital Dashboard (Lenticular)
 Sticker Slab | NITRO! (Lenticular)
 Sticker Slab | Handheld (Lenticular)
@@ -9684,3 +10247,21 @@ Sticker Slab | Run Boost Lift Kits
 Sticker Slab | Safari Shine
 Sticker Slab | Boreal Blast
 Sticker Slab | Sand Dune Baja Tour
+Sticker Slab | Falcons (Holo, Ranked) | Cologne 2026
+Sticker Slab | Team Spirit (Holo, Ranked) | Cologne 2026
+Sticker Slab | GamerLegion (Holo, Ranked) | Cologne 2026
+Sticker Slab | TYLOO (Foil, Ranked) | Cologne 2026
+Sticker Slab | Team Liquid (Holo, Ranked) | Cologne 2026
+Sticker Slab | THUNDERdOWNUNDER (Holo, Ranked) | Cologne 2026
+Sticker Slab | NiKo (Holo, Ranked) | Cologne 2026
+Sticker Slab | NiKo (Gold, Ranked) | Cologne 2026
+Sticker Slab | m0NESY (Holo, Ranked) | Cologne 2026
+Sticker Slab | m0NESY (Gold, Ranked) | Cologne 2026
+Sticker Slab | kyousuke (Gold, Ranked) | Cologne 2026
+Sticker Slab | XANTARES (Holo, Ranked) | Cologne 2026
+Sticker Slab | donk (Holo, Ranked) | Cologne 2026
+Sticker Slab | donk (Gold, Ranked) | Cologne 2026
+Sticker Slab | sh1ro (Holo, Ranked) | Cologne 2026
+Sticker Slab | sh1ro (Gold, Ranked) | Cologne 2026
+Sticker Slab | JamYoung (Holo, Ranked) | Cologne 2026
+Sticker Slab | JamYoung (Gold, Ranked) | Cologne 2026

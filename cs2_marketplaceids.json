@@ -207871,6 +207871,7 @@
     },
     "Sticker Slab | HObbit (Holo) | Stockholm 2021": {
       "buff163_goods_id": 1128288,
+      "youpin_id": 125352,
       "buffmarket_goods_id": 38382,
       "buff163_charm_id": 136546
     },
@@ -208605,6 +208606,7 @@
     },
     "Sticker Slab | drop (Holo) | Stockholm 2021": {
       "buff163_goods_id": 1128413,
+      "youpin_id": 125349,
       "buffmarket_goods_id": 38412,
       "buff163_charm_id": 136671
     },
@@ -230911,6 +230913,7 @@
     },
     "Sticker Slab | snow (Foil) | Austin 2025": {
       "buff163_goods_id": 1133286,
+      "youpin_id": 125350,
       "buffmarket_goods_id": 45761,
       "buff163_charm_id": 140114
     },
@@ -236911,6 +236914,7 @@
     },
     "Sticker Slab | byali | Cologne 2016": {
       "buff163_goods_id": 1134697,
+      "youpin_id": 125616,
       "buffmarket_goods_id": 46093,
       "buff163_charm_id": 141181
     },
@@ -250874,6 +250878,7 @@
     },
     "Sticker Slab | nettik (Gold) | Cologne 2026": {
       "buff163_goods_id": 1137878,
+      "youpin_id": 125347,
       "buffmarket_goods_id": 48475,
       "buff163_charm_id": 143577
     },
@@ -254343,7 +254348,8 @@
     "Sticker | kyxsan (Gold, Champion) | Cologne 2026": {
       "buff163_goods_id": 1146121,
       "youpin_id": 124629,
-      "buffmarket_goods_id": 49227
+      "buffmarket_goods_id": 49227,
+      "buff163_sticker_id": 144381
     },
     "Souvenir Charm | Cologne 2026 Highlight | tabseN 1v2 Clutch": {
       "buff163_goods_id": 1146122,
@@ -256492,7 +256498,8 @@
       "buff163_goods_id": 1146886,
       "youpin_id": 125057,
       "buffmarket_goods_id": 49660,
-      "buff163_sticker_id": 144211
+      "buff163_sticker_id": 144211,
+      "buffmarket_sticker_id": 23857
     },
     "Sticker | Heckler": {
       "buff163_goods_id": 1146887,
@@ -256950,7 +256957,8 @@
       "youpin_id": 125098,
       "buffmarket_goods_id": 49720,
       "csmoney_nameid": 2626489,
-      "buff163_sticker_id": 144240
+      "buff163_sticker_id": 144240,
+      "buffmarket_sticker_id": 23859
     },
     "AWP | Sovereign Flame (Battle-Scarred)": {
       "buff163_goods_id": 1146969,
@@ -257481,6 +257489,7 @@
     },
     "Sticker Slab | story (Gold) | Cologne 2026": {
       "buff163_goods_id": 1147165,
+      "youpin_id": 125714,
       "buffmarket_goods_id": 49819,
       "buff163_charm_id": 144272
     },
@@ -258244,6 +258253,3175 @@
       "buffmarket_goods_id": 49984,
       "buff163_charm_id": 144372
     },
+    "Souvenir FAMAS | Rapid Eye Movement (Factory New)": {
+      "buff163_goods_id": 1147542,
+      "buffmarket_goods_id": 49985
+    },
+    "Souvenir P2000 | Imperial (Field-Tested)": {
+      "buff163_goods_id": 1147543,
+      "buffmarket_goods_id": 49986
+    },
+    "Souvenir AK-47 | Consequence of the Jinn (Factory New)": {
+      "buff163_goods_id": 1147545,
+      "youpin_id": 125329,
+      "buffmarket_goods_id": 49987
+    },
+    "Souvenir G3SG1 | Green Apple (Minimal Wear)": {
+      "buff163_goods_id": 1147546,
+      "buffmarket_goods_id": 49988
+    },
+    "Sticker Slab | denis | Cluj-Napoca 2015": {
+      "buff163_goods_id": 1147547,
+      "buffmarket_goods_id": 49989,
+      "buff163_charm_id": 144373
+    },
+    "Souvenir M4A1-S | Golden Coil (Factory New)": {
+      "buff163_goods_id": 1147551,
+      "buffmarket_goods_id": 49990
+    },
+    "Souvenir Nova | Morning Sun (Factory New)": {
+      "buff163_goods_id": 1147554,
+      "buffmarket_goods_id": 49991
+    },
+    "Souvenir CZ75-Auto | Syndicate (Factory New)": {
+      "buff163_goods_id": 1147555,
+      "buffmarket_goods_id": 49992
+    },
+    "Sticker Slab | Apple A Day (Glitter)": {
+      "buff163_goods_id": 1147556,
+      "youpin_id": 125310,
+      "buffmarket_goods_id": 49993,
+      "buff163_charm_id": 144376
+    },
+    "Sticker Slab | Pungent Comms": {
+      "buff163_goods_id": 1147557,
+      "youpin_id": 125337,
+      "buffmarket_goods_id": 49994,
+      "buff163_charm_id": 144378
+    },
+    "Sticker Slab | nitr0 | Atlanta 2017": {
+      "buff163_goods_id": 1147559,
+      "buffmarket_goods_id": 49995,
+      "buff163_charm_id": 144385
+    },
+    "Souvenir MAC-10 | Poplar Thicket (Factory New)": {
+      "buff163_goods_id": 1147561,
+      "buffmarket_goods_id": 49996
+    },
+    "Sticker Slab | B'nana Strike": {
+      "buff163_goods_id": 1147562,
+      "youpin_id": 125332,
+      "buffmarket_goods_id": 49997,
+      "buff163_charm_id": 144387
+    },
+    "Souvenir Glock-18 | Moonrise (Field-Tested)": {
+      "buff163_goods_id": 1147564,
+      "youpin_id": 124213,
+      "buffmarket_goods_id": 49998
+    },
+    "Sticker | b1t (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147569,
+      "youpin_id": 125447,
+      "buffmarket_goods_id": 49999,
+      "buff163_sticker_id": 144463
+    },
+    "Sticker | NiKo (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147571,
+      "youpin_id": 125362,
+      "buffmarket_goods_id": 50000,
+      "buff163_sticker_id": 144464
+    },
+    "Sticker | Team Spirit (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147576,
+      "youpin_id": 125357,
+      "buffmarket_goods_id": 50001,
+      "buff163_sticker_id": 144465
+    },
+    "Sticker | Vitality (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147577,
+      "youpin_id": 125668,
+      "buffmarket_goods_id": 50002,
+      "buff163_sticker_id": 144466
+    },
+    "Sticker | FlameZ (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147579,
+      "youpin_id": 125482,
+      "buffmarket_goods_id": 50003,
+      "buff163_sticker_id": 144467
+    },
+    "Sticker | Zero (Holo, Ranked)  | Cologne 2026": {
+      "buff163_goods_id": 1147581
+    },
+    "Sticker | donk (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147582,
+      "youpin_id": 125354,
+      "buffmarket_goods_id": 50005,
+      "buff163_sticker_id": 144469
+    },
+    "Sticker | NiKo (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147583,
+      "youpin_id": 125364,
+      "buffmarket_goods_id": 50006,
+      "buff163_sticker_id": 144470
+    },
+    "Sticker | ZywOo (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147584,
+      "youpin_id": 125366,
+      "buffmarket_goods_id": 50007,
+      "buff163_sticker_id": 144471
+    },
+    "Sticker | donk (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147586,
+      "youpin_id": 125358,
+      "buffmarket_goods_id": 50008,
+      "buff163_sticker_id": 144472
+    },
+    "Sticker | Jee (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147587,
+      "youpin_id": 125400,
+      "buffmarket_goods_id": 50009,
+      "buff163_sticker_id": 144473
+    },
+    "Sticker | THUNDERdOWNUNDER (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147588,
+      "youpin_id": 125353,
+      "buffmarket_goods_id": 50010,
+      "buff163_sticker_id": 144474
+    },
+    "Sticker | NiKo (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147600,
+      "youpin_id": 125390,
+      "buffmarket_goods_id": 50011,
+      "buff163_sticker_id": 144475
+    },
+    "Sticker | G2 esports (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147601,
+      "youpin_id": 125484,
+      "buffmarket_goods_id": 50012,
+      "buff163_sticker_id": 144476
+    },
+    "Sticker | Team Liquid (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147602,
+      "youpin_id": 125365,
+      "buffmarket_goods_id": 50013,
+      "buff163_sticker_id": 144477
+    },
+    "Sticker | FlyQuest (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147605,
+      "youpin_id": 125463,
+      "buffmarket_goods_id": 50014,
+      "buff163_sticker_id": 144478
+    },
+    "Sticker | m0NESY (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147606,
+      "youpin_id": 125375,
+      "buffmarket_goods_id": 50015,
+      "buff163_sticker_id": 144479
+    },
+    "Sticker | TYLOO (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147609,
+      "youpin_id": 125512,
+      "buffmarket_goods_id": 50016,
+      "buff163_sticker_id": 144480
+    },
+    "Sticker | TYLOO (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147610,
+      "youpin_id": 125359,
+      "buffmarket_goods_id": 50017,
+      "buff163_sticker_id": 144481
+    },
+    "Sticker | m0NESY (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147611,
+      "youpin_id": 125361,
+      "buffmarket_goods_id": 50018,
+      "buff163_sticker_id": 144482
+    },
+    "Sticker | JamYoung (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147617,
+      "youpin_id": 125367,
+      "buffmarket_goods_id": 50019,
+      "buff163_sticker_id": 144483
+    },
+    "Sticker | THUNDERdOWNUNDER (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147618,
+      "buffmarket_goods_id": 50020,
+      "buff163_sticker_id": 144484
+    },
+    "Sticker | sh1ro (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147619,
+      "youpin_id": 125569,
+      "buffmarket_goods_id": 50021,
+      "buff163_sticker_id": 144485
+    },
+    "Sticker | JamYoung (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147620,
+      "youpin_id": 125385,
+      "buffmarket_goods_id": 50022,
+      "buff163_sticker_id": 144486
+    },
+    "Sticker | Falcons (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147621,
+      "youpin_id": 125384,
+      "buffmarket_goods_id": 50025,
+      "buff163_sticker_id": 144487
+    },
+    "Sticker | Falcons (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147622,
+      "youpin_id": 125356,
+      "buffmarket_goods_id": 50026,
+      "buff163_sticker_id": 144488
+    },
+    "Sticker | kyousuke (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147625,
+      "youpin_id": 125363,
+      "buffmarket_goods_id": 50027,
+      "buff163_sticker_id": 144489
+    },
+    "Sticker | INS (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147626,
+      "youpin_id": 125585,
+      "buffmarket_goods_id": 50028,
+      "buff163_sticker_id": 144490
+    },
+    "Sticker | JBa (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147627,
+      "youpin_id": 125476,
+      "buffmarket_goods_id": 50029,
+      "buff163_sticker_id": 144491
+    },
+    "Sticker | molodoy (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147628,
+      "youpin_id": 125578,
+      "buffmarket_goods_id": 50030,
+      "buff163_sticker_id": 144492
+    },
+    "Sticker | kyousuke (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147630,
+      "youpin_id": 125383,
+      "buffmarket_goods_id": 50031,
+      "buff163_sticker_id": 144493
+    },
+    "Sticker | Jee (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147631,
+      "youpin_id": 125423,
+      "buffmarket_goods_id": 50032,
+      "buff163_sticker_id": 144494
+    },
+    "Sticker Slab | donk (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147632,
+      "youpin_id": 125378,
+      "buffmarket_goods_id": 50033,
+      "buff163_charm_id": 144389
+    },
+    "Sticker Slab | NiKo (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147634,
+      "youpin_id": 125379,
+      "buffmarket_goods_id": 50034,
+      "buff163_charm_id": 144391
+    },
+    "Sticker | GamerLegion (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147635,
+      "youpin_id": 125382,
+      "buffmarket_goods_id": 50035,
+      "buff163_sticker_id": 144495
+    },
+    "Sticker | IEM (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147637,
+      "youpin_id": 125368,
+      "buffmarket_goods_id": 50036,
+      "buff163_sticker_id": 144496
+    },
+    "Sticker | ZywOo (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147638,
+      "youpin_id": 125355,
+      "buffmarket_goods_id": 50047,
+      "buff163_sticker_id": 144497
+    },
+    "Sticker Slab | FalleN (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147640,
+      "buffmarket_goods_id": 50023,
+      "buff163_charm_id": 144392
+    },
+    "Sticker | BetBoom (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147641,
+      "youpin_id": 125499,
+      "buffmarket_goods_id": 50048,
+      "buff163_sticker_id": 144498
+    },
+    "Sticker | FlameZ (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147683,
+      "youpin_id": 125698,
+      "buffmarket_goods_id": 50049,
+      "buff163_sticker_id": 144499
+    },
+    "Sticker | Astralis (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147686,
+      "youpin_id": 125598,
+      "buffmarket_goods_id": 50050,
+      "buff163_sticker_id": 144500
+    },
+    "Sticker | NAF (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147687,
+      "youpin_id": 125422,
+      "buffmarket_goods_id": 50051,
+      "buff163_sticker_id": 144501
+    },
+    "Sticker | kyxsan (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147688,
+      "youpin_id": 125440,
+      "buffmarket_goods_id": 50052,
+      "buff163_sticker_id": 144502
+    },
+    "Sticker | TeSeS (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147689,
+      "youpin_id": 125409,
+      "buffmarket_goods_id": 50053,
+      "buff163_sticker_id": 144503
+    },
+    "Sticker | Lynn Vision (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147690,
+      "youpin_id": 125511,
+      "buffmarket_goods_id": 50054,
+      "buff163_sticker_id": 144504
+    },
+    "Sticker | kyxsan (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147691,
+      "youpin_id": 125414,
+      "buffmarket_goods_id": 50055,
+      "buff163_sticker_id": 144505
+    },
+    "Sticker | m0NESY (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147693,
+      "youpin_id": 125418,
+      "buffmarket_goods_id": 50056,
+      "buff163_sticker_id": 144506
+    },
+    "Sticker | FalleN (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147694,
+      "youpin_id": 125478,
+      "buffmarket_goods_id": 50057,
+      "buff163_sticker_id": 144507
+    },
+    "Sticker | ropz (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147695,
+      "youpin_id": 125374,
+      "buffmarket_goods_id": 50058,
+      "buff163_sticker_id": 144508
+    },
+    "Sticker | SINNERS (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147697,
+      "youpin_id": 125452,
+      "buffmarket_goods_id": 50059,
+      "buff163_sticker_id": 144509
+    },
+    "Sticker | FURIA (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147703,
+      "youpin_id": 125372,
+      "buffmarket_goods_id": 50060,
+      "buff163_sticker_id": 144512
+    },
+    "Sticker | Moseyuh (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147704,
+      "youpin_id": 125529,
+      "buffmarket_goods_id": 50061,
+      "buff163_sticker_id": 144513
+    },
+    "Sticker | Aurora (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147705,
+      "youpin_id": 125421,
+      "buffmarket_goods_id": 50072,
+      "buff163_sticker_id": 144514
+    },
+    "Sticker | The Mongolz (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147706,
+      "youpin_id": 125420,
+      "buffmarket_goods_id": 50073,
+      "buff163_sticker_id": 144515
+    },
+    "Sticker | soulfly (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147707,
+      "youpin_id": 125455,
+      "buffmarket_goods_id": 50074,
+      "buff163_sticker_id": 144516
+    },
+    "Sticker | gafolo (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147709,
+      "buffmarket_goods_id": 50075,
+      "buff163_sticker_id": 144517
+    },
+    "Sticker | afro (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147710,
+      "youpin_id": 125728,
+      "buffmarket_goods_id": 50076,
+      "buff163_sticker_id": 144518
+    },
+    "Sticker | xiELO (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147713,
+      "youpin_id": 125692,
+      "buffmarket_goods_id": 50077,
+      "buff163_sticker_id": 144519
+    },
+    "Sticker | Natus Vincere (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147714,
+      "youpin_id": 125369,
+      "buffmarket_goods_id": 50037,
+      "buff163_sticker_id": 144520
+    },
+    "Sticker | zont1x (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147716,
+      "youpin_id": 125486,
+      "buffmarket_goods_id": 50078,
+      "buff163_sticker_id": 144521
+    },
+    "Sticker | JBa (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147717,
+      "youpin_id": 125615,
+      "buffmarket_goods_id": 50079,
+      "buff163_sticker_id": 144522
+    },
+    "Sticker | C4LLM3SU3 (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147721,
+      "youpin_id": 125405,
+      "buffmarket_goods_id": 50080,
+      "buff163_sticker_id": 144523
+    },
+    "Sticker | FalleN (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147722,
+      "youpin_id": 125477,
+      "buffmarket_goods_id": 50081,
+      "buff163_sticker_id": 144524
+    },
+    "Sticker | FlyQuest (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147723,
+      "youpin_id": 125373,
+      "buffmarket_goods_id": 50062,
+      "buff163_sticker_id": 144525
+    },
+    "Sticker | MOUZ (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147725,
+      "youpin_id": 125370,
+      "buffmarket_goods_id": 50082,
+      "buff163_sticker_id": 144526
+    },
+    "Sticker | NRG (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147729,
+      "youpin_id": 125464,
+      "buffmarket_goods_id": 50083,
+      "buff163_sticker_id": 144527
+    },
+    "Sticker | ropz (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147733,
+      "youpin_id": 125389,
+      "buffmarket_goods_id": 50084,
+      "buff163_sticker_id": 144528
+    },
+    "Sticker Slab | NiKo (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147734,
+      "youpin_id": 125401,
+      "buffmarket_goods_id": 50085,
+      "buff163_charm_id": 144394
+    },
+    "Sticker | kyousuke (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147735,
+      "youpin_id": 125468,
+      "buffmarket_goods_id": 50086,
+      "buff163_sticker_id": 144529
+    },
+    "Sticker | LNZ (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147736,
+      "youpin_id": 125708,
+      "buffmarket_goods_id": 50087,
+      "buff163_sticker_id": 144530
+    },
+    "Sticker | cmtry (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147737,
+      "youpin_id": 125628,
+      "buffmarket_goods_id": 50088,
+      "buff163_sticker_id": 144531
+    },
+    "Sticker | TeSeS (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147739,
+      "youpin_id": 125547,
+      "buffmarket_goods_id": 50089,
+      "buff163_sticker_id": 144532
+    },
+    "Sticker | IEM (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147740,
+      "youpin_id": 125416,
+      "buffmarket_goods_id": 50090,
+      "buff163_sticker_id": 144533
+    },
+    "Sticker | KSCERATO (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147741,
+      "youpin_id": 125674,
+      "buffmarket_goods_id": 50091,
+      "buff163_sticker_id": 144534
+    },
+    "Sticker | torzsi (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147742,
+      "youpin_id": 125586,
+      "buffmarket_goods_id": 50092,
+      "buff163_sticker_id": 144535
+    },
+    "Sticker | YEKINDAR (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147748,
+      "youpin_id": 125557,
+      "buffmarket_goods_id": 50093,
+      "buff163_sticker_id": 144536
+    },
+    "Sticker | TeSeS (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147758,
+      "youpin_id": 125413,
+      "buffmarket_goods_id": 50094,
+      "buff163_sticker_id": 144537
+    },
+    "Sticker Slab | Team Spirit (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147763,
+      "youpin_id": 125419,
+      "buffmarket_goods_id": 50095,
+      "buff163_charm_id": 144396
+    },
+    "Sticker | EliGE (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147764,
+      "youpin_id": 125636,
+      "buffmarket_goods_id": 50096,
+      "buff163_sticker_id": 144538
+    },
+    "Sticker | THUNDERdOWNUNDER (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147765,
+      "youpin_id": 125391,
+      "buffmarket_goods_id": 50097,
+      "buff163_sticker_id": 144539
+    },
+    "Sticker | MATYS (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147766,
+      "youpin_id": 125608,
+      "buffmarket_goods_id": 50098,
+      "buff163_sticker_id": 144540
+    },
+    "Sticker | KSCERATO (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147767,
+      "buffmarket_goods_id": 50099,
+      "buff163_sticker_id": 144541
+    },
+    "Sticker | jks (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147769,
+      "youpin_id": 125466,
+      "buffmarket_goods_id": 50100,
+      "buff163_sticker_id": 144542
+    },
+    "Sticker | SunPayus (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147770,
+      "youpin_id": 125725,
+      "buffmarket_goods_id": 50101,
+      "buff163_sticker_id": 144543
+    },
+    "Sticker | GamerLegion (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147772,
+      "youpin_id": 125474,
+      "buffmarket_goods_id": 50102,
+      "buff163_sticker_id": 144544
+    },
+    "Sticker | SunPayus (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147784,
+      "youpin_id": 125493,
+      "buffmarket_goods_id": 50103,
+      "buff163_sticker_id": 144545
+    },
+    "Sticker | magixx (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147786,
+      "youpin_id": 125596,
+      "buffmarket_goods_id": 50104,
+      "buff163_sticker_id": 144546
+    },
+    "Sticker | paiN Gaming (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147787,
+      "youpin_id": 125396,
+      "buffmarket_goods_id": 50105,
+      "buff163_sticker_id": 144547
+    },
+    "Sticker | Grim (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147788,
+      "youpin_id": 125685,
+      "buffmarket_goods_id": 50106,
+      "buff163_sticker_id": 144548
+    },
+    "Sticker | mzinho (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147789,
+      "youpin_id": 125395,
+      "buffmarket_goods_id": 50107,
+      "buff163_sticker_id": 144549
+    },
+    "Sticker | Liazz (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147791,
+      "youpin_id": 125480,
+      "buffmarket_goods_id": 50108,
+      "buff163_sticker_id": 144550
+    },
+    "Sticker | n1ssim (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147792,
+      "youpin_id": 125703,
+      "buffmarket_goods_id": 50110,
+      "buff163_sticker_id": 144551
+    },
+    "Sticker | siuhy (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147793,
+      "youpin_id": 125496,
+      "buffmarket_goods_id": 50109,
+      "buff163_sticker_id": 144552
+    },
+    "Sticker | Vitality (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147821,
+      "youpin_id": 125427,
+      "buffmarket_goods_id": 50111,
+      "buff163_sticker_id": 144553
+    },
+    "Sticker | donk (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147823,
+      "youpin_id": 125398,
+      "buffmarket_goods_id": 50112,
+      "buff163_sticker_id": 144554
+    },
+    "Sticker | dexter (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147826,
+      "youpin_id": 125595,
+      "buffmarket_goods_id": 50113,
+      "buff163_sticker_id": 144555
+    },
+    "Sticker | xfl0ud (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147828,
+      "youpin_id": 125716,
+      "buffmarket_goods_id": 50114,
+      "buff163_sticker_id": 144556
+    },
+    "Sticker | REZ (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147829,
+      "buffmarket_goods_id": 50115,
+      "buff163_sticker_id": 144557
+    },
+    "Sticker | oSee (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147830,
+      "youpin_id": 125620,
+      "buffmarket_goods_id": 50116,
+      "buff163_sticker_id": 144558
+    },
+    "Sticker | Heavygod (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147832,
+      "youpin_id": 125555,
+      "buffmarket_goods_id": 50117,
+      "buff163_sticker_id": 144559
+    },
+    "Sticker | NQZ (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147833,
+      "youpin_id": 125516,
+      "buffmarket_goods_id": 50118,
+      "buff163_sticker_id": 144560
+    },
+    "Sticker | jabbi (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147834,
+      "youpin_id": 125623,
+      "buffmarket_goods_id": 50119,
+      "buff163_sticker_id": 144561
+    },
+    "Sticker | Tauson (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147835,
+      "youpin_id": 125667,
+      "buffmarket_goods_id": 50120,
+      "buff163_sticker_id": 144562
+    },
+    "Sticker | Bymas (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147836,
+      "buffmarket_goods_id": 50121,
+      "buff163_sticker_id": 144563
+    },
+    "Sticker | FURIA (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147837,
+      "youpin_id": 125675,
+      "buffmarket_goods_id": 50122,
+      "buff163_sticker_id": 144564
+    },
+    "Sticker | Sharks Esports (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147838,
+      "youpin_id": 125430,
+      "buffmarket_goods_id": 50123,
+      "buff163_sticker_id": 144565
+    },
+    "Sticker | Rainwaker (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147841,
+      "youpin_id": 125682,
+      "buffmarket_goods_id": 50124,
+      "buff163_sticker_id": 144566
+    },
+    "Sticker | Bymas (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147842,
+      "youpin_id": 125485,
+      "buffmarket_goods_id": 50125,
+      "buff163_sticker_id": 144567
+    },
+    "Sticker | Rainwaker (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147844,
+      "youpin_id": 125665,
+      "buffmarket_goods_id": 50126,
+      "buff163_sticker_id": 144568
+    },
+    "Sticker | vexite (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147845,
+      "buffmarket_goods_id": 50127,
+      "buff163_sticker_id": 144569
+    },
+    "Sticker | PR (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147851,
+      "youpin_id": 125696,
+      "buffmarket_goods_id": 50128,
+      "buff163_sticker_id": 144570
+    },
+    "Sticker | esenthial (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147859,
+      "youpin_id": 125653,
+      "buffmarket_goods_id": 50129,
+      "buff163_sticker_id": 144571
+    },
+    "Sticker | apEX (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147860,
+      "buffmarket_goods_id": 50130,
+      "buff163_sticker_id": 144572
+    },
+    "Sticker | zont1x (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147862,
+      "youpin_id": 125475,
+      "buffmarket_goods_id": 50131,
+      "buff163_sticker_id": 144573
+    },
+    "Sticker | Jimpphat (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147863,
+      "youpin_id": 125481,
+      "buffmarket_goods_id": 50132,
+      "buff163_sticker_id": 144574
+    },
+    "Sticker | Jame (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147864,
+      "youpin_id": 125483,
+      "buffmarket_goods_id": 50133,
+      "buff163_sticker_id": 144575
+    },
+    "Sticker | ropz (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147865,
+      "youpin_id": 125392,
+      "buffmarket_goods_id": 50134,
+      "buff163_sticker_id": 144576
+    },
+    "Sticker | C4LLM3SU3 (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147866,
+      "youpin_id": 125377,
+      "buffmarket_goods_id": 50135,
+      "buff163_sticker_id": 144577
+    },
+    "Sticker | Team Spirit (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147874,
+      "youpin_id": 125550,
+      "buffmarket_goods_id": 50046,
+      "buff163_sticker_id": 144578
+    },
+    "Sticker | PARIVISION (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147875,
+      "youpin_id": 125381,
+      "buffmarket_goods_id": 50136,
+      "buff163_sticker_id": 144579
+    },
+    "Sticker | PARIVISION (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147876,
+      "youpin_id": 125465,
+      "buffmarket_goods_id": 50137,
+      "buff163_sticker_id": 144580
+    },
+    "Sticker | JamYoung (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147877,
+      "youpin_id": 125403,
+      "buffmarket_goods_id": 50138,
+      "buff163_sticker_id": 144581
+    },
+    "Sticker | HEROIC (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147880,
+      "youpin_id": 125498,
+      "buffmarket_goods_id": 50139,
+      "buff163_sticker_id": 144582
+    },
+    "Sticker | YEKINDAR (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147954,
+      "buffmarket_goods_id": 50140,
+      "buff163_sticker_id": 144583
+    },
+    "Sticker | G2 esports (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147955,
+      "youpin_id": 125408,
+      "buffmarket_goods_id": 50141,
+      "buff163_sticker_id": 144584
+    },
+    "Sticker | YEKINDAR (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147956,
+      "buffmarket_goods_id": 50142,
+      "buff163_sticker_id": 144585
+    },
+    "Sticker | huNter- (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147957,
+      "youpin_id": 125412,
+      "buffmarket_goods_id": 50143,
+      "buff163_sticker_id": 144586
+    },
+    "Sticker | molodoy (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147958,
+      "youpin_id": 125387,
+      "buffmarket_goods_id": 50144,
+      "buff163_sticker_id": 144587
+    },
+    "Sticker | FalleN (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147961,
+      "youpin_id": 125470,
+      "buffmarket_goods_id": 50145,
+      "buff163_sticker_id": 144588
+    },
+    "Sticker | Team Spirit (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147962,
+      "youpin_id": 125472,
+      "buffmarket_goods_id": 50146,
+      "buff163_sticker_id": 144589
+    },
+    "Sticker | zont1x (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147966,
+      "youpin_id": 125425,
+      "buffmarket_goods_id": 50147,
+      "buff163_sticker_id": 144590
+    },
+    "Sticker | Jame (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147967,
+      "youpin_id": 125619,
+      "buffmarket_goods_id": 50148,
+      "buff163_sticker_id": 144591
+    },
+    "Sticker | brnz4n (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147968,
+      "youpin_id": 125539,
+      "buffmarket_goods_id": 50149,
+      "buff163_sticker_id": 144592
+    },
+    "Sticker | C4LLM3SU3 (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147969,
+      "youpin_id": 125436,
+      "buffmarket_goods_id": 50150,
+      "buff163_sticker_id": 144593
+    },
+    "Sticker | Liazz (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147970,
+      "youpin_id": 125456,
+      "buffmarket_goods_id": 50151,
+      "buff163_sticker_id": 144594
+    },
+    "Sticker Slab | C4LLM3SU3 (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147971,
+      "buffmarket_goods_id": 50152,
+      "buff163_charm_id": 144398
+    },
+    "Sticker | n1ssim (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147972,
+      "buffmarket_goods_id": 50153,
+      "buff163_sticker_id": 144595
+    },
+    "Sticker | siuhy (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147973,
+      "youpin_id": 125612,
+      "buffmarket_goods_id": 50154,
+      "buff163_sticker_id": 144596
+    },
+    "Sticker | nota (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147974,
+      "youpin_id": 125448,
+      "buffmarket_goods_id": 50155,
+      "buff163_sticker_id": 144597
+    },
+    "Sticker | TjP (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147977,
+      "youpin_id": 125441,
+      "buffmarket_goods_id": 50156,
+      "buff163_sticker_id": 144598
+    },
+    "Sticker | rdnzao (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147979,
+      "youpin_id": 125507,
+      "buffmarket_goods_id": 50157,
+      "buff163_sticker_id": 144599
+    },
+    "Sticker Slab | m0NESY (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147980,
+      "youpin_id": 125443,
+      "buffmarket_goods_id": 50158,
+      "buff163_charm_id": 144400
+    },
+    "Sticker | aliStair (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147981,
+      "youpin_id": 125435,
+      "buffmarket_goods_id": 50159,
+      "buff163_sticker_id": 144600
+    },
+    "Sticker Slab | donk (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147983,
+      "youpin_id": 125445,
+      "buffmarket_goods_id": 50160,
+      "buff163_charm_id": 144402
+    },
+    "Sticker | jks (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147984,
+      "youpin_id": 125460,
+      "buffmarket_goods_id": 50161,
+      "buff163_sticker_id": 144601
+    },
+    "Sticker | XANTARES (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147985,
+      "youpin_id": 125458,
+      "buffmarket_goods_id": 50162,
+      "buff163_sticker_id": 144602
+    },
+    "Sticker | B8 (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147990,
+      "youpin_id": 125388,
+      "buffmarket_goods_id": 50163,
+      "buff163_sticker_id": 144603
+    },
+    "Sticker | SINNERS (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147992,
+      "youpin_id": 125467,
+      "buffmarket_goods_id": 50164,
+      "buff163_sticker_id": 144604
+    },
+    "Sticker | FUT (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147993,
+      "youpin_id": 125473,
+      "buffmarket_goods_id": 50165,
+      "buff163_sticker_id": 144605
+    },
+    "Sticker | soulfly (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147997,
+      "youpin_id": 125469,
+      "buffmarket_goods_id": 50166,
+      "buff163_sticker_id": 144606
+    },
+    "Sticker | Gaimin Gladiators (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1147998,
+      "youpin_id": 125471,
+      "buffmarket_goods_id": 50167,
+      "buff163_sticker_id": 144607
+    },
+    "Sticker | JDC (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148014,
+      "youpin_id": 125454,
+      "buffmarket_goods_id": 50168,
+      "buff163_sticker_id": 144608
+    },
+    "Sticker | Astralis (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148015,
+      "youpin_id": 125451,
+      "buffmarket_goods_id": 50169,
+      "buff163_sticker_id": 144609
+    },
+    "Sticker | The Mongolz (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148016,
+      "youpin_id": 125601,
+      "buffmarket_goods_id": 50170,
+      "buff163_sticker_id": 144610
+    },
+    "Sticker | insani (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148019,
+      "youpin_id": 125526,
+      "buffmarket_goods_id": 50171,
+      "buff163_sticker_id": 144611
+    },
+    "Sticker | molodoy (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148021,
+      "youpin_id": 125624,
+      "buffmarket_goods_id": 50172,
+      "buff163_sticker_id": 144612
+    },
+    "Sticker | huNter- (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148022,
+      "youpin_id": 125567,
+      "buffmarket_goods_id": 50173,
+      "buff163_sticker_id": 144613
+    },
+    "Sticker | story (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148023,
+      "buffmarket_goods_id": 50174,
+      "buff163_sticker_id": 144614
+    },
+    "Sticker | npl (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148024,
+      "buffmarket_goods_id": 50175,
+      "buff163_sticker_id": 144615
+    },
+    "Sticker | JBa (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148025,
+      "youpin_id": 125649,
+      "buffmarket_goods_id": 50176,
+      "buff163_sticker_id": 144616
+    },
+    "Sticker | phzy (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148026,
+      "youpin_id": 125599,
+      "buffmarket_goods_id": 50177,
+      "buff163_sticker_id": 144617
+    },
+    "Sticker | Moseyuh (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148027,
+      "youpin_id": 125509,
+      "buffmarket_goods_id": 50178,
+      "buff163_sticker_id": 144618
+    },
+    "Sticker | zweih (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148028,
+      "youpin_id": 125588,
+      "buffmarket_goods_id": 50179,
+      "buff163_sticker_id": 144619
+    },
+    "Sticker | z4KR (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148029,
+      "youpin_id": 125676,
+      "buffmarket_goods_id": 50180,
+      "buff163_sticker_id": 144620
+    },
+    "Sticker | 910 (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148039,
+      "buffmarket_goods_id": 50181,
+      "buff163_sticker_id": 144621
+    },
+    "Sticker | HooXi (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148043,
+      "youpin_id": 125622,
+      "buffmarket_goods_id": 50182,
+      "buff163_sticker_id": 144622
+    },
+    "Sticker | brnz4n (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148045,
+      "youpin_id": 125711,
+      "buffmarket_goods_id": 50183,
+      "buff163_sticker_id": 144623
+    },
+    "Sticker | Mercury (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148048,
+      "youpin_id": 125510,
+      "buffmarket_goods_id": 50184,
+      "buff163_sticker_id": 144624
+    },
+    "Sticker | Chr1zN (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148055,
+      "youpin_id": 125635,
+      "buffmarket_goods_id": 50185,
+      "buff163_sticker_id": 144625
+    },
+    "Sticker | w0nderful (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148059,
+      "youpin_id": 125532,
+      "buffmarket_goods_id": 50186,
+      "buff163_sticker_id": 144626
+    },
+    "Sticker | huNter- (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148062,
+      "youpin_id": 125576,
+      "buffmarket_goods_id": 50187,
+      "buff163_sticker_id": 144627
+    },
+    "Sticker | arT (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148063,
+      "youpin_id": 125634,
+      "buffmarket_goods_id": 50188,
+      "buff163_sticker_id": 144628
+    },
+    "Sticker | oSee (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148064,
+      "youpin_id": 125524,
+      "buffmarket_goods_id": 50189,
+      "buff163_sticker_id": 144629
+    },
+    "Sticker | NQZ (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148067,
+      "youpin_id": 125428,
+      "buffmarket_goods_id": 50190,
+      "buff163_sticker_id": 144630
+    },
+    "Sticker | sh1ro (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148068,
+      "youpin_id": 125592,
+      "buffmarket_goods_id": 50191,
+      "buff163_sticker_id": 144631
+    },
+    "Sticker | insani (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148069,
+      "youpin_id": 125501,
+      "buffmarket_goods_id": 50192,
+      "buff163_sticker_id": 144632
+    },
+    "Sticker | makazze (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148070,
+      "youpin_id": 125502,
+      "buffmarket_goods_id": 50193,
+      "buff163_sticker_id": 144633
+    },
+    "Sticker | Sharks Esports (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148071,
+      "youpin_id": 125542,
+      "buffmarket_goods_id": 50194,
+      "buff163_sticker_id": 144634
+    },
+    "Sticker | HEROIC (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148073,
+      "youpin_id": 125712,
+      "buffmarket_goods_id": 50195,
+      "buff163_sticker_id": 144635
+    },
+    "Sticker | luken (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148074,
+      "buffmarket_goods_id": 50196,
+      "buff163_sticker_id": 144636
+    },
+    "Sticker | MOUZ (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148075,
+      "youpin_id": 125548,
+      "buffmarket_goods_id": 50197,
+      "buff163_sticker_id": 144637
+    },
+    "Sticker | saadzin (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148077,
+      "youpin_id": 125504,
+      "buffmarket_goods_id": 50198,
+      "buff163_sticker_id": 144638
+    },
+    "Sticker | stressarN (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148078,
+      "youpin_id": 125513,
+      "buffmarket_goods_id": 50199,
+      "buff163_sticker_id": 144639
+    },
+    "Sticker | yuurih (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148079,
+      "buffmarket_goods_id": 50200,
+      "buff163_sticker_id": 144640
+    },
+    "Sticker | KSCERATO (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148080,
+      "youpin_id": 125534,
+      "buffmarket_goods_id": 50201,
+      "buff163_sticker_id": 144641
+    },
+    "Sticker | ZywOo (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148081,
+      "youpin_id": 125488,
+      "buffmarket_goods_id": 50202,
+      "buff163_sticker_id": 144642
+    },
+    "Sticker | max (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148082,
+      "youpin_id": 125551,
+      "buffmarket_goods_id": 50203,
+      "buff163_sticker_id": 144643
+    },
+    "Sticker | w0nderful (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148083,
+      "youpin_id": 125701,
+      "buffmarket_goods_id": 50204,
+      "buff163_sticker_id": 144644
+    },
+    "Sticker | iM (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148084,
+      "buffmarket_goods_id": 50205,
+      "buff163_sticker_id": 144645
+    },
+    "Sticker | Aleksib (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148085,
+      "buffmarket_goods_id": 50206,
+      "buff163_sticker_id": 144646
+    },
+    "Sticker | 910 (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148087,
+      "youpin_id": 125702,
+      "buffmarket_goods_id": 50207,
+      "buff163_sticker_id": 144647
+    },
+    "Sticker | makazze (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148090,
+      "youpin_id": 125561,
+      "buffmarket_goods_id": 50208,
+      "buff163_sticker_id": 144648
+    },
+    "Sticker | yuurih (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148091,
+      "buffmarket_goods_id": 50209,
+      "buff163_sticker_id": 144649
+    },
+    "Sticker | MIBR (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148092,
+      "youpin_id": 125713,
+      "buffmarket_goods_id": 50210,
+      "buff163_sticker_id": 144650
+    },
+    "Sticker | Mercury (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148096,
+      "youpin_id": 125577,
+      "buffmarket_goods_id": 50211,
+      "buff163_sticker_id": 144651
+    },
+    "Sticker | Zero (Foil, Ranked)  | Cologne 2026": {
+      "buff163_goods_id": 1148097
+    },
+    "Sticker | faveN (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148098,
+      "youpin_id": 125630,
+      "buffmarket_goods_id": 50213,
+      "buff163_sticker_id": 144653
+    },
+    "Sticker | phzy (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148099,
+      "youpin_id": 125538,
+      "buffmarket_goods_id": 50214,
+      "buff163_sticker_id": 144654
+    },
+    "Sticker | s1n (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148103,
+      "youpin_id": 125500,
+      "buffmarket_goods_id": 50215,
+      "buff163_sticker_id": 144655
+    },
+    "Sticker | Staehr (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148104,
+      "buffmarket_goods_id": 50216,
+      "buff163_sticker_id": 144656
+    },
+    "Sticker | ultimate (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148105,
+      "youpin_id": 125461,
+      "buffmarket_goods_id": 50217,
+      "buff163_sticker_id": 144657
+    },
+    "Sticker | Aleksib (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148110,
+      "buffmarket_goods_id": 50218,
+      "buff163_sticker_id": 144658
+    },
+    "Sticker | Aleksib (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148111,
+      "youpin_id": 125688,
+      "buffmarket_goods_id": 50219,
+      "buff163_sticker_id": 144659
+    },
+    "Sticker | malbsMd (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148116,
+      "youpin_id": 125525,
+      "buffmarket_goods_id": 50220,
+      "buff163_sticker_id": 144660
+    },
+    "Sticker | rdnzao (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148117,
+      "youpin_id": 125648,
+      "buffmarket_goods_id": 50221,
+      "buff163_sticker_id": 144661
+    },
+    "Sticker | JOTA (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148118,
+      "youpin_id": 125397,
+      "buffmarket_goods_id": 50222,
+      "buff163_sticker_id": 144662
+    },
+    "Sticker | snow (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148119,
+      "youpin_id": 125632,
+      "buffmarket_goods_id": 50223,
+      "buff163_sticker_id": 144663
+    },
+    "Sticker | Brollan (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148120,
+      "youpin_id": 125564,
+      "buffmarket_goods_id": 50224,
+      "buff163_sticker_id": 144664
+    },
+    "Sticker | tN1R (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148123,
+      "youpin_id": 125687,
+      "buffmarket_goods_id": 50225,
+      "buff163_sticker_id": 144665
+    },
+    "Sticker | kisserek (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148128,
+      "buffmarket_goods_id": 50226,
+      "buff163_sticker_id": 144666
+    },
+    "Sticker | sh1ro (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148129,
+      "youpin_id": 125591,
+      "buffmarket_goods_id": 50227,
+      "buff163_sticker_id": 144667
+    },
+    "Sticker | zweih (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148144,
+      "youpin_id": 125621,
+      "buffmarket_goods_id": 50228,
+      "buff163_sticker_id": 144668
+    },
+    "Sticker | jabbi (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148149,
+      "youpin_id": 125644,
+      "buffmarket_goods_id": 50229,
+      "buff163_sticker_id": 144433
+    },
+    "Sticker | venomzera (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148150,
+      "youpin_id": 125515,
+      "buffmarket_goods_id": 50230,
+      "buff163_sticker_id": 144669
+    },
+    "Sticker | afro (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148153,
+      "youpin_id": 125537,
+      "buffmarket_goods_id": 50231,
+      "buff163_sticker_id": 144435
+    },
+    "Sticker | v$m (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148155,
+      "youpin_id": 125611,
+      "buffmarket_goods_id": 50232,
+      "buff163_sticker_id": 144670
+    },
+    "Sticker | Swisher (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148156,
+      "youpin_id": 125683,
+      "buffmarket_goods_id": 50233,
+      "buff163_sticker_id": 144671
+    },
+    "Sticker | saadzin (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148160,
+      "youpin_id": 125546,
+      "buffmarket_goods_id": 50234,
+      "buff163_sticker_id": 144434
+    },
+    "Sticker | xiELO (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148166,
+      "youpin_id": 125536,
+      "buffmarket_goods_id": 50235,
+      "buff163_sticker_id": 144432
+    },
+    "Sticker | npl (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148170,
+      "youpin_id": 125404,
+      "buffmarket_goods_id": 50236,
+      "buff163_sticker_id": 144672
+    },
+    "Sticker | story (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148186,
+      "youpin_id": 125508,
+      "buffmarket_goods_id": 50237,
+      "buff163_sticker_id": 144673
+    },
+    "Sticker | vexite (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148188,
+      "youpin_id": 125505,
+      "buffmarket_goods_id": 50238,
+      "buff163_sticker_id": 144674
+    },
+    "Sticker | jks (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148192,
+      "youpin_id": 125651,
+      "buffmarket_goods_id": 50239,
+      "buff163_sticker_id": 144675
+    },
+    "Sticker Slab | Jame (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148200,
+      "buffmarket_goods_id": 50240,
+      "buff163_charm_id": 144404
+    },
+    "Sticker | Falcons (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148201,
+      "youpin_id": 125386,
+      "buffmarket_goods_id": 50241,
+      "buff163_sticker_id": 144676
+    },
+    "Sticker | Natus Vincere (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148202,
+      "buffmarket_goods_id": 50242,
+      "buff163_sticker_id": 144677
+    },
+    "Sticker Slab | max (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148203,
+      "buffmarket_goods_id": 50243,
+      "buff163_charm_id": 144406
+    },
+    "Sticker | Team Liquid (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148204,
+      "youpin_id": 125503,
+      "buffmarket_goods_id": 50244,
+      "buff163_sticker_id": 144678
+    },
+    "Sticker | S1ren (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148205,
+      "buffmarket_goods_id": 50245,
+      "buff163_sticker_id": 144679
+    },
+    "Sticker | brnz4n (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148207,
+      "youpin_id": 125531,
+      "buffmarket_goods_id": 50246,
+      "buff163_sticker_id": 144680
+    },
+    "Sticker | venomzera (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148208,
+      "youpin_id": 125689,
+      "buffmarket_goods_id": 50247,
+      "buff163_sticker_id": 144681
+    },
+    "Sticker | Jee (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148209,
+      "youpin_id": 125479,
+      "buffmarket_goods_id": 50248,
+      "buff163_sticker_id": 144682
+    },
+    "Sticker | Lynn Vision (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148210,
+      "youpin_id": 125376,
+      "buffmarket_goods_id": 50249,
+      "buff163_sticker_id": 144683
+    },
+    "Sticker | EliGE (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148211,
+      "youpin_id": 125637,
+      "buffmarket_goods_id": 50250,
+      "buff163_sticker_id": 144684
+    },
+    "Sticker | M80 (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148213,
+      "youpin_id": 125453,
+      "buffmarket_goods_id": 50251,
+      "buff163_sticker_id": 144685
+    },
+    "Sticker | HooXi (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148221,
+      "youpin_id": 125495,
+      "buffmarket_goods_id": 50252,
+      "buff163_sticker_id": 144686
+    },
+    "Sticker | westmelon (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148222,
+      "youpin_id": 125442,
+      "buffmarket_goods_id": 50253,
+      "buff163_sticker_id": 144687
+    },
+    "Sticker | EmiliaQAQ (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148223,
+      "youpin_id": 125434,
+      "buffmarket_goods_id": 50254,
+      "buff163_sticker_id": 144688
+    },
+    "Sticker | Starry (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148224,
+      "youpin_id": 125438,
+      "buffmarket_goods_id": 50255,
+      "buff163_sticker_id": 144689
+    },
+    "Sticker | z4KR (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148225,
+      "youpin_id": 125433,
+      "buffmarket_goods_id": 50256,
+      "buff163_sticker_id": 144690
+    },
+    "Sticker Slab | Zero (Holo, Ranked)  | Cologne 2026": {
+      "buff163_goods_id": 1148226
+    },
+    "Sticker | Wicadia (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148227,
+      "youpin_id": 125562,
+      "buffmarket_goods_id": 50258,
+      "buff163_sticker_id": 144691
+    },
+    "Sticker | FUT (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148228,
+      "youpin_id": 125543,
+      "buffmarket_goods_id": 50259,
+      "buff163_sticker_id": 144692
+    },
+    "Sticker Slab | kyousuke (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148229,
+      "youpin_id": 125565,
+      "buffmarket_goods_id": 50260,
+      "buff163_charm_id": 144410
+    },
+    "Sticker | gafolo (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148230,
+      "youpin_id": 125643,
+      "buffmarket_goods_id": 50261,
+      "buff163_sticker_id": 144693
+    },
+    "Sticker | NEKiZ (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148231,
+      "youpin_id": 125429,
+      "buffmarket_goods_id": 50262,
+      "buff163_sticker_id": 144694
+    },
+    "Sticker | Staehr (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148233,
+      "youpin_id": 125609,
+      "buffmarket_goods_id": 50263,
+      "buff163_sticker_id": 144695
+    },
+    "Sticker | br0 (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148235,
+      "buffmarket_goods_id": 50264,
+      "buff163_sticker_id": 144696
+    },
+    "Sticker | xertioN (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148236,
+      "youpin_id": 125519,
+      "buffmarket_goods_id": 50266,
+      "buff163_sticker_id": 144697
+    },
+    "Sticker | Sonic (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148237,
+      "buffmarket_goods_id": 50265,
+      "buff163_sticker_id": 144698
+    },
+    "Sticker | Staehr (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148239,
+      "youpin_id": 125563,
+      "buffmarket_goods_id": 50267,
+      "buff163_sticker_id": 144699
+    },
+    "Sticker | oSee (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148240,
+      "buffmarket_goods_id": 50268,
+      "buff163_sticker_id": 144700
+    },
+    "Sticker Slab | THUNDERdOWNUNDER (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148242,
+      "youpin_id": 125527,
+      "buffmarket_goods_id": 50269,
+      "buff163_charm_id": 144412
+    },
+    "Sticker | s1zzi (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148243,
+      "buffmarket_goods_id": 50270,
+      "buff163_sticker_id": 144701
+    },
+    "Sticker | Starry (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148245,
+      "youpin_id": 125462,
+      "buffmarket_goods_id": 50271,
+      "buff163_sticker_id": 144702
+    },
+    "Sticker | magixx (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148246,
+      "youpin_id": 125715,
+      "buffmarket_goods_id": 50272,
+      "buff163_sticker_id": 144703
+    },
+    "Sticker | b1t (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148247,
+      "buffmarket_goods_id": 50273,
+      "buff163_sticker_id": 144704
+    },
+    "Sticker | TYLOO (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148248,
+      "youpin_id": 125426,
+      "buffmarket_goods_id": 50274,
+      "buff163_sticker_id": 144705
+    },
+    "Sticker | Mercury (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148249,
+      "youpin_id": 125629,
+      "buffmarket_goods_id": 50275,
+      "buff163_sticker_id": 144706
+    },
+    "Sticker | Zero (Gold, Ranked)  | Cologne 2026": {
+      "buff163_goods_id": 1148250
+    },
+    "Sticker Slab | IEM (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148255,
+      "buffmarket_goods_id": 50277,
+      "buff163_charm_id": 144415
+    },
+    "Sticker Slab | magixx (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148257,
+      "buffmarket_goods_id": 50278,
+      "buff163_charm_id": 144416
+    },
+    "Sticker | Krabeni (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148258,
+      "buffmarket_goods_id": 50279,
+      "buff163_sticker_id": 144708
+    },
+    "Sticker | lauNX (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148260,
+      "buffmarket_goods_id": 50280,
+      "buff163_sticker_id": 144709
+    },
+    "Sticker | BELCHONOKK (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148261,
+      "youpin_id": 125655,
+      "buffmarket_goods_id": 50281,
+      "buff163_sticker_id": 144710
+    },
+    "Sticker | dziugss (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148262,
+      "youpin_id": 125514,
+      "buffmarket_goods_id": 50282,
+      "buff163_sticker_id": 144711
+    },
+    "Sticker | REZ (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148264,
+      "youpin_id": 125641,
+      "buffmarket_goods_id": 50283,
+      "buff163_sticker_id": 144712
+    },
+    "Sticker | nota (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148266,
+      "youpin_id": 125490,
+      "buffmarket_goods_id": 50284,
+      "buff163_sticker_id": 144713
+    },
+    "Sticker | dem0n (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148269,
+      "buffmarket_goods_id": 50285,
+      "buff163_sticker_id": 144714
+    },
+    "Sticker | magixx (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148271,
+      "buffmarket_goods_id": 50286,
+      "buff163_sticker_id": 144715
+    },
+    "Sticker | nitr0 (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148273,
+      "youpin_id": 125518,
+      "buffmarket_goods_id": 50287,
+      "buff163_sticker_id": 144716
+    },
+    "Sticker | S1ren (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148283,
+      "youpin_id": 125633,
+      "buffmarket_goods_id": 50288,
+      "buff163_sticker_id": 144717
+    },
+    "Sticker | piriajr (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148301,
+      "youpin_id": 125678,
+      "buffmarket_goods_id": 50289,
+      "buff163_sticker_id": 144718
+    },
+    "Sticker | HooXi (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148302,
+      "buffmarket_goods_id": 50290,
+      "buff163_sticker_id": 144719
+    },
+    "Sticker | Legacy (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148303,
+      "youpin_id": 125602,
+      "buffmarket_goods_id": 50291,
+      "buff163_sticker_id": 144720
+    },
+    "Sticker | Vitality (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148305,
+      "youpin_id": 125573,
+      "buffmarket_goods_id": 50292,
+      "buff163_sticker_id": 144721
+    },
+    "Sticker | Lynn Vision (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148306,
+      "youpin_id": 125487,
+      "buffmarket_goods_id": 50293,
+      "buff163_sticker_id": 144722
+    },
+    "Sticker | HEN1 (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148307,
+      "buffmarket_goods_id": 50294,
+      "buff163_sticker_id": 144723
+    },
+    "Sticker | dumau (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148309,
+      "youpin_id": 125663,
+      "buffmarket_goods_id": 50295,
+      "buff163_sticker_id": 144724
+    },
+    "Sticker | piriajr (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148314,
+      "youpin_id": 125647,
+      "buffmarket_goods_id": 50296,
+      "buff163_sticker_id": 144725
+    },
+    "Sticker | IEM (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148316,
+      "youpin_id": 125417,
+      "buffmarket_goods_id": 50297,
+      "buff163_sticker_id": 144726
+    },
+    "Sticker | paiN Gaming (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148318,
+      "youpin_id": 125603,
+      "buffmarket_goods_id": 50298,
+      "buff163_sticker_id": 144727
+    },
+    "Sticker | Aurora (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148324,
+      "youpin_id": 125407,
+      "buffmarket_goods_id": 50299,
+      "buff163_sticker_id": 144728
+    },
+    "Sticker | NRG (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148325,
+      "youpin_id": 125604,
+      "buffmarket_goods_id": 50300,
+      "buff163_sticker_id": 144729
+    },
+    "Sticker | Spinx (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148326,
+      "youpin_id": 125489,
+      "buffmarket_goods_id": 50301,
+      "buff163_sticker_id": 144730
+    },
+    "Sticker | Boombl4 (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148327,
+      "buffmarket_goods_id": 50302,
+      "buff163_sticker_id": 144731
+    },
+    "Sticker | EliGE (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148328,
+      "youpin_id": 125494,
+      "buffmarket_goods_id": 50307,
+      "buff163_sticker_id": 144732
+    },
+    "Sticker | TjP (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148330,
+      "youpin_id": 125528,
+      "buffmarket_goods_id": 50308,
+      "buff163_sticker_id": 144733
+    },
+    "Sticker Slab | JamYoung (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148332,
+      "youpin_id": 125605,
+      "buffmarket_goods_id": 50309,
+      "buff163_charm_id": 144419
+    },
+    "Sticker | s1n (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148333,
+      "youpin_id": 125705,
+      "buffmarket_goods_id": 50310,
+      "buff163_sticker_id": 144734
+    },
+    "Sticker | bLitz (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148334,
+      "youpin_id": 125642,
+      "buffmarket_goods_id": 50303,
+      "buff163_sticker_id": 144735
+    },
+    "Sticker | EmiliaQAQ (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148335,
+      "youpin_id": 125583,
+      "buffmarket_goods_id": 50311,
+      "buff163_sticker_id": 144736
+    },
+    "Sticker | Wicadia (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148336,
+      "youpin_id": 125457,
+      "buffmarket_goods_id": 50312,
+      "buff163_sticker_id": 144737
+    },
+    "Sticker | Jimpphat (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148337,
+      "youpin_id": 125572,
+      "buffmarket_goods_id": 50313,
+      "buff163_sticker_id": 144738
+    },
+    "Sticker | PARIVISION (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148338,
+      "buffmarket_goods_id": 50314,
+      "buff163_sticker_id": 144739
+    },
+    "Sticker | woxic (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148341,
+      "youpin_id": 125617,
+      "buffmarket_goods_id": 50315,
+      "buff163_sticker_id": 144740
+    },
+    "Sticker | XANTARES (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148342,
+      "youpin_id": 125560,
+      "buffmarket_goods_id": 50316,
+      "buff163_sticker_id": 144741
+    },
+    "Sticker | MATYS (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148343,
+      "buffmarket_goods_id": 50317,
+      "buff163_sticker_id": 144742
+    },
+    "Sticker Slab | Falcons (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148344,
+      "buffmarket_goods_id": 50318,
+      "buff163_charm_id": 144421
+    },
+    "Sticker Slab | sh1ro (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148345,
+      "youpin_id": 125718,
+      "buffmarket_goods_id": 50319,
+      "buff163_charm_id": 144423
+    },
+    "Sticker | FL4MUS (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148346,
+      "youpin_id": 125625,
+      "buffmarket_goods_id": 50320,
+      "buff163_sticker_id": 144743
+    },
+    "Sticker | NertZ (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148347,
+      "youpin_id": 125558,
+      "buffmarket_goods_id": 50321,
+      "buff163_sticker_id": 144744
+    },
+    "Sticker | ryu (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148348,
+      "youpin_id": 125521,
+      "buffmarket_goods_id": 50322,
+      "buff163_sticker_id": 144745
+    },
+    "Sticker | alex666 (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148349,
+      "youpin_id": 125553,
+      "buffmarket_goods_id": 50323,
+      "buff163_sticker_id": 144746
+    },
+    "Sticker | zorte (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148350,
+      "youpin_id": 125439,
+      "buffmarket_goods_id": 50324,
+      "buff163_sticker_id": 144747
+    },
+    "Sticker Slab | Team Liquid (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148351,
+      "youpin_id": 125722,
+      "buffmarket_goods_id": 50325,
+      "buff163_charm_id": 144424
+    },
+    "Sticker | Lake (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148352,
+      "youpin_id": 125600,
+      "buffmarket_goods_id": 50326,
+      "buff163_sticker_id": 144748
+    },
+    "Sticker | maxxkor (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148354,
+      "youpin_id": 125523,
+      "buffmarket_goods_id": 50327,
+      "buff163_sticker_id": 144749
+    },
+    "Sticker | 9z Team (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148366,
+      "youpin_id": 125380,
+      "buffmarket_goods_id": 50328,
+      "buff163_sticker_id": 144750
+    },
+    "Sticker | max (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148369,
+      "buffmarket_goods_id": 50329,
+      "buff163_sticker_id": 144751
+    },
+    "Sticker Slab | PARIVISION (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148370,
+      "buffmarket_goods_id": 50330,
+      "buff163_charm_id": 144426
+    },
+    "Sticker | torzsi (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148371,
+      "youpin_id": 125695,
+      "buffmarket_goods_id": 50331,
+      "buff163_sticker_id": 144752
+    },
+    "Sticker | z4KR (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148372,
+      "youpin_id": 125411,
+      "buffmarket_goods_id": 50332,
+      "buff163_sticker_id": 144753
+    },
+    "Sticker | dem0n (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148373,
+      "buffmarket_goods_id": 50333,
+      "buff163_sticker_id": 144754
+    },
+    "Sticker | Gaimin Gladiators (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148374,
+      "youpin_id": 125371,
+      "buffmarket_goods_id": 50334,
+      "buff163_sticker_id": 144755
+    },
+    "Sticker Slab | m0NESY (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148375,
+      "buffmarket_goods_id": 50335,
+      "buff163_charm_id": 144428
+    },
+    "Sticker Slab | NiKo (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148376,
+      "buffmarket_goods_id": 50336,
+      "buff163_charm_id": 144430
+    },
+    "Sticker Slab | Falcons (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148378,
+      "youpin_id": 125645,
+      "buffmarket_goods_id": 50337,
+      "buff163_charm_id": 144431
+    },
+    "Sticker | dgt (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148381,
+      "youpin_id": 125399,
+      "buffmarket_goods_id": 50338,
+      "buff163_sticker_id": 144756
+    },
+    "Sticker | Techno4K (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148382,
+      "buffmarket_goods_id": 50339,
+      "buff163_sticker_id": 144757
+    },
+    "Sticker | kyxsan (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148383,
+      "youpin_id": 125549,
+      "buffmarket_goods_id": 50340,
+      "buff163_sticker_id": 144758
+    },
+    "Sticker | susp (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148384,
+      "youpin_id": 125618,
+      "buffmarket_goods_id": 50341,
+      "buff163_sticker_id": 144759
+    },
+    "Sticker | dumau (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148391,
+      "youpin_id": 125554,
+      "buffmarket_goods_id": 50342,
+      "buff163_sticker_id": 144760
+    },
+    "Sticker | Techno4K (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148392,
+      "youpin_id": 125491,
+      "buffmarket_goods_id": 50343,
+      "buff163_sticker_id": 144761
+    },
+    "Sticker | cobra (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148394,
+      "youpin_id": 125704,
+      "buffmarket_goods_id": 50344,
+      "buff163_sticker_id": 144762
+    },
+    "Sticker | Snax (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148400,
+      "buffmarket_goods_id": 50345,
+      "buff163_sticker_id": 144763
+    },
+    "Sticker | XANTARES (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148404,
+      "youpin_id": 125606,
+      "buffmarket_goods_id": 50346,
+      "buff163_sticker_id": 144764
+    },
+    "Sticker | xertioN (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148405,
+      "buffmarket_goods_id": 50347,
+      "buff163_sticker_id": 144765
+    },
+    "Sticker | tN1R (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148407,
+      "youpin_id": 125449,
+      "buffmarket_goods_id": 50348,
+      "buff163_sticker_id": 144766
+    },
+    "Sticker | M80 (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148408,
+      "youpin_id": 125568,
+      "buffmarket_goods_id": 50349,
+      "buff163_sticker_id": 144767
+    },
+    "Sticker | nettik (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148409,
+      "youpin_id": 125506,
+      "buffmarket_goods_id": 50350,
+      "buff163_sticker_id": 144768
+    },
+    "Sticker | w0nderful (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148410,
+      "youpin_id": 125533,
+      "buffmarket_goods_id": 50351,
+      "buff163_sticker_id": 144769
+    },
+    "Sticker | arT (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148411,
+      "youpin_id": 125671,
+      "buffmarket_goods_id": 50352,
+      "buff163_sticker_id": 144770
+    },
+    "Sticker | westmelon (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148412,
+      "youpin_id": 125424,
+      "buffmarket_goods_id": 50353,
+      "buff163_sticker_id": 144771
+    },
+    "Sticker | iM (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148413,
+      "youpin_id": 125690,
+      "buffmarket_goods_id": 50354,
+      "buff163_sticker_id": 144772
+    },
+    "Sticker | Jame (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148414,
+      "youpin_id": 125613,
+      "buffmarket_goods_id": 50355,
+      "buff163_sticker_id": 144773
+    },
+    "Sticker | b1t (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148415,
+      "youpin_id": 125669,
+      "buffmarket_goods_id": 50356,
+      "buff163_sticker_id": 144774
+    },
+    "Sticker | BetBoom (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148416,
+      "youpin_id": 125640,
+      "buffmarket_goods_id": 50357,
+      "buff163_sticker_id": 144775
+    },
+    "Sticker | Natus Vincere (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148417,
+      "youpin_id": 125360,
+      "buffmarket_goods_id": 50358,
+      "buff163_sticker_id": 144776
+    },
+    "Sticker | EmiliaQAQ (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148418,
+      "youpin_id": 125575,
+      "buffmarket_goods_id": 50359,
+      "buff163_sticker_id": 144777
+    },
+    "Sticker | S1ren (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148420,
+      "youpin_id": 125639,
+      "buffmarket_goods_id": 50360,
+      "buff163_sticker_id": 144778
+    },
+    "Sticker | slaxz- (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148421,
+      "youpin_id": 125686,
+      "buffmarket_goods_id": 50361,
+      "buff163_sticker_id": 144779
+    },
+    "Sticker | felps (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148422,
+      "youpin_id": 125677,
+      "buffmarket_goods_id": 50362,
+      "buff163_sticker_id": 144780
+    },
+    "Sticker Slab | GamerLegion (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148425,
+      "youpin_id": 125450,
+      "buffmarket_goods_id": 50363,
+      "buff163_charm_id": 144436
+    },
+    "Sticker | iM (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148426,
+      "buffmarket_goods_id": 50364,
+      "buff163_sticker_id": 144781
+    },
+    "Sticker | dumau (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148428,
+      "youpin_id": 125610,
+      "buffmarket_goods_id": 50365,
+      "buff163_sticker_id": 144782
+    },
+    "Sticker | dexter (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148454,
+      "youpin_id": 125406,
+      "buffmarket_goods_id": 50366,
+      "buff163_sticker_id": 144783
+    },
+    "Sticker | dexter (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148458,
+      "youpin_id": 125590,
+      "buffmarket_goods_id": 50367,
+      "buff163_sticker_id": 144784
+    },
+    "Sticker | Legacy (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148461,
+      "youpin_id": 125650,
+      "buffmarket_goods_id": 50368,
+      "buff163_sticker_id": 144785
+    },
+    "Sticker | MoDo (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148462,
+      "youpin_id": 125535,
+      "buffmarket_goods_id": 50369,
+      "buff163_sticker_id": 144786
+    },
+    "Sticker | xfl0ud (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148471,
+      "youpin_id": 125556,
+      "buffmarket_goods_id": 50370,
+      "buff163_sticker_id": 144787
+    },
+    "Sticker Slab | m0NESY (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148472,
+      "youpin_id": 125444,
+      "buffmarket_goods_id": 50371,
+      "buff163_charm_id": 144438
+    },
+    "Sticker Slab | story (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148473,
+      "buffmarket_goods_id": 50372,
+      "buff163_charm_id": 144440
+    },
+    "Sticker | aliStair (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148474,
+      "youpin_id": 125437,
+      "buffmarket_goods_id": 50373,
+      "buff163_sticker_id": 144788
+    },
+    "Sticker | alex666 (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148475,
+      "buffmarket_goods_id": 50374,
+      "buff163_sticker_id": 144789
+    },
+    "Sticker | Gizmy (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148476,
+      "youpin_id": 125492,
+      "buffmarket_goods_id": 50375,
+      "buff163_sticker_id": 144790
+    },
+    "Sticker | yxngstxr (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148477,
+      "youpin_id": 125552,
+      "buffmarket_goods_id": 50376,
+      "buff163_sticker_id": 144791
+    },
+    "Sticker | mezii (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148478,
+      "youpin_id": 125710,
+      "buffmarket_goods_id": 50377,
+      "buff163_sticker_id": 144792
+    },
+    "Sticker | mezii (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148479,
+      "youpin_id": 125659,
+      "buffmarket_goods_id": 50378,
+      "buff163_sticker_id": 144793
+    },
+    "Sticker | Tauson (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148480,
+      "buffmarket_goods_id": 50379,
+      "buff163_sticker_id": 144794
+    },
+    "Sticker Slab | XANTARES (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148482,
+      "youpin_id": 125658,
+      "buffmarket_goods_id": 50380,
+      "buff163_charm_id": 144442
+    },
+    "Sticker Slab | magixx (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148483,
+      "buffmarket_goods_id": 50381,
+      "buff163_charm_id": 144444
+    },
+    "Sticker Slab | ropz (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148484,
+      "buffmarket_goods_id": 50382,
+      "buff163_charm_id": 144446
+    },
+    "Sticker | AZUWU (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148485,
+      "youpin_id": 125545,
+      "buffmarket_goods_id": 50383,
+      "buff163_sticker_id": 144795
+    },
+    "Sticker | kl1m (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148486,
+      "youpin_id": 125584,
+      "buffmarket_goods_id": 50384,
+      "buff163_sticker_id": 144796
+    },
+    "Sticker | Monte (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148488,
+      "youpin_id": 125579,
+      "buffmarket_goods_id": 50385,
+      "buff163_sticker_id": 144797
+    },
+    "Sticker | BELCHONOKK (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148496,
+      "youpin_id": 125661,
+      "buffmarket_goods_id": 50386,
+      "buff163_sticker_id": 144798
+    },
+    "Sticker | zorte (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148497,
+      "youpin_id": 125662,
+      "buffmarket_goods_id": 50387,
+      "buff163_sticker_id": 144799
+    },
+    "Sticker | doc (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148498,
+      "youpin_id": 125522,
+      "buffmarket_goods_id": 50388,
+      "buff163_sticker_id": 144800
+    },
+    "Sticker | JDC (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148499,
+      "youpin_id": 125541,
+      "buffmarket_goods_id": 50390,
+      "buff163_sticker_id": 144801
+    },
+    "Sticker | apEX (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148507,
+      "buffmarket_goods_id": 50391,
+      "buff163_sticker_id": 144802
+    },
+    "Sticker | mezii (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148508,
+      "buffmarket_goods_id": 50392,
+      "buff163_sticker_id": 144803
+    },
+    "Sticker | asap (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148509,
+      "youpin_id": 125571,
+      "buffmarket_goods_id": 50393,
+      "buff163_sticker_id": 144804
+    },
+    "Sticker Slab | DavCost (Gold) | Katowice 2019": {
+      "buff163_goods_id": 1148511,
+      "buffmarket_goods_id": 50389,
+      "buff163_charm_id": 144447
+    },
+    "Sticker | FlameZ (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148512,
+      "youpin_id": 125699,
+      "buffmarket_goods_id": 50394,
+      "buff163_sticker_id": 144805
+    },
+    "Sticker | nilo (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148514,
+      "youpin_id": 125709,
+      "buffmarket_goods_id": 50395,
+      "buff163_sticker_id": 144806
+    },
+    "Sticker | tN1R (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148516,
+      "youpin_id": 125656,
+      "buffmarket_goods_id": 50396,
+      "buff163_sticker_id": 144807
+    },
+    "Sticker | woxic (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148517,
+      "youpin_id": 125520,
+      "buffmarket_goods_id": 50397,
+      "buff163_sticker_id": 144808
+    },
+    "Sticker | bLitz (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148518,
+      "youpin_id": 125672,
+      "buffmarket_goods_id": 50398,
+      "buff163_sticker_id": 144809
+    },
+    "Sticker Slab | FlyQuest (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148519,
+      "buffmarket_goods_id": 50399,
+      "buff163_charm_id": 144449
+    },
+    "Sticker | Sonic (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148520,
+      "youpin_id": 125415,
+      "buffmarket_goods_id": 50400,
+      "buff163_sticker_id": 144810
+    },
+    "Sticker | luchov (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148523,
+      "buffmarket_goods_id": 50401,
+      "buff163_sticker_id": 144811
+    },
+    "Sticker | yxngstxr (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148524,
+      "youpin_id": 125666,
+      "buffmarket_goods_id": 50402,
+      "buff163_sticker_id": 144812
+    },
+    "Sticker | zweih (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148526,
+      "youpin_id": 125432,
+      "buffmarket_goods_id": 50403,
+      "buff163_sticker_id": 144813
+    },
+    "Sticker Slab | w0nderful (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148528,
+      "buffmarket_goods_id": 50404,
+      "buff163_charm_id": 144451
+    },
+    "Sticker | NertZ (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148529,
+      "buffmarket_goods_id": 50405,
+      "buff163_sticker_id": 144814
+    },
+    "Sticker Slab | TYLOO (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148530,
+      "youpin_id": 125402,
+      "buffmarket_goods_id": 50406,
+      "buff163_charm_id": 144453
+    },
+    "Sticker | Wicadia (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148531,
+      "youpin_id": 125540,
+      "buffmarket_goods_id": 50407,
+      "buff163_sticker_id": 144815
+    },
+    "Sticker | maxxkor (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148532,
+      "buffmarket_goods_id": 50408,
+      "buff163_sticker_id": 144816
+    },
+    "Sticker | slaxz- (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148533,
+      "buffmarket_goods_id": 50409,
+      "buff163_sticker_id": 144817
+    },
+    "Sticker | slaxz- (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148535,
+      "buffmarket_goods_id": 50410,
+      "buff163_sticker_id": 144818
+    },
+    "Sticker | felps (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148536,
+      "youpin_id": 125646,
+      "buffmarket_goods_id": 50411,
+      "buff163_sticker_id": 144819
+    },
+    "Sticker Slab | zont1x (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148537,
+      "buffmarket_goods_id": 50412,
+      "buff163_charm_id": 144455
+    },
+    "Sticker | Magnojez (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148538,
+      "buffmarket_goods_id": 50413,
+      "buff163_sticker_id": 144820
+    },
+    "Sticker | MATYS (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148539,
+      "buffmarket_goods_id": 50414,
+      "buff163_sticker_id": 144821
+    },
+    "Sticker | dziugss (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148541,
+      "youpin_id": 125730,
+      "buffmarket_goods_id": 50415,
+      "buff163_sticker_id": 144822
+    },
+    "Sticker | NertZ (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148548,
+      "youpin_id": 125670,
+      "buffmarket_goods_id": 50416,
+      "buff163_sticker_id": 144823
+    },
+    "Sticker | HEN1 (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148549,
+      "buffmarket_goods_id": 50417,
+      "buff163_sticker_id": 144824
+    },
+    "Sticker | ultimate (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148550,
+      "youpin_id": 125673,
+      "buffmarket_goods_id": 50418,
+      "buff163_sticker_id": 144825
+    },
+    "Sticker | esenthial (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148551,
+      "buffmarket_goods_id": 50419,
+      "buff163_sticker_id": 144826
+    },
+    "Sticker | koala (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148552,
+      "buffmarket_goods_id": 50420,
+      "buff163_sticker_id": 144827
+    },
+    "Sticker | susp (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148553,
+      "buffmarket_goods_id": 50421,
+      "buff163_sticker_id": 144828
+    },
+    "Sticker | nitr0 (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148554,
+      "buffmarket_goods_id": 50422,
+      "buff163_sticker_id": 144829
+    },
+    "Sticker | luken (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148555,
+      "buffmarket_goods_id": 50423,
+      "buff163_sticker_id": 144830
+    },
+    "Sticker | apEX (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148556,
+      "youpin_id": 125594,
+      "buffmarket_goods_id": 50424,
+      "buff163_sticker_id": 144831
+    },
+    "Sticker | NQZ (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148561,
+      "buffmarket_goods_id": 50426,
+      "buff163_sticker_id": 144832
+    },
+    "Sticker | kensizor (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148562,
+      "buffmarket_goods_id": 50425,
+      "buff163_sticker_id": 144833
+    },
+    "Sticker | INS (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148563,
+      "buffmarket_goods_id": 50427,
+      "buff163_sticker_id": 144834
+    },
+    "Sticker | lauNX (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148564,
+      "youpin_id": 125706,
+      "buffmarket_goods_id": 50428,
+      "buff163_sticker_id": 144835
+    },
+    "Sticker | s1zzi (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148565,
+      "buffmarket_goods_id": 50429,
+      "buff163_sticker_id": 144836
+    },
+    "Sticker | phzy (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148566,
+      "youpin_id": 125410,
+      "buffmarket_goods_id": 50430,
+      "buff163_sticker_id": 144837
+    },
+    "Sticker | LNZ (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148567,
+      "buffmarket_goods_id": 50431,
+      "buff163_sticker_id": 144838
+    },
+    "Sticker | FL4MUS (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148568,
+      "youpin_id": 125626,
+      "buffmarket_goods_id": 50432,
+      "buff163_sticker_id": 144839
+    },
+    "Sticker | v$m (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148569,
+      "buffmarket_goods_id": 50433,
+      "buff163_sticker_id": 144840
+    },
+    "Sticker | kisserek (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148570,
+      "buffmarket_goods_id": 50435,
+      "buff163_sticker_id": 144841
+    },
+    "Sticker | NEKiZ (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148571,
+      "buffmarket_goods_id": 50434,
+      "buff163_sticker_id": 144842
+    },
+    "Sticker | arT (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148572,
+      "buffmarket_goods_id": 50436,
+      "buff163_sticker_id": 144843
+    },
+    "Sticker | stressarN (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148573,
+      "buffmarket_goods_id": 50437,
+      "buff163_sticker_id": 144844
+    },
+    "Sticker | luchov (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148574,
+      "youpin_id": 125729,
+      "buffmarket_goods_id": 50444,
+      "buff163_sticker_id": 144845
+    },
+    "Sticker | Brollan (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148575,
+      "buffmarket_goods_id": 50439,
+      "buff163_sticker_id": 144846
+    },
+    "Sticker | nilo (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148576,
+      "buffmarket_goods_id": 50438,
+      "buff163_sticker_id": 144847
+    },
+    "Sticker | Lake (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148577,
+      "buffmarket_goods_id": 50440,
+      "buff163_sticker_id": 144848
+    },
+    "Sticker | HUASOPEEK (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148578,
+      "buffmarket_goods_id": 50441,
+      "buff163_sticker_id": 144849
+    },
+    "Sticker | BIG (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148579,
+      "youpin_id": 125566,
+      "buffmarket_goods_id": 50442,
+      "buff163_sticker_id": 144850
+    },
+    "Sticker | tabseN (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148580,
+      "buffmarket_goods_id": 50443,
+      "buff163_sticker_id": 144851
+    },
+    "Sticker | koala (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148581,
+      "buffmarket_goods_id": 50445,
+      "buff163_sticker_id": 144852
+    },
+    "Sticker | AZUWU (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148582,
+      "buffmarket_goods_id": 50452,
+      "buff163_sticker_id": 144853
+    },
+    "Sticker | ryu (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148583,
+      "youpin_id": 125638,
+      "buffmarket_goods_id": 50447,
+      "buff163_sticker_id": 144854
+    },
+    "Sticker | woxic (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148584,
+      "buffmarket_goods_id": 50446,
+      "buff163_sticker_id": 144855
+    },
+    "Sticker | venomzera (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148585,
+      "buffmarket_goods_id": 50448,
+      "buff163_sticker_id": 144856
+    },
+    "Sticker | MoDo (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148586,
+      "buffmarket_goods_id": 50449,
+      "buff163_sticker_id": 144857
+    },
+    "Sticker | westmelon (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148587,
+      "youpin_id": 125517,
+      "buffmarket_goods_id": 50451,
+      "buff163_sticker_id": 144858
+    },
+    "Sticker | meyern (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148588,
+      "buffmarket_goods_id": 50450,
+      "buff163_sticker_id": 144859
+    },
+    "Sticker | faveN (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148589,
+      "buffmarket_goods_id": 50453,
+      "buff163_sticker_id": 144860
+    },
+    "Sticker | SHOCK (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148590,
+      "buffmarket_goods_id": 50454,
+      "buff163_sticker_id": 144861
+    },
+    "Sticker | v$m (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148591,
+      "buffmarket_goods_id": 50455,
+      "buff163_sticker_id": 144862
+    },
+    "Sticker | Sonic (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148592,
+      "buffmarket_goods_id": 50456,
+      "buff163_sticker_id": 144863
+    },
+    "Sticker | SHOCK (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148593,
+      "buffmarket_goods_id": 50457,
+      "buff163_sticker_id": 144864
+    },
+    "Sticker | Heavygod (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148594,
+      "youpin_id": 125684,
+      "buffmarket_goods_id": 50459,
+      "buff163_sticker_id": 144865
+    },
+    "Sticker | Bymas (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148595,
+      "buffmarket_goods_id": 50458,
+      "buff163_sticker_id": 144866
+    },
+    "Sticker | alex666 (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148596,
+      "buffmarket_goods_id": 50460,
+      "buff163_sticker_id": 144867
+    },
+    "Sticker | gr1ks (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148597,
+      "buffmarket_goods_id": 50461,
+      "buff163_sticker_id": 144868
+    },
+    "Sticker | Starry (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148598,
+      "buffmarket_goods_id": 50462,
+      "buff163_sticker_id": 144869
+    },
+    "Sticker | Boombl4 (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148599,
+      "buffmarket_goods_id": 50463,
+      "buff163_sticker_id": 144870
+    },
+    "Sticker | xfl0ud (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148600,
+      "buffmarket_goods_id": 50464,
+      "buff163_sticker_id": 144871
+    },
+    "Sticker | biguzera (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148601,
+      "youpin_id": 125570,
+      "buffmarket_goods_id": 50465,
+      "buff163_sticker_id": 144872
+    },
+    "Sticker | MoDo (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148602,
+      "buffmarket_goods_id": 50467,
+      "buff163_sticker_id": 144873
+    },
+    "Sticker | kl1m (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148603,
+      "buffmarket_goods_id": 50466,
+      "buff163_sticker_id": 144874
+    },
+    "Sticker | felps (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148604,
+      "buffmarket_goods_id": 50468,
+      "buff163_sticker_id": 144875
+    },
+    "Sticker | dgt (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148605,
+      "buffmarket_goods_id": 50469,
+      "buff163_sticker_id": 144876
+    },
+    "Sticker | mzinho (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148606,
+      "youpin_id": 125660,
+      "buffmarket_goods_id": 50470,
+      "buff163_sticker_id": 144877
+    },
+    "Sticker | B8 (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148607,
+      "buffmarket_goods_id": 50471,
+      "buff163_sticker_id": 144878
+    },
+    "Sticker | asap (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148608,
+      "buffmarket_goods_id": 50472,
+      "buff163_sticker_id": 144879
+    },
+    "Sticker | Grim (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148609,
+      "buffmarket_goods_id": 50473,
+      "buff163_sticker_id": 144880
+    },
+    "Sticker | NAF (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148610,
+      "youpin_id": 125719,
+      "buffmarket_goods_id": 50474,
+      "buff163_sticker_id": 144881
+    },
+    "Sticker | BIG (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148611,
+      "youpin_id": 125593,
+      "buffmarket_goods_id": 50475,
+      "buff163_sticker_id": 144882
+    },
+    "Sticker | malbsMd (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148612,
+      "youpin_id": 125694,
+      "buffmarket_goods_id": 50476,
+      "buff163_sticker_id": 144883
+    },
+    "Sticker | BELCHONOKK (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148613,
+      "youpin_id": 125614,
+      "buffmarket_goods_id": 50478,
+      "buff163_sticker_id": 144884
+    },
+    "Sticker | INS (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148614,
+      "youpin_id": 125431,
+      "buffmarket_goods_id": 50477,
+      "buff163_sticker_id": 144885
+    },
+    "Sticker | Magnojez (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148616,
+      "buffmarket_goods_id": 50479,
+      "buff163_sticker_id": 144886
+    },
+    "Sticker | meyern (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148617,
+      "buffmarket_goods_id": 50480,
+      "buff163_sticker_id": 144887
+    },
+    "Sticker | gr1ks (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148618,
+      "buffmarket_goods_id": 50481,
+      "buff163_sticker_id": 144888
+    },
+    "Sticker | vexite (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148619,
+      "buffmarket_goods_id": 50482,
+      "buff163_sticker_id": 144889
+    },
+    "Sticker | n1ssim (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148620,
+      "buffmarket_goods_id": 50483,
+      "buff163_sticker_id": 144890
+    },
+    "Sticker | NAF (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148621,
+      "buffmarket_goods_id": 50485,
+      "buff163_sticker_id": 144891
+    },
+    "Sticker | PR (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148622,
+      "youpin_id": 125700,
+      "buffmarket_goods_id": 50484,
+      "buff163_sticker_id": 144892
+    },
+    "Sticker | npl (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148623,
+      "buffmarket_goods_id": 50486,
+      "buff163_sticker_id": 144893
+    },
+    "Sticker | biguzera (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148624,
+      "buffmarket_goods_id": 50487,
+      "buff163_sticker_id": 144894
+    },
+    "Sticker | Grim (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148625,
+      "buffmarket_goods_id": 50488,
+      "buff163_sticker_id": 144895
+    },
+    "Sticker | gr1ks (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148626,
+      "buffmarket_goods_id": 50489,
+      "buff163_sticker_id": 144896
+    },
+    "Sticker | torzsi (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148627,
+      "buffmarket_goods_id": 50490,
+      "buff163_sticker_id": 144897
+    },
+    "Sticker | Jimpphat (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148628,
+      "buffmarket_goods_id": 50491,
+      "buff163_sticker_id": 144898
+    },
+    "Sticker | story (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148629,
+      "buffmarket_goods_id": 50493,
+      "buff163_sticker_id": 144899
+    },
+    "Sticker | NEKiZ (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148630,
+      "buffmarket_goods_id": 50492,
+      "buff163_sticker_id": 144900
+    },
+    "Sticker | dgt (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148631,
+      "youpin_id": 125597,
+      "buffmarket_goods_id": 50495,
+      "buff163_sticker_id": 144901
+    },
+    "Sticker | aliStair (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148632,
+      "buffmarket_goods_id": 50494,
+      "buff163_sticker_id": 144902
+    },
+    "Sticker | Swisher (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148634,
+      "buffmarket_goods_id": 50496,
+      "buff163_sticker_id": 144903
+    },
+    "Sticker | nilo (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148635,
+      "youpin_id": 125446,
+      "buffmarket_goods_id": 50497,
+      "buff163_sticker_id": 144904
+    },
+    "Sticker | xertioN (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148636,
+      "buffmarket_goods_id": 50498,
+      "buff163_sticker_id": 144905
+    },
+    "Sticker | soulfly (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148637,
+      "youpin_id": 125680,
+      "buffmarket_goods_id": 50499,
+      "buff163_sticker_id": 144906
+    },
+    "Sticker | meyern (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148638,
+      "buffmarket_goods_id": 50500,
+      "buff163_sticker_id": 144907
+    },
+    "Sticker | siuhy (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148639,
+      "youpin_id": 125679,
+      "buffmarket_goods_id": 50501,
+      "buff163_sticker_id": 144908
+    },
+    "Sticker | Brollan (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148640,
+      "buffmarket_goods_id": 50502,
+      "buff163_sticker_id": 144909
+    },
+    "Sticker | Lake (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148641,
+      "buffmarket_goods_id": 50503,
+      "buff163_sticker_id": 144910
+    },
+    "Sticker | MIBR (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148642,
+      "youpin_id": 125544,
+      "buffmarket_goods_id": 50504,
+      "buff163_sticker_id": 144911
+    },
+    "Sticker | s1n (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148645,
+      "youpin_id": 125727,
+      "buffmarket_goods_id": 50505,
+      "buff163_sticker_id": 144912
+    },
+    "Sticker | cmtry (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148650,
+      "buffmarket_goods_id": 50506,
+      "buff163_sticker_id": 144913
+    },
+    "Sticker | hypex (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148654,
+      "buffmarket_goods_id": 50507,
+      "buff163_sticker_id": 144914
+    },
+    "Sticker | latto (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148660,
+      "buffmarket_goods_id": 50508,
+      "buff163_sticker_id": 144915
+    },
+    "Sticker | Krabeni (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148668,
+      "buffmarket_goods_id": 50510,
+      "buff163_sticker_id": 144916
+    },
+    "Sticker | beastik (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148669,
+      "buffmarket_goods_id": 50509,
+      "buff163_sticker_id": 144917
+    },
+    "Sticker | malbsMd (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148674,
+      "buffmarket_goods_id": 50511,
+      "buff163_sticker_id": 144918
+    },
+    "Sticker | TjP (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148675,
+      "buffmarket_goods_id": 50512,
+      "buff163_sticker_id": 144919
+    },
+    "Sticker | cmtry (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148678,
+      "buffmarket_goods_id": 50513,
+      "buff163_sticker_id": 144920
+    },
+    "Sticker | Snax (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148682,
+      "buffmarket_goods_id": 50517,
+      "buff163_sticker_id": 144921
+    },
+    "Sticker | Gizmy (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148683,
+      "buffmarket_goods_id": 50514,
+      "buff163_sticker_id": 144922
+    },
+    "Sticker | hypex (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148684,
+      "buffmarket_goods_id": 50515,
+      "buff163_sticker_id": 144923
+    },
+    "Sticker | Tauson (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148685,
+      "youpin_id": 125720,
+      "buffmarket_goods_id": 50516,
+      "buff163_sticker_id": 144924
+    },
+    "Sticker | 9z Team (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148686,
+      "youpin_id": 125607,
+      "buffmarket_goods_id": 50518,
+      "buff163_sticker_id": 144925
+    },
+    "Sticker | lauNX (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148687,
+      "buffmarket_goods_id": 50519,
+      "buff163_sticker_id": 144926
+    },
+    "Sticker | zorte (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148691,
+      "buffmarket_goods_id": 50520,
+      "buff163_sticker_id": 144927
+    },
+    "Sticker | JOTA (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148692,
+      "buffmarket_goods_id": 50521,
+      "buff163_sticker_id": 144928
+    },
+    "Sticker | latto (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148699,
+      "buffmarket_goods_id": 50522,
+      "buff163_sticker_id": 144929
+    },
+    "Sticker | FL4MUS (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148700,
+      "youpin_id": 125697,
+      "buffmarket_goods_id": 50523,
+      "buff163_sticker_id": 144930
+    },
+    "Sticker | tabseN (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148703,
+      "buffmarket_goods_id": 50524,
+      "buff163_sticker_id": 144931
+    },
+    "Sticker | Spinx (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148705,
+      "youpin_id": 125693,
+      "buffmarket_goods_id": 50525,
+      "buff163_sticker_id": 144932
+    },
+    "Sticker | ultimate (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148707,
+      "buffmarket_goods_id": 50527,
+      "buff163_sticker_id": 144933
+    },
+    "Sticker | Monte (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148708,
+      "youpin_id": 125587,
+      "buffmarket_goods_id": 50526,
+      "buff163_sticker_id": 144934
+    },
+    "Sticker | latto (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148709,
+      "buffmarket_goods_id": 50528,
+      "buff163_sticker_id": 144935
+    },
+    "Sticker | Chr1zN (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148711,
+      "youpin_id": 125530,
+      "buffmarket_goods_id": 50529,
+      "buff163_sticker_id": 144936
+    },
+    "Sticker | Spinx (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148713,
+      "buffmarket_goods_id": 50530,
+      "buff163_sticker_id": 144937
+    },
+    "Sticker | JOTA (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148714,
+      "youpin_id": 125581,
+      "buffmarket_goods_id": 50531,
+      "buff163_sticker_id": 144938
+    },
+    "Sticker | Boombl4 (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148716,
+      "youpin_id": 125631,
+      "buffmarket_goods_id": 50532,
+      "buff163_sticker_id": 144939
+    },
+    "Sticker | biguzera (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148718,
+      "buffmarket_goods_id": 50533,
+      "buff163_sticker_id": 144940
+    },
+    "Sticker | faveN (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148720,
+      "buffmarket_goods_id": 50534,
+      "buff163_sticker_id": 144941
+    },
+    "Sticker | snow (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148721,
+      "buffmarket_goods_id": 50535,
+      "buff163_sticker_id": 144942
+    },
+    "Sticker | AZUWU (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148725,
+      "buffmarket_goods_id": 50536,
+      "buff163_sticker_id": 144943
+    },
+    "Sticker | piriajr (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148726,
+      "buffmarket_goods_id": 50537,
+      "buff163_sticker_id": 144944
+    },
+    "Sticker | jabbi (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148729,
+      "youpin_id": 125664,
+      "buffmarket_goods_id": 50538,
+      "buff163_sticker_id": 144945
+    },
+    "Sticker | br0 (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148730,
+      "buffmarket_goods_id": 50539,
+      "buff163_sticker_id": 144946
+    },
+    "Sticker | SHOCK (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148731,
+      "buffmarket_goods_id": 50540,
+      "buff163_sticker_id": 144947
+    },
+    "Sticker | Krabeni (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148737,
+      "buffmarket_goods_id": 50541,
+      "buff163_sticker_id": 144948
+    },
+    "Sticker | ryu (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148738,
+      "buffmarket_goods_id": 50542,
+      "buff163_sticker_id": 144949
+    },
+    "Sticker | nota (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148739,
+      "buffmarket_goods_id": 50543,
+      "buff163_sticker_id": 144950
+    },
+    "Sticker | beastik (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148740,
+      "buffmarket_goods_id": 50544,
+      "buff163_sticker_id": 144951
+    },
+    "Sticker | susp (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148741,
+      "buffmarket_goods_id": 50545,
+      "buff163_sticker_id": 144952
+    },
+    "Sticker | kensizor (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148742,
+      "buffmarket_goods_id": 50546,
+      "buff163_sticker_id": 144953
+    },
+    "Sticker | dziugss (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148746,
+      "buffmarket_goods_id": 50547,
+      "buff163_sticker_id": 144954
+    },
+    "Sticker | Magnojez (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148747,
+      "buffmarket_goods_id": 50548,
+      "buff163_sticker_id": 144955
+    },
+    "Sticker | asap (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148748,
+      "youpin_id": 125589,
+      "buffmarket_goods_id": 50549,
+      "buff163_sticker_id": 144956
+    },
+    "Sticker | kisserek (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148749,
+      "buffmarket_goods_id": 50550,
+      "buff163_sticker_id": 144957
+    },
+    "Sticker | esenthial (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148750,
+      "buffmarket_goods_id": 50551,
+      "buff163_sticker_id": 144958
+    },
+    "Sticker | yuurih (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148751,
+      "buffmarket_goods_id": 50552,
+      "buff163_sticker_id": 144959
+    },
+    "Sticker | JDC (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148752,
+      "buffmarket_goods_id": 50553,
+      "buff163_sticker_id": 144960
+    },
+    "Sticker | Chr1zN (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148753,
+      "buffmarket_goods_id": 50554,
+      "buff163_sticker_id": 144961
+    },
+    "Sticker | nitr0 (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148754,
+      "buffmarket_goods_id": 50555,
+      "buff163_sticker_id": 144962
+    },
+    "Sticker | nettik (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148755,
+      "buffmarket_goods_id": 50556,
+      "buff163_sticker_id": 144963
+    },
+    "Sticker | Liazz (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148757,
+      "buffmarket_goods_id": 50557,
+      "buff163_sticker_id": 144964
+    },
+    "Sticker | kl1m (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148760,
+      "buffmarket_goods_id": 50558,
+      "buff163_sticker_id": 144965
+    },
+    "Sticker | HUASOPEEK (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148761,
+      "buffmarket_goods_id": 50559,
+      "buff163_sticker_id": 144966
+    },
+    "Sticker | Moseyuh (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148763,
+      "youpin_id": 125657,
+      "buffmarket_goods_id": 50560,
+      "buff163_sticker_id": 144967
+    },
+    "Sticker Slab | ropz (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148764,
+      "buffmarket_goods_id": 50561,
+      "buff163_charm_id": 144457
+    },
+    "Sticker | SunPayus (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148765,
+      "buffmarket_goods_id": 50562,
+      "buff163_sticker_id": 144968
+    },
+    "Sticker Slab | sh1ro (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148766,
+      "youpin_id": 125717,
+      "buffmarket_goods_id": 50563,
+      "buff163_charm_id": 144459
+    },
+    "Sticker Slab | Jame (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148767,
+      "buffmarket_goods_id": 50564,
+      "buff163_charm_id": 144461
+    },
+    "Sticker Slab | JamYoung (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148768,
+      "youpin_id": 125726,
+      "buffmarket_goods_id": 50565,
+      "buff163_charm_id": 144510
+    },
+    "Sticker Slab | kyousuke (Foil, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148771,
+      "buffmarket_goods_id": 50566,
+      "buff163_charm_id": 144969
+    },
+    "Sticker | dem0n (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148773,
+      "buffmarket_goods_id": 50567
+    },
+    "Sticker Slab | SINNERS (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148775,
+      "buff163_charm_id": 144971
+    },
+    "Sticker | luken (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148776,
+      "youpin_id": 125654
+    },
+    "Sticker Slab | Jee (Holo, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1148778,
+      "youpin_id": 125723,
+      "buff163_charm_id": 144973
+    },
     "Sticker Slab | fnx (Foil) | MLG Columbus 2016": {
       "youpin_id": 115611
     },
@@ -258345,9 +261523,6 @@
     },
     "Souvenir M4A1-S | Briefing (Factory New)": {
       "youpin_id": 124175
-    },
-    "Souvenir Glock-18 | Moonrise (Field-Tested)": {
-      "youpin_id": 124213
     },
     "Sticker Slab | kauez (Holo) | Shanghai 2024": {
       "youpin_id": 124263
@@ -258460,20 +261635,56 @@
     "Souvenir Desert Eagle | Directive (Field-Tested)": {
       "youpin_id": 125308
     },
-    "Sticker Slab | Apple A Day (Glitter)": {
-      "youpin_id": 125310
-    },
     "Sticker Slab | PARIVISION (Gold) | Cologne 2026": {
       "youpin_id": 125313
     },
-    "Souvenir AK-47 | Consequence of the Jinn (Factory New)": {
-      "youpin_id": 125329
+    "Souvenir P250 | Forest Night (Field-Tested)": {
+      "youpin_id": 125348
     },
-    "Sticker Slab | B'nana Strike": {
-      "youpin_id": 125332
+    "Souvenir AWP | Atheris (Well-Worn)": {
+      "youpin_id": 125351
     },
-    "Sticker Slab | Pungent Comms": {
-      "youpin_id": 125337
+    "Sticker | Zero (Holo, Ranked) | Cologne 2026": {
+      "youpin_id": 125393,
+      "buff163_sticker_id": 144468
+    },
+    "Sticker | Zero (Foil, Ranked) | Cologne 2026": {
+      "youpin_id": 125394,
+      "buff163_sticker_id": 144652
+    },
+    "Sticker | MAJ3R (Holo, Ranked) | Cologne 2026": {
+      "youpin_id": 125459
+    },
+    "Sticker | GamerLegion (Gold, Ranked) | Cologne 2026": {
+      "youpin_id": 125497
+    },
+    "Sticker Slab | C4LLM3SU3 (Holo, Ranked) | Cologne 2026": {
+      "youpin_id": 125559
+    },
+    "Sticker | Zero (Gold, Ranked) | Cologne 2026": {
+      "youpin_id": 125574,
+      "buff163_sticker_id": 144707
+    },
+    "Sticker | MAJ3R (Foil, Ranked) | Cologne 2026": {
+      "youpin_id": 125580
+    },
+    "Sticker Slab | Natus Vincere (Holo, Ranked) | Cologne 2026": {
+      "youpin_id": 125627
+    },
+    "Sticker Slab | G2 esports (Holo, Ranked) | Cologne 2026": {
+      "youpin_id": 125652
+    },
+    "Sticker Slab | Techno4K (Gold, Ranked) | Cologne 2026": {
+      "youpin_id": 125691
+    },
+    "Sticker Slab | TYLOO (Holo, Ranked) | Cologne 2026": {
+      "youpin_id": 125707
+    },
+    "Sticker Slab | paiN Gaming (Holo, Ranked) | Cologne 2026": {
+      "youpin_id": 125721
+    },
+    "Sticker Slab | FURIA (Holo, Ranked) | Cologne 2026": {
+      "youpin_id": 125724
     },
     "Sticker | kioShiMa (Gold) | Atlanta 2017": {
       "buff163_sticker_id": 3326,
