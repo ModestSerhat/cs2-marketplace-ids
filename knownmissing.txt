@@ -5,42 +5,27 @@ Sticker | Aurora (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 20
 Sticker | FURIA (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 Sticker | MOUZ (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 Sticker | FUT (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
-Sticker | Astralis (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 Sticker | Legacy (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 Sticker | paiN Gaming (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 Sticker | 9z Team (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 Sticker | HEROIC (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 Sticker | BetBoom (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
-Sticker | BIG (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 Sticker | M80 (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 Sticker | MIBR (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 Sticker | NRG (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
-Sticker | Sharks Esports (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
-Sticker | Gaimin Gladiators (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 Sticker | FlyQuest (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 Sticker | cobra (Holo, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 Sticker | cobra (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 Sticker | xiELO (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
-Sticker | MAJ3R (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 Sticker | saadzin (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 Sticker | Rainwaker (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 Sticker | luchov (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
-Sticker | HUASOPEEK (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
-Sticker | Snax (Holo, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
-Sticker | PR (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
-Sticker | hypex (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
-Sticker | yxngstxr (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
-Sticker | tabseN (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
-Sticker | blameF (Holo, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
-Sticker | blameF (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 Sticker | Swisher (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
-Sticker | insani (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 Sticker | beastik (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 Sticker | stressarN (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 Sticker | br0 (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 Sticker | koala (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 Sticker | maxxkor (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
-Sticker | rdnzao (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 Sticker | doc (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 Sticker | HEN1 (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 
@@ -79,7 +64,6 @@ Tag IDs of Marble Fade Fire & Ice tiers known to be missing on buff163:
 ★ StatTrak™ Talon Knife | Marble Fade (Minimal Wear): 1st, 2nd, 3rd, 5th, 6th, 8th
 
 IDs of items known to be missing on buff163:
-Sticker | LNZ (Gold, Ranked) | Cologne 2026
 Sticker | Gizmy (Gold, Ranked) | Cologne 2026
 
 IDs of items known to be missing on youpin898:
@@ -168,17 +152,11 @@ Sticker | Astralis (Gold) | Cologne 2026
 Sticker | Snax (Gold) | Cologne 2026
 Sticker | beastik (Gold) | Cologne 2026
 Sticker | BIG (Gold) | Cologne 2026
-Sticker | THUNDERdOWNUNDER (Gold, Ranked) | Cologne 2026
-Sticker | KSCERATO (Holo, Ranked) | Cologne 2026
 Sticker | yuurih (Gold, Ranked) | Cologne 2026
-Sticker | kisserek (Holo, Ranked) | Cologne 2026
 Sticker | S1ren (Gold, Ranked) | Cologne 2026
 Sticker | PARIVISION (Gold, Ranked) | Cologne 2026
 Sticker | Snax (Gold, Ranked) | Cologne 2026
-Sticker | iM (Gold, Ranked) | Cologne 2026
 Sticker | mezii (Gold, Ranked) | Cologne 2026
-Sticker | Magnojez (Holo, Ranked) | Cologne 2026
-Sticker | MATYS (Gold, Ranked) | Cologne 2026
 Sticker | susp (Gold, Ranked) | Cologne 2026
 Sticker | nitr0 (Gold, Ranked) | Cologne 2026
 Sticker | luken (Gold, Ranked) | Cologne 2026
@@ -186,80 +164,58 @@ Sticker | NQZ (Gold, Ranked) | Cologne 2026
 Sticker | kensizor (Gold, Ranked) | Cologne 2026
 Sticker | v$m (Holo, Ranked) | Cologne 2026
 Sticker | NEKiZ (Foil, Ranked) | Cologne 2026
-Sticker | arT (Gold, Ranked) | Cologne 2026
-Sticker | stressarN (Holo, Ranked) | Cologne 2026
 Sticker | nilo (Gold, Ranked) | Cologne 2026
 Sticker | AZUWU (Gold, Ranked) | Cologne 2026
-Sticker | woxic (Gold, Ranked) | Cologne 2026
 Sticker | venomzera (Gold, Ranked) | Cologne 2026
 Sticker | MoDo (Gold, Ranked) | Cologne 2026
 Sticker | meyern (Gold, Ranked) | Cologne 2026
-Sticker | faveN (Holo, Ranked) | Cologne 2026
 Sticker | v$m (Gold, Ranked) | Cologne 2026
 Sticker | alex666 (Gold, Ranked) | Cologne 2026
 Sticker | gr1ks (Gold, Ranked) | Cologne 2026
-Sticker | Starry (Gold, Ranked) | Cologne 2026
 Sticker | xfl0ud (Gold, Ranked) | Cologne 2026
 Sticker | kl1m (Gold, Ranked) | Cologne 2026
 Sticker | felps (Gold, Ranked) | Cologne 2026
-Sticker | B8 (Foil, Ranked) | Cologne 2026
 Sticker | asap (Gold, Ranked) | Cologne 2026
 Sticker | Grim (Gold, Ranked) | Cologne 2026
-Sticker | Magnojez (Gold, Ranked) | Cologne 2026
-Sticker | gr1ks (Holo, Ranked) | Cologne 2026
 Sticker | vexite (Gold, Ranked) | Cologne 2026
 Sticker | npl (Gold, Ranked) | Cologne 2026
 Sticker | biguzera (Gold, Ranked) | Cologne 2026
 Sticker | Grim (Holo, Ranked) | Cologne 2026
-Sticker | torzsi (Gold, Ranked) | Cologne 2026
-Sticker | Jimpphat (Gold, Ranked) | Cologne 2026
 Sticker | story (Gold, Ranked) | Cologne 2026
 Sticker | NEKiZ (Gold, Ranked) | Cologne 2026
 Sticker | aliStair (Gold, Ranked) | Cologne 2026
-Sticker | Swisher (Holo, Ranked) | Cologne 2026
 Sticker | Brollan (Gold, Ranked) | Cologne 2026
-Sticker | cmtry (Gold, Ranked) | Cologne 2026
 Sticker | latto (Holo, Ranked) | Cologne 2026
 Sticker | Krabeni (Gold, Ranked) | Cologne 2026
-Sticker | beastik (Holo, Ranked) | Cologne 2026
 Sticker | Snax (Foil, Ranked) | Cologne 2026
 Sticker | Gizmy (Holo, Ranked) | Cologne 2026
 Sticker | hypex (Holo, Ranked) | Cologne 2026
-Sticker | lauNX (Gold, Ranked) | Cologne 2026
-Sticker | zorte (Gold, Ranked) | Cologne 2026
-Sticker | ultimate (Gold, Ranked) | Cologne 2026
 Sticker | latto (Gold, Ranked) | Cologne 2026
-Sticker | Spinx (Gold, Ranked) | Cologne 2026
 Sticker | faveN (Gold, Ranked) | Cologne 2026
 Sticker | piriajr (Gold, Ranked) | Cologne 2026
 Sticker | SHOCK (Gold, Ranked) | Cologne 2026
 Sticker | ryu (Gold, Ranked) | Cologne 2026
-Sticker | nota (Gold, Ranked) | Cologne 2026
 Sticker | dziugss (Gold, Ranked) | Cologne 2026
 Sticker | kisserek (Gold, Ranked) | Cologne 2026
 Sticker | esenthial (Gold, Ranked) | Cologne 2026
 Sticker | JDC (Gold, Ranked) | Cologne 2026
-Sticker | Chr1zN (Gold, Ranked) | Cologne 2026
-Sticker | nettik (Gold, Ranked) | Cologne 2026
 Sticker | Liazz (Gold, Ranked) | Cologne 2026
-Sticker | kl1m (Holo, Ranked) | Cologne 2026
 Sticker | SunPayus (Gold, Ranked) | Cologne 2026
-Sticker | s1zzi (Gold, Ranked) | Cologne 2026
-Sticker | Team Liquid (Gold, Ranked) | Cologne 2026
-Sticker | 910 (Gold, Ranked) | Cologne 2026
-Sticker | G2 esports (Gold, Ranked) | Cologne 2026
-Sticker | kensizor (Holo, Ranked) | Cologne 2026
 Sticker | SINNERS (Gold, Ranked) | Cologne 2026
 Sticker | REZ (Gold, Ranked) | Cologne 2026
 Sticker | B8 (Gold, Ranked) | Cologne 2026
-Sticker | makazze (Gold, Ranked) | Cologne 2026
-Sticker | Heavygod (Gold, Ranked) | Cologne 2026
 Sticker | Monte (Gold, Ranked) | Cologne 2026
-Sticker | snow (Gold, Ranked) | Cologne 2026
-Sticker | afro (Gold, Ranked) | Cologne 2026
+Sticker | Sharks Esports (Gold, Ranked) | Cologne 2026
+Sticker | BIG (Gold, Ranked) | Cologne 2026
+Sticker | yxngstxr (Gold, Ranked) | Cologne 2026
+Sticker | PR (Gold, Ranked) | Cologne 2026
+Sticker | insani (Gold, Ranked) | Cologne 2026
+Sticker | HUASOPEEK (Gold, Ranked) | Cologne 2026
+Sticker | blameF (Holo, Ranked) | Cologne 2026
+Sticker | rdnzao (Gold, Ranked) | Cologne 2026
+Sticker | hypex (Gold, Ranked) | Cologne 2026
 
 IDs of items known to be missing on buff.market:
-Sticker | LNZ (Gold, Ranked) | Cologne 2026
 Sticker | Gizmy (Gold, Ranked) | Cologne 2026
 
 IDs of items known to be missing on cs.money:
@@ -318,7 +274,6 @@ Initiators Music Kit Box
 ★ StatTrak™ Bowie Knife | Boreal Forest (Factory New)
 ★ StatTrak™ Skeleton Knife | Forest DDPAT (Factory New)
 Sticker | frozen (Gold) | Rio 2022
-Sticker | nicoodoz (Gold) | Rio 2022
 Sticker | EliGE | Rio 2022
 Sticker | EliGE (Glitter) | Rio 2022
 Sticker | EliGE (Holo) | Rio 2022
@@ -379,7 +334,6 @@ Sticker | volt (Gold) | Shanghai 2024
 ★ StatTrak™ Survival Knife | Ultraviolet (Factory New)
 ★ StatTrak™ Paracord Knife | Ultraviolet (Factory New)
 Sticker | Cxzi (Foil) | Austin 2025
-Sticker | riskyb0b (Foil) | Austin 2025
 Sticker | adamb (Gold) | Austin 2025
 Sticker | headtr1ck (Foil) | Austin 2025
 Souvenir Charm | Austin 2025 Highlight | Triple Kill And A Defuse
@@ -387,7 +341,6 @@ Souvenir Charm | Austin 2025 Highlight | Brollan Smoke Criminal
 Souvenir Charm | Austin 2025 Highlight | ropz Double Nuke Kill
 Souvenir Charm | Austin 2025 Highlight | nqz Double Nuke Kill
 Souvenir Charm | Austin 2025 Highlight | Triple Pistol
-Souvenir Charm | Austin 2025 Highlight | Inhuman Reactions
 Souvenir Charm | Austin 2025 Highlight | The Iron Man
 Souvenir Charm | Austin 2025 Highlight | 2K Spraydown
 Souvenir Charm | Austin 2025 Highlight | Exploit
@@ -403,7 +356,6 @@ Souvenir Charm | Austin 2025 Highlight | torzsi Double Nuke Kill
 Souvenir Charm | Austin 2025 Highlight | Heroic Effort
 Souvenir Charm | Austin 2025 Highlight | YEKINDAR Double Kill
 Souvenir Charm | Austin 2025 Highlight | xertioN Nuke Triple Kill
-Souvenir Charm | Austin 2025 Highlight | Rampage
 Souvenir Charm | Austin 2025 Highlight | The Smoke Sneaker
 Souvenir Charm | Austin 2025 Highlight | b1t: The Nuke Cowboy
 Souvenir Charm | Austin 2025 Highlight | mezii Triple Entry
@@ -516,15 +468,11 @@ Souvenir Charm | Austin 2025 Highlight | The Eco Hunter
 Sticker | ChildKing (Gold) | Budapest 2025
 Souvenir Charm | Budapest 2025 Highlight | Twistzz Deagle quad
 Souvenir Charm | Budapest 2025 Highlight | frozen Banana opener
-Souvenir Charm | Budapest 2025 Highlight | Aleksib CT lockdown
 Souvenir Charm | Budapest 2025 Highlight | broky vs Natus Vincere on Inferno
-Souvenir Charm | Budapest 2025 Highlight | jcobbb vs Natus Vincere on Inferno
 Souvenir Charm | Budapest 2025 Highlight | Aleksib vs FURIA on Inferno
 Souvenir Charm | Budapest 2025 Highlight | iM vs FURIA on Inferno
 Souvenir Charm | Budapest 2025 Highlight | zweih almost aces
-Souvenir Charm | Budapest 2025 Highlight | mezii vs Spirit on Dust II
 Souvenir Charm | Budapest 2025 Highlight | KSCERATO vs Natus Vincere on Inferno
-Souvenir Charm | Budapest 2025 Highlight | Mzinho mid surprise
 Souvenir Charm | Budapest 2025 Highlight | Aleksib vs FaZe on Nuke
 Souvenir Charm | Budapest 2025 Highlight | w0nderful long-range triple
 Souvenir Charm | Budapest 2025 Highlight | jcobbb vs MOUZ on Inferno
@@ -540,7 +488,6 @@ Souvenir Charm | Budapest 2025 Highlight | frozen vs MOUZ on Inferno
 Souvenir Charm | Budapest 2025 Highlight | ZywOo vs FaZe on Inferno
 Souvenir Charm | Budapest 2025 Highlight | karrigan vs MOUZ on Inferno
 Souvenir Charm | Budapest 2025 Highlight | FaZe win in the QF
-Souvenir Charm | Budapest 2025 Highlight | mezii vs FaZe on Nuke
 Souvenir Charm | Budapest 2025 Highlight | Twistzz smoke breaker
 Souvenir Charm | Budapest 2025 Highlight | mezii vs FaZe on Inferno
 Souvenir Charm | Budapest 2025 Highlight | broky vs MOUZ on Nuke
@@ -549,7 +496,6 @@ Souvenir Charm | Budapest 2025 Highlight | broky vs Natus Vincere on Nuke
 Souvenir Charm | Budapest 2025 Highlight | Aleksib vs FURIA on Mirage
 Souvenir Charm | Budapest 2025 Highlight | iM rotation payoff
 Souvenir Charm | Budapest 2025 Highlight | ZywOo vs The MongolZ on Dust II
-Souvenir Charm | Budapest 2025 Highlight | ZywOo final blow
 Souvenir Charm | Budapest 2025 Highlight | iM vs FaZe on Nuke
 Souvenir Charm | Budapest 2025 Highlight | jcobbb vs MOUZ on Nuke
 Souvenir Charm | Budapest 2025 Highlight | Spinx plant pressure
@@ -563,16 +509,12 @@ Souvenir Charm | Budapest 2025 Highlight | Brollan vs FaZe on Nuke
 Souvenir Charm | Budapest 2025 Highlight | karrigan cuts rotation
 Souvenir Charm | Budapest 2025 Highlight | Brollan vs FaZe on Inferno
 Souvenir Charm | Budapest 2025 Highlight | karrigan through fire
-Souvenir Charm | Budapest 2025 Highlight | controlez vs Vitality on Mirage
 Souvenir Charm | Budapest 2025 Highlight | bLitz vs Vitality on Mirage
 Souvenir Charm | Budapest 2025 Highlight | Twistzz dual chaos
 Souvenir Charm | Budapest 2025 Highlight | broky vs MOUZ on Inferno
 Souvenir Charm | Budapest 2025 Highlight | broky mid-air magic
 Souvenir Charm | Budapest 2025 Highlight | jcobbb vs Natus Vincere on Nuke
 Souvenir Charm | Budapest 2025 Highlight | xertioN clutch win
-Souvenir Charm | Budapest 2025 Highlight | 910 vs Vitality on Mirage
-Souvenir Charm | Budapest 2025 Highlight | 910 vs Vitality on Dust II
-Souvenir Charm | Budapest 2025 Highlight | Mzinho clears Short
 Souvenir Charm | Budapest 2025 Highlight | Spinx vs FaZe on Inferno
 Souvenir Charm | Budapest 2025 Highlight | flameZ everywhere
 Souvenir Charm | Budapest 2025 Highlight | broky seals Nuke
@@ -584,7 +526,6 @@ Souvenir Charm | Budapest 2025 Highlight | torzsi opening picks
 Souvenir Charm | Budapest 2025 Highlight | ropz 1v3 clutch
 Souvenir Charm | Budapest 2025 Highlight | Twistzz vs MOUZ on Inferno
 Souvenir Charm | Budapest 2025 Highlight | xertioN vs FaZe on Inferno
-Souvenir Charm | Budapest 2025 Highlight | jcobbb entry force
 Souvenir Charm | Budapest 2025 Highlight | frozen post-plant wall
 Souvenir Charm | Budapest 2025 Highlight | frozen vs MOUZ on Nuke
 ★ Driver Gloves | Brocade Crane (Factory New)
@@ -600,10 +541,8 @@ Sticker | Moseyuh (Gold) | Cologne 2026
 Sticker | Zero (Gold) | Cologne 2026
 Sticker | molodoy (Gold) | Cologne 2026
 Sticker | Vitality | Cologne 2026
-Sticker | Lynn Vision (Gold) | Cologne 2026
 Sticker | TeSeS (Gold) | Cologne 2026
 Sticker | zweih (Gold) | Cologne 2026
-Sticker | westmelon (Gold) | Cologne 2026
 Sticker | EliGE (Gold) | Cologne 2026
 Sticker | YEKINDAR (Gold) | Cologne 2026
 Sticker | GamerLegion (Gold) | Cologne 2026
@@ -625,7 +564,6 @@ Sticker | Bymas (Gold) | Cologne 2026
 Sticker | HUASOPEEK (Gold) | Cologne 2026
 Sticker | slaxz- (Gold) | Cologne 2026
 Sticker | BELCHONOKK (Gold) | Cologne 2026
-Sticker | maxxkor (Gold) | Cologne 2026
 Sticker | nota (Gold) | Cologne 2026
 Sticker | SINNERS (Gold) | Cologne 2026
 Sticker | insani (Gold) | Cologne 2026
@@ -725,176 +663,18 @@ Souvenir Charm | Cologne 2026 Highlight | AZUWU Deagle ACE
 Souvenir Charm | Cologne 2026 Highlight | dgt Pistol ACE
 Souvenir Charm | Cologne 2026 Highlight | asap ACE
 Sticker | BIG (Gold) | Cologne 2026
-Sticker | Head In Hands (Glitter)
-Sticker | Assterisk
-Sticker | Big Red Rocket
-Sticker | Explosives
-Sticker | Partyboy
-Sticker | Skull Bunny
-Sticker | Boner Snap (Holo)
-Sticker | Airhorn
-Sticker | Gonna Leave A Mark
-Sticker | Head In Hands
 Jackass Sticker Capsule
-Sticker | Censored
-Sticker | The Magic Trick
-Sticker | Gonna Leave A Mark (Holo)
-Sticker | Airhorn (Glitter)
-Sticker | Jackass
-Sticker | Radiograph
-Sticker | Golf Cart
-Sticker | Rocket Skates
-Sticker | Boner Snap
-Sticker | Skull Bunny (Glitter)
-Sticker | Rocket Skates (Holo)
-Sticker | High Five!
-Sticker | Big Red Rocket (Glitter)
-Sticker | ZZZAP!
-Sticker | Explosives (Foil)
-Sticker | Assterisk (Glitter)
-Sticker | Assterisk (Foil)
-Sticker | High Five! (Glitter)
-Sticker | The Magic Trick (Glitter)
-Sticker | ZZZAP! (Holo)
-Nova | Morning Sun (Minimal Wear)
-PP-Bizon | Traitor (Minimal Wear)
 SCAR-20 | Sirocco Script (Well-Worn)
-Dual Berettas | Mystic Conjunction (Well-Worn)
-SCAR-20 | Sirocco Script (Battle-Scarred)
-MP9 | Dune Asp (Field-Tested)
-PP-Bizon | Traitor (Field-Tested)
 Tec-9 | Sultan (Field-Tested)
-PP-Bizon | Traitor (Well-Worn)
-Five-SeveN | Desert Seal (Minimal Wear)
-Nova | Morning Sun (Battle-Scarred)
-Five-SeveN | Desert Seal (Well-Worn)
-MAC-10 | Arabesque Mosaic (Field-Tested)
-FAMAS | Snake Song (Field-Tested)
-SCAR-20 | Sirocco Script (Minimal Wear)
-Dual Berettas | Mystic Conjunction (Field-Tested)
-Sawed-Off | Lunar Wyrm (Well-Worn)
-Dual Berettas | Mystic Conjunction (Battle-Scarred)
-Five-SeveN | Desert Seal (Battle-Scarred)
-SCAR-20 | Sirocco Script (Field-Tested)
-R8 Revolver | Monarch (Well-Worn)
-Tec-9 | Sultan (Battle-Scarred)
-MP9 | Dune Asp (Minimal Wear)
-MP9 | Dune Asp (Well-Worn)
-Nova | Morning Sun (Well-Worn)
-Sawed-Off | Lunar Wyrm (Battle-Scarred)
-Nova | Morning Sun (Field-Tested)
-Dual Berettas | Mystic Conjunction (Minimal Wear)
-Nova | Morning Sun (Factory New)
-Five-SeveN | Desert Seal (Field-Tested)
-SCAR-20 | Sirocco Script (Factory New)
-PP-Bizon | Traitor (Battle-Scarred)
 MP9 | Dune Asp (Battle-Scarred)
-MAC-10 | Arabesque Mosaic (Factory New)
-Sawed-Off | Lunar Wyrm (Minimal Wear)
-MAC-10 | Arabesque Mosaic (Battle-Scarred)
-FAMAS | Corp Defense (Field-Tested)
 XM1014 | Black Site (Factory New)
-FAMAS | Snake Song (Battle-Scarred)
-MP7 | Base-2 (Field-Tested)
-MP9 | Dune Asp (Factory New)
-R8 Revolver | Monarch (Field-Tested)
 M4A4 | Dark Operative (Field-Tested)
-Tec-9 | Perimeter (Factory New)
-FAMAS | Snake Song (Minimal Wear)
-MAC-10 | Arabesque Mosaic (Minimal Wear)
-FAMAS | Snake Song (Well-Worn)
 MAC-10 | Video Cam (Minimal Wear)
-FAMAS | Corp Defense (Minimal Wear)
-SCAR-20 | Arctic Camo Panels (Minimal Wear)
-MP7 | Base-2 (Factory New)
-SCAR-20 | Arctic Camo Panels (Field-Tested)
-SCAR-20 | Arctic Camo Panels (Well-Worn)
-XM1014 | Black Site (Minimal Wear)
-R8 Revolver | Monarch (Battle-Scarred)
-MAC-10 | Video Cam (Well-Worn)
-R8 Revolver | Monarch (Minimal Wear)
-MP7 | Base-2 (Minimal Wear)
-MAC-10 | Video Cam (Field-Tested)
-MP7 | Base-2 (Well-Worn)
-XM1014 | Black Site (Well-Worn)
-XM1014 | Black Site (Field-Tested)
-Tec-9 | Perimeter (Well-Worn)
-MAC-10 | Video Cam (Battle-Scarred)
-FAMAS | Corp Defense (Battle-Scarred)
-PP-Bizon | Traitor (Factory New)
-Sawed-Off | Lunar Wyrm (Field-Tested)
-Tec-9 | Perimeter (Minimal Wear)
-FAMAS | Corp Defense (Well-Worn)
-MP7 | Base-2 (Battle-Scarred)
-AUG | Signal Scanner (Field-Tested)
-Tec-9 | Perimeter (Battle-Scarred)
 MP9 | Spy Prototype (Field-Tested)
-XM1014 | Black Site (Battle-Scarred)
-Tec-9 | Sultan (Well-Worn)
-M4A4 | Dark Operative (Well-Worn)
-MAC-10 | Arabesque Mosaic (Well-Worn)
-Tec-9 | Perimeter (Field-Tested)
-AUG | Signal Scanner (Well-Worn)
 Sticker | Bomb On Board
-MP9 | Spy Prototype (Minimal Wear)
-M4A4 | Dark Operative (Battle-Scarred)
-MP9 | Spy Prototype (Battle-Scarred)
-SCAR-20 | Arctic Camo Panels (Battle-Scarred)
 Sticker | Please Be Patient
-Sticker | Roentgen Raceclub
-Sticker | Cry Baby
-Sticker | B'nana Strike
-Sticker | W Performance Tires
-Sticker | Fresh Cut
-Sticker | Agent Kucumber
-Sticker | Boreal Blast
 Sticker | Defusal Sprint
-Sticker | Box Logo
-Sticker | Apple A Day (Glitter)
-Sticker | Peekle
-Sticker | Blaze Breeze
-Sticker | Aceberry (Glitter)
-Sticker | Scratch N' Whiff
-Sticker | Neo-Rush (Holo)
-Sticker | Pungent Comms
-Sticker | Sand Dune Baja Tour
-Sticker | Safari Shine
-Sticker | Killometer
-Sticker | Lemin
-Sticker | Heckler
-Sticker | Radish K
-Sticker | Hot Pepper (Holo)
-Sticker | Bunnyhop Hydraulics
-Sticker | Checkered Kukri
-Dual Berettas | Mystic Conjunction (Factory New)
-SCAR-20 | Arctic Camo Panels (Factory New)
-Sticker | Run Boost Lift Kits
-AUG | Signal Scanner (Battle-Scarred)
-Sticker | Engine Start (Holo)
-Sticker | Safety First (Holo)
 Sticker | Neo-Hold (Holo)
-Five-SeveN | Desert Seal (Factory New)
-MP9 | Spy Prototype (Well-Worn)
-R8 Revolver | Monarch (Factory New)
-Sticker | Lucky Charms (Foil)
-Sticker | From The Vine (Holo)
-Sticker | From The Source
-Sticker | Cone Zone (Holo)
-Sticker | Juice Box (Holo)
-Sticker | Ultra Fruity (Holo)
-Sticker | B-A-N-A-N-A-S (Foil)
-Sticker | First Lap (Holo)
-Sticker | Quality Control (Holo)
-MP9 | Spy Prototype (Factory New)
-Sticker | Eco Mode (Foil)
-Sticker | Sniper Ahead (Foil)
-Sticker | Turbo Peek (Foil)
-Sticker | Knife Streak (Holo)
-Sticker | Fruit Fly (Foil)
-Sticker | Early Bird (Foil)
-Sticker | Born To Peek (Foil)
-AWP | Black Box (Factory New)
-AK-47 | AUTOEXEC (Factory New)
 Sticker | b1t (Gold, Ranked) | Cologne 2026
 Sticker | NiKo (Gold, Ranked) | Cologne 2026
 Sticker | Team Spirit (Holo, Ranked) | Cologne 2026
@@ -1429,5 +1209,20 @@ Sticker | Monte (Gold, Ranked) | Cologne 2026
 Sticker | snow (Gold, Ranked) | Cologne 2026
 Sticker | afro (Gold, Ranked) | Cologne 2026
 Sticker | Techno4K (Gold, Ranked) | Cologne 2026
+Sticker | Sharks Esports (Gold, Ranked) | Cologne 2026
+Sticker | BIG (Gold, Ranked) | Cologne 2026
+Sticker | yxngstxr (Gold, Ranked) | Cologne 2026
+Sticker | PR (Gold, Ranked) | Cologne 2026
+Sticker | Astralis (Gold, Ranked) | Cologne 2026
+Sticker | insani (Gold, Ranked) | Cologne 2026
+Sticker | HUASOPEEK (Gold, Ranked) | Cologne 2026
+Sticker | blameF (Holo, Ranked) | Cologne 2026
+Sticker | rdnzao (Gold, Ranked) | Cologne 2026
+Sticker | Snax (Holo, Ranked) | Cologne 2026
+Sticker | tabseN (Gold, Ranked) | Cologne 2026
+Sticker | blameF (Gold, Ranked) | Cologne 2026
+Sticker | Gaimin Gladiators (Gold, Ranked) | Cologne 2026
+Sticker | hypex (Gold, Ranked) | Cologne 2026
 Sticker | LNZ (Gold, Ranked) | Cologne 2026
+Sticker | MAJ3R (Gold, Ranked) | Cologne 2026
 Sticker | Gizmy (Gold, Ranked) | Cologne 2026
