@@ -20,14 +20,10 @@ Sticker | xiELO (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 202
 Sticker | saadzin (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 Sticker | Rainwaker (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 Sticker | luchov (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
-Sticker | Swisher (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
-Sticker | beastik (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 Sticker | stressarN (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 Sticker | br0 (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
-Sticker | koala (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 Sticker | maxxkor (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 Sticker | doc (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
-Sticker | HEN1 (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 
 Phase IDs of Doppler phases known to be missing on buff163:
 ★ StatTrak™ M9 Bayonet | Doppler Black Pearl (Minimal Wear) (0 registered on FloatDB, can be unboxed from a Chroma/Chroma 2/Chroma 3 Case)
@@ -150,31 +146,21 @@ Souvenir Charm | Budapest 2025 Highlight | xertioN vs FaZe on Nuke
 Sticker | Astralis (Gold) | Cologne 2026
 ★ StatTrak™ Ursus Knife | Boreal Forest (Factory New)
 Sticker | Snax (Gold) | Cologne 2026
-Sticker | beastik (Gold) | Cologne 2026
 Sticker | BIG (Gold) | Cologne 2026
 Sticker | yuurih (Gold, Ranked) | Cologne 2026
-Sticker | S1ren (Gold, Ranked) | Cologne 2026
-Sticker | PARIVISION (Gold, Ranked) | Cologne 2026
-Sticker | Snax (Gold, Ranked) | Cologne 2026
 Sticker | mezii (Gold, Ranked) | Cologne 2026
 Sticker | susp (Gold, Ranked) | Cologne 2026
 Sticker | nitr0 (Gold, Ranked) | Cologne 2026
 Sticker | luken (Gold, Ranked) | Cologne 2026
 Sticker | NQZ (Gold, Ranked) | Cologne 2026
-Sticker | kensizor (Gold, Ranked) | Cologne 2026
 Sticker | v$m (Holo, Ranked) | Cologne 2026
-Sticker | NEKiZ (Foil, Ranked) | Cologne 2026
 Sticker | nilo (Gold, Ranked) | Cologne 2026
 Sticker | AZUWU (Gold, Ranked) | Cologne 2026
 Sticker | venomzera (Gold, Ranked) | Cologne 2026
 Sticker | MoDo (Gold, Ranked) | Cologne 2026
 Sticker | meyern (Gold, Ranked) | Cologne 2026
-Sticker | v$m (Gold, Ranked) | Cologne 2026
 Sticker | alex666 (Gold, Ranked) | Cologne 2026
-Sticker | gr1ks (Gold, Ranked) | Cologne 2026
 Sticker | xfl0ud (Gold, Ranked) | Cologne 2026
-Sticker | kl1m (Gold, Ranked) | Cologne 2026
-Sticker | felps (Gold, Ranked) | Cologne 2026
 Sticker | asap (Gold, Ranked) | Cologne 2026
 Sticker | Grim (Gold, Ranked) | Cologne 2026
 Sticker | vexite (Gold, Ranked) | Cologne 2026
@@ -183,37 +169,26 @@ Sticker | biguzera (Gold, Ranked) | Cologne 2026
 Sticker | Grim (Holo, Ranked) | Cologne 2026
 Sticker | story (Gold, Ranked) | Cologne 2026
 Sticker | NEKiZ (Gold, Ranked) | Cologne 2026
-Sticker | aliStair (Gold, Ranked) | Cologne 2026
 Sticker | Brollan (Gold, Ranked) | Cologne 2026
-Sticker | latto (Holo, Ranked) | Cologne 2026
-Sticker | Krabeni (Gold, Ranked) | Cologne 2026
-Sticker | Snax (Foil, Ranked) | Cologne 2026
-Sticker | Gizmy (Holo, Ranked) | Cologne 2026
 Sticker | hypex (Holo, Ranked) | Cologne 2026
 Sticker | latto (Gold, Ranked) | Cologne 2026
 Sticker | faveN (Gold, Ranked) | Cologne 2026
 Sticker | piriajr (Gold, Ranked) | Cologne 2026
 Sticker | SHOCK (Gold, Ranked) | Cologne 2026
-Sticker | ryu (Gold, Ranked) | Cologne 2026
 Sticker | dziugss (Gold, Ranked) | Cologne 2026
 Sticker | kisserek (Gold, Ranked) | Cologne 2026
 Sticker | esenthial (Gold, Ranked) | Cologne 2026
-Sticker | JDC (Gold, Ranked) | Cologne 2026
 Sticker | Liazz (Gold, Ranked) | Cologne 2026
 Sticker | SunPayus (Gold, Ranked) | Cologne 2026
 Sticker | SINNERS (Gold, Ranked) | Cologne 2026
-Sticker | REZ (Gold, Ranked) | Cologne 2026
-Sticker | B8 (Gold, Ranked) | Cologne 2026
 Sticker | Monte (Gold, Ranked) | Cologne 2026
 Sticker | Sharks Esports (Gold, Ranked) | Cologne 2026
 Sticker | BIG (Gold, Ranked) | Cologne 2026
-Sticker | yxngstxr (Gold, Ranked) | Cologne 2026
-Sticker | PR (Gold, Ranked) | Cologne 2026
 Sticker | insani (Gold, Ranked) | Cologne 2026
 Sticker | HUASOPEEK (Gold, Ranked) | Cologne 2026
-Sticker | blameF (Holo, Ranked) | Cologne 2026
 Sticker | rdnzao (Gold, Ranked) | Cologne 2026
-Sticker | hypex (Gold, Ranked) | Cologne 2026
+Sticker | HEN1 (Gold, Ranked) | Cologne 2026
+Sticker | koala (Gold, Ranked) | Cologne 2026
 
 IDs of items known to be missing on buff.market:
 Sticker | Gizmy (Gold, Ranked) | Cologne 2026
@@ -288,19 +263,14 @@ Sticker | volt | Paris 2023
 Sticker | volt (Glitter) | Paris 2023
 Sticker | volt (Holo) | Paris 2023
 ★ StatTrak™ Classic Knife | Crimson Web (Factory New)
-StatTrak™ NIGHTMODE Music Kit Box
 ★ StatTrak™ Kukri Knife | Blue Steel (Factory New)
 ★ StatTrak™ Kukri Knife | Urban Masked (Factory New)
 ★ StatTrak™ Kukri Knife | Fade (Minimal Wear)
 ★ StatTrak™ Kukri Knife | Safari Mesh (Factory New)
 ★ StatTrak™ Kukri Knife | Boreal Forest (Factory New)
-★ StatTrak™ Kukri Knife | Stained (Factory New)
-Sticker | jL | Copenhagen 2024
-Sticker | mopoz (Gold) | Copenhagen 2024
 ★ StatTrak™ Kukri Knife | Forest DDPAT (Factory New)
 ★ StatTrak™ Kukri Knife | Crimson Web (Factory New)
 ★ StatTrak™ Kukri Knife | Scorched (Factory New)
-StatTrak™ Masterminds 2 Music Kit Box
 Sticker | exit (Glitter) | Shanghai 2024
 Sticker | Twistzz (Gold) | Shanghai 2024
 Sticker | volt (Glitter) | Shanghai 2024
@@ -334,14 +304,11 @@ Sticker | volt (Gold) | Shanghai 2024
 ★ StatTrak™ Survival Knife | Ultraviolet (Factory New)
 ★ StatTrak™ Paracord Knife | Ultraviolet (Factory New)
 Sticker | Cxzi (Foil) | Austin 2025
-Sticker | adamb (Gold) | Austin 2025
 Sticker | headtr1ck (Foil) | Austin 2025
-Souvenir Charm | Austin 2025 Highlight | Triple Kill And A Defuse
 Souvenir Charm | Austin 2025 Highlight | Brollan Smoke Criminal
 Souvenir Charm | Austin 2025 Highlight | ropz Double Nuke Kill
 Souvenir Charm | Austin 2025 Highlight | nqz Double Nuke Kill
 Souvenir Charm | Austin 2025 Highlight | Triple Pistol
-Souvenir Charm | Austin 2025 Highlight | The Iron Man
 Souvenir Charm | Austin 2025 Highlight | 2K Spraydown
 Souvenir Charm | Austin 2025 Highlight | Exploit
 Souvenir Charm | Austin 2025 Highlight | Surprise Behind You
@@ -353,7 +320,6 @@ Souvenir Charm | Austin 2025 Highlight | Pit Hold
 Souvenir Charm | Austin 2025 Highlight | AWP Double Kill
 Souvenir Charm | Austin 2025 Highlight | Wont go quietly
 Souvenir Charm | Austin 2025 Highlight | torzsi Double Nuke Kill
-Souvenir Charm | Austin 2025 Highlight | Heroic Effort
 Souvenir Charm | Austin 2025 Highlight | YEKINDAR Double Kill
 Souvenir Charm | Austin 2025 Highlight | xertioN Nuke Triple Kill
 Souvenir Charm | Austin 2025 Highlight | The Smoke Sneaker
@@ -465,8 +431,6 @@ Souvenir Charm | Austin 2025 Highlight | Surprise Flank
 ★ StatTrak™ Nomad Knife | Ultraviolet (Factory New)
 Souvenir Charm | Austin 2025 Highlight | Lower Defense
 Souvenir Charm | Austin 2025 Highlight | The Eco Hunter
-Sticker | ChildKing (Gold) | Budapest 2025
-Souvenir Charm | Budapest 2025 Highlight | Twistzz Deagle quad
 Souvenir Charm | Budapest 2025 Highlight | frozen Banana opener
 Souvenir Charm | Budapest 2025 Highlight | broky vs Natus Vincere on Inferno
 Souvenir Charm | Budapest 2025 Highlight | Aleksib vs FURIA on Inferno
@@ -477,7 +441,6 @@ Souvenir Charm | Budapest 2025 Highlight | Aleksib vs FaZe on Nuke
 Souvenir Charm | Budapest 2025 Highlight | w0nderful long-range triple
 Souvenir Charm | Budapest 2025 Highlight | jcobbb vs MOUZ on Inferno
 Souvenir Charm | Budapest 2025 Highlight | yuurih vs Natus Vincere on Inferno
-Souvenir Charm | Budapest 2025 Highlight | kyousuke vs Spirit on Nuke
 Souvenir Charm | Budapest 2025 Highlight | Spinx instant refrag
 Souvenir Charm | Budapest 2025 Highlight | tN1R smoke assassin
 Souvenir Charm | Budapest 2025 Highlight | Brollan Ramp action
@@ -491,10 +454,7 @@ Souvenir Charm | Budapest 2025 Highlight | FaZe win in the QF
 Souvenir Charm | Budapest 2025 Highlight | Twistzz smoke breaker
 Souvenir Charm | Budapest 2025 Highlight | mezii vs FaZe on Inferno
 Souvenir Charm | Budapest 2025 Highlight | broky vs MOUZ on Nuke
-Souvenir Charm | Budapest 2025 Highlight | ropz vs FaZe on Inferno
 Souvenir Charm | Budapest 2025 Highlight | broky vs Natus Vincere on Nuke
-Souvenir Charm | Budapest 2025 Highlight | Aleksib vs FURIA on Mirage
-Souvenir Charm | Budapest 2025 Highlight | iM rotation payoff
 Souvenir Charm | Budapest 2025 Highlight | ZywOo vs The MongolZ on Dust II
 Souvenir Charm | Budapest 2025 Highlight | iM vs FaZe on Nuke
 Souvenir Charm | Budapest 2025 Highlight | jcobbb vs MOUZ on Nuke
@@ -509,14 +469,12 @@ Souvenir Charm | Budapest 2025 Highlight | Brollan vs FaZe on Nuke
 Souvenir Charm | Budapest 2025 Highlight | karrigan cuts rotation
 Souvenir Charm | Budapest 2025 Highlight | Brollan vs FaZe on Inferno
 Souvenir Charm | Budapest 2025 Highlight | karrigan through fire
-Souvenir Charm | Budapest 2025 Highlight | bLitz vs Vitality on Mirage
 Souvenir Charm | Budapest 2025 Highlight | Twistzz dual chaos
 Souvenir Charm | Budapest 2025 Highlight | broky vs MOUZ on Inferno
 Souvenir Charm | Budapest 2025 Highlight | broky mid-air magic
 Souvenir Charm | Budapest 2025 Highlight | jcobbb vs Natus Vincere on Nuke
 Souvenir Charm | Budapest 2025 Highlight | xertioN clutch win
 Souvenir Charm | Budapest 2025 Highlight | Spinx vs FaZe on Inferno
-Souvenir Charm | Budapest 2025 Highlight | flameZ everywhere
 Souvenir Charm | Budapest 2025 Highlight | broky seals Nuke
 Souvenir Charm | Budapest 2025 Highlight | FaZe on the QF stage
 Souvenir Charm | Budapest 2025 Highlight | Spinx vs FaZe on Nuke
@@ -664,53 +622,21 @@ Souvenir Charm | Cologne 2026 Highlight | dgt Pistol ACE
 Souvenir Charm | Cologne 2026 Highlight | asap ACE
 Sticker | BIG (Gold) | Cologne 2026
 Jackass Sticker Capsule
-SCAR-20 | Sirocco Script (Well-Worn)
 Tec-9 | Sultan (Field-Tested)
-MP9 | Dune Asp (Battle-Scarred)
-XM1014 | Black Site (Factory New)
-M4A4 | Dark Operative (Field-Tested)
 MAC-10 | Video Cam (Minimal Wear)
-MP9 | Spy Prototype (Field-Tested)
-Sticker | Bomb On Board
-Sticker | Please Be Patient
-Sticker | Defusal Sprint
-Sticker | Neo-Hold (Holo)
 Sticker | b1t (Gold, Ranked) | Cologne 2026
 Sticker | NiKo (Gold, Ranked) | Cologne 2026
-Sticker | Team Spirit (Holo, Ranked) | Cologne 2026
 Sticker | Vitality (Foil, Ranked) | Cologne 2026
 Sticker | FlameZ (Foil, Ranked) | Cologne 2026
 Sticker | Zero (Holo, Ranked) | Cologne 2026
-Sticker | donk (Gold, Ranked) | Cologne 2026
-Sticker | NiKo (Holo, Ranked) | Cologne 2026
-Sticker | ZywOo (Gold, Ranked) | Cologne 2026
-Sticker | donk (Holo, Ranked) | Cologne 2026
 Sticker | Jee (Gold, Ranked) | Cologne 2026
-Sticker | THUNDERdOWNUNDER (Holo, Ranked) | Cologne 2026
-Sticker | NiKo (Foil, Ranked) | Cologne 2026
-Sticker | G2 esports (Foil, Ranked) | Cologne 2026
-Sticker | Team Liquid (Holo, Ranked) | Cologne 2026
-Sticker | FlyQuest (Foil, Ranked) | Cologne 2026
-Sticker | m0NESY (Holo, Ranked) | Cologne 2026
-Sticker | TYLOO (Foil, Ranked) | Cologne 2026
-Sticker | TYLOO (Holo, Ranked) | Cologne 2026
-Sticker | m0NESY (Gold, Ranked) | Cologne 2026
-Sticker | JamYoung (Gold, Ranked) | Cologne 2026
 Sticker | THUNDERdOWNUNDER (Gold, Ranked) | Cologne 2026
 Sticker | sh1ro (Gold, Ranked) | Cologne 2026
 Sticker | JamYoung (Holo, Ranked) | Cologne 2026
 Sticker | Falcons (Gold, Ranked) | Cologne 2026
-Sticker | Falcons (Holo, Ranked) | Cologne 2026
-Sticker | kyousuke (Gold, Ranked) | Cologne 2026
 Sticker | INS (Holo, Ranked) | Cologne 2026
 Sticker | JBa (Foil, Ranked) | Cologne 2026
 Sticker | molodoy (Holo, Ranked) | Cologne 2026
-Sticker | kyousuke (Holo, Ranked) | Cologne 2026
-Sticker | Jee (Holo, Ranked) | Cologne 2026
-Sticker | GamerLegion (Holo, Ranked) | Cologne 2026
-Sticker | IEM (Holo, Ranked) | Cologne 2026
-Sticker | ZywOo (Holo, Ranked) | Cologne 2026
-Sticker | BetBoom (Holo, Ranked) | Cologne 2026
 Sticker | FlameZ (Gold, Ranked) | Cologne 2026
 Sticker | Astralis (Foil, Ranked) | Cologne 2026
 Sticker | NAF (Foil, Ranked) | Cologne 2026
@@ -718,11 +644,6 @@ Sticker | kyxsan (Foil, Ranked) | Cologne 2026
 Sticker | TeSeS (Foil, Ranked) | Cologne 2026
 Sticker | Lynn Vision (Foil, Ranked) | Cologne 2026
 Sticker | kyxsan (Gold, Ranked) | Cologne 2026
-Sticker | m0NESY (Foil, Ranked) | Cologne 2026
-Sticker | FalleN (Gold, Ranked) | Cologne 2026
-Sticker | ropz (Holo, Ranked) | Cologne 2026
-Sticker | SINNERS (Holo, Ranked) | Cologne 2026
-Sticker | FURIA (Holo, Ranked) | Cologne 2026
 Sticker | Moseyuh (Foil, Ranked) | Cologne 2026
 Sticker | Aurora (Foil, Ranked) | Cologne 2026
 Sticker | The Mongolz (Foil, Ranked) | Cologne 2026
@@ -730,42 +651,28 @@ Sticker | soulfly (Holo, Ranked) | Cologne 2026
 Sticker | gafolo (Holo, Ranked) | Cologne 2026
 Sticker | afro (Holo, Ranked) | Cologne 2026
 Sticker | xiELO (Holo, Ranked) | Cologne 2026
-Sticker | Natus Vincere (Holo, Ranked) | Cologne 2026
 Sticker | zont1x (Holo, Ranked) | Cologne 2026
 Sticker | JBa (Gold, Ranked) | Cologne 2026
-Sticker | C4LLM3SU3 (Gold, Ranked) | Cologne 2026
-Sticker | FalleN (Holo, Ranked) | Cologne 2026
-Sticker | FlyQuest (Holo, Ranked) | Cologne 2026
-Sticker | MOUZ (Holo, Ranked) | Cologne 2026
 Sticker | NRG (Foil, Ranked) | Cologne 2026
-Sticker | ropz (Gold, Ranked) | Cologne 2026
-Sticker | kyousuke (Foil, Ranked) | Cologne 2026
 Sticker | LNZ (Holo, Ranked) | Cologne 2026
 Sticker | cmtry (Foil, Ranked) | Cologne 2026
 Sticker | TeSeS (Holo, Ranked) | Cologne 2026
-Sticker | IEM (Gold, Ranked) | Cologne 2026
 Sticker | KSCERATO (Foil, Ranked) | Cologne 2026
 Sticker | torzsi (Foil, Ranked) | Cologne 2026
 Sticker | YEKINDAR (Foil, Ranked) | Cologne 2026
 Sticker | TeSeS (Gold, Ranked) | Cologne 2026
 Sticker | EliGE (Gold, Ranked) | Cologne 2026
-Sticker | THUNDERdOWNUNDER (Foil, Ranked) | Cologne 2026
 Sticker | MATYS (Foil, Ranked) | Cologne 2026
 Sticker | KSCERATO (Holo, Ranked) | Cologne 2026
 Sticker | jks (Foil, Ranked) | Cologne 2026
 Sticker | SunPayus (Holo, Ranked) | Cologne 2026
 Sticker | GamerLegion (Foil, Ranked) | Cologne 2026
 Sticker | SunPayus (Foil, Ranked) | Cologne 2026
-Sticker | magixx (Gold, Ranked) | Cologne 2026
-Sticker | paiN Gaming (Foil, Ranked) | Cologne 2026
 Sticker | Grim (Foil, Ranked) | Cologne 2026
 Sticker | mzinho (Foil, Ranked) | Cologne 2026
 Sticker | Liazz (Foil, Ranked) | Cologne 2026
 Sticker | n1ssim (Foil, Ranked) | Cologne 2026
 Sticker | siuhy (Foil, Ranked) | Cologne 2026
-Sticker | Vitality (Holo, Ranked) | Cologne 2026
-Sticker | donk (Foil, Ranked) | Cologne 2026
-Sticker | dexter (Foil, Ranked) | Cologne 2026
 Sticker | xfl0ud (Holo, Ranked) | Cologne 2026
 Sticker | REZ (Holo, Ranked) | Cologne 2026
 Sticker | oSee (Holo, Ranked) | Cologne 2026
@@ -775,31 +682,20 @@ Sticker | jabbi (Holo, Ranked) | Cologne 2026
 Sticker | Tauson (Holo, Ranked) | Cologne 2026
 Sticker | Bymas (Holo, Ranked) | Cologne 2026
 Sticker | FURIA (Foil, Ranked) | Cologne 2026
-Sticker | Sharks Esports (Foil, Ranked) | Cologne 2026
 Sticker | Rainwaker (Foil, Ranked) | Cologne 2026
 Sticker | Bymas (Foil, Ranked) | Cologne 2026
 Sticker | Rainwaker (Holo, Ranked) | Cologne 2026
 Sticker | vexite (Holo, Ranked) | Cologne 2026
 Sticker | PR (Holo, Ranked) | Cologne 2026
-Sticker | esenthial (Holo, Ranked) | Cologne 2026
 Sticker | apEX (Gold, Ranked) | Cologne 2026
-Sticker | zont1x (Foil, Ranked) | Cologne 2026
 Sticker | Jimpphat (Foil, Ranked) | Cologne 2026
 Sticker | Jame (Foil, Ranked) | Cologne 2026
-Sticker | ropz (Foil, Ranked) | Cologne 2026
 Sticker | C4LLM3SU3 (Holo, Ranked) | Cologne 2026
-Sticker | Team Spirit (Gold, Ranked) | Cologne 2026
-Sticker | PARIVISION (Holo, Ranked) | Cologne 2026
 Sticker | PARIVISION (Foil, Ranked) | Cologne 2026
 Sticker | JamYoung (Foil, Ranked) | Cologne 2026
-Sticker | HEROIC (Holo, Ranked) | Cologne 2026
 Sticker | YEKINDAR (Gold, Ranked) | Cologne 2026
-Sticker | G2 esports (Holo, Ranked) | Cologne 2026
 Sticker | YEKINDAR (Holo, Ranked) | Cologne 2026
 Sticker | huNter- (Gold, Ranked) | Cologne 2026
-Sticker | molodoy (Gold, Ranked) | Cologne 2026
-Sticker | FalleN (Foil, Ranked) | Cologne 2026
-Sticker | Team Spirit (Foil, Ranked) | Cologne 2026
 Sticker | zont1x (Gold, Ranked) | Cologne 2026
 Sticker | Jame (Gold, Ranked) | Cologne 2026
 Sticker | brnz4n (Foil, Ranked) | Cologne 2026
@@ -813,13 +709,11 @@ Sticker | rdnzao (Holo, Ranked) | Cologne 2026
 Sticker | aliStair (Foil, Ranked) | Cologne 2026
 Sticker | jks (Gold, Ranked) | Cologne 2026
 Sticker | XANTARES (Gold, Ranked) | Cologne 2026
-Sticker | B8 (Holo, Ranked) | Cologne 2026
 Sticker | SINNERS (Foil, Ranked) | Cologne 2026
 Sticker | FUT (Foil, Ranked) | Cologne 2026
 Sticker | soulfly (Foil, Ranked) | Cologne 2026
 Sticker | Gaimin Gladiators (Foil, Ranked) | Cologne 2026
 Sticker | JDC (Holo, Ranked) | Cologne 2026
-Sticker | Astralis (Holo, Ranked) | Cologne 2026
 Sticker | The Mongolz (Holo, Ranked) | Cologne 2026
 Sticker | insani (Holo, Ranked) | Cologne 2026
 Sticker | molodoy (Foil, Ranked) | Cologne 2026
@@ -840,14 +734,11 @@ Sticker | w0nderful (Gold, Ranked) | Cologne 2026
 Sticker | huNter- (Foil, Ranked) | Cologne 2026
 Sticker | arT (Foil, Ranked) | Cologne 2026
 Sticker | oSee (Foil, Ranked) | Cologne 2026
-Sticker | NQZ (Holo, Ranked) | Cologne 2026
 Sticker | sh1ro (Holo, Ranked) | Cologne 2026
 Sticker | insani (Foil, Ranked) | Cologne 2026
 Sticker | makazze (Holo, Ranked) | Cologne 2026
-Sticker | Sharks Esports (Holo, Ranked) | Cologne 2026
 Sticker | HEROIC (Foil, Ranked) | Cologne 2026
 Sticker | luken (Foil, Ranked) | Cologne 2026
-Sticker | MOUZ (Foil, Ranked) | Cologne 2026
 Sticker | saadzin (Holo, Ranked) | Cologne 2026
 Sticker | stressarN (Foil, Ranked) | Cologne 2026
 Sticker | yuurih (Gold, Ranked) | Cologne 2026
@@ -877,7 +768,6 @@ Sticker | snow (Foil, Ranked) | Cologne 2026
 Sticker | Brollan (Foil, Ranked) | Cologne 2026
 Sticker | tN1R (Foil, Ranked) | Cologne 2026
 Sticker | kisserek (Holo, Ranked) | Cologne 2026
-Sticker | sh1ro (Foil, Ranked) | Cologne 2026
 Sticker | zweih (Foil, Ranked) | Cologne 2026
 Sticker | jabbi (Foil, Ranked) | Cologne 2026
 Sticker | venomzera (Foil, Ranked) | Cologne 2026
@@ -890,23 +780,17 @@ Sticker | npl (Foil, Ranked) | Cologne 2026
 Sticker | story (Foil, Ranked) | Cologne 2026
 Sticker | vexite (Foil, Ranked) | Cologne 2026
 Sticker | jks (Holo, Ranked) | Cologne 2026
-Sticker | Falcons (Foil, Ranked) | Cologne 2026
 Sticker | Natus Vincere (Foil, Ranked) | Cologne 2026
-Sticker | Team Liquid (Foil, Ranked) | Cologne 2026
 Sticker | S1ren (Gold, Ranked) | Cologne 2026
-Sticker | brnz4n (Gold, Ranked) | Cologne 2026
 Sticker | venomzera (Holo, Ranked) | Cologne 2026
 Sticker | Jee (Foil, Ranked) | Cologne 2026
-Sticker | Lynn Vision (Holo, Ranked) | Cologne 2026
 Sticker | EliGE (Holo, Ranked) | Cologne 2026
-Sticker | M80 (Holo, Ranked) | Cologne 2026
 Sticker | HooXi (Foil, Ranked) | Cologne 2026
 Sticker | westmelon (Foil, Ranked) | Cologne 2026
 Sticker | EmiliaQAQ (Foil, Ranked) | Cologne 2026
 Sticker | Starry (Foil, Ranked) | Cologne 2026
 Sticker | z4KR (Foil, Ranked) | Cologne 2026
 Sticker | Wicadia (Foil, Ranked) | Cologne 2026
-Sticker | FUT (Holo, Ranked) | Cologne 2026
 Sticker | gafolo (Foil, Ranked) | Cologne 2026
 Sticker | NEKiZ (Holo, Ranked) | Cologne 2026
 Sticker | Staehr (Holo, Ranked) | Cologne 2026
@@ -919,7 +803,6 @@ Sticker | s1zzi (Holo, Ranked) | Cologne 2026
 Sticker | Starry (Holo, Ranked) | Cologne 2026
 Sticker | magixx (Foil, Ranked) | Cologne 2026
 Sticker | b1t (Foil, Ranked) | Cologne 2026
-Sticker | TYLOO (Gold, Ranked) | Cologne 2026
 Sticker | Mercury (Gold, Ranked) | Cologne 2026
 Sticker | Zero (Gold, Ranked) | Cologne 2026
 Sticker | Krabeni (Foil, Ranked) | Cologne 2026
@@ -932,17 +815,12 @@ Sticker | dem0n (Foil, Ranked) | Cologne 2026
 Sticker | magixx (Holo, Ranked) | Cologne 2026
 Sticker | nitr0 (Foil, Ranked) | Cologne 2026
 Sticker | S1ren (Foil, Ranked) | Cologne 2026
-Sticker | piriajr (Holo, Ranked) | Cologne 2026
 Sticker | HooXi (Gold, Ranked) | Cologne 2026
 Sticker | Legacy (Holo, Ranked) | Cologne 2026
-Sticker | Vitality (Gold, Ranked) | Cologne 2026
 Sticker | Lynn Vision (Gold, Ranked) | Cologne 2026
 Sticker | HEN1 (Foil, Ranked) | Cologne 2026
 Sticker | dumau (Holo, Ranked) | Cologne 2026
 Sticker | piriajr (Foil, Ranked) | Cologne 2026
-Sticker | IEM (Foil, Ranked) | Cologne 2026
-Sticker | paiN Gaming (Holo, Ranked) | Cologne 2026
-Sticker | Aurora (Holo, Ranked) | Cologne 2026
 Sticker | NRG (Holo, Ranked) | Cologne 2026
 Sticker | Spinx (Foil, Ranked) | Cologne 2026
 Sticker | Boombl4 (Foil, Ranked) | Cologne 2026
@@ -964,7 +842,6 @@ Sticker | alex666 (Foil, Ranked) | Cologne 2026
 Sticker | zorte (Foil, Ranked) | Cologne 2026
 Sticker | Lake (Foil, Ranked) | Cologne 2026
 Sticker | maxxkor (Foil, Ranked) | Cologne 2026
-Sticker | 9z Team (Holo, Ranked) | Cologne 2026
 Sticker | max (Holo, Ranked) | Cologne 2026
 Sticker | torzsi (Holo, Ranked) | Cologne 2026
 Sticker | z4KR (Gold, Ranked) | Cologne 2026
@@ -997,7 +874,6 @@ Sticker | slaxz- (Foil, Ranked) | Cologne 2026
 Sticker | felps (Holo, Ranked) | Cologne 2026
 Sticker | iM (Gold, Ranked) | Cologne 2026
 Sticker | dumau (Gold, Ranked) | Cologne 2026
-Sticker | dexter (Holo, Ranked) | Cologne 2026
 Sticker | dexter (Gold, Ranked) | Cologne 2026
 Sticker | Legacy (Foil, Ranked) | Cologne 2026
 Sticker | MoDo (Foil, Ranked) | Cologne 2026
@@ -1024,7 +900,6 @@ Sticker | nilo (Foil, Ranked) | Cologne 2026
 Sticker | tN1R (Gold, Ranked) | Cologne 2026
 Sticker | woxic (Foil, Ranked) | Cologne 2026
 Sticker | bLitz (Holo, Ranked) | Cologne 2026
-Sticker | Sonic (Gold, Ranked) | Cologne 2026
 Sticker | luchov (Holo, Ranked) | Cologne 2026
 Sticker | yxngstxr (Holo, Ranked) | Cologne 2026
 Sticker | zweih (Gold, Ranked) | Cologne 2026
@@ -1045,7 +920,6 @@ Sticker | koala (Holo, Ranked) | Cologne 2026
 Sticker | susp (Gold, Ranked) | Cologne 2026
 Sticker | nitr0 (Gold, Ranked) | Cologne 2026
 Sticker | luken (Gold, Ranked) | Cologne 2026
-Sticker | apEX (Foil, Ranked) | Cologne 2026
 Sticker | NQZ (Gold, Ranked) | Cologne 2026
 Sticker | kensizor (Gold, Ranked) | Cologne 2026
 Sticker | INS (Gold, Ranked) | Cologne 2026
@@ -1064,7 +938,6 @@ Sticker | Brollan (Holo, Ranked) | Cologne 2026
 Sticker | nilo (Gold, Ranked) | Cologne 2026
 Sticker | Lake (Holo, Ranked) | Cologne 2026
 Sticker | HUASOPEEK (Holo, Ranked) | Cologne 2026
-Sticker | BIG (Holo, Ranked) | Cologne 2026
 Sticker | tabseN (Foil, Ranked) | Cologne 2026
 Sticker | koala (Foil, Ranked) | Cologne 2026
 Sticker | AZUWU (Gold, Ranked) | Cologne 2026
@@ -1207,8 +1080,8 @@ Sticker | Heavygod (Gold, Ranked) | Cologne 2026
 Sticker | GamerLegion (Gold, Ranked) | Cologne 2026
 Sticker | Monte (Gold, Ranked) | Cologne 2026
 Sticker | snow (Gold, Ranked) | Cologne 2026
-Sticker | afro (Gold, Ranked) | Cologne 2026
 Sticker | Techno4K (Gold, Ranked) | Cologne 2026
+Sticker | afro (Gold, Ranked) | Cologne 2026
 Sticker | Sharks Esports (Gold, Ranked) | Cologne 2026
 Sticker | BIG (Gold, Ranked) | Cologne 2026
 Sticker | yxngstxr (Gold, Ranked) | Cologne 2026
@@ -1225,4 +1098,8 @@ Sticker | Gaimin Gladiators (Gold, Ranked) | Cologne 2026
 Sticker | hypex (Gold, Ranked) | Cologne 2026
 Sticker | LNZ (Gold, Ranked) | Cologne 2026
 Sticker | MAJ3R (Gold, Ranked) | Cologne 2026
+Sticker | beastik (Gold, Ranked) | Cologne 2026
+Sticker | HEN1 (Gold, Ranked) | Cologne 2026
+Sticker | koala (Gold, Ranked) | Cologne 2026
+Sticker | Swisher (Gold, Ranked) | Cologne 2026
 Sticker | Gizmy (Gold, Ranked) | Cologne 2026
