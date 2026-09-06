@@ -1,16 +1,6 @@
 IDs of items known to be missing on all marketplaces (buff163, youpin898, buff.market, cs.money):
 ★ StatTrak™ Classic Knife | Urban Masked (Factory New) (0 registered on FloatDB, can be unboxed from a CS20 Case)
-Sticker | Aurora (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 Sticker | FURIA (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
-Sticker | paiN Gaming (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
-Sticker | 9z Team (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
-Sticker | HEROIC (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
-Sticker | BetBoom (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
-Sticker | MIBR (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
-Sticker | NRG (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
-Sticker | FlyQuest (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
-Sticker | cobra (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
-Sticker | maxxkor (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 
 Phase IDs of Doppler phases known to be missing on buff163:
 ★ StatTrak™ M9 Bayonet | Doppler Black Pearl (Minimal Wear) (0 registered on FloatDB, can be unboxed from a Chroma/Chroma 2/Chroma 3 Case)
@@ -44,6 +34,9 @@ Tag IDs of Marble Fade Fire & Ice tiers known to be missing on buff163:
 ★ Talon Knife | Marble Fade (Minimal Wear): 1st, 4th
 ★ StatTrak™ Talon Knife | Marble Fade (Factory New): 1st
 ★ StatTrak™ Talon Knife | Marble Fade (Minimal Wear): 1st, 2nd, 3rd, 5th, 6th, 8th
+
+IDs of items known to be missing on buff163:
+Sticker | cobra (Gold, Ranked) | Cologne 2026
 
 IDs of items known to be missing on youpin898:
 Sticker | fnx (Gold) | Boston 2018
@@ -129,40 +122,19 @@ Sticker | Astralis (Gold) | Cologne 2026
 ★ StatTrak™ Ursus Knife | Boreal Forest (Factory New)
 Sticker | Snax (Gold) | Cologne 2026
 Sticker | BIG (Gold) | Cologne 2026
-Sticker | yuurih (Gold, Ranked) | Cologne 2026
-Sticker | mezii (Gold, Ranked) | Cologne 2026
 Sticker | susp (Gold, Ranked) | Cologne 2026
 Sticker | NQZ (Gold, Ranked) | Cologne 2026
-Sticker | v$m (Holo, Ranked) | Cologne 2026
-Sticker | AZUWU (Gold, Ranked) | Cologne 2026
-Sticker | venomzera (Gold, Ranked) | Cologne 2026
 Sticker | MoDo (Gold, Ranked) | Cologne 2026
-Sticker | meyern (Gold, Ranked) | Cologne 2026
-Sticker | alex666 (Gold, Ranked) | Cologne 2026
 Sticker | Grim (Gold, Ranked) | Cologne 2026
 Sticker | vexite (Gold, Ranked) | Cologne 2026
 Sticker | biguzera (Gold, Ranked) | Cologne 2026
-Sticker | Grim (Holo, Ranked) | Cologne 2026
 Sticker | NEKiZ (Gold, Ranked) | Cologne 2026
-Sticker | Brollan (Gold, Ranked) | Cologne 2026
 Sticker | piriajr (Gold, Ranked) | Cologne 2026
 Sticker | SHOCK (Gold, Ranked) | Cologne 2026
-Sticker | Liazz (Gold, Ranked) | Cologne 2026
-Sticker | SunPayus (Gold, Ranked) | Cologne 2026
-Sticker | SINNERS (Gold, Ranked) | Cologne 2026
-Sticker | Sharks Esports (Gold, Ranked) | Cologne 2026
-Sticker | BIG (Gold, Ranked) | Cologne 2026
-Sticker | rdnzao (Gold, Ranked) | Cologne 2026
-Sticker | doc (Gold, Ranked) | Cologne 2026
-Sticker | xiELO (Gold, Ranked) | Cologne 2026
-Sticker | FUT (Gold, Ranked) | Cologne 2026
-Sticker | stressarN (Gold, Ranked) | Cologne 2026
-Sticker | HEN1 (Gold, Ranked) | Cologne 2026
-Sticker | koala (Gold, Ranked) | Cologne 2026
-Sticker | M80 (Gold, Ranked) | Cologne 2026
-Sticker | The Mongolz (Gold, Ranked) | Cologne 2026
-Sticker | cobra (Holo, Ranked) | Cologne 2026
-Sticker | MOUZ (Gold, Ranked) | Cologne 2026
+Sticker | maxxkor (Gold, Ranked) | Cologne 2026
+
+IDs of items known to be missing on buff.market:
+Sticker | cobra (Gold, Ranked) | Cologne 2026
 
 IDs of items known to be missing on cs.money:
 Boston 2018 Legends (Holo-Foil)
@@ -271,8 +243,6 @@ Sticker | volt (Gold) | Shanghai 2024
 ★ StatTrak™ Survival Knife | Ultraviolet (Factory New)
 ★ StatTrak™ Paracord Knife | Ultraviolet (Factory New)
 Sticker | Cxzi (Foil) | Austin 2025
-Sticker | headtr1ck (Foil) | Austin 2025
-Souvenir Charm | Austin 2025 Highlight | Brollan Smoke Criminal
 Souvenir Charm | Austin 2025 Highlight | ropz Double Nuke Kill
 Souvenir Charm | Austin 2025 Highlight | nqz Double Nuke Kill
 Souvenir Charm | Austin 2025 Highlight | Triple Pistol
@@ -609,11 +579,9 @@ Sticker | TeSeS (Holo, Ranked) | Cologne 2026
 Sticker | YEKINDAR (Foil, Ranked) | Cologne 2026
 Sticker | EliGE (Gold, Ranked) | Cologne 2026
 Sticker | KSCERATO (Holo, Ranked) | Cologne 2026
-Sticker | jks (Foil, Ranked) | Cologne 2026
 Sticker | SunPayus (Holo, Ranked) | Cologne 2026
 Sticker | GamerLegion (Foil, Ranked) | Cologne 2026
 Sticker | SunPayus (Foil, Ranked) | Cologne 2026
-Sticker | Grim (Foil, Ranked) | Cologne 2026
 Sticker | mzinho (Foil, Ranked) | Cologne 2026
 Sticker | xfl0ud (Holo, Ranked) | Cologne 2026
 Sticker | REZ (Holo, Ranked) | Cologne 2026
@@ -670,7 +638,6 @@ Sticker | Aleksib (Foil, Ranked) | Cologne 2026
 Sticker | 910 (Foil, Ranked) | Cologne 2026
 Sticker | yuurih (Foil, Ranked) | Cologne 2026
 Sticker | MIBR (Foil, Ranked) | Cologne 2026
-Sticker | Mercury (Foil, Ranked) | Cologne 2026
 Sticker | Zero (Foil, Ranked) | Cologne 2026
 Sticker | phzy (Foil, Ranked) | Cologne 2026
 Sticker | Staehr (Gold, Ranked) | Cologne 2026
@@ -680,7 +647,6 @@ Sticker | malbsMd (Foil, Ranked) | Cologne 2026
 Sticker | Brollan (Foil, Ranked) | Cologne 2026
 Sticker | tN1R (Foil, Ranked) | Cologne 2026
 Sticker | kisserek (Holo, Ranked) | Cologne 2026
-Sticker | jabbi (Foil, Ranked) | Cologne 2026
 Sticker | story (Foil, Ranked) | Cologne 2026
 Sticker | jks (Holo, Ranked) | Cologne 2026
 Sticker | Natus Vincere (Foil, Ranked) | Cologne 2026
@@ -710,7 +676,6 @@ Sticker | piriajr (Foil, Ranked) | Cologne 2026
 Sticker | NRG (Holo, Ranked) | Cologne 2026
 Sticker | Boombl4 (Foil, Ranked) | Cologne 2026
 Sticker | s1n (Holo, Ranked) | Cologne 2026
-Sticker | bLitz (Foil, Ranked) | Cologne 2026
 Sticker | EmiliaQAQ (Holo, Ranked) | Cologne 2026
 Sticker | Wicadia (Holo, Ranked) | Cologne 2026
 Sticker | Jimpphat (Holo, Ranked) | Cologne 2026
@@ -733,7 +698,6 @@ Sticker | Techno4K (Foil, Ranked) | Cologne 2026
 Sticker | Snax (Gold, Ranked) | Cologne 2026
 Sticker | xertioN (Holo, Ranked) | Cologne 2026
 Sticker | tN1R (Holo, Ranked) | Cologne 2026
-Sticker | nettik (Foil, Ranked) | Cologne 2026
 Sticker | w0nderful (Holo, Ranked) | Cologne 2026
 Sticker | arT (Holo, Ranked) | Cologne 2026
 Sticker | westmelon (Holo, Ranked) | Cologne 2026
@@ -855,7 +819,6 @@ Sticker | Swisher (Holo, Ranked) | Cologne 2026
 Sticker | nilo (Holo, Ranked) | Cologne 2026
 Sticker | xertioN (Gold, Ranked) | Cologne 2026
 Sticker | soulfly (Gold, Ranked) | Cologne 2026
-Sticker | meyern (Foil, Ranked) | Cologne 2026
 Sticker | siuhy (Gold, Ranked) | Cologne 2026
 Sticker | Brollan (Gold, Ranked) | Cologne 2026
 Sticker | Lake (Gold, Ranked) | Cologne 2026
@@ -888,7 +851,6 @@ Sticker | Chr1zN (Holo, Ranked) | Cologne 2026
 Sticker | Spinx (Gold, Ranked) | Cologne 2026
 Sticker | JOTA (Gold, Ranked) | Cologne 2026
 Sticker | Boombl4 (Holo, Ranked) | Cologne 2026
-Sticker | biguzera (Foil, Ranked) | Cologne 2026
 Sticker | faveN (Gold, Ranked) | Cologne 2026
 Sticker | snow (Holo, Ranked) | Cologne 2026
 Sticker | AZUWU (Holo, Ranked) | Cologne 2026
@@ -975,3 +937,14 @@ Sticker | cobra (Holo, Ranked) | Cologne 2026
 Sticker | MOUZ (Gold, Ranked) | Cologne 2026
 Sticker | Gizmy (Gold, Ranked) | Cologne 2026
 Sticker | luchov (Gold, Ranked) | Cologne 2026
+Sticker | FlyQuest (Gold, Ranked) | Cologne 2026
+Sticker | Aurora (Gold, Ranked) | Cologne 2026
+Sticker | 9z Team (Gold, Ranked) | Cologne 2026
+Sticker | BetBoom (Gold, Ranked) | Cologne 2026
+Sticker | HEROIC (Gold, Ranked) | Cologne 2026
+Sticker | MIBR (Gold, Ranked) | Cologne 2026
+Sticker | Legacy (Gold, Ranked) | Cologne 2026
+Sticker | paiN Gaming (Gold, Ranked) | Cologne 2026
+Sticker | NRG (Gold, Ranked) | Cologne 2026
+Sticker | maxxkor (Gold, Ranked) | Cologne 2026
+Sticker | cobra (Gold, Ranked) | Cologne 2026
