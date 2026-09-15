@@ -173864,6 +173864,7 @@
       "buff163_goods_id": 1118488,
       "youpin_id": 112826,
       "buffmarket_goods_id": 35182,
+      "csmoney_nameid": 2601429,
       "buff163_charm_id": 131845
     },
     "Souvenir Charm | Austin 2025 Highlight | ZywOo Double Nuke Kill": {
@@ -178813,7 +178814,8 @@
       "youpin_id": 114539,
       "buffmarket_goods_id": 38046,
       "csmoney_nameid": 2606233,
-      "buff163_sticker_id": 130980
+      "buff163_sticker_id": 130980,
+      "buffmarket_sticker_id": 24440
     },
     "Sticker | Passion UA (Holo) | Budapest 2025": {
       "buff163_goods_id": 1122072,
@@ -186499,6 +186501,7 @@
     },
     "Sticker Slab | Stewie2K | Berlin 2019": {
       "buff163_goods_id": 1123372,
+      "youpin_id": 126679,
       "buffmarket_goods_id": 38554,
       "buff163_charm_id": 132710
     },
@@ -186963,7 +186966,8 @@
       "youpin_id": 114757,
       "buffmarket_goods_id": 38695,
       "csmoney_nameid": 2608027,
-      "buff163_sticker_id": 131457
+      "buff163_sticker_id": 131457,
+      "buffmarket_sticker_id": 24438
     },
     "Sticker Slab | SunPayus (Gold) | Paris 2023": {
       "buff163_goods_id": 1123451,
@@ -190685,7 +190689,8 @@
       "youpin_id": 114870,
       "buffmarket_goods_id": 38720,
       "csmoney_nameid": 2605790,
-      "buff163_sticker_id": 131485
+      "buff163_sticker_id": 131485,
+      "buffmarket_sticker_id": 24441
     },
     "Sticker Slab | Perfecto (Holo) | Paris 2023": {
       "buff163_goods_id": 1124184,
@@ -192704,6 +192709,7 @@
     },
     "Sticker Slab | Gambit Esports (Foil) | London 2018": {
       "buff163_goods_id": 1125034,
+      "youpin_id": 126675,
       "buffmarket_goods_id": 44047,
       "buff163_charm_id": 133670
     },
@@ -202521,6 +202527,7 @@
     },
     "Sticker Slab | myXMG | DreamHack 2014": {
       "buff163_goods_id": 1127078,
+      "youpin_id": 126668,
       "buffmarket_goods_id": 40536,
       "buff163_charm_id": 135295
     },
@@ -206410,6 +206417,7 @@
     },
     "Sticker Slab | TRY (Holo) | Austin 2025": {
       "buff163_goods_id": 1127987,
+      "youpin_id": 126684,
       "buffmarket_goods_id": 41832,
       "buff163_charm_id": 136293
     },
@@ -221950,6 +221958,7 @@
       "buff163_goods_id": 1131396,
       "youpin_id": 118915,
       "buffmarket_goods_id": 41530,
+      "csmoney_nameid": 2612941,
       "buff163_charm_id": 138795
     },
     "Souvenir Charm | Budapest 2025 Highlight | w0nderful vs FURIA on Mirage": {
@@ -223366,6 +223375,7 @@
     },
     "Sticker Slab | G2 Esports (Foil) | Krakow 2017": {
       "buff163_goods_id": 1131639,
+      "youpin_id": 126696,
       "buffmarket_goods_id": 45421,
       "buff163_charm_id": 139013
     },
@@ -223464,6 +223474,7 @@
     },
     "Sticker Slab | shalfey (Holo) | Paris 2023": {
       "buff163_goods_id": 1131659,
+      "youpin_id": 126673,
       "buffmarket_goods_id": 41428,
       "buff163_charm_id": 139030
     },
@@ -228572,6 +228583,7 @@
     },
     "Sticker Slab | Grim (Gold) | Shanghai 2024": {
       "buff163_goods_id": 1132586,
+      "youpin_id": 126666,
       "buffmarket_goods_id": 45712,
       "buff163_charm_id": 139886
     },
@@ -232613,6 +232625,7 @@
     },
     "Sticker Slab | headtr1ck (Holo) | Austin 2025": {
       "buff163_goods_id": 1133647,
+      "youpin_id": 126677,
       "buffmarket_goods_id": 43026,
       "buff163_charm_id": 140522
     },
@@ -247547,6 +247560,7 @@
     },
     "Sticker Slab | Techno4K (Gold) | Cologne 2026": {
       "buff163_goods_id": 1137057,
+      "youpin_id": 126694,
       "buffmarket_goods_id": 47749,
       "buff163_charm_id": 143403
     },
@@ -249028,6 +249042,7 @@
     },
     "Souvenir M4A1-S | Liquidation (Well-Worn)": {
       "buff163_goods_id": 1137402,
+      "youpin_id": 126687,
       "buffmarket_goods_id": 48077
     },
     "Sticker Slab | Aleksib | Berlin 2019": {
@@ -251140,6 +251155,7 @@
     },
     "Souvenir AWP | Silk Tiger (Factory New)": {
       "buff163_goods_id": 1137915,
+      "youpin_id": 126688,
       "buffmarket_goods_id": 48507
     },
     "Souvenir UMP-45 | Moonrise (Factory New)": {
@@ -252034,6 +252050,7 @@
     },
     "Souvenir USP-S | Printstream (Minimal Wear)": {
       "buff163_goods_id": 1138122,
+      "youpin_id": 126671,
       "buffmarket_goods_id": 48698
     },
     "Souvenir Galil AR | Tornado (Field-Tested)": {
@@ -252473,6 +252490,7 @@
     },
     "Souvenir AWP | Exoskeleton (Factory New)": {
       "buff163_goods_id": 1138222,
+      "youpin_id": 126667,
       "buffmarket_goods_id": 48793
     },
     "Souvenir MP5-SD | Snow Splash (Minimal Wear)": {
@@ -252583,6 +252601,7 @@
     },
     "Souvenir CZ75-Auto | Indigo (Minimal Wear)": {
       "buff163_goods_id": 1138247,
+      "youpin_id": 126683,
       "buffmarket_goods_id": 48816
     },
     "Souvenir Tec-9 | Urban DDPAT (Factory New)": {
@@ -252597,6 +252616,7 @@
     },
     "Souvenir Galil AR | NV (Field-Tested)": {
       "buff163_goods_id": 1138250,
+      "youpin_id": 126681,
       "buffmarket_goods_id": 48819
     },
     "Souvenir MP9 | Arctic Tri-Tone (Minimal Wear)": {
@@ -252948,6 +252968,7 @@
     },
     "Souvenir Five-SeveN | Fraise Crane (Minimal Wear)": {
       "buff163_goods_id": 1138328,
+      "youpin_id": 126680,
       "buffmarket_goods_id": 48895
     },
     "Souvenir Dual Berettas | Duelist (Factory New)": {
@@ -257704,6 +257725,7 @@
     },
     "Souvenir AWP | Green Energy (Well-Worn)": {
       "buff163_goods_id": 1147103,
+      "youpin_id": 126678,
       "buffmarket_goods_id": 49794
     },
     "Souvenir MP9 | Pine (Well-Worn)": {
@@ -258263,6 +258285,7 @@
     },
     "Souvenir Five-SeveN | Desert Seal (Factory New)": {
       "buff163_goods_id": 1147346,
+      "youpin_id": 126670,
       "buffmarket_goods_id": 49909
     },
     "Sticker Slab | From The Vine (Holo)": {
@@ -258493,6 +258516,7 @@
     },
     "Sticker Slab | Magisk (Gold) | Rio 2022": {
       "buff163_goods_id": 1147506,
+      "youpin_id": 126686,
       "buffmarket_goods_id": 49961,
       "buff163_charm_id": 144354
     },
@@ -259569,6 +259593,7 @@
       "buff163_goods_id": 1147866,
       "youpin_id": 125377,
       "buffmarket_goods_id": 50135,
+      "csmoney_nameid": 2628911,
       "buff163_sticker_id": 144577,
       "buffmarket_sticker_id": 23973
     },
@@ -259822,6 +259847,7 @@
       "buff163_goods_id": 1148014,
       "youpin_id": 125454,
       "buffmarket_goods_id": 50168,
+      "csmoney_nameid": 2627572,
       "buff163_sticker_id": 144608,
       "buffmarket_sticker_id": 24003
     },
@@ -260203,6 +260229,7 @@
       "buff163_goods_id": 1148116,
       "youpin_id": 125525,
       "buffmarket_goods_id": 50220,
+      "csmoney_nameid": 2627791,
       "buff163_sticker_id": 144660,
       "buffmarket_sticker_id": 24055
     },
@@ -260747,6 +260774,7 @@
       "buff163_goods_id": 1148306,
       "youpin_id": 125487,
       "buffmarket_goods_id": 50293,
+      "csmoney_nameid": 2628840,
       "buff163_sticker_id": 144722,
       "buffmarket_sticker_id": 24121
     },
@@ -261833,6 +261861,7 @@
     },
     "Sticker | MoDo (Gold, Ranked) | Cologne 2026": {
       "buff163_goods_id": 1148586,
+      "youpin_id": 126695,
       "buffmarket_goods_id": 50449,
       "buff163_sticker_id": 144857,
       "buffmarket_sticker_id": 24255
@@ -262442,6 +262471,7 @@
     },
     "Sticker | piriajr (Gold, Ranked) | Cologne 2026": {
       "buff163_goods_id": 1148726,
+      "youpin_id": 126693,
       "buffmarket_goods_id": 50537,
       "buff163_sticker_id": 144944,
       "buffmarket_sticker_id": 24343
@@ -262686,6 +262716,7 @@
       "buff163_goods_id": 1148782,
       "youpin_id": 125876,
       "buffmarket_goods_id": 50573,
+      "buff163_sticker_id": 145490,
       "buffmarket_sticker_id": 24384
     },
     "Sticker Slab | Natus Vincere (Holo, Ranked) | Cologne 2026": {
@@ -265474,6 +265505,7 @@
       "buff163_goods_id": 1149404,
       "youpin_id": 126606,
       "buffmarket_goods_id": 51038,
+      "buff163_sticker_id": 145491,
       "buffmarket_sticker_id": 24395
     },
     "Sticker | REZ (Gold, Ranked) | Cologne 2026": {
@@ -265492,6 +265524,7 @@
       "buff163_goods_id": 1149409,
       "youpin_id": 125781,
       "buffmarket_goods_id": 51041,
+      "buff163_sticker_id": 145492,
       "buffmarket_sticker_id": 24398
     },
     "Sticker | makazze (Gold, Ranked) | Cologne 2026": {
@@ -265527,6 +265560,7 @@
     },
     "Sticker Slab | The Mongolz (Holo, Ranked) | Cologne 2026": {
       "buff163_goods_id": 1149424,
+      "youpin_id": 126676,
       "buffmarket_goods_id": 51048,
       "buff163_charm_id": 145459
     },
@@ -265621,6 +265655,12 @@
       "youpin_id": 125895,
       "buffmarket_goods_id": 51065,
       "buffmarket_sticker_id": 24405
+    },
+    "Sticker | cobra (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1149859,
+      "youpin_id": 126648,
+      "buffmarket_goods_id": 51066,
+      "buffmarket_sticker_id": 24406
     },
     "Souvenir Desert Eagle | Ocean Drive (Factory New)": {
       "buff163_goods_id": 1149900,
@@ -266320,6 +266360,7 @@
     },
     "Souvenir USP-S | Bleeding Edge (Field-Tested)": {
       "buff163_goods_id": 1151228,
+      "youpin_id": 126690,
       "buffmarket_goods_id": 51217
     },
     "Souvenir M4A4 | Griffin (Battle-Scarred)": {
@@ -266708,7 +266749,9 @@
     "Sticker | The Mongolz (Gold, Ranked) | Cologne 2026": {
       "buff163_goods_id": 1151664,
       "youpin_id": 126640,
-      "buffmarket_goods_id": 51307
+      "buffmarket_goods_id": 51307,
+      "buff163_sticker_id": 145489,
+      "buffmarket_sticker_id": 24439
     },
     "Souvenir AK-47 | Wintergreen (Well-Worn)": {
       "buff163_goods_id": 1151673,
@@ -267115,6 +267158,7 @@
     },
     "Sticker Slab | malta (Foil) | Berlin 2019": {
       "buff163_goods_id": 1152466,
+      "youpin_id": 126674,
       "buffmarket_goods_id": 51403
     },
     "Souvenir Sawed-Off | Bamboo Shadow (Battle-Scarred)": {
@@ -267169,6 +267213,7 @@
     },
     "Souvenir M4A4 | Buzz Kill (Well-Worn)": {
       "buff163_goods_id": 1152505,
+      "youpin_id": 126682,
       "buffmarket_goods_id": 51416
     },
     "Souvenir Glock-18 | Twilight Galaxy (Minimal Wear)": {
@@ -267282,6 +267327,7 @@
     },
     "Sticker | maxxkor (Gold, Ranked) | Cologne 2026": {
       "buff163_goods_id": 1152660,
+      "youpin_id": 126689,
       "buffmarket_goods_id": 51442
     },
     "Souvenir PP-Bizon | Death Rattle (Minimal Wear)": {
@@ -267296,6 +267342,157 @@
       "buff163_goods_id": 1152669,
       "youpin_id": 124846,
       "buffmarket_goods_id": 51446
+    },
+    "Sticker Slab | dumau (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1152677,
+      "youpin_id": 126064,
+      "buffmarket_goods_id": 51447
+    },
+    "Sticker Slab | cool4st (Foil) | Austin 2025": {
+      "buff163_goods_id": 1152691,
+      "youpin_id": 126665,
+      "buffmarket_goods_id": 51448
+    },
+    "Souvenir MP5-SD | Bamboo Garden (Field-Tested)": {
+      "buff163_goods_id": 1152692,
+      "buffmarket_goods_id": 51449
+    },
+    "Souvenir AUG | Creep (Factory New)": {
+      "buff163_goods_id": 1152693,
+      "buffmarket_goods_id": 51450
+    },
+    "Sticker Slab | coldzera (Foil) | Atlanta 2017": {
+      "buff163_goods_id": 1152696,
+      "buffmarket_goods_id": 51451
+    },
+    "Souvenir R8 Revolver | Crazy 8 (Battle-Scarred)": {
+      "buff163_goods_id": 1152706,
+      "buffmarket_goods_id": 51452
+    },
+    "Souvenir PP-Bizon | Bizoom (Battle-Scarred)": {
+      "buff163_goods_id": 1152713,
+      "buffmarket_goods_id": 51453
+    },
+    "Souvenir Sawed-Off | Jungle Thicket (Battle-Scarred)": {
+      "buff163_goods_id": 1152714,
+      "buffmarket_goods_id": 51454
+    },
+    "Souvenir SSG 08 | Grey Smoke (Battle-Scarred)": {
+      "buff163_goods_id": 1152715,
+      "buffmarket_goods_id": 51455
+    },
+    "Souvenir Five-SeveN | Boost Protocol (Factory New)": {
+      "buff163_goods_id": 1152758,
+      "buffmarket_goods_id": 51456
+    },
+    "Souvenir MAC-10 | Tornado (Factory New)": {
+      "buff163_goods_id": 1152759,
+      "buffmarket_goods_id": 51457
+    },
+    "Souvenir SSG 08 | Zeno (Well-Worn)": {
+      "buff163_goods_id": 1152777,
+      "buffmarket_goods_id": 51458
+    },
+    "Sticker | Rainwaker (Gold, Ranked) | Cologne 2026": {
+      "buff163_goods_id": 1152792,
+      "buffmarket_goods_id": 51459,
+      "buff163_sticker_id": 145480,
+      "buffmarket_sticker_id": 24425
+    },
+    "Sticker Slab | yuurih (Gold) | Berlin 2019": {
+      "buff163_goods_id": 1152803,
+      "youpin_id": 126487,
+      "buffmarket_goods_id": 51460
+    },
+    "Souvenir M4A4 | Spider Lily (Well-Worn)": {
+      "buff163_goods_id": 1152806,
+      "buffmarket_goods_id": 51461
+    },
+    "Souvenir M4A1-S | Golden Coil (Battle-Scarred)": {
+      "buff163_goods_id": 1152807,
+      "buffmarket_goods_id": 51462
+    },
+    "Sticker Slab | ShahZaM (Gold) | Berlin 2019": {
+      "buff163_goods_id": 1152828,
+      "buffmarket_goods_id": 51463
+    },
+    "Souvenir AK-47 | Asiimov (Well-Worn)": {
+      "buff163_goods_id": 1152829,
+      "buffmarket_goods_id": 51464
+    },
+    "Souvenir AK-47 | Emerald Pinstripe (Well-Worn)": {
+      "buff163_goods_id": 1152830,
+      "buffmarket_goods_id": 51465
+    },
+    "Souvenir Glock-18 | Water Elemental (Minimal Wear)": {
+      "buff163_goods_id": 1152831,
+      "buffmarket_goods_id": 51466
+    },
+    "Souvenir P90 | Nostalgia (Minimal Wear)": {
+      "buff163_goods_id": 1152832,
+      "buffmarket_goods_id": 51467
+    },
+    "Souvenir Glock-18 | Water Elemental (Factory New)": {
+      "buff163_goods_id": 1152845,
+      "buffmarket_goods_id": 51468
+    },
+    "Souvenir UMP-45 | Caramel (Battle-Scarred)": {
+      "buff163_goods_id": 1152846,
+      "buffmarket_goods_id": 51469
+    },
+    "Sticker Slab | dziugss (Gold) | Cologne 2026": {
+      "buff163_goods_id": 1152863,
+      "buffmarket_goods_id": 51470
+    },
+    "Souvenir Galil AR | Control (Factory New)": {
+      "buff163_goods_id": 1152864,
+      "youpin_id": 126672,
+      "buffmarket_goods_id": 51471
+    },
+    "Souvenir Nova | Caged Steel (Factory New)": {
+      "buff163_goods_id": 1152876,
+      "buffmarket_goods_id": 51472
+    },
+    "Sticker Slab | zehN (Gold) | Krakow 2017": {
+      "buff163_goods_id": 1152884,
+      "buffmarket_goods_id": 51473
+    },
+    "Souvenir CZ75-Auto | Syndicate (Field-Tested)": {
+      "buff163_goods_id": 1152885,
+      "buffmarket_goods_id": 51474
+    },
+    "Sticker Slab | refrezh (Glitter) | Antwerp 2022": {
+      "buff163_goods_id": 1152886,
+      "youpin_id": 126692,
+      "buffmarket_goods_id": 51475
+    },
+    "Souvenir MP9 | Arctic Tri-Tone (Battle-Scarred)": {
+      "buff163_goods_id": 1152888,
+      "buffmarket_goods_id": 51476
+    },
+    "Souvenir FAMAS | Contrast Spray (Factory New)": {
+      "buff163_goods_id": 1152897,
+      "buffmarket_goods_id": 51478
+    },
+    "Souvenir R8 Revolver | Phoenix Marker (Battle-Scarred)": {
+      "buff163_goods_id": 1152898,
+      "buffmarket_goods_id": 51481
+    },
+    "Sticker Slab | AdreN (Gold) | Boston 2018": {
+      "buff163_goods_id": 1152899,
+      "buffmarket_goods_id": 51482
+    },
+    "Souvenir Galil AR | Tuxedo (Well-Worn)": {
+      "buff163_goods_id": 1152904,
+      "buffmarket_goods_id": 51483
+    },
+    "Souvenir Desert Eagle | Crimson Web (Well-Worn)": {
+      "buff163_goods_id": 1152908,
+      "buffmarket_goods_id": 51484
+    },
+    "Souvenir SCAR-20 | Army Sheen (Field-Tested)": {
+      "buff163_goods_id": 1152922,
+      "buffmarket_goods_id": 51485
     },
     "Sticker Slab | fnx (Foil) | MLG Columbus 2016": {
       "youpin_id": 115611
@@ -267462,20 +267659,20 @@
     "Souvenir FAMAS | Corp Defense (Factory New)": {
       "youpin_id": 126041
     },
-    "Sticker Slab | dumau (Gold, Ranked) | Cologne 2026": {
-      "youpin_id": 126064
-    },
-    "Sticker Slab | yuurih (Gold) | Berlin 2019": {
-      "youpin_id": 126487
-    },
     "Souvenir Dual Berettas | Angel Eyes (Battle-Scarred)": {
       "youpin_id": 126602
     },
     "Souvenir SCAR-20 | Caged (Battle-Scarred)": {
       "youpin_id": 126603
     },
-    "Sticker | cobra (Gold, Ranked) | Cologne 2026": {
-      "youpin_id": 126648
+    "Sticker Slab | VINI (Gold) | Berlin 2019": {
+      "youpin_id": 126669
+    },
+    "Sticker Slab | Patti (Holo) | Copenhagen 2024": {
+      "youpin_id": 126685
+    },
+    "Sticker Slab | SINNERS (Gold, Ranked) | Cologne 2026": {
+      "youpin_id": 126691
     },
     "Sticker | kioShiMa (Gold) | Atlanta 2017": {
       "buff163_sticker_id": 3326,
@@ -270234,10 +270431,6 @@
     "Sticker | Train (Gold)": {
       "buff163_sticker_id": 130596,
       "buffmarket_sticker_id": 11687
-    },
-    "Sticker | Rainwaker (Gold, Ranked) | Cologne 2026": {
-      "buff163_sticker_id": 145480,
-      "buffmarket_sticker_id": 24425
     }
   },
   "patterns": {

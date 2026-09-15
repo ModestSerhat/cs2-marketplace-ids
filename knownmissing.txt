@@ -35,9 +35,6 @@ Tag IDs of Marble Fade Fire & Ice tiers known to be missing on buff163:
 ★ StatTrak™ Talon Knife | Marble Fade (Factory New): 1st
 ★ StatTrak™ Talon Knife | Marble Fade (Minimal Wear): 1st, 2nd, 3rd, 5th, 6th, 8th
 
-IDs of items known to be missing on buff163:
-Sticker | cobra (Gold, Ranked) | Cologne 2026
-
 IDs of items known to be missing on youpin898:
 Sticker | fnx (Gold) | Boston 2018
 Sticker | kNgV- (Gold) | Boston 2018
@@ -124,17 +121,12 @@ Sticker | Snax (Gold) | Cologne 2026
 Sticker | BIG (Gold) | Cologne 2026
 Sticker | susp (Gold, Ranked) | Cologne 2026
 Sticker | NQZ (Gold, Ranked) | Cologne 2026
-Sticker | MoDo (Gold, Ranked) | Cologne 2026
 Sticker | Grim (Gold, Ranked) | Cologne 2026
 Sticker | vexite (Gold, Ranked) | Cologne 2026
 Sticker | biguzera (Gold, Ranked) | Cologne 2026
 Sticker | NEKiZ (Gold, Ranked) | Cologne 2026
-Sticker | piriajr (Gold, Ranked) | Cologne 2026
 Sticker | SHOCK (Gold, Ranked) | Cologne 2026
-Sticker | maxxkor (Gold, Ranked) | Cologne 2026
-
-IDs of items known to be missing on buff.market:
-Sticker | cobra (Gold, Ranked) | Cologne 2026
+Sticker | Rainwaker (Gold, Ranked) | Cologne 2026
 
 IDs of items known to be missing on cs.money:
 Boston 2018 Legends (Holo-Foil)
@@ -277,7 +269,6 @@ Souvenir Charm | Austin 2025 Highlight | mzinho Triple Kill
 Souvenir Charm | Austin 2025 Highlight | Bombsite Battle
 Souvenir Charm | Austin 2025 Highlight | dav1deuS Almost Clutch
 Souvenir Charm | Austin 2025 Highlight | ZywOo: The Cowboy
-Souvenir Charm | Austin 2025 Highlight | The AWP Headshooter
 Souvenir Charm | Austin 2025 Highlight | ZywOo Double Nuke Kill
 Souvenir Charm | Austin 2025 Highlight | nqz Triple Kill
 Souvenir Charm | Austin 2025 Highlight | Not Enough
@@ -376,7 +367,6 @@ Souvenir Charm | Budapest 2025 Highlight | KSCERATO vs Natus Vincere on Inferno
 Souvenir Charm | Budapest 2025 Highlight | Aleksib vs FaZe on Nuke
 Souvenir Charm | Budapest 2025 Highlight | w0nderful long-range triple
 Souvenir Charm | Budapest 2025 Highlight | jcobbb vs MOUZ on Inferno
-Souvenir Charm | Budapest 2025 Highlight | yuurih vs Natus Vincere on Inferno
 Souvenir Charm | Budapest 2025 Highlight | Spinx instant refrag
 Souvenir Charm | Budapest 2025 Highlight | tN1R smoke assassin
 Souvenir Charm | Budapest 2025 Highlight | Brollan Ramp action
@@ -595,7 +585,6 @@ Sticker | vexite (Holo, Ranked) | Cologne 2026
 Sticker | PR (Holo, Ranked) | Cologne 2026
 Sticker | apEX (Gold, Ranked) | Cologne 2026
 Sticker | Jame (Foil, Ranked) | Cologne 2026
-Sticker | C4LLM3SU3 (Holo, Ranked) | Cologne 2026
 Sticker | YEKINDAR (Gold, Ranked) | Cologne 2026
 Sticker | YEKINDAR (Holo, Ranked) | Cologne 2026
 Sticker | huNter- (Gold, Ranked) | Cologne 2026
@@ -608,7 +597,6 @@ Sticker | rdnzao (Holo, Ranked) | Cologne 2026
 Sticker | jks (Gold, Ranked) | Cologne 2026
 Sticker | XANTARES (Gold, Ranked) | Cologne 2026
 Sticker | Gaimin Gladiators (Foil, Ranked) | Cologne 2026
-Sticker | JDC (Holo, Ranked) | Cologne 2026
 Sticker | The Mongolz (Holo, Ranked) | Cologne 2026
 Sticker | insani (Holo, Ranked) | Cologne 2026
 Sticker | huNter- (Holo, Ranked) | Cologne 2026
@@ -643,7 +631,6 @@ Sticker | phzy (Foil, Ranked) | Cologne 2026
 Sticker | Staehr (Gold, Ranked) | Cologne 2026
 Sticker | Aleksib (Holo, Ranked) | Cologne 2026
 Sticker | Aleksib (Gold, Ranked) | Cologne 2026
-Sticker | malbsMd (Foil, Ranked) | Cologne 2026
 Sticker | Brollan (Foil, Ranked) | Cologne 2026
 Sticker | tN1R (Foil, Ranked) | Cologne 2026
 Sticker | kisserek (Holo, Ranked) | Cologne 2026
@@ -669,7 +656,6 @@ Sticker | dem0n (Foil, Ranked) | Cologne 2026
 Sticker | magixx (Holo, Ranked) | Cologne 2026
 Sticker | HooXi (Gold, Ranked) | Cologne 2026
 Sticker | Legacy (Holo, Ranked) | Cologne 2026
-Sticker | Lynn Vision (Gold, Ranked) | Cologne 2026
 Sticker | HEN1 (Foil, Ranked) | Cologne 2026
 Sticker | dumau (Holo, Ranked) | Cologne 2026
 Sticker | piriajr (Foil, Ranked) | Cologne 2026
@@ -904,6 +890,7 @@ Sticker | GamerLegion (Gold, Ranked) | Cologne 2026
 Sticker | Monte (Gold, Ranked) | Cologne 2026
 Sticker | snow (Gold, Ranked) | Cologne 2026
 Sticker | Techno4K (Gold, Ranked) | Cologne 2026
+Sticker | cobra (Gold, Ranked) | Cologne 2026
 Sticker | afro (Gold, Ranked) | Cologne 2026
 Sticker | Sharks Esports (Gold, Ranked) | Cologne 2026
 Sticker | BIG (Gold, Ranked) | Cologne 2026
@@ -947,4 +934,4 @@ Sticker | Legacy (Gold, Ranked) | Cologne 2026
 Sticker | paiN Gaming (Gold, Ranked) | Cologne 2026
 Sticker | NRG (Gold, Ranked) | Cologne 2026
 Sticker | maxxkor (Gold, Ranked) | Cologne 2026
-Sticker | cobra (Gold, Ranked) | Cologne 2026
+Sticker | Rainwaker (Gold, Ranked) | Cologne 2026
