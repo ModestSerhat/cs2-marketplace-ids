@@ -1,6 +1,5 @@
 IDs of items known to be missing on all marketplaces (buff163, youpin898, buff.market, cs.money):
 ★ StatTrak™ Classic Knife | Urban Masked (Factory New) (0 registered on FloatDB, can be unboxed from a CS20 Case)
-Sticker | FURIA (Gold, Ranked) | Cologne 2026 (Can be bought through Cologne 2026 Major Shop)
 
 Phase IDs of Doppler phases known to be missing on buff163:
 ★ StatTrak™ M9 Bayonet | Doppler Black Pearl (Minimal Wear) (0 registered on FloatDB, can be unboxed from a Chroma/Chroma 2/Chroma 3 Case)
@@ -8,14 +7,14 @@ Phase IDs of Doppler phases known to be missing on buff163:
 ★ StatTrak™ Falchion Knife | Doppler Black Pearl (Minimal Wear) (1 registered on FloatDB, can be unboxed from a Spectrum/Spectrum 2 Case)
 ★ StatTrak™ Bowie Knife | Doppler Black Pearl (Minimal Wear) (0 registered on FloatDB, can be unboxed from a Spectrum/Spectrum 2 Case)
 ★ StatTrak™ Shadow Daggers | Doppler Ruby (Minimal Wear) (0 registered on FloatDB, can be unboxed from a Spectrum/Spectrum 2 Case)
-★ StatTrak™ Ursus Knife | Doppler Black Pearl (Minimal Wear) (0 registered on FloatDB, can be unboxed from a Prisma/Prisma 2 Case)
+★ StatTrak™ Ursus Knife | Doppler Black Pearl (Minimal Wear) (1 registered on FloatDB, can be unboxed from a Prisma/Prisma 2 Case)
 ★ StatTrak™ Stiletto Knife | Doppler Black Pearl (Minimal Wear) (0 registered on FloatDB, can be unboxed from a Prisma/Prisma 2 Case)
 ★ StatTrak™ M9 Bayonet | Gamma Doppler Emerald (Minimal Wear) (2 registered on FloatDB, can be unboxed from a Gamma/Gamma 2 Case)
 ★ StatTrak™ Paracord Knife | Doppler Black Pearl (Minimal Wear) (1 registered on FloatDB, Can be unboxed from a Fever Case)
 Souvenir Glock-18 | Gamma Doppler Phase 2 (Factory New) (2 registered on FloatDB, Can be made through Cologne 2026 Major Shop)
 Souvenir Glock-18 | Gamma Doppler Phase 3 (Factory New) (2 registered on FloatDB, Can be made through Cologne 2026 Major Shop)
 Souvenir Glock-18 | Gamma Doppler Phase 4 (Factory New) (3 registered on FloatDB, Can be made through Cologne 2026 Major Shop)
-Souvenir Glock-18 | Gamma Doppler Phase 1 (Minimal Wear) (3 registered on FloatDB, Can be made through Cologne 2026 Major Shop)
+Souvenir Glock-18 | Gamma Doppler Phase 1 (Minimal Wear) (4 registered on FloatDB, Can be made through Cologne 2026 Major Shop)
 Souvenir Glock-18 | Gamma Doppler Phase 2 (Minimal Wear) (6 registered on FloatDB, Can be made through Cologne 2026 Major Shop)
 Souvenir Glock-18 | Gamma Doppler Phase 4 (Minimal Wear) (4 registered on FloatDB, Can be made through Cologne 2026 Major Shop)
 
@@ -45,7 +44,6 @@ Sticker | kNgV- (Gold) | Boston 2018
 ★ StatTrak™ Karambit | Night (Factory New)
 ★ StatTrak™ Karambit | Boreal Forest (Factory New)
 ★ StatTrak™ M9 Bayonet | Boreal Forest (Factory New)
-★ Huntsman Knife | Scorched (Factory New)
 ★ StatTrak™ Huntsman Knife | Forest DDPAT (Factory New)
 ★ StatTrak™ Falchion Knife | Night (Factory New)
 ★ StatTrak™ Falchion Knife | Boreal Forest (Factory New)
@@ -117,15 +115,7 @@ Sticker | kNgV- (Gold) | Boston 2018
 Souvenir Charm | Budapest 2025 Highlight | xertioN vs FaZe on Nuke
 Sticker | Astralis (Gold) | Cologne 2026
 ★ StatTrak™ Ursus Knife | Boreal Forest (Factory New)
-Sticker | Snax (Gold) | Cologne 2026
 Sticker | BIG (Gold) | Cologne 2026
-Sticker | susp (Gold, Ranked) | Cologne 2026
-Sticker | NQZ (Gold, Ranked) | Cologne 2026
-Sticker | Grim (Gold, Ranked) | Cologne 2026
-Sticker | vexite (Gold, Ranked) | Cologne 2026
-Sticker | biguzera (Gold, Ranked) | Cologne 2026
-Sticker | NEKiZ (Gold, Ranked) | Cologne 2026
-Sticker | SHOCK (Gold, Ranked) | Cologne 2026
 Sticker | Rainwaker (Gold, Ranked) | Cologne 2026
 
 IDs of items known to be missing on cs.money:
@@ -179,7 +169,6 @@ Sealed Graffiti | Recoil FAMAS (Monarch Blue)
 ★ StatTrak™ Nomad Knife | Night Stripe (Factory New)
 ★ StatTrak™ Survival Knife | Night Stripe (Factory New)
 ★ StatTrak™ Bowie Knife | Safari Mesh (Factory New)
-Initiators Music Kit Box
 ★ StatTrak™ Bowie Knife | Boreal Forest (Factory New)
 ★ StatTrak™ Skeleton Knife | Forest DDPAT (Factory New)
 Sticker | frozen (Gold) | Rio 2022
@@ -262,10 +251,8 @@ Souvenir Charm | Austin 2025 Highlight | nqz Clutch Attempt
 Souvenir Charm | Austin 2025 Highlight | Sharp Shooter
 Souvenir Charm | Austin 2025 Highlight | mzinho Double A-Site Entry
 Souvenir Charm | Austin 2025 Highlight | Rapid Fire
-Souvenir Charm | Austin 2025 Highlight | Double AWP Entry
 Souvenir Charm | Austin 2025 Highlight | Nuke Double Dink
 Souvenir Charm | Austin 2025 Highlight | Site Recovery
-Souvenir Charm | Austin 2025 Highlight | mzinho Triple Kill
 Souvenir Charm | Austin 2025 Highlight | Bombsite Battle
 Souvenir Charm | Austin 2025 Highlight | dav1deuS Almost Clutch
 Souvenir Charm | Austin 2025 Highlight | ZywOo: The Cowboy
@@ -275,7 +262,6 @@ Souvenir Charm | Austin 2025 Highlight | Not Enough
 Souvenir Charm | Austin 2025 Highlight | The Whiff
 Souvenir Charm | Austin 2025 Highlight | Last Effort
 Souvenir Charm | Austin 2025 Highlight | 2 In The Back
-Souvenir Charm | Austin 2025 Highlight | Airborne
 Souvenir Charm | Austin 2025 Highlight | USP King
 Souvenir Charm | Austin 2025 Highlight | xertioN: The Nuke Eco Fragger
 Souvenir Charm | Austin 2025 Highlight | torzsi Double Inferno Kill
@@ -312,7 +298,6 @@ Souvenir Charm | Austin 2025 Highlight | Double Duals Dominate
 Souvenir Charm | Austin 2025 Highlight | Captain Brazil
 Souvenir Charm | Austin 2025 Highlight | Swift Double
 Souvenir Charm | Austin 2025 Highlight | KSCERATO Too Slow
-Souvenir Charm | Austin 2025 Highlight | Golden Opportunity
 Souvenir Charm | Austin 2025 Highlight | Jump Spot Dodge
 Souvenir Charm | Austin 2025 Highlight | Flying Mongolian
 Souvenir Charm | Austin 2025 Highlight | Huggers
@@ -373,7 +358,6 @@ Souvenir Charm | Budapest 2025 Highlight | Brollan Ramp action
 Souvenir Charm | Budapest 2025 Highlight | frozen backstab cleanup
 Souvenir Charm | Budapest 2025 Highlight | Jimpphat vs FaZe on Inferno
 Souvenir Charm | Budapest 2025 Highlight | frozen vs MOUZ on Inferno
-Souvenir Charm | Budapest 2025 Highlight | ZywOo vs FaZe on Inferno
 Souvenir Charm | Budapest 2025 Highlight | karrigan vs MOUZ on Inferno
 Souvenir Charm | Budapest 2025 Highlight | FaZe win in the QF
 Souvenir Charm | Budapest 2025 Highlight | Twistzz smoke breaker
@@ -397,7 +381,6 @@ Souvenir Charm | Budapest 2025 Highlight | karrigan through fire
 Souvenir Charm | Budapest 2025 Highlight | Twistzz dual chaos
 Souvenir Charm | Budapest 2025 Highlight | broky vs MOUZ on Inferno
 Souvenir Charm | Budapest 2025 Highlight | broky mid-air magic
-Souvenir Charm | Budapest 2025 Highlight | jcobbb vs Natus Vincere on Nuke
 Souvenir Charm | Budapest 2025 Highlight | xertioN clutch win
 Souvenir Charm | Budapest 2025 Highlight | Spinx vs FaZe on Inferno
 Souvenir Charm | Budapest 2025 Highlight | broky seals Nuke
@@ -545,7 +528,6 @@ Souvenir Charm | Cologne 2026 Highlight | AZUWU Deagle ACE
 Souvenir Charm | Cologne 2026 Highlight | dgt Pistol ACE
 Souvenir Charm | Cologne 2026 Highlight | asap ACE
 Sticker | BIG (Gold) | Cologne 2026
-Jackass Sticker Capsule
 Sticker | b1t (Gold, Ranked) | Cologne 2026
 Sticker | Vitality (Foil, Ranked) | Cologne 2026
 Sticker | Zero (Holo, Ranked) | Cologne 2026
@@ -612,9 +594,7 @@ Sticker | brnz4n (Holo, Ranked) | Cologne 2026
 Sticker | Mercury (Holo, Ranked) | Cologne 2026
 Sticker | w0nderful (Gold, Ranked) | Cologne 2026
 Sticker | huNter- (Foil, Ranked) | Cologne 2026
-Sticker | oSee (Foil, Ranked) | Cologne 2026
 Sticker | sh1ro (Holo, Ranked) | Cologne 2026
-Sticker | insani (Foil, Ranked) | Cologne 2026
 Sticker | makazze (Holo, Ranked) | Cologne 2026
 Sticker | luken (Foil, Ranked) | Cologne 2026
 Sticker | yuurih (Gold, Ranked) | Cologne 2026
@@ -631,7 +611,6 @@ Sticker | phzy (Foil, Ranked) | Cologne 2026
 Sticker | Staehr (Gold, Ranked) | Cologne 2026
 Sticker | Aleksib (Holo, Ranked) | Cologne 2026
 Sticker | Aleksib (Gold, Ranked) | Cologne 2026
-Sticker | Brollan (Foil, Ranked) | Cologne 2026
 Sticker | tN1R (Foil, Ranked) | Cologne 2026
 Sticker | kisserek (Holo, Ranked) | Cologne 2026
 Sticker | story (Foil, Ranked) | Cologne 2026
@@ -935,3 +914,6 @@ Sticker | paiN Gaming (Gold, Ranked) | Cologne 2026
 Sticker | NRG (Gold, Ranked) | Cologne 2026
 Sticker | maxxkor (Gold, Ranked) | Cologne 2026
 Sticker | Rainwaker (Gold, Ranked) | Cologne 2026
+Sticker | FURIA (Gold, Ranked) | Cologne 2026
+StatTrak™ Music Kit | Starjunk 95, Industrial Sunset Memories
+Music Kit | Starjunk 95, Industrial Sunset Memories
