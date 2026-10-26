@@ -168,7 +168,6 @@ Sealed Graffiti | Recoil FAMAS (Monarch Blue)
 ★ StatTrak™ Bowie Knife | Safari Mesh (Factory New)
 ★ StatTrak™ Bowie Knife | Boreal Forest (Factory New)
 ★ StatTrak™ Skeleton Knife | Forest DDPAT (Factory New)
-Sticker | EliGE | Rio 2022
 Sticker | aliStair (Gold) | Rio 2022
 ★ StatTrak™ Talon Knife | Night Stripe (Factory New)
 ★ StatTrak™ Ursus Knife | Ultraviolet (Factory New)
@@ -212,7 +211,6 @@ Sticker | niko (Gold) | Paris 2023
 ★ StatTrak™ Paracord Knife | Ultraviolet (Factory New)
 Sticker | Cxzi (Foil) | Austin 2025
 Souvenir Charm | Austin 2025 Highlight | ropz Double Nuke Kill
-Souvenir Charm | Austin 2025 Highlight | nqz Double Nuke Kill
 Souvenir Charm | Austin 2025 Highlight | Triple Pistol
 Souvenir Charm | Austin 2025 Highlight | Exploit
 Souvenir Charm | Austin 2025 Highlight | Surprise Behind You
@@ -223,7 +221,6 @@ Souvenir Charm | Austin 2025 Highlight | AWP Double Kill
 Souvenir Charm | Austin 2025 Highlight | Wont go quietly
 Souvenir Charm | Austin 2025 Highlight | torzsi Double Nuke Kill
 Souvenir Charm | Austin 2025 Highlight | YEKINDAR Double Kill
-Souvenir Charm | Austin 2025 Highlight | xertioN Nuke Triple Kill
 Souvenir Charm | Austin 2025 Highlight | The Smoke Sneaker
 Souvenir Charm | Austin 2025 Highlight | b1t: The Nuke Cowboy
 Souvenir Charm | Austin 2025 Highlight | 1 Bullet
@@ -249,7 +246,6 @@ Souvenir Charm | Austin 2025 Highlight | The Ninja Lurker
 Souvenir Charm | Austin 2025 Highlight | Deadly Defense
 Souvenir Charm | Austin 2025 Highlight | Hit or Miss
 Souvenir Charm | Austin 2025 Highlight | dgt Almost Clutch
-Souvenir Charm | Austin 2025 Highlight | mezii Teamkiller
 Souvenir Charm | Austin 2025 Highlight | No Money For You
 Souvenir Charm | Austin 2025 Highlight | dav1deuS Clutch Denied
 Souvenir Charm | Austin 2025 Highlight | One Mag
@@ -274,16 +270,12 @@ Souvenir Charm | Austin 2025 Highlight | Closing Out
 Souvenir Charm | Austin 2025 Highlight | I Believe I Can Fly
 Souvenir Charm | Austin 2025 Highlight | Senzu Double Deagle
 Souvenir Charm | Austin 2025 Highlight | Kill Trio Delivered
-Souvenir Charm | Austin 2025 Highlight | Open And Close
 Souvenir Charm | Austin 2025 Highlight | Triple Trouble
 Souvenir Charm | Austin 2025 Highlight | FalleN King Of Banana
-Souvenir Charm | Austin 2025 Highlight | Let's Goo
-Souvenir Charm | Austin 2025 Highlight | nqz Retake Denied
 Souvenir Charm | Austin 2025 Highlight | You Can't Hide
 Souvenir Charm | Austin 2025 Highlight | Two YEKINDAR Pistol Headshots
 Souvenir Charm | Austin 2025 Highlight | Eco Frags
 Souvenir Charm | Austin 2025 Highlight | KSCERATO Double Kill
-Souvenir Charm | Austin 2025 Highlight | dgt Clutch Attempt
 Souvenir Charm | Austin 2025 Highlight | YEKINDAR King Of Banana
 Souvenir Charm | Austin 2025 Highlight | Surprise Flank
 ★ StatTrak™ Nomad Knife | Ultraviolet (Factory New)
@@ -311,7 +303,6 @@ Souvenir Charm | Budapest 2025 Highlight | iM vs FaZe on Nuke
 Souvenir Charm | Budapest 2025 Highlight | jcobbb vs MOUZ on Nuke
 Souvenir Charm | Budapest 2025 Highlight | Spinx plant pressure
 Souvenir Charm | Budapest 2025 Highlight | Twistzz vs MOUZ on Nuke
-Souvenir Charm | Budapest 2025 Highlight | karrigan vs MOUZ on Nuke
 Souvenir Charm | Budapest 2025 Highlight | Vitality win in the QF
 Souvenir Charm | Budapest 2025 Highlight | Jimpphat vs FaZe on Nuke
 Souvenir Charm | Budapest 2025 Highlight | broky Boiler cleanup
@@ -388,8 +379,6 @@ Sticker | Chr1zN (Foil) | Cologne 2026
 Sticker | s1n (Gold) | Cologne 2026
 Sticker | afro (Gold) | Cologne 2026
 Sticker | SHOCK (Gold) | Cologne 2026
-Souvenir Charm | Cologne 2026 Highlight | magixx 1v4 Clutch
-Souvenir Charm | Cologne 2026 Highlight | m0NESY Major-winning Kill
 Souvenir Charm | Cologne 2026 Highlight | karrigan Double Kill
 Souvenir Charm | Cologne 2026 Highlight | m0NESY 3 Kills with 1v2 Clutch
 Souvenir Charm | Cologne 2026 Highlight | kyousuke 4 Kills
@@ -399,7 +388,6 @@ Souvenir Charm | Cologne 2026 Highlight | karrigan 3 Kills
 Souvenir Charm | Cologne 2026 Highlight | NiKo Triple Kill
 Souvenir Charm | Cologne 2026 Highlight | m0NESY 4 Kills
 Souvenir Charm | Cologne 2026 Highlight | FalleN Quad Kill
-Souvenir Charm | Cologne 2026 Highlight | Falcons Trophy-lifting Moment
 Souvenir Charm | Cologne 2026 Highlight | kyousuke 3 Kills
 Souvenir Charm | Cologne 2026 Highlight | magixx 4 Kills
 Souvenir Charm | Cologne 2026 Highlight | donk 1v2 Clutch
