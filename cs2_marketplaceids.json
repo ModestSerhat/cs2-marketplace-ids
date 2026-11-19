@@ -213596,6 +213596,7 @@
     },
     "Sticker Slab | Team EnVyUs | Cologne 2016": {
       "buff163_goods_id": 1129374,
+      "youpin_id": 127261,
       "buffmarket_goods_id": 36727,
       "buff163_charm_id": 137411
     },
@@ -237108,6 +237109,7 @@
     },
     "Sticker Slab | v4lde (Gold) | Rio 2022": {
       "buff163_goods_id": 1134688,
+      "youpin_id": 127287,
       "buffmarket_goods_id": 44073,
       "buff163_charm_id": 141171
     },
@@ -248493,6 +248495,7 @@
     },
     "Souvenir Sawed-Off | Jungle Thicket (Factory New)": {
       "buff163_goods_id": 1137251,
+      "youpin_id": 127248,
       "buffmarket_goods_id": 47937
     },
     "Souvenir USP-S | Tropical Breeze (Factory New)": {
@@ -267838,6 +267841,7 @@
     },
     "Souvenir M4A4 | Polysoup (Minimal Wear)": {
       "buff163_goods_id": 1152967,
+      "youpin_id": 127257,
       "buffmarket_goods_id": 51491
     },
     "Sticker Slab | HObbit | Stockholm 2021": {
@@ -269636,6 +269640,7 @@
     },
     "Sticker | westmelon | Singapore 2026": {
       "buff163_goods_id": 1154764,
+      "youpin_id": 127293,
       "buffmarket_goods_id": 51850,
       "buff163_sticker_id": 145706,
       "buffmarket_sticker_id": 24603
@@ -269958,24 +269963,28 @@
     },
     "Sticker | nafany (Foil) | Singapore 2026": {
       "buff163_goods_id": 1154862,
+      "youpin_id": 127233,
       "buffmarket_goods_id": 51896,
       "buff163_sticker_id": 145750,
       "buffmarket_sticker_id": 24646
     },
     "Sticker | BELCHONOKK (Foil) | Singapore 2026": {
       "buff163_goods_id": 1154863,
+      "youpin_id": 127231,
       "buffmarket_goods_id": 51897,
       "buff163_sticker_id": 145751,
       "buffmarket_sticker_id": 24647
     },
     "Sticker | fame (Foil) | Singapore 2026": {
       "buff163_goods_id": 1154864,
+      "youpin_id": 127232,
       "buffmarket_goods_id": 51898,
       "buff163_sticker_id": 145752,
       "buffmarket_sticker_id": 24648
     },
     "Sticker | ArtFr0st (Foil) | Singapore 2026": {
       "buff163_goods_id": 1154865,
+      "youpin_id": 127230,
       "buffmarket_goods_id": 51899,
       "buff163_sticker_id": 145753,
       "buffmarket_sticker_id": 24649
@@ -269988,6 +269997,7 @@
     },
     "Sticker | Jorko (Holo) | Singapore 2026": {
       "buff163_goods_id": 1154876,
+      "youpin_id": 127258,
       "buffmarket_goods_id": 51902,
       "buff163_sticker_id": 145755,
       "buffmarket_sticker_id": 24652
@@ -270148,6 +270158,7 @@
     },
     "Sticker | Senzu (Holo) | Singapore 2026": {
       "buff163_goods_id": 1154936,
+      "youpin_id": 127255,
       "buffmarket_goods_id": 51934,
       "buff163_sticker_id": 145769,
       "buffmarket_sticker_id": 24667
@@ -270182,6 +270193,7 @@
     },
     "Sticker | zweih | Singapore 2026": {
       "buff163_goods_id": 1154941,
+      "youpin_id": 127237,
       "buffmarket_goods_id": 51938,
       "buff163_sticker_id": 145774,
       "buffmarket_sticker_id": 24671
@@ -270229,6 +270241,7 @@
     },
     "Sticker | zont1x (Foil) | Singapore 2026": {
       "buff163_goods_id": 1154953,
+      "youpin_id": 127272,
       "buffmarket_goods_id": 51945,
       "buff163_sticker_id": 145781,
       "buffmarket_sticker_id": 24678
@@ -270268,6 +270281,7 @@
     },
     "Sticker Slab | s1mple (Gold) | Singapore 2026": {
       "buff163_goods_id": 1154959,
+      "youpin_id": 127291,
       "buffmarket_goods_id": 51951
     },
     "Sticker | JBOEN (Gold) | Singapore 2026": {
@@ -270286,6 +270300,7 @@
     },
     "Sticker | HUASOPEEK | Singapore 2026": {
       "buff163_goods_id": 1154963,
+      "youpin_id": 127281,
       "buffmarket_goods_id": 51954,
       "buff163_sticker_id": 145789,
       "buffmarket_sticker_id": 24686
@@ -270340,12 +270355,14 @@
     },
     "Sticker | JBOEN (Foil) | Singapore 2026": {
       "buff163_goods_id": 1154976,
+      "youpin_id": 127275,
       "buffmarket_goods_id": 51962,
       "buff163_sticker_id": 145797,
       "buffmarket_sticker_id": 24694
     },
     "Sticker | jcobbb (Foil) | Singapore 2026": {
       "buff163_goods_id": 1154977,
+      "youpin_id": 127263,
       "buffmarket_goods_id": 51963,
       "buff163_sticker_id": 145798,
       "buffmarket_sticker_id": 24695
@@ -270359,6 +270376,7 @@
     },
     "Sticker | jks (Foil) | Singapore 2026": {
       "buff163_goods_id": 1154979,
+      "youpin_id": 127251,
       "buffmarket_goods_id": 51965,
       "buff163_sticker_id": 145800,
       "buffmarket_sticker_id": 24697
@@ -270392,6 +270410,7 @@
     },
     "Sticker | rain (Gold) | Singapore 2026": {
       "buff163_goods_id": 1154990,
+      "youpin_id": 127280,
       "buffmarket_goods_id": 51970,
       "buff163_sticker_id": 145805,
       "buffmarket_sticker_id": 24702
@@ -270422,6 +270441,7 @@
     },
     "Sticker | xelex (Holo) | Singapore 2026": {
       "buff163_goods_id": 1154995,
+      "youpin_id": 127274,
       "buffmarket_goods_id": 51975,
       "buff163_sticker_id": 145810,
       "buffmarket_sticker_id": 24707
@@ -270613,12 +270633,14 @@
     },
     "Sticker | EmiliaQAQ (Holo) | Singapore 2026": {
       "buff163_goods_id": 1155036,
+      "youpin_id": 127239,
       "buffmarket_goods_id": 52008,
       "buff163_sticker_id": 145814,
       "buffmarket_sticker_id": 24711
     },
     "Sticker | Boombl4 | Singapore 2026": {
       "buff163_goods_id": 1155037,
+      "youpin_id": 127235,
       "buffmarket_goods_id": 52013,
       "buff163_sticker_id": 145815,
       "buffmarket_sticker_id": 24712
@@ -270664,6 +270686,7 @@
     },
     "Sticker | KSCERATO (Foil) | Singapore 2026": {
       "buff163_goods_id": 1155046,
+      "youpin_id": 127260,
       "buffmarket_goods_id": 52020,
       "buff163_sticker_id": 145821,
       "buffmarket_sticker_id": 24718
@@ -270728,6 +270751,7 @@
     },
     "Sticker | YEKINDAR (Foil) | Singapore 2026": {
       "buff163_goods_id": 1155063,
+      "youpin_id": 127262,
       "buffmarket_goods_id": 52030,
       "buff163_sticker_id": 145830,
       "buffmarket_sticker_id": 24727
@@ -270746,6 +270770,7 @@
     },
     "Sticker | Hobbit (Foil) | Singapore 2026": {
       "buff163_goods_id": 1155066,
+      "youpin_id": 127246,
       "buffmarket_goods_id": 52033,
       "buff163_sticker_id": 145833,
       "buffmarket_sticker_id": 24730
@@ -270764,12 +270789,14 @@
     },
     "Sticker | Jame (Foil) | Singapore 2026": {
       "buff163_goods_id": 1155069,
+      "youpin_id": 127265,
       "buffmarket_goods_id": 52036,
       "buff163_sticker_id": 145836,
       "buffmarket_sticker_id": 24733
     },
     "Sticker Slab | m0NESY (Holo) | Singapore 2026": {
       "buff163_goods_id": 1155070,
+      "youpin_id": 127285,
       "buffmarket_goods_id": 52037
     },
     "Sticker Slab | donk (Holo) | Singapore 2026": {
@@ -270864,6 +270891,7 @@
     },
     "Sticker | PR (Foil) | Singapore 2026": {
       "buff163_goods_id": 1155108,
+      "youpin_id": 127252,
       "buffmarket_goods_id": 52052,
       "buff163_sticker_id": 145850,
       "buffmarket_sticker_id": 24747
@@ -270894,6 +270922,7 @@
     },
     "Sticker | PVISION (Foil) | Singapore 2026": {
       "buff163_goods_id": 1155125,
+      "youpin_id": 127234,
       "buffmarket_goods_id": 52057,
       "buff163_sticker_id": 145854,
       "buffmarket_sticker_id": 24751
@@ -270910,6 +270939,7 @@
     },
     "Sticker | 910 | Singapore 2026": {
       "buff163_goods_id": 1155128,
+      "youpin_id": 127236,
       "buffmarket_goods_id": 52060,
       "buff163_sticker_id": 145855,
       "buffmarket_sticker_id": 24752
@@ -270940,6 +270970,7 @@
     },
     "Sticker | insani | Singapore 2026": {
       "buff163_goods_id": 1155135,
+      "youpin_id": 127295,
       "buffmarket_goods_id": 52065,
       "buff163_sticker_id": 145860,
       "buffmarket_sticker_id": 24757
@@ -270973,6 +271004,7 @@
     },
     "Sticker | latto | Singapore 2026": {
       "buff163_goods_id": 1155141,
+      "youpin_id": 127290,
       "buffmarket_goods_id": 52071,
       "buff163_sticker_id": 145864,
       "buffmarket_sticker_id": 24761
@@ -271021,6 +271053,7 @@
     },
     "Sticker | VINI | Singapore 2026": {
       "buff163_goods_id": 1155169,
+      "youpin_id": 127286,
       "buffmarket_goods_id": 52078,
       "buff163_sticker_id": 145871,
       "buffmarket_sticker_id": 24768
@@ -271058,6 +271091,7 @@
     },
     "Sticker | cmtry | Singapore 2026": {
       "buff163_goods_id": 1155175,
+      "youpin_id": 127238,
       "buffmarket_goods_id": 52083,
       "buff163_sticker_id": 145877,
       "buffmarket_sticker_id": 24773
@@ -271071,18 +271105,21 @@
     },
     "Sticker | xiELO | Singapore 2026": {
       "buff163_goods_id": 1155177,
+      "youpin_id": 127294,
       "buffmarket_goods_id": 52086,
       "buff163_sticker_id": 145879,
       "buffmarket_sticker_id": 24776
     },
     "Sticker | Hobbit | Singapore 2026": {
       "buff163_goods_id": 1155178,
+      "youpin_id": 127296,
       "buffmarket_goods_id": 52087,
       "buff163_sticker_id": 145880,
       "buffmarket_sticker_id": 24777
     },
     "Sticker | z4KR (Foil) | Singapore 2026": {
       "buff163_goods_id": 1155179,
+      "youpin_id": 127279,
       "buffmarket_goods_id": 52088,
       "buff163_sticker_id": 145881,
       "buffmarket_sticker_id": 24778
@@ -271096,6 +271133,7 @@
     },
     "Sticker Slab | magixx | Singapore 2026": {
       "buff163_goods_id": 1155181,
+      "youpin_id": 127283,
       "buffmarket_goods_id": 52090
     },
     "Sticker Slab | Twistzz | Singapore 2026": {
@@ -271104,6 +271142,7 @@
     },
     "Sticker Slab | m0NESY (Gold) | Singapore 2026": {
       "buff163_goods_id": 1155183,
+      "youpin_id": 127241,
       "buffmarket_goods_id": 52092
     },
     "Sticker | Senzu (Foil) | Singapore 2026": {
@@ -271130,6 +271169,7 @@
     },
     "Sticker | makazze (Holo) | Singapore 2026": {
       "buff163_goods_id": 1155188,
+      "youpin_id": 127270,
       "buffmarket_goods_id": 52097,
       "buffmarket_sticker_id": 24784
     },
@@ -271187,6 +271227,7 @@
     },
     "Sticker | Boombl4 (Foil) | Singapore 2026": {
       "buff163_goods_id": 1155206,
+      "youpin_id": 127244,
       "buffmarket_goods_id": 52110
     },
     "Sticker | arT (Foil) | Singapore 2026": {
@@ -271321,10 +271362,12 @@
     },
     "Sticker | FUT (Foil) | Singapore 2026": {
       "buff163_goods_id": 1155239,
+      "youpin_id": 127276,
       "buffmarket_goods_id": 52145
     },
     "Sticker | siuhy | Singapore 2026": {
       "buff163_goods_id": 1155240,
+      "youpin_id": 127282,
       "buffmarket_goods_id": 52140
     },
     "Sticker | Chr1zN | Singapore 2026": {
@@ -271372,6 +271415,7 @@
     },
     "Sticker | robo (Foil) | Singapore 2026": {
       "buff163_goods_id": 1155251,
+      "youpin_id": 127253,
       "buffmarket_goods_id": 52155
     },
     "Sticker | Swisher (Foil) | Singapore 2026": {
@@ -271384,6 +271428,7 @@
     },
     "Sticker | phzy (Foil) | Singapore 2026": {
       "buff163_goods_id": 1155254,
+      "youpin_id": 127284,
       "buffmarket_goods_id": 52158
     },
     "Sticker | Legacy (Foil) | Singapore 2026": {
@@ -271400,6 +271445,7 @@
     },
     "Sticker | syph0 | Singapore 2026": {
       "buff163_goods_id": 1155258,
+      "youpin_id": 127259,
       "buffmarket_goods_id": 52161
     },
     "Sticker | Techno4K (Foil) | Singapore 2026": {
@@ -271408,6 +271454,7 @@
     },
     "Sticker | makazze (Foil) | Singapore 2026": {
       "buff163_goods_id": 1155260,
+      "youpin_id": 127271,
       "buffmarket_goods_id": 52163
     },
     "Sticker | malbsMd (Foil) | Singapore 2026": {
@@ -271424,6 +271471,7 @@
     },
     "Sticker | max | Singapore 2026": {
       "buff163_goods_id": 1155265,
+      "youpin_id": 127264,
       "buffmarket_goods_id": 52167
     },
     "Sticker | jabbi (Foil) | Singapore 2026": {
@@ -271460,6 +271508,7 @@
     },
     "Sticker | nin9 (Foil) | Singapore 2026": {
       "buff163_goods_id": 1155275,
+      "youpin_id": 127249,
       "buffmarket_goods_id": 52178
     },
     "Sticker | Magisk (Foil) | Singapore 2026": {
@@ -271576,6 +271625,7 @@
     },
     "Sticker | ROUX (Foil) | Singapore 2026": {
       "buff163_goods_id": 1155305,
+      "youpin_id": 127240,
       "buffmarket_goods_id": 52204
     },
     "Sticker | maxxkor (Foil) | Singapore 2026": {
@@ -271616,10 +271666,12 @@
     },
     "Sticker | cmtry (Foil) | Singapore 2026": {
       "buff163_goods_id": 1155315,
+      "youpin_id": 127250,
       "buffmarket_goods_id": 52217
     },
     "Sticker | NertZ | Singapore 2026": {
       "buff163_goods_id": 1155316,
+      "youpin_id": 127267,
       "buffmarket_goods_id": 52216
     },
     "Sticker | maxxkor | Singapore 2026": {
@@ -271709,6 +271761,7 @@
     },
     "Sticker | syph0 (Foil) | Singapore 2026": {
       "buff163_goods_id": 1155340,
+      "youpin_id": 127254,
       "buffmarket_goods_id": 52239
     },
     "Sticker | fr3nd (Foil) | Singapore 2026": {
@@ -271750,6 +271803,7 @@
     },
     "Sticker | woxic | Singapore 2026": {
       "buff163_goods_id": 1155353,
+      "youpin_id": 127277,
       "buffmarket_goods_id": 52249
     },
     "Sticker | nettik (Foil) | Singapore 2026": {
@@ -271817,6 +271871,7 @@
     },
     "Sticker | poiii (Foil) | Singapore 2026": {
       "buff163_goods_id": 1155379,
+      "youpin_id": 127256,
       "buffmarket_goods_id": 52265
     },
     "Sticker | C4LLM3SU3 (Gold) | Singapore 2026": {
@@ -271966,6 +272021,431 @@
       "youpin_id": 126874,
       "buffmarket_goods_id": 52300
     },
+    "Sticker Slab | Twistzz (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155420,
+      "buffmarket_goods_id": 52301
+    },
+    "Sticker | xfl0ud (Holo) | Singapore 2026": {
+      "buff163_goods_id": 1155421,
+      "buffmarket_goods_id": 52302
+    },
+    "Sticker Slab | FaZe Clan (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155423,
+      "youpin_id": 127170,
+      "buffmarket_goods_id": 52303
+    },
+    "Sticker | xfl0ud (Gold) | Singapore 2026": {
+      "buff163_goods_id": 1155424,
+      "buffmarket_goods_id": 52304
+    },
+    "Sticker Slab | Team Spirit (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155425,
+      "buffmarket_goods_id": 52305
+    },
+    "Sticker Slab | magixx (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155426,
+      "buffmarket_goods_id": 52306
+    },
+    "Sticker Slab | Falcons (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155427,
+      "buffmarket_goods_id": 52307
+    },
+    "Sticker | YEKINDAR (Gold) | Singapore 2026": {
+      "buff163_goods_id": 1155428,
+      "youpin_id": 127133,
+      "buffmarket_goods_id": 52308
+    },
+    "Sticker | Magisk (Holo) | Singapore 2026": {
+      "buff163_goods_id": 1155429,
+      "youpin_id": 127112,
+      "buffmarket_goods_id": 52309
+    },
+    "Sticker | phzy (Holo) | Singapore 2026": {
+      "buff163_goods_id": 1155430,
+      "buffmarket_goods_id": 52310
+    },
+    "Sticker Slab | KSCERATO (Holo) | Singapore 2026": {
+      "buff163_goods_id": 1155431,
+      "buffmarket_goods_id": 52311
+    },
+    "Sticker Slab | kyousuke (Gold) | Singapore 2026": {
+      "buff163_goods_id": 1155432,
+      "buffmarket_goods_id": 52312
+    },
+    "Sticker Slab | FalleN (Gold) | Singapore 2026": {
+      "buff163_goods_id": 1155434,
+      "buffmarket_goods_id": 52313
+    },
+    "Sticker Slab | Ax1Le (Holo) | Singapore 2026": {
+      "buff163_goods_id": 1155435,
+      "youpin_id": 127242,
+      "buffmarket_goods_id": 52314
+    },
+    "Sticker Slab | KSCERATO | Singapore 2026": {
+      "buff163_goods_id": 1155436,
+      "buffmarket_goods_id": 52315
+    },
+    "Sticker | PVISION (Gold) | Singapore 2026": {
+      "buff163_goods_id": 1155437,
+      "buffmarket_goods_id": 52316
+    },
+    "Sticker | r1nkle (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155438,
+      "buffmarket_goods_id": 52317
+    },
+    "Sticker Slab | Team Spirit (Gold) | Singapore 2026": {
+      "buff163_goods_id": 1155439,
+      "buffmarket_goods_id": 52319
+    },
+    "Sticker Slab | PR (Gold) | Singapore 2026": {
+      "buff163_goods_id": 1155440,
+      "buffmarket_goods_id": 52318
+    },
+    "Sticker Slab | frozen | Singapore 2026": {
+      "buff163_goods_id": 1155441,
+      "buffmarket_goods_id": 52320
+    },
+    "Sticker Slab | jcobbb | Singapore 2026": {
+      "buff163_goods_id": 1155442,
+      "buffmarket_goods_id": 52321
+    },
+    "Sticker Slab | JBOEN | Singapore 2026": {
+      "buff163_goods_id": 1155443,
+      "buffmarket_goods_id": 52322
+    },
+    "Sticker Slab | ropz (Gold) | Singapore 2026": {
+      "buff163_goods_id": 1155444,
+      "buffmarket_goods_id": 52323
+    },
+    "Sticker | mezii (Holo) | Singapore 2026": {
+      "buff163_goods_id": 1155445,
+      "youpin_id": 127247,
+      "buffmarket_goods_id": 52324
+    },
+    "Sticker Slab | Boombl4 (Holo) | Singapore 2026": {
+      "buff163_goods_id": 1155447,
+      "youpin_id": 127245,
+      "buffmarket_goods_id": 52325
+    },
+    "Sticker | stavn | Singapore 2026": {
+      "buff163_goods_id": 1155449,
+      "buffmarket_goods_id": 52326
+    },
+    "Sticker | b1t (Holo) | Singapore 2026": {
+      "buff163_goods_id": 1155453,
+      "buffmarket_goods_id": 52327
+    },
+    "Sticker Slab | sh1ro (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155455,
+      "buffmarket_goods_id": 52328
+    },
+    "Sticker Slab | device (Holo) | Singapore 2026": {
+      "buff163_goods_id": 1155457,
+      "youpin_id": 127168,
+      "buffmarket_goods_id": 52329
+    },
+    "Sticker | robo (Gold) | Singapore 2026": {
+      "buff163_goods_id": 1155458,
+      "youpin_id": 127273,
+      "buffmarket_goods_id": 52330
+    },
+    "Sticker | nin9 (Holo) | Singapore 2026": {
+      "buff163_goods_id": 1155459,
+      "youpin_id": 127008,
+      "buffmarket_goods_id": 52332
+    },
+    "Sticker Slab | KaiR0N- (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155460,
+      "buffmarket_goods_id": 52333
+    },
+    "Sticker Slab | Jorko (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155461,
+      "buffmarket_goods_id": 52334
+    },
+    "Sticker Slab | jottAAA | Singapore 2026": {
+      "buff163_goods_id": 1155462,
+      "buffmarket_goods_id": 52335
+    },
+    "Sticker Slab | noway (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155463,
+      "buffmarket_goods_id": 52336
+    },
+    "Sticker Slab | LNZ | Singapore 2026": {
+      "buff163_goods_id": 1155464,
+      "buffmarket_goods_id": 52337
+    },
+    "Sticker Slab | sh1ro | Singapore 2026": {
+      "buff163_goods_id": 1155465,
+      "buffmarket_goods_id": 52338
+    },
+    "Sticker Slab | JBa (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155466,
+      "buffmarket_goods_id": 52339
+    },
+    "Sticker Slab | phzy (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155467,
+      "buffmarket_goods_id": 52340
+    },
+    "Sticker Slab | device (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155468,
+      "buffmarket_goods_id": 52341
+    },
+    "Sticker Slab | MisteM (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155469,
+      "buffmarket_goods_id": 52342
+    },
+    "Sticker Slab | susp (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155470,
+      "buffmarket_goods_id": 52343
+    },
+    "Sticker Slab | dziugss (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155471,
+      "buffmarket_goods_id": 52344
+    },
+    "Sticker | xKacpersky (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155472,
+      "buffmarket_goods_id": 52345
+    },
+    "Sticker Slab | INS (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155473,
+      "buffmarket_goods_id": 52346
+    },
+    "Sticker Slab | molodoy | Singapore 2026": {
+      "buff163_goods_id": 1155474,
+      "buffmarket_goods_id": 52347
+    },
+    "Sticker Slab | nafany | Singapore 2026": {
+      "buff163_goods_id": 1155475,
+      "buffmarket_goods_id": 52348
+    },
+    "Sticker Slab | xKacpersky (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155476,
+      "buffmarket_goods_id": 52349
+    },
+    "Sticker Slab | bLitz | Singapore 2026": {
+      "buff163_goods_id": 1155477,
+      "buffmarket_goods_id": 52350
+    },
+    "Sticker Slab | ropz (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155479,
+      "youpin_id": 127288,
+      "buffmarket_goods_id": 52351
+    },
+    "Sticker Slab | poiii (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155480,
+      "buffmarket_goods_id": 52352
+    },
+    "Sticker Slab | HUASOPEEK (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155481,
+      "buffmarket_goods_id": 52353
+    },
+    "Sticker Slab | YEKINDAR | Singapore 2026": {
+      "buff163_goods_id": 1155482,
+      "buffmarket_goods_id": 52354
+    },
+    "Sticker Slab | xelex | Singapore 2026": {
+      "buff163_goods_id": 1155483,
+      "buffmarket_goods_id": 52355
+    },
+    "Sticker Slab | Nemiga (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155484,
+      "buffmarket_goods_id": 52356
+    },
+    "Sticker Slab | aliStair | Singapore 2026": {
+      "buff163_goods_id": 1155485,
+      "buffmarket_goods_id": 52357
+    },
+    "Sticker Slab | stavn | Singapore 2026": {
+      "buff163_goods_id": 1155486,
+      "buffmarket_goods_id": 52358
+    },
+    "Sticker Slab | DENDELE (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155487,
+      "buffmarket_goods_id": 52359
+    },
+    "Sticker Slab | westmelon | Singapore 2026": {
+      "buff163_goods_id": 1155488,
+      "buffmarket_goods_id": 52360
+    },
+    "Sticker Slab | Magnojez (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155489,
+      "buffmarket_goods_id": 52361
+    },
+    "Sticker Slab | FL1T (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155490,
+      "buffmarket_goods_id": 52362
+    },
+    "Sticker Slab | jL | Singapore 2026": {
+      "buff163_goods_id": 1155491,
+      "buffmarket_goods_id": 52363
+    },
+    "Sticker Slab | Krimbo | Singapore 2026": {
+      "buff163_goods_id": 1155492,
+      "buffmarket_goods_id": 52364
+    },
+    "Sticker Slab | ArtFr0st (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155493,
+      "buffmarket_goods_id": 52365
+    },
+    "Sticker Slab | Lake | Singapore 2026": {
+      "buff163_goods_id": 1155494,
+      "buffmarket_goods_id": 52366
+    },
+    "Sticker Slab | arT (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155495,
+      "buffmarket_goods_id": 52367
+    },
+    "Sticker Slab | poiii | Singapore 2026": {
+      "buff163_goods_id": 1155496,
+      "buffmarket_goods_id": 52368
+    },
+    "Sticker Slab | xiELO (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155497,
+      "buffmarket_goods_id": 52369
+    },
+    "Sticker Slab | w0nderful (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155498,
+      "buffmarket_goods_id": 52370
+    },
+    "Sticker Slab | Jimpphat | Singapore 2026": {
+      "buff163_goods_id": 1155499,
+      "buffmarket_goods_id": 52371
+    },
+    "Sticker Slab | cmtry (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155500,
+      "buffmarket_goods_id": 52372
+    },
+    "Sticker Slab | zorte | Singapore 2026": {
+      "buff163_goods_id": 1155501,
+      "buffmarket_goods_id": 52373
+    },
+    "Sticker Slab | venomzera | Singapore 2026": {
+      "buff163_goods_id": 1155502,
+      "buffmarket_goods_id": 52374
+    },
+    "Sticker Slab | Wicadia | Singapore 2026": {
+      "buff163_goods_id": 1155503,
+      "buffmarket_goods_id": 52375
+    },
+    "Sticker Slab | woxic (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155504,
+      "buffmarket_goods_id": 52376
+    },
+    "Sticker Slab | Team Liquid (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155505,
+      "buffmarket_goods_id": 52377
+    },
+    "Sticker Slab | NAF (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155506,
+      "buffmarket_goods_id": 52378
+    },
+    "Sticker Slab | Lake (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155507,
+      "buffmarket_goods_id": 52379
+    },
+    "Sticker Slab | dem0n (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155508,
+      "buffmarket_goods_id": 52380
+    },
+    "Sticker Slab | soulfly (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155509,
+      "buffmarket_goods_id": 52381
+    },
+    "Sticker Slab | dziugss | Singapore 2026": {
+      "buff163_goods_id": 1155510,
+      "buffmarket_goods_id": 52382
+    },
+    "Sticker Slab | EmiliaQAQ (Foil) | Singapore 2026": {
+      "buff163_goods_id": 1155511,
+      "buffmarket_goods_id": 52383
+    },
+    "Sticker Slab | Heavygod | Singapore 2026": {
+      "buff163_goods_id": 1155512,
+      "buffmarket_goods_id": 52384
+    },
+    "Sticker | asap (Holo) | Singapore 2026": {
+      "buff163_goods_id": 1155513,
+      "buffmarket_goods_id": 52331
+    },
+    "Sticker | Starry (Holo) | Singapore 2026": {
+      "buff163_goods_id": 1155515,
+      "buffmarket_goods_id": 52385
+    },
+    "Sticker Slab | Falcons (Holo) | Singapore 2026": {
+      "buff163_goods_id": 1155516,
+      "buffmarket_goods_id": 52386
+    },
+    "Sticker | Ax1Le (Gold) | Singapore 2026": {
+      "buff163_goods_id": 1155517,
+      "buffmarket_goods_id": 52387
+    },
+    "Sticker Slab | PGL (Gold) | Singapore 2026": {
+      "buff163_goods_id": 1155518,
+      "buffmarket_goods_id": 52388
+    },
+    "Sticker Slab | Jame (Gold) | Singapore 2026": {
+      "buff163_goods_id": 1155519,
+      "buffmarket_goods_id": 52389
+    },
+    "Sticker | 100 Thieves (Gold) | Singapore 2026": {
+      "buff163_goods_id": 1155520,
+      "buffmarket_goods_id": 52390
+    },
+    "Sticker Slab | PR (Holo) | Singapore 2026": {
+      "buff163_goods_id": 1155521,
+      "buffmarket_goods_id": 52391
+    },
+    "Sticker | Swisher | Singapore 2026": {
+      "buff163_goods_id": 1155522,
+      "buffmarket_goods_id": 52392
+    },
+    "Sticker | saadzin | Singapore 2026": {
+      "buff163_goods_id": 1155523,
+      "buffmarket_goods_id": 52393
+    },
+    "Sticker Slab | FURIA (Gold) | Singapore 2026": {
+      "buff163_goods_id": 1155528,
+      "buffmarket_goods_id": 52394
+    },
+    "Sticker Slab | 9z Team (Holo) | Singapore 2026": {
+      "buff163_goods_id": 1155529,
+      "buffmarket_goods_id": 52395
+    },
+    "Sticker | meyern | Singapore 2026": {
+      "buff163_goods_id": 1155530,
+      "buffmarket_goods_id": 52396
+    },
+    "Sticker | jks (Gold) | Singapore 2026": {
+      "buff163_goods_id": 1155531,
+      "buffmarket_goods_id": 52397
+    },
+    "Sticker | The Mongolz (Holo) | Singapore 2026": {
+      "buff163_goods_id": 1155532,
+      "youpin_id": 127009,
+      "buffmarket_goods_id": 52398
+    },
+    "Sticker | bLitz (Holo) | Singapore 2026": {
+      "buff163_goods_id": 1155534,
+      "buffmarket_goods_id": 52399
+    },
+    "Sticker | cobra (Holo) | Singapore 2026": {
+      "buff163_goods_id": 1155535,
+      "buffmarket_goods_id": 52400
+    },
+    "Sticker | 910 (Holo) | Singapore 2026": {
+      "buff163_goods_id": 1155536,
+      "youpin_id": 127266,
+      "buffmarket_goods_id": 52401
+    },
+    "Sticker | Starry (Gold) | Singapore 2026": {
+      "buff163_goods_id": 1155537,
+      "youpin_id": 127269,
+      "buffmarket_goods_id": 52402
+    },
+    "Sticker Slab | Falcons (Gold) | Singapore 2026": {
+      "buff163_goods_id": 1155539,
+      "buffmarket_goods_id": 52403
+    },
     "Sticker Slab | chrisJ (Foil) | Cologne 2015": {
       "youpin_id": 115870
     },
@@ -272110,12 +272590,6 @@
     "Sticker | FaZe Clan (Gold) | Singapore 2026": {
       "youpin_id": 126905
     },
-    "Sticker | nin9 (Holo) | Singapore 2026": {
-      "youpin_id": 127008
-    },
-    "Sticker | The Mongolz (Holo) | Singapore 2026": {
-      "youpin_id": 127009
-    },
     "Sticker | TeSeS (Gold) | Singapore 2026": {
       "youpin_id": 127015
     },
@@ -272124,9 +272598,6 @@
     },
     "Sticker | Spinx (Holo) | Singapore 2026": {
       "youpin_id": 127063
-    },
-    "Sticker | Magisk (Holo) | Singapore 2026": {
-      "youpin_id": 127112
     },
     "Sticker | Legacy (Holo) | Singapore 2026": {
       "youpin_id": 127126
@@ -272140,20 +272611,11 @@
     "Sticker | Imperial Esports (Holo) | Singapore 2026": {
       "youpin_id": 127132
     },
-    "Sticker | YEKINDAR (Gold) | Singapore 2026": {
-      "youpin_id": 127133
-    },
     "Sticker | Magisk (Gold) | Singapore 2026": {
       "youpin_id": 127156
     },
     "Sticker Slab | ropz (Holo) | Singapore 2026": {
       "youpin_id": 127157
-    },
-    "Sticker Slab | device (Holo) | Singapore 2026": {
-      "youpin_id": 127168
-    },
-    "Sticker Slab | FaZe Clan (Foil) | Singapore 2026": {
-      "youpin_id": 127170
     },
     "Sticker | JBOEN (Holo) | Singapore 2026": {
       "youpin_id": 127203
@@ -272169,6 +272631,21 @@
     },
     "Sticker | MOUZ (Gold) | Singapore 2026": {
       "youpin_id": 127227
+    },
+    "Sticker Slab | rain (Holo) | Singapore 2026": {
+      "youpin_id": 127243
+    },
+    "Sticker | BB Team (Gold) | Singapore 2026": {
+      "youpin_id": 127268
+    },
+    "Sticker Slab | Team Spirit (Holo) | Singapore 2026": {
+      "youpin_id": 127278
+    },
+    "Sticker Slab | latto | Singapore 2026": {
+      "youpin_id": 127289
+    },
+    "Sticker Slab | kyousuke (Foil) | Singapore 2026": {
+      "youpin_id": 127292
     },
     "Sticker | kioShiMa (Gold) | Atlanta 2017": {
       "buff163_sticker_id": 3326,
