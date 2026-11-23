@@ -593,7 +593,6 @@ Sticker Slab | G2 esports (Gold) | Singapore 2026
 Sticker Slab | The One (Gold) | Singapore 2026
 Sticker Slab | Natus Vincere (Holo) | Singapore 2026
 Sticker Slab | Natus Vincere (Gold) | Singapore 2026
-Sticker Slab | Astralis (Holo) | Singapore 2026
 Sticker Slab | Astralis (Gold) | Singapore 2026
 Sticker Slab | The Mongolz (Holo) | Singapore 2026
 Sticker Slab | The Mongolz (Gold) | Singapore 2026
@@ -606,14 +605,12 @@ Sticker Slab | PVISION (Gold) | Singapore 2026
 Sticker Slab | HEROIC (Holo) | Singapore 2026
 Sticker Slab | HEROIC (Gold) | Singapore 2026
 Sticker Slab | FaZe Clan (Gold) | Singapore 2026
-Sticker Slab | Team Liquid (Holo) | Singapore 2026
 Sticker Slab | Team Liquid (Gold) | Singapore 2026
 Sticker Slab | Eternal Fire (Holo) | Singapore 2026
 Sticker Slab | Eternal Fire (Gold) | Singapore 2026
 Sticker Slab | 100 Thieves (Holo) | Singapore 2026
 Sticker Slab | 100 Thieves (Gold) | Singapore 2026
 Sticker Slab | 9z Team (Gold) | Singapore 2026
-Sticker Slab | M80 (Holo) | Singapore 2026
 Sticker Slab | M80 (Gold) | Singapore 2026
 Sticker Slab | DENDELE (Holo) | Singapore 2026
 Sticker Slab | DENDELE (Gold) | Singapore 2026
@@ -621,7 +618,6 @@ Sticker Slab | Imperial Esports (Holo) | Singapore 2026
 Sticker Slab | Imperial Esports (Gold) | Singapore 2026
 Sticker Slab | Wildcard (Holo) | Singapore 2026
 Sticker Slab | Wildcard (Gold) | Singapore 2026
-Sticker Slab | GOSH (Holo) | Singapore 2026
 Sticker Slab | GOSH (Gold) | Singapore 2026
 Sticker Slab | FlyQuest (Holo) | Singapore 2026
 Sticker Slab | FlyQuest (Gold) | Singapore 2026
@@ -642,7 +638,6 @@ Sticker Slab | jL (Holo) | Singapore 2026
 Sticker Slab | jL (Gold) | Singapore 2026
 Sticker Slab | mezii (Holo) | Singapore 2026
 Sticker Slab | mezii (Gold) | Singapore 2026
-Sticker Slab | ZywOo (Holo) | Singapore 2026
 Sticker Slab | KSCERATO (Gold) | Singapore 2026
 Sticker Slab | molodoy (Gold) | Singapore 2026
 Sticker Slab | YEKINDAR (Holo) | Singapore 2026
@@ -665,7 +660,6 @@ Sticker Slab | sh1ro (Holo) | Singapore 2026
 Sticker Slab | sh1ro (Gold) | Singapore 2026
 Sticker Slab | tN1R (Holo) | Singapore 2026
 Sticker Slab | tN1R (Gold) | Singapore 2026
-Sticker Slab | zont1x (Holo) | Singapore 2026
 Sticker Slab | zont1x (Gold) | Singapore 2026
 Sticker Slab | Boombl4 (Gold) | Singapore 2026
 Sticker Slab | d1Ledez (Holo) | Singapore 2026
@@ -711,7 +705,6 @@ Sticker Slab | syph0 (Holo) | Singapore 2026
 Sticker Slab | syph0 (Gold) | Singapore 2026
 Sticker Slab | Xant3r (Holo) | Singapore 2026
 Sticker Slab | Xant3r (Gold) | Singapore 2026
-Sticker Slab | Heavygod (Foil) | Singapore 2026
 Sticker Slab | Heavygod (Holo) | Singapore 2026
 Sticker Slab | Heavygod (Gold) | Singapore 2026
 Sticker Slab | huNter- (Holo) | Singapore 2026
@@ -734,7 +727,6 @@ Sticker Slab | nafany (Holo) | Singapore 2026
 Sticker Slab | nafany (Gold) | Singapore 2026
 Sticker Slab | Aleksib (Holo) | Singapore 2026
 Sticker Slab | Aleksib (Gold) | Singapore 2026
-Sticker Slab | b1t (Holo) | Singapore 2026
 Sticker Slab | b1t (Gold) | Singapore 2026
 Sticker Slab | iM (Holo) | Singapore 2026
 Sticker Slab | iM (Gold) | Singapore 2026
@@ -752,7 +744,6 @@ Sticker Slab | siuhy (Holo) | Singapore 2026
 Sticker Slab | siuhy (Gold) | Singapore 2026
 Sticker Slab | Staehr (Holo) | Singapore 2026
 Sticker Slab | Staehr (Gold) | Singapore 2026
-Sticker Slab | 910 (Holo) | Singapore 2026
 Sticker Slab | 910 (Gold) | Singapore 2026
 Sticker Slab | bLitz (Holo) | Singapore 2026
 Sticker Slab | bLitz (Gold) | Singapore 2026
@@ -814,7 +805,6 @@ Sticker Slab | Twistzz (Gold) | Singapore 2026
 Sticker Slab | EliGE (Holo) | Singapore 2026
 Sticker Slab | EliGE (Gold) | Singapore 2026
 Sticker Slab | Jorko (Holo) | Singapore 2026
-Sticker Slab | Jorko (Gold) | Singapore 2026
 Sticker Slab | JT (Foil) | Singapore 2026
 Sticker Slab | JT (Holo) | Singapore 2026
 Sticker Slab | JT (Gold) | Singapore 2026
@@ -856,7 +846,6 @@ Sticker Slab | Lake (Holo) | Singapore 2026
 Sticker Slab | Lake (Gold) | Singapore 2026
 Sticker Slab | s1n (Holo) | Singapore 2026
 Sticker Slab | s1n (Gold) | Singapore 2026
-Sticker Slab | slaxz- (Foil) | Singapore 2026
 Sticker Slab | slaxz- (Holo) | Singapore 2026
 Sticker Slab | slaxz- (Gold) | Singapore 2026
 Sticker Slab | Swisher (Holo) | Singapore 2026
@@ -890,7 +879,6 @@ Sticker Slab | HexT (Holo) | Singapore 2026
 Sticker Slab | HexT (Gold) | Singapore 2026
 Sticker Slab | nEMANHA (Holo) | Singapore 2026
 Sticker Slab | nEMANHA (Gold) | Singapore 2026
-Sticker Slab | reck (Foil) | Singapore 2026
 Sticker Slab | reck (Holo) | Singapore 2026
 Sticker Slab | reck (Gold) | Singapore 2026
 Sticker Slab | asap (Holo) | Singapore 2026
@@ -905,7 +893,6 @@ Sticker Slab | aliStair (Holo) | Singapore 2026
 Sticker Slab | aliStair (Gold) | Singapore 2026
 Sticker Slab | INS (Holo) | Singapore 2026
 Sticker Slab | INS (Gold) | Singapore 2026
-Sticker Slab | jks (Holo) | Singapore 2026
 Sticker Slab | jks (Gold) | Singapore 2026
 Sticker Slab | nettik (Holo) | Singapore 2026
 Sticker Slab | nettik (Gold) | Singapore 2026
@@ -923,7 +910,6 @@ Sticker Slab | tikuak (Holo) | Singapore 2026
 Sticker Slab | tikuak (Gold) | Singapore 2026
 Sticker Slab | C4LLM3SU3 (Holo) | Singapore 2026
 Sticker Slab | C4LLM3SU3 (Gold) | Singapore 2026
-Sticker Slab | EmiliaQAQ | Singapore 2026
 Sticker Slab | EmiliaQAQ (Holo) | Singapore 2026
 Sticker Slab | EmiliaQAQ (Gold) | Singapore 2026
 Sticker Slab | Starry (Holo) | Singapore 2026
@@ -964,6 +950,8 @@ Sticker Slab | kauez (Holo) | Shanghai 2024
 Sticker Slab | Monte (Gold) | Cologne 2026
 Sticker Slab | FaZe Clan (Holo) | Singapore 2026
 Sticker Slab | ropz (Holo) | Singapore 2026
+Sticker Slab | 910 (Holo) | Singapore 2026
+Sticker Slab | Jorko (Gold) | Singapore 2026
 Sticker Slab | rain (Holo) | Singapore 2026
 
 IDs of sticker slabs known to be missing on youpin898 and cs.money:
@@ -1180,7 +1168,6 @@ Sticker Slab | coldzera | Cluj-Napoca 2015
 Sticker Slab | compLexity Gaming (Holo) | Katowice 2014
 Sticker Slab | denis (Foil) | Boston 2018
 Sticker Slab | denis (Foil) | Cluj-Napoca 2015
-Sticker Slab | denis (Foil) | Cologne 2015
 Sticker Slab | denis (Foil) | MLG Columbus 2016
 Sticker Slab | denis | Atlanta 2017
 Sticker Slab | denis | Cluj-Napoca 2015
@@ -1311,7 +1298,6 @@ Sticker Slab | Virtus.Pro (Foil) | Atlanta 2017
 Sticker Slab | TACO (Gold) | London 2018
 Sticker Slab | KRIMZ | London 2018
 Sticker Slab | SmithZz | London 2018
-Sticker Slab | flamie | London 2018
 Sticker Slab | Xyp9x (Foil) | London 2018
 Sticker Slab | Natus Vincere (Foil) | London 2018
 Sticker Slab | JUGi | London 2018
@@ -1422,7 +1408,6 @@ Sticker Slab | sdy (Gold) | Katowice 2019
 Sticker Slab | tiziaN (Gold) | Katowice 2019
 Sticker Slab | xseveN (Gold) | Katowice 2019
 Sticker Slab | autimatic (Gold) | Katowice 2019
-Sticker Slab | Aerial (Gold) | Katowice 2019
 Sticker Slab | Magisk (Gold) | Katowice 2019
 Sticker Slab | Brehze (Gold) | Katowice 2019
 Sticker Slab | sergej (Gold) | Katowice 2019
@@ -1599,7 +1584,6 @@ Sticker Slab | Lucaozy (Gold) | Paris 2023
 Sticker Slab | volt (Holo) | Paris 2023
 Sticker Slab | HEN1 | Copenhagen 2024
 Sticker Slab | FL1T | Copenhagen 2024
-Sticker Slab | Krad | Copenhagen 2024
 Sticker Slab | jL | Copenhagen 2024
 Sticker Slab | b1t | Copenhagen 2024
 Sticker Slab | Queenix | Copenhagen 2024
@@ -1792,7 +1776,6 @@ Sticker Slab | Aurora (Foil) | Singapore 2026
 Sticker Slab | Team Spirit (Foil) | Singapore 2026
 Sticker Slab | Team Spirit (Gold) | Singapore 2026
 Sticker Slab | BB Team (Foil) | Singapore 2026
-Sticker Slab | Falcons (Foil) | Singapore 2026
 Sticker Slab | Falcons (Holo) | Singapore 2026
 Sticker Slab | Falcons (Gold) | Singapore 2026
 Sticker Slab | Legacy (Foil) | Singapore 2026
@@ -1804,6 +1787,7 @@ Sticker Slab | Nemiga (Foil) | Singapore 2026
 Sticker Slab | G2 esports (Foil) | Singapore 2026
 Sticker Slab | Natus Vincere (Foil) | Singapore 2026
 Sticker Slab | Astralis (Foil) | Singapore 2026
+Sticker Slab | Astralis (Holo) | Singapore 2026
 Sticker Slab | The Mongolz (Foil) | Singapore 2026
 Sticker Slab | MIBR (Foil) | Singapore 2026
 Sticker Slab | Ninjas in Pyjamas (Foil) | Singapore 2026
@@ -1815,10 +1799,12 @@ Sticker Slab | 100 Thieves (Foil) | Singapore 2026
 Sticker Slab | 9z Team (Foil) | Singapore 2026
 Sticker Slab | 9z Team (Holo) | Singapore 2026
 Sticker Slab | M80 (Foil) | Singapore 2026
+Sticker Slab | M80 (Holo) | Singapore 2026
 Sticker Slab | DENDELE (Foil) | Singapore 2026
 Sticker Slab | Imperial Esports (Foil) | Singapore 2026
 Sticker Slab | Wildcard (Foil) | Singapore 2026
 Sticker Slab | GOSH (Foil) | Singapore 2026
+Sticker Slab | GOSH (Holo) | Singapore 2026
 Sticker Slab | FlyQuest (Foil) | Singapore 2026
 Sticker Slab | Chinggis Warriors (Foil) | Singapore 2026
 Sticker Slab | Lynn Vision (Foil) | Singapore 2026
@@ -1841,18 +1827,14 @@ Sticker Slab | jL | Singapore 2026
 Sticker Slab | jL (Foil) | Singapore 2026
 Sticker Slab | mezii | Singapore 2026
 Sticker Slab | mezii (Foil) | Singapore 2026
-Sticker Slab | ropz | Singapore 2026
 Sticker Slab | ropz (Gold) | Singapore 2026
-Sticker Slab | FalleN | Singapore 2026
+Sticker Slab | ZywOo (Holo) | Singapore 2026
 Sticker Slab | FalleN (Foil) | Singapore 2026
 Sticker Slab | FalleN (Holo) | Singapore 2026
-Sticker Slab | FalleN (Gold) | Singapore 2026
 Sticker Slab | KSCERATO | Singapore 2026
 Sticker Slab | KSCERATO (Foil) | Singapore 2026
 Sticker Slab | KSCERATO (Holo) | Singapore 2026
-Sticker Slab | molodoy | Singapore 2026
 Sticker Slab | molodoy (Foil) | Singapore 2026
-Sticker Slab | molodoy (Holo) | Singapore 2026
 Sticker Slab | YEKINDAR | Singapore 2026
 Sticker Slab | YEKINDAR (Foil) | Singapore 2026
 Sticker Slab | yuurih | Singapore 2026
@@ -1874,6 +1856,7 @@ Sticker Slab | tN1R | Singapore 2026
 Sticker Slab | tN1R (Foil) | Singapore 2026
 Sticker Slab | zont1x | Singapore 2026
 Sticker Slab | zont1x (Foil) | Singapore 2026
+Sticker Slab | zont1x (Holo) | Singapore 2026
 Sticker Slab | Boombl4 | Singapore 2026
 Sticker Slab | Boombl4 (Foil) | Singapore 2026
 Sticker Slab | d1Ledez | Singapore 2026
@@ -1901,7 +1884,6 @@ Sticker Slab | TRY | Singapore 2026
 Sticker Slab | TRY (Foil) | Singapore 2026
 Sticker Slab | cmtry | Singapore 2026
 Sticker Slab | cmtry (Foil) | Singapore 2026
-Sticker Slab | dem0n | Singapore 2026
 Sticker Slab | dem0n (Foil) | Singapore 2026
 Sticker Slab | dziugss | Singapore 2026
 Sticker Slab | dziugss (Foil) | Singapore 2026
@@ -1920,6 +1902,7 @@ Sticker Slab | syph0 (Foil) | Singapore 2026
 Sticker Slab | Xant3r | Singapore 2026
 Sticker Slab | Xant3r (Foil) | Singapore 2026
 Sticker Slab | Heavygod | Singapore 2026
+Sticker Slab | Heavygod (Foil) | Singapore 2026
 Sticker Slab | huNter- | Singapore 2026
 Sticker Slab | huNter- (Foil) | Singapore 2026
 Sticker Slab | MATYS | Singapore 2026
@@ -1941,6 +1924,7 @@ Sticker Slab | Aleksib | Singapore 2026
 Sticker Slab | Aleksib (Foil) | Singapore 2026
 Sticker Slab | b1t | Singapore 2026
 Sticker Slab | b1t (Foil) | Singapore 2026
+Sticker Slab | b1t (Holo) | Singapore 2026
 Sticker Slab | iM | Singapore 2026
 Sticker Slab | iM (Foil) | Singapore 2026
 Sticker Slab | makazze | Singapore 2026
@@ -2007,7 +1991,6 @@ Sticker Slab | nilo | Singapore 2026
 Sticker Slab | nilo (Foil) | Singapore 2026
 Sticker Slab | susp | Singapore 2026
 Sticker Slab | susp (Foil) | Singapore 2026
-Sticker Slab | frozen | Singapore 2026
 Sticker Slab | frozen (Foil) | Singapore 2026
 Sticker Slab | JBOEN | Singapore 2026
 Sticker Slab | JBOEN (Foil) | Singapore 2026
@@ -2015,7 +1998,6 @@ Sticker Slab | jcobbb | Singapore 2026
 Sticker Slab | jcobbb (Foil) | Singapore 2026
 Sticker Slab | Neityu | Singapore 2026
 Sticker Slab | Neityu (Foil) | Singapore 2026
-Sticker Slab | Twistzz | Singapore 2026
 Sticker Slab | Twistzz (Foil) | Singapore 2026
 Sticker Slab | EliGE | Singapore 2026
 Sticker Slab | EliGE (Foil) | Singapore 2026
@@ -2035,7 +2017,6 @@ Sticker Slab | MisteM (Foil) | Singapore 2026
 Sticker Slab | regali | Singapore 2026
 Sticker Slab | soulfly | Singapore 2026
 Sticker Slab | soulfly (Foil) | Singapore 2026
-Sticker Slab | device | Singapore 2026
 Sticker Slab | device (Foil) | Singapore 2026
 Sticker Slab | device (Gold) | Singapore 2026
 Sticker Slab | Gizmy | Singapore 2026
@@ -2063,6 +2044,7 @@ Sticker Slab | Lake (Foil) | Singapore 2026
 Sticker Slab | s1n | Singapore 2026
 Sticker Slab | s1n (Foil) | Singapore 2026
 Sticker Slab | slaxz- | Singapore 2026
+Sticker Slab | slaxz- (Foil) | Singapore 2026
 Sticker Slab | Swisher | Singapore 2026
 Sticker Slab | Swisher (Foil) | Singapore 2026
 Sticker Slab | doc | Singapore 2026
@@ -2093,6 +2075,7 @@ Sticker Slab | HexT (Foil) | Singapore 2026
 Sticker Slab | nEMANHA | Singapore 2026
 Sticker Slab | nEMANHA (Foil) | Singapore 2026
 Sticker Slab | reck | Singapore 2026
+Sticker Slab | reck (Foil) | Singapore 2026
 Sticker Slab | asap | Singapore 2026
 Sticker Slab | asap (Foil) | Singapore 2026
 Sticker Slab | Magisk | Singapore 2026
@@ -2107,6 +2090,7 @@ Sticker Slab | INS | Singapore 2026
 Sticker Slab | INS (Foil) | Singapore 2026
 Sticker Slab | jks | Singapore 2026
 Sticker Slab | jks (Foil) | Singapore 2026
+Sticker Slab | jks (Holo) | Singapore 2026
 Sticker Slab | nettik | Singapore 2026
 Sticker Slab | nettik (Foil) | Singapore 2026
 Sticker Slab | vexite | Singapore 2026
@@ -2121,8 +2105,8 @@ Sticker Slab | sk0R | Singapore 2026
 Sticker Slab | sk0R (Foil) | Singapore 2026
 Sticker Slab | tikuak | Singapore 2026
 Sticker Slab | tikuak (Foil) | Singapore 2026
-Sticker Slab | C4LLM3SU3 | Singapore 2026
 Sticker Slab | C4LLM3SU3 (Foil) | Singapore 2026
+Sticker Slab | EmiliaQAQ | Singapore 2026
 Sticker Slab | EmiliaQAQ (Foil) | Singapore 2026
 Sticker Slab | Starry | Singapore 2026
 Sticker Slab | Starry (Foil) | Singapore 2026
@@ -3195,6 +3179,7 @@ Sticker Slab | compLexity Gaming | Katowice 2014
 Sticker Slab | dAT team (Holo) | Cologne 2014
 Sticker Slab | dAT team | Cologne 2014
 Sticker Slab | daps (Foil) | Cologne 2016
+Sticker Slab | denis (Foil) | Cologne 2015
 Sticker Slab | denis (Foil) | Krakow 2017
 Sticker Slab | denis | Boston 2018
 Sticker Slab | denis | Cologne 2015
@@ -3660,6 +3645,7 @@ Sticker Slab | compLexity Gaming (Foil) | London 2018
 Sticker Slab | XANTARES | London 2018
 Sticker Slab | compLexity Gaming (Holo) | London 2018
 Sticker Slab | device | London 2018
+Sticker Slab | flamie | London 2018
 Sticker Slab | North (Holo) | London 2018
 Sticker Slab | Skadoodle | London 2018
 Sticker Slab | HellRaisers (Holo) | London 2018
@@ -4271,6 +4257,7 @@ Sticker Slab | electronic (Gold) | Katowice 2019
 Sticker Slab | RUSH (Gold) | Katowice 2019
 Sticker Slab | chopper (Gold) | Katowice 2019
 Sticker Slab | advent (Gold) | Katowice 2019
+Sticker Slab | Aerial (Gold) | Katowice 2019
 Sticker Slab | Lucky (Gold) | Katowice 2019
 Sticker Slab | Golden (Gold) | Katowice 2019
 Sticker Slab | dupreeh (Gold) | Katowice 2019
@@ -6995,6 +6982,7 @@ Sticker Slab | bLitz (Glitter) | Copenhagen 2024
 Sticker Slab | ENCE | Copenhagen 2024
 Sticker Slab | FlameZ (Glitter) | Copenhagen 2024
 Sticker Slab | Jame | Copenhagen 2024
+Sticker Slab | Krad | Copenhagen 2024
 Sticker Slab | FaZe Clan (Glitter) | Copenhagen 2024
 Sticker Slab | dav1g | Copenhagen 2024
 Sticker Slab | The MongolZ (Glitter) | Copenhagen 2024
@@ -10979,6 +10967,7 @@ Sticker Slab | Team Spirit | Singapore 2026
 Sticker Slab | Team Spirit (Holo) | Singapore 2026
 Sticker Slab | BB Team | Singapore 2026
 Sticker Slab | Falcons | Singapore 2026
+Sticker Slab | Falcons (Foil) | Singapore 2026
 Sticker Slab | Legacy | Singapore 2026
 Sticker Slab | PGL (Foil) | Singapore 2026
 Sticker Slab | FUT | Singapore 2026
@@ -10997,6 +10986,7 @@ Sticker Slab | HEROIC | Singapore 2026
 Sticker Slab | FaZe Clan | Singapore 2026
 Sticker Slab | FaZe Clan (Foil) | Singapore 2026
 Sticker Slab | Team Liquid | Singapore 2026
+Sticker Slab | Team Liquid (Holo) | Singapore 2026
 Sticker Slab | Eternal Fire | Singapore 2026
 Sticker Slab | 100 Thieves | Singapore 2026
 Sticker Slab | 9z Team | Singapore 2026
@@ -11008,10 +10998,15 @@ Sticker Slab | GOSH | Singapore 2026
 Sticker Slab | FlyQuest | Singapore 2026
 Sticker Slab | Chinggis Warriors | Singapore 2026
 Sticker Slab | Lynn Vision | Singapore 2026
+Sticker Slab | ropz | Singapore 2026
 Sticker Slab | ropz (Foil) | Singapore 2026
 Sticker Slab | ZywOo | Singapore 2026
 Sticker Slab | ZywOo (Foil) | Singapore 2026
 Sticker Slab | ZywOo (Gold) | Singapore 2026
+Sticker Slab | FalleN | Singapore 2026
+Sticker Slab | FalleN (Gold) | Singapore 2026
+Sticker Slab | molodoy | Singapore 2026
+Sticker Slab | molodoy (Holo) | Singapore 2026
 Sticker Slab | donk | Singapore 2026
 Sticker Slab | donk (Foil) | Singapore 2026
 Sticker Slab | donk (Holo) | Singapore 2026
@@ -11028,10 +11023,15 @@ Sticker Slab | NiKo (Foil) | Singapore 2026
 Sticker Slab | NiKo (Holo) | Singapore 2026
 Sticker Slab | NiKo (Gold) | Singapore 2026
 Sticker Slab | latto | Singapore 2026
+Sticker Slab | dem0n | Singapore 2026
 Sticker Slab | Ax1Le (Holo) | Singapore 2026
+Sticker Slab | frozen | Singapore 2026
+Sticker Slab | Twistzz | Singapore 2026
 Sticker Slab | Twistzz (Holo) | Singapore 2026
+Sticker Slab | device | Singapore 2026
 Sticker Slab | device (Holo) | Singapore 2026
 Sticker Slab | s1mple | Singapore 2026
 Sticker Slab | s1mple (Foil) | Singapore 2026
 Sticker Slab | s1mple (Holo) | Singapore 2026
 Sticker Slab | s1mple (Gold) | Singapore 2026
+Sticker Slab | C4LLM3SU3 | Singapore 2026
