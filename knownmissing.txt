@@ -1,6 +1,5 @@
 IDs of items known to be missing on all marketplaces (buff163, youpin898, buff.market, cs.money):
 ★ StatTrak™ Classic Knife | Urban Masked (Factory New) (0 registered on FloatDB, can be unboxed from a CS20 Case)
-Sticker | Aurora (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | Legacy (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | FUT (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | Nemiga (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
@@ -10,14 +9,8 @@ Sticker | The Mongolz (Gold) | Singapore 2026 (can be bought from the Singapore 
 Sticker | MIBR (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | Ninjas in Pyjamas (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | HEROIC (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
-Sticker | Team Liquid (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
-Sticker | 9z Team (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | M80 (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
-Sticker | DENDELE (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
-Sticker | Imperial Esports (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
-Sticker | Wildcard (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | FlyQuest (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
-Sticker | Chinggis Warriors (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | yuurih (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | Jimpphat (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | Jimpphat (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
@@ -27,7 +20,6 @@ Sticker | Wicadia (Holo) | Singapore 2026 (can be bought from the Singapore 2026
 Sticker | Wicadia (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | woxic (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | woxic (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
-Sticker | XANTARES (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | XANTARES (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | Boombl4 (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | d1Ledez (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
@@ -44,11 +36,8 @@ Sticker | latto (Holo) | Singapore 2026 (can be bought from the Singapore 2026 M
 Sticker | latto (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | n1ssim (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | n1ssim (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
-Sticker | TRY (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | TRY (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | cmtry (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
-Sticker | dziugss (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
-Sticker | dziugss (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | Krabeni (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | Krabeni (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | KaiR0N- (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
@@ -80,7 +69,6 @@ Sticker | b1t (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Maj
 Sticker | iM (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | jabbi (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | jabbi (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
-Sticker | phzy (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | ryu (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | ryu (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | siuhy (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
@@ -113,8 +101,6 @@ Sticker | xKacpersky (Holo) | Singapore 2026 (can be bought from the Singapore 2
 Sticker | xKacpersky (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | FL1T (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | FL1T (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
-Sticker | Hobbit (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
-Sticker | Hobbit (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | xiELO (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | xiELO (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | zweih (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
@@ -129,12 +115,10 @@ Sticker | susp (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Ma
 Sticker | susp (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | Neityu (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | EliGE (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
-Sticker | Jorko (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | JT (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | JT (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | malbsMd (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | malbsMd (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
-Sticker | NAF (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | NAF (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | jottAAA (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | jottAAA (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
@@ -148,19 +132,15 @@ Sticker | soulfly (Holo) | Singapore 2026 (can be bought from the Singapore 2026
 Sticker | soulfly (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | Gizmy (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | Gizmy (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
-Sticker | poiii (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | sirah (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | sirah (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
-Sticker | dgt (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | dgt (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
-Sticker | HUASOPEEK (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | HUASOPEEK (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | luchov (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | luchov (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | max (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | meyern (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | meyern (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
-Sticker | JBa (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | JBa (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | Lake (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | Lake (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
@@ -168,9 +148,7 @@ Sticker | s1n (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Maj
 Sticker | s1n (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | slaxz- (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | slaxz- (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
-Sticker | Swisher (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | Swisher (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
-Sticker | doc (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | doc (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | gafolo (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | gafolo (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
@@ -178,7 +156,6 @@ Sticker | koala (Holo) | Singapore 2026 (can be bought from the Singapore 2026 M
 Sticker | koala (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | maxxkor (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | maxxkor (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
-Sticker | rdnzao (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | rdnzao (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | chelo (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | chelo (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
@@ -202,7 +179,6 @@ Sticker | reck (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Ma
 Sticker | reck (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | asap (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | mzinho (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
-Sticker | Senzu (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | aliStair (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | aliStair (Gold) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
 Sticker | INS (Holo) | Singapore 2026 (can be bought from the Singapore 2026 Major Shop)
@@ -259,6 +235,11 @@ Sticker | Spinx (Holo) | Singapore 2026
 Sticker | Magisk (Gold) | Singapore 2026
 Sticker | BB Team (Gold) | Singapore 2026
 Sticker | iM (Holo) | Singapore 2026
+Sticker | Senzu (Gold) | Singapore 2026
+Sticker | XANTARES (Holo) | Singapore 2026
+Sticker | phzy (Gold) | Singapore 2026
+Sticker | Jorko (Gold) | Singapore 2026
+Sticker | Aurora (Gold) | Singapore 2026
 
 IDs of items known to be missing on youpin898:
 Sticker | fnx (Gold) | Boston 2018
@@ -348,14 +329,8 @@ Sticker | robo | Singapore 2026
 Sticker | Jame (Gold) | Singapore 2026
 Sticker | huNter- (Foil) | Singapore 2026
 Sticker | Magnojez (Holo) | Singapore 2026
-Sticker | r1nkle | Singapore 2026
-Sticker | Neityu (Foil) | Singapore 2026
-Sticker | PGL (Gold) | Singapore 2026
 Sticker | torzsi (Holo) | Singapore 2026
 Sticker | Spinx (Foil) | Singapore 2026
-Sticker | xertioN (Foil) | Singapore 2026
-Sticker | MisteM | Singapore 2026
-Sticker | INS | Singapore 2026
 Sticker | MisteM (Foil) | Singapore 2026
 Sticker | cobra | Singapore 2026
 Sticker | jcobbb (Gold) | Singapore 2026
@@ -364,7 +339,6 @@ Sticker | torzsi (Foil) | Singapore 2026
 Sticker | S1ren | Singapore 2026
 Sticker | d1Ledez | Singapore 2026
 Sticker | zorte | Singapore 2026
-Sticker | Senzu (Foil) | Singapore 2026
 Sticker | kyxsan (Foil) | Singapore 2026
 Sticker | siuhy (Foil) | Singapore 2026
 Sticker | sjuush | Singapore 2026
@@ -405,7 +379,6 @@ Sticker | LNZ (Foil) | Singapore 2026
 Sticker | chelo (Foil) | Singapore 2026
 Sticker | Swisher (Foil) | Singapore 2026
 Sticker | Brollan | Singapore 2026
-Sticker | Legacy (Foil) | Singapore 2026
 Sticker | latto (Foil) | Singapore 2026
 Sticker | khaN (Foil) | Singapore 2026
 Sticker | Techno4K (Foil) | Singapore 2026
@@ -417,7 +390,6 @@ Sticker | s1n (Foil) | Singapore 2026
 Sticker | XANTARES (Foil) | Singapore 2026
 Sticker | asap (Foil) | Singapore 2026
 Sticker | slaxz- (Foil) | Singapore 2026
-Sticker | luchov | Singapore 2026
 Sticker | NAF (Foil) | Singapore 2026
 Sticker | Magisk (Foil) | Singapore 2026
 Sticker | HUASOPEEK (Foil) | Singapore 2026
@@ -425,7 +397,6 @@ Sticker | Jorko (Foil) | Singapore 2026
 Sticker | meyern (Foil) | Singapore 2026
 Sticker | n1ssim (Foil) | Singapore 2026
 Sticker | koala (Foil) | Singapore 2026
-Sticker | jabbi | Singapore 2026
 Sticker | fury5k (Foil) | Singapore 2026
 Sticker | Cxzi (Foil) | Singapore 2026
 Sticker | MATYS | Singapore 2026
@@ -436,7 +407,6 @@ Sticker | jottAAA (Foil) | Singapore 2026
 Sticker | vexite (Foil) | Singapore 2026
 Sticker | regali (Foil) | Singapore 2026
 Sticker | chelo | Singapore 2026
-Sticker | JT | Singapore 2026
 Sticker | vexite | Singapore 2026
 Sticker | TRY (Foil) | Singapore 2026
 Sticker | Krabeni (Foil) | Singapore 2026
@@ -467,7 +437,6 @@ Sticker | xKacpersky | Singapore 2026
 Sticker | sjuush (Foil) | Singapore 2026
 Sticker | Kvem (Foil) | Singapore 2026
 Sticker | MartinezSa (Foil) | Singapore 2026
-Sticker | VINI (Foil) | Singapore 2026
 Sticker | Krimbo (Foil) | Singapore 2026
 Sticker | fr3nd (Foil) | Singapore 2026
 Sticker | Staehr | Singapore 2026
@@ -479,8 +448,6 @@ Sticker | ryu (Foil) | Singapore 2026
 Sticker | MartinezSa | Singapore 2026
 Sticker | nettik (Foil) | Singapore 2026
 Sticker | LNZ | Singapore 2026
-Sticker | tomaszin | Singapore 2026
-Sticker | Magnojez (Foil) | Singapore 2026
 Sticker | stavn (Foil) | Singapore 2026
 Sticker | saadzin (Foil) | Singapore 2026
 Sticker | nilo (Foil) | Singapore 2026
@@ -492,14 +459,11 @@ Sticker | Jame (Holo) | Singapore 2026
 Sticker | phzy (Holo) | Singapore 2026
 Sticker | PVISION (Gold) | Singapore 2026
 Sticker | r1nkle (Foil) | Singapore 2026
-Sticker | stavn | Singapore 2026
 Sticker | xKacpersky (Foil) | Singapore 2026
 Sticker | asap (Holo) | Singapore 2026
 Sticker | Ax1Le (Gold) | Singapore 2026
 Sticker | Swisher | Singapore 2026
 Sticker | saadzin | Singapore 2026
-Sticker | meyern | Singapore 2026
-Sticker | jks (Gold) | Singapore 2026
 Sticker | bLitz (Holo) | Singapore 2026
 Sticker | cobra (Holo) | Singapore 2026
 Sticker | Boombl4 (Holo) | Singapore 2026
@@ -518,7 +482,16 @@ Sticker | Aleksib (Gold) | Singapore 2026
 Sticker | jks (Holo) | Singapore 2026
 Sticker | Techno4K (Holo) | Singapore 2026
 Sticker | mezii (Gold) | Singapore 2026
-Sticker | zweih (Holo) | Singapore 2026
+Sticker | dziugss (Holo) | Singapore 2026
+Sticker | JBa (Holo) | Singapore 2026
+Sticker | doc (Holo) | Singapore 2026
+Sticker | rdnzao (Holo) | Singapore 2026
+Sticker | Swisher (Holo) | Singapore 2026
+Sticker | dgt (Holo) | Singapore 2026
+Sticker | dziugss (Gold) | Singapore 2026
+Sticker | Hobbit (Holo) | Singapore 2026
+Sticker | TRY (Holo) | Singapore 2026
+Sticker | HUASOPEEK (Holo) | Singapore 2026
 
 IDs of items known to be missing on cs.money:
 Boston 2018 Legends (Holo-Foil)
@@ -602,7 +575,6 @@ Sticker | niko (Gold) | Paris 2023
 ★ StatTrak™ Skeleton Knife | Damascus Steel (Battle-Scarred)
 ★ StatTrak™ Survival Knife | Damascus Steel (Battle-Scarred)
 ★ StatTrak™ Survival Knife | Damascus Steel (Well-Worn)
-★ StatTrak™ Skeleton Knife | Tiger Tooth (Minimal Wear)
 ★ StatTrak™ Nomad Knife | Damascus Steel (Well-Worn)
 ★ StatTrak™ Paracord Knife | Doppler (Minimal Wear)
 ★ StatTrak™ Skeleton Knife | Doppler (Minimal Wear)
@@ -731,8 +703,6 @@ Souvenir Charm | Budapest 2025 Highlight | frozen post-plant wall
 Souvenir Charm | Budapest 2025 Highlight | frozen vs MOUZ on Nuke
 ★ Driver Gloves | Brocade Crane (Factory New)
 ★ Sport Gloves | Blaze (Factory New)
-★ Specialist Gloves | Chocolate Chesterfield (Factory New)
-★ Sport Gloves | Violet Beadwork (Factory New)
 ★ Driver Gloves | Wave Chaser (Factory New)
 Sticker | nettik (Gold) | Cologne 2026
 Sticker | Zero (Gold) | Cologne 2026
@@ -740,14 +710,9 @@ Sticker | Vitality | Cologne 2026
 Sticker | TeSeS (Gold) | Cologne 2026
 Sticker | zweih (Gold) | Cologne 2026
 Sticker | EliGE (Gold) | Cologne 2026
-Sticker | YEKINDAR (Gold) | Cologne 2026
 Sticker | GamerLegion (Gold) | Cologne 2026
 Sticker | JBa (Gold) | Cologne 2026
-Sticker | FUT (Gold) | Cologne 2026
 Sticker | woxic (Gold) | Cologne 2026
-Sticker | MATYS (Gold) | Cologne 2026
-Sticker | jabbi (Gold) | Cologne 2026
-Sticker | malbsMd (Gold) | Cologne 2026
 Sticker | luchov (Gold) | Cologne 2026
 Sticker | s1zzi (Gold) | Cologne 2026
 Sticker | Rainwaker (Foil) | Cologne 2026
@@ -755,20 +720,15 @@ Sticker | 9z Team (Gold) | Cologne 2026
 Sticker | Bymas (Gold) | Cologne 2026
 Sticker | nota (Gold) | Cologne 2026
 Sticker | SINNERS (Gold) | Cologne 2026
-Sticker | insani (Gold) | Cologne 2026
 Sticker | max (Gold) | Cologne 2026
-Sticker | gafolo (Gold) | Cologne 2026
-Sticker | phzy (Gold) | Cologne 2026
 Sticker | blameF (Gold) | Cologne 2026
 Sticker | BetBoom (Gold) | Cologne 2026
 Sticker | Gaimin Gladiators (Gold) | Cologne 2026
 Sticker | Gizmy (Gold) | Cologne 2026
 Sticker | Sharks Esports (Gold) | Cologne 2026
-Sticker | rdnzao (Gold) | Cologne 2026
 Sticker | THUNDERdOWNUNDER (Gold) | Cologne 2026
 Sticker | Chr1zN (Foil) | Cologne 2026
 Sticker | s1n (Gold) | Cologne 2026
-Sticker | afro (Gold) | Cologne 2026
 Sticker | SHOCK (Gold) | Cologne 2026
 Souvenir Charm | Cologne 2026 Highlight | donk 4K with One Taps
 Souvenir Charm | Cologne 2026 Highlight | sh1ro Quad Kill
@@ -1034,7 +994,6 @@ Sticker | Heavygod (Holo, Ranked) | Cologne 2026
 Sticker | Bymas (Gold, Ranked) | Cologne 2026
 Sticker | alex666 (Gold, Ranked) | Cologne 2026
 Sticker | gr1ks (Gold, Ranked) | Cologne 2026
-Sticker | Starry (Gold, Ranked) | Cologne 2026
 Sticker | Boombl4 (Gold, Ranked) | Cologne 2026
 Sticker | xfl0ud (Gold, Ranked) | Cologne 2026
 Sticker | biguzera (Holo, Ranked) | Cologne 2026
@@ -1070,7 +1029,6 @@ Sticker | Swisher (Holo, Ranked) | Cologne 2026
 Sticker | nilo (Holo, Ranked) | Cologne 2026
 Sticker | xertioN (Gold, Ranked) | Cologne 2026
 Sticker | soulfly (Gold, Ranked) | Cologne 2026
-Sticker | siuhy (Gold, Ranked) | Cologne 2026
 Sticker | Brollan (Gold, Ranked) | Cologne 2026
 Sticker | Lake (Gold, Ranked) | Cologne 2026
 Sticker | MIBR (Holo, Ranked) | Cologne 2026
@@ -1182,7 +1140,6 @@ Sticker | M80 (Gold, Ranked) | Cologne 2026
 Sticker | The Mongolz (Gold, Ranked) | Cologne 2026
 Sticker | cobra (Holo, Ranked) | Cologne 2026
 Sticker | MOUZ (Gold, Ranked) | Cologne 2026
-Sticker | Gizmy (Gold, Ranked) | Cologne 2026
 Sticker | luchov (Gold, Ranked) | Cologne 2026
 Sticker | FlyQuest (Gold, Ranked) | Cologne 2026
 Sticker | Aurora (Gold, Ranked) | Cologne 2026
@@ -1761,7 +1718,24 @@ Sticker | MIBR (Holo) | Singapore 2026
 Sticker | Legacy (Holo) | Singapore 2026
 Sticker | Imperial Esports (Holo) | Singapore 2026
 Sticker | zweih (Holo) | Singapore 2026
+Sticker | dziugss (Holo) | Singapore 2026
+Sticker | JBa (Holo) | Singapore 2026
+Sticker | doc (Holo) | Singapore 2026
+Sticker | rdnzao (Holo) | Singapore 2026
+Sticker | Swisher (Holo) | Singapore 2026
+Sticker | dgt (Holo) | Singapore 2026
+Sticker | NAF (Holo) | Singapore 2026
+Sticker | dziugss (Gold) | Singapore 2026
+Sticker | DENDELE (Gold) | Singapore 2026
+Sticker | Hobbit (Holo) | Singapore 2026
+Sticker | TRY (Holo) | Singapore 2026
+Sticker | HUASOPEEK (Holo) | Singapore 2026
 Sticker | Spinx (Holo) | Singapore 2026
 Sticker | Magisk (Gold) | Singapore 2026
 Sticker | BB Team (Gold) | Singapore 2026
 Sticker | iM (Holo) | Singapore 2026
+Sticker | Senzu (Gold) | Singapore 2026
+Sticker | XANTARES (Holo) | Singapore 2026
+Sticker | phzy (Gold) | Singapore 2026
+Sticker | Jorko (Gold) | Singapore 2026
+Sticker | Aurora (Gold) | Singapore 2026
